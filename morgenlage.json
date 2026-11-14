@@ -1,0 +1,59 @@
+{
+  "date": "Samstag, 14. November 2026",
+  "stand": "09:30",
+  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
+  "tiles": [
+    {"label": "Bitcoin", "value": "68.970 $", "change": "▼ 3,7 % · 24 h", "dir": "down"},
+    {"label": "Ether", "value": "1.933 $", "change": "▼ 4,0 % · 24 h", "dir": "down"},
+    {"label": "US-Leitzins (Fed)", "value": "3,75–4,00 %", "change": "Erhöhung erwartet", "dir": "warn"},
+    {"label": "US-Erzeugerpreise", "value": "6,5 %", "change": "Höchststand seit 11/2022", "dir": "down"}
+  ],
+  "brief": [
+    "Krypto unter Druck: Bitcoin fällt unter 70.000 $, Ether unter 2.000 $. Hohe US-Inflation, Angst vor einer Fed-Zinserhöhung im Dezember.",
+    "Nvidia-Chef Huang tritt zurück nach einer mutmaßlichen Spionageaffäre. Die Nasdaq verliert 1,4 %.",
+    "Berlin vor Großeinsatz: Ukraine-Treffen, Wirtschaftsforum und Großdemo in der kommenden Woche, rund 3.000 Polizisten eingeplant."
+  ],
+  "sections": [
+    {
+      "id": "deutschland",
+      "title": "Deutschland",
+      "items": [
+        {"tag": "Politik", "title": "Union und SPD ringen um den Bundeshaushalt 2027", "text": "Die Koalition verhandelt weiter über den Etat für das kommende Jahr. Eine Einigung steht noch aus.", "source": "Tagesschau, 13.11.", "url": "https://www.etwasverpasst.de/tagesschau/13-november-2026-2312782"},
+        {"tag": "Wirtschaft", "title": "Mercedes-Benz stoppt neue Investitionen in deutsche Werke", "text": "Der Konzern legt neue Investitionen an den deutschen Standorten auf Eis und prüft laut Bericht auch Werksschließungen.", "source": "Euronews, 13.11.", "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening"},
+        {"tag": "Technik", "title": "Weltweite Microsoft-Störung trifft Outlook und Teams", "text": "Am Freitag waren Outlook, Teams und weitere Microsoft-Dienste weltweit gestört.", "source": "Euronews, 13.11.", "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening"}
+      ]
+    },
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {"tag": "Verkehr · Sicherheit", "title": "Großeinsatz in der kommenden Woche: Ukraine-Treffen und Großdemo", "text": "Ukraine-Treffen auf Einladung des Kanzlers, deutsch-ukrainisches Wirtschaftsforum ab Freitag und eine Demo von „Gen Z regelt“ mit 15.000 angemeldeten Teilnehmern. Die GdP rechnet mit rund 3.000 Einsatzkräften.", "source": "Tagesspiegel, 13.11.", "url": "https://www.tagesspiegel.de/berlin/dpa-ukraine-gipfel-und-grossdemo-von-gen-z-regelt-in-berlin-16281734.html"},
+        {"tag": "Polizei", "title": "Auto von „Nius“-Chefredakteur Reichelt in Charlottenburg angezündet", "text": "Das Fahrzeug brannte in der Nacht zu Freitag in der Knesebeckstraße aus, verletzt wurde niemand. Der Staatsschutz ermittelt.", "source": "Tagesspiegel, 13.11.", "url": "https://www.tagesspiegel.de/berlin/julian-reichelt-spricht-von-einschuchterungsversuch-auto-von-nius-chefredakteur-angezundet-16280246.html"},
+        {"tag": "Polizei", "title": "Transporter-Fahrer stirbt nach Unfall in Tempelhof-Schöneberg", "text": "Außerdem meldet die Polizei Schüsse auf einen Imbiss in Marzahn-Hellersdorf und die Festnahme einer Einbrechergruppe.", "source": "Polizei Berlin, 13.11.", "url": "https://www.berlin.de/polizei/polizeimeldungen/"},
+        {"tag": "Senat", "title": "Emir von Katar zu Gast im Roten Rathaus", "text": "Kai Wegner empfing Scheich Tamim bin Hamad Al Thani am Brandenburger Tor.", "source": "berlin.de, 13.11.", "url": "https://www.berlin.de/aktuelles/"}
+      ]
+    },
+    {
+      "id": "welt",
+      "title": "Welt",
+      "items": [
+        {"tag": "USA · Tech", "title": "Jensen Huang verlässt Nvidia nach 33 Jahren", "text": "Auslöser ist eine mutmaßliche Spionageaffäre mit China-Bezug. Huang und US-Handelsminister Lutnick sollen vor dem Kongress aussagen.", "source": "Euronews, 13.11.", "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening"},
+        {"tag": "Ukraine", "title": "Europa sitzt bei den nächsten Ukraine-Gesprächen mit am Tisch", "text": "Kiew und Moskau stimmen zu, europäische Staaten einzubeziehen. Die EU schickt ein Team aus fünf Ländern.", "source": "Washington Post, 13.11.", "url": "https://www.washingtonpost.com/world/"},
+        {"tag": "Ukraine", "title": "Russische Angriffe: Tote in Saporischschja und Odessa", "text": "Ein Toter in Saporischschja, zwei in Odessa. In Kiew löste ein Drohnenangriff einen Großbrand in einem Wohnhaus aus.", "source": "Reuters via US News, 13.11.", "url": "https://www.usnews.com/news/world"},
+        {"tag": "Nahost", "title": "Gaza: Starkregen überflutet Tausende Zelte", "text": "Mehrere Tote werden gemeldet, die Friedensgespräche stocken.", "source": "World in Summary, 13.11.", "url": "https://www.worldinsummary.com/editions/2026-11-13/"},
+        {"tag": "Iran", "title": "USA bestreiten Zerstörung eines Radars in Bahrain", "text": "Washington weist Berichte zurück, die Revolutionsgarden hätten ein US-Radar in Bahrain zerstört.", "source": "Euronews, 13.11.", "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening"}
+      ]
+    },
+    {
+      "id": "krypto",
+      "title": "Krypto & Finanzen",
+      "items": [
+        {"tag": "Inflation", "title": "US-Erzeugerpreise auf Vierjahreshoch", "text": "Im Monatsvergleich +0,3 % statt erwarteter 0,4 %. Die Jahresrate kletterte trotzdem von 6,3 auf 6,5 %.", "impact": "Bitcoin sprang kurz über 70.000 $ und fiel dann Richtung 68.000 $. Die hohe Jahresrate hält die Zinsangst wach.", "source": "KuCoin News, 13.11.", "url": "https://www.kucoin.com/news/flash/us-ppi-inflation-hits-6-5-annual-high-bitcoin-falls-toward-68k"},
+        {"tag": "Fed", "title": "Verbraucherpreise heißer als erwartet, Zinserhöhung eingepreist", "text": "CPI Oktober +0,4 % (erwartet 0,3 %), Kernrate +0,3 % (erwartet 0,2 %). Eine Erhöhung um 25 Basispunkte gilt als Basisszenario.", "impact": "Steigende Renditen ziehen Geld aus Risikoanlagen. Die Unterstützung bei 73.000 $ ist gefallen.", "source": "KuCoin News, 11.11.", "url": "https://www.kucoin.com/news/flash/bitcoin-price-falls-below-74k-amid-higher-than-expected-us-cpi-data"},
+        {"tag": "Aktien · Dollar", "title": "Nasdaq −1,4 %, Dollar-Index auf 19-Monats-Hoch", "text": "Nvidia-Krise und Inflationsdaten drückten die Tech-Werte. Der starke Dollar löste große Liquidationen an den Krypto-Terminmärkten aus.", "impact": "Krypto läuft derzeit mit den Tech-Aktien. Schwäche an der Nasdaq schlägt direkt durch.", "source": "Coinpaper, 13.11.", "url": "https://coinpaper.com/38816/us-ppi-inflation-hits-6-5-highest-since-2022-as-nasdaq-sinks-and-bitcoin-faces-fed-rate-hike-risk"},
+        {"tag": "ETF-Flüsse", "title": "Anhaltende Abflüsse aus Bitcoin- und Ether-ETFs", "text": "US-Spot-Bitcoin-ETFs verloren in der ersten Novemberwoche rund 1,28 Mrd. $, bei Ether-ETFs summieren sich die Abflüsse auf 696 Mio. $.", "impact": "Solange institutionelles Geld abfließt, fehlt die Nachfrage für eine Erholung.", "source": "Cryptoticker, 13.11.", "url": "https://cryptoticker.io/en/ethereum-price-1958-dollars-staking-exit-queue-november-13-2026/"},
+        {"tag": "Termin", "title": "Mi 18.11.: Protokoll der Fed-Sitzung vom Oktober", "text": "Hinweise auf den Zinsschritt im Dezember.", "source": "", "url": ""}
+      ]
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
   "date": "Samstag, 14. November 2026",
-  "stand": "14:42",
+  "stand": "22:49",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "66.655 $",
-      "change": "▼ 4,4 % · 24 h",
+      "value": "64.579 $",
+      "change": "▼ 5,5 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.889 $",
-      "change": "▼ 4,3 % · 24 h",
+      "value": "1.775 $",
+      "change": "▼ 7,9 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto rutscht weiter: Bitcoin bei rund 66.700 $ auf dem tiefsten Stand seit August, Ether unter 1.900 $. Der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
-    "Ukraine: Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht. Am Donnerstag will Trump Putin und Xi in Shenzhen treffen.",
-    "Berlin: Großeinsatz in der kommenden Woche mit Ukraine-Treffen und Großdemo, am Montag Länderspiel im Olympiastadion. Am Wochenende nachts Glättegefahr."
+    "Krypto rutscht weiter: Bitcoin fällt unter 65.000 $ mit einem Tagestief bei rund 63.900 $, Ether steht bei rund 1.775 $. Der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
+    "Ukraine: Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht, einen neutralen Status lehnt er ab. Am Donnerstag will Trump Putin und Xi in Shenzhen treffen.",
+    "Berlin: Bei der Gen-Z-Demo am Kurfürstendamm zogen am Abend Hunderte durch die City West, dpa meldet 22 Festnahmen. Kommende Woche folgt ein Großeinsatz mit Ukraine-Treffen und Großdemo, nachts Glättegefahr."
   ],
   "sections": [
     {
@@ -39,18 +39,18 @@
       "title": "Deutschland",
       "items": [
         {
-          "tag": "Politik",
-          "title": "Bundeshaushalt 2027 steht, Streit um Stromsteuer bleibt",
-          "text": "Der Haushaltsausschuss hat den Etat nach einer Nachtsitzung fertiggestellt: 560,9 Mrd. € Ausgaben und über 210 Mrd. € neue Schulden. Plastiksteuer entfällt, die Zuckersteuer kommt erst 2028. Der Bundestag soll in der letzten Novemberwoche abstimmen.",
-          "source": "WirtschaftsWoche, 13.11.",
-          "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-steht-neuverschuldung-steigt-auf-210-milliarden-euro/100269598.html"
+          "tag": "Gesundheit",
+          "title": "Termin gegen Geld? Breite Kritik an Kassenärzte-Chef Gassen",
+          "text": "Andreas Gassen erwartet wegen Honorarkürzungen von drei Milliarden Euro mehr Selbstzahler-Termine beim Facharzt. Vizekanzler Klingbeil lehnt Zusatzkosten für Kassenpatienten ab und verweist auf die vereinbarte Termingarantie. Der GKV-Spitzenverband nennt den Vorstoß skandalös, der Sozialverband Deutschland unsolidarisch.",
+          "source": "ZDFheute, 14.11.",
+          "url": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html"
         },
         {
-          "tag": "Gesundheit",
-          "title": "Kassenärzte-Chef rechnet mit mehr Selbstzahler-Terminen",
-          "text": "Andreas Gassen erwartet wegen des Sparpakets für die gesetzlichen Kassen weniger Facharzttermine. Die Honorarkürzungen beziffert er auf drei Milliarden Euro, einzelne Fachgruppen verlören bis zu 25 % Umsatz.",
-          "source": "Tagesschau, 14.11.",
-          "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html"
+          "tag": "Politik",
+          "title": "Bundeshaushalt 2027 steht, Streit um Stromsteuer bleibt",
+          "text": "Der Haushaltsausschuss hat den Etat nach einer Nachtsitzung fertiggestellt: 560,9 Mrd. € Ausgaben und über 210 Mrd. € neue Schulden. Plastiksteuer entfällt, die Zuckersteuer kommt erst 2028. Dass die Stromsteuer nicht sinkt, stößt auch in der Union auf Kritik. Der Bundestag soll in der letzten Novemberwoche abstimmen.",
+          "source": "WirtschaftsWoche, 13.11.",
+          "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-steht-neuverschuldung-steigt-auf-210-milliarden-euro/100269598.html"
         },
         {
           "tag": "Technik",
@@ -73,6 +73,13 @@
       "title": "Berlin",
       "items": [
         {
+          "tag": "Demo · Polizei",
+          "title": "Gen-Z-Demo am Kurfürstendamm: Hunderte Teilnehmer, 22 Festnahmen",
+          "text": "Am Abend zogen laut Polizei Hunderte Menschen vom Savignyplatz über die Kantstraße und den Kurfürstendamm Richtung Halensee, angemeldet waren 100. Die dpa meldet 22 Festnahmen. Tagsüber gab es in der City West weitere Aufzüge, unter anderem zum Iran und zu Nahost.",
+          "source": "Zeit Online/dpa, 14.11.",
+          "url": "https://www.zeit.de/news/2026-11/14/gen-z-regelt-ruft-erneut-zu-demonstration-in-berlin-auf"
+        },
+        {
           "tag": "Verkehr · Sicherheit",
           "title": "Großeinsatz in der kommenden Woche: Ukraine-Treffen und Großdemo",
           "text": "Ein Ukraine-Treffen auf Einladung des Kanzlers, ein deutsch-ukrainisches Wirtschaftsforum ab Freitag und eine Demo von „Gen Z regelt“ mit 15.000 angemeldeten Teilnehmern am Freitagnachmittag. Die Gewerkschaft der Polizei rechnet mit rund 3.000 Einsatzkräften.",
@@ -81,10 +88,10 @@
         },
         {
           "tag": "Landespolitik",
-          "title": "Koalitionsverhandlungen: Kulturszene fordert mehr Geld von Rot-Grün-Rot",
-          "text": "Linke, Grüne und SPD verhandeln über eine Landesregierung. Kulturverbände verlangen Planungssicherheit und die Rückkehr des kostenlosen Museumssonntags. Dem steht ein strukturelles Haushaltsdefizit von zwei Milliarden Euro gegenüber.",
-          "source": "rbb24, 14.11.",
-          "url": "https://www.rbb24.de/kultur/beitrag/2026/11/kultur-finanzen-berlin-koalitionsverhandlungen-kuerzungen.html"
+          "title": "Koalitionsverhandlungen: Linke bittet im Fall Emde um Geduld",
+          "text": "Linke-Chef Luigi Pantisano verweist beim geplanten Fraktionsausschluss der Abgeordneten Vanessa Emde auf feste Verfahren und Fristen; nötig ist eine Zweidrittelmehrheit, abgestimmt wird frühestens am 24. November. Altkanzlerin Merkel sprach sich gegen ein Bündnis mit der Berliner Linken aus. Linke, Grüne und SPD wollen ihre Verhandlungen im Januar abschließen.",
+          "source": "Tagesspiegel, 14.11.",
+          "url": "https://www.tagesspiegel.de/berlin/liveblog/jetzt-gehen-wir-in-die-tiefe-linke-grune-und-spd-beginnen-mit-den-koalitionsverhandlungen-in-berlin-16053722.html"
         },
         {
           "tag": "Wetter · Verkehr",
@@ -92,13 +99,6 @@
           "text": "Das Wochenende bleibt wolkig und trocken, nachts sinken die Temperaturen aber auf bis zu minus zwei Grad. Stellenweise kann es glatt werden, ab Montag wird es milder.",
           "source": "Tagesspiegel, 14.11.",
           "url": "https://www.tagesspiegel.de/berlin/dpa-am-wochenende-wird-es-glatt-in-berlin-und-brandenburg-16284098.html"
-        },
-        {
-          "tag": "Großveranstaltung",
-          "title": "Montagabend: Deutschland gegen Niederlande im Olympiastadion",
-          "text": "Das Nations-League-Spiel wird am Montag, 16. November, um 20:45 Uhr angepfiffen. Es ist das 50. Duell der beiden Mannschaften.",
-          "source": "rbb24, 13.11.",
-          "url": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-nations-league-deutschland-niederlande-berlin-olympiastadion-faq.html"
         }
       ]
     },
@@ -109,7 +109,7 @@
         {
           "tag": "Ukraine",
           "title": "USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
-          "text": "Im Gegenzug für einen Rückzug aus dem Donbass stellen die USA nach Selenskyjs Angaben die NATO-Mitgliedschaft in Aussicht. Er würde das bei einem umfassenden Sicherheitspaket per Referendum entscheiden lassen. An der nächsten Runde sollen auch Europäer teilnehmen.",
+          "text": "Im Gegenzug für einen Rückzug aus dem Donbass stellen die USA nach Selenskyjs Angaben die NATO-Mitgliedschaft in Aussicht. Er würde das bei einem umfassenden Sicherheitspaket per Referendum entscheiden lassen, einen neutralen Status der Ukraine lehnt er ab. Für neue Einschränkungen beim Satellitensystem Starshield hat Kiew nach seinen Worten noch keine klare Erklärung erhalten.",
           "source": "Tagesschau, 14.11.",
           "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
         },
@@ -121,25 +121,25 @@
           "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"
         },
         {
-          "tag": "USA",
-          "title": "Vier Stunden Startverbot: Tausende Flüge in den USA gestrichen",
-          "text": "Eine Störung der Flugsicherung legte landesweit alle Starts lahm, knapp 7.500 Flüge fielen aus. Die Regierung macht veraltete Technik verantwortlich. Am BER gab es Verspätungen, aber keine größeren Folgen.",
-          "source": "Tagesschau, 14.11.",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html"
-        },
-        {
           "tag": "Iran",
-          "title": "Iran lehnt Gespräche über Atominspektionen vorerst ab",
-          "text": "Teheran will unter Androhung von Angriffen nicht mit der IAEA weiterverhandeln. In der Straße von Hormus lief nach iranischen Angaben ein LNG-Tanker auf eine Mine. Die USA bestreiten, dass ihr Radar in Bahrain zerstört wurde.",
-          "source": "BR24, 14.11.",
-          "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-9-november-bis-15-november,VaSuymj"
+          "title": "Rubio hält weitere Angriffe auf Iran für unnötig",
+          "text": "Washington setzt nach den Worten von US-Außenminister Rubio auf wirtschaftlichen Druck. Zugleich wurde eine neue Drohnenattacke auf Bahrain gemeldet, Teheran droht für den Fall neuer Angriffe mit Vergeltung. Gespräche mit der IAEA über Atominspektionen lehnt Iran vorerst ab.",
+          "source": "Berliner Zeitung, 14.11.",
+          "url": "https://www.berliner-zeitung.de/article/iran-krieg-rubio-us-angriffe-wirtschaftsdruck-bahrain-hormus-10597302"
         },
         {
-          "tag": "USA · Tech",
-          "title": "Nvidia nach Huang-Rücktritt: Aktie verliert rund 12 % in einer Woche",
-          "text": "Nach dem Rücktritt von Jensen Huang führt Finanzchefin Colette Kress den Konzern übergangsweise. Der Börsenwert fiel unter vier Billionen Dollar.",
-          "source": "MLQ.ai, 13.11.",
-          "url": "https://mlq.ai/news/wall-street-closes-mixed-as-nvidia-and-amd-sink-nasdaq-still-posts-its-best-week-since-august/"
+          "tag": "USA · Gesundheit",
+          "title": "Berichte: USA verlieren Status als masernfreies Land",
+          "text": "Eine Expertenkommission der Panamerikanischen Gesundheitsorganisation sieht die Voraussetzungen laut US-Medien nicht mehr erfüllt, die offizielle Bekanntgabe wird für Dienstag erwartet. Die Behörde CDC zählte bis zum 12. November 5.412 Fälle, mehr als doppelt so viele wie im gesamten Vorjahr.",
+          "source": "Handelsblatt/dpa, 14.11.",
+          "url": "https://www.handelsblatt.com/technik/forschung-innovation/gesundheitspolitik-medien-usa-verlieren-status-als-masernfreies-land/100269935.html"
+        },
+        {
+          "tag": "Ungarn",
+          "title": "Ermittler finden 17,7 Millionen Euro Bargeld bei Ex-Minister",
+          "text": "Die Antikorruptionsbehörde entdeckte das Geld in Erdlöchern, Lagerhallen und Tresoren. Es geht um Miklós Seszták, früher Entwicklungsminister unter Viktor Orbán und seit September in Haft. Die Fidesz-Fraktionsführung forderte ihn auf, sein Mandat niederzulegen; Orbán spricht von politisch motivierter Justiz.",
+          "source": "Tagesspiegel/dpa, 14.11.",
+          "url": "https://www.tagesspiegel.de/internationales/dpa-behorde-in-ungarn-findet-17-millionen-euro-in-erdlochern-lagerhallen-und-tresoren-16285778.html"
         }
       ]
     },
@@ -149,19 +149,19 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin auf tiefstem Stand seit August, Ether unter 1.900 $",
-          "text": "Bitcoin verlor am Freitag die Marke von 70.000 $ und fiel am Samstag unter 67.000 $. Binnen 24 Stunden wurden Terminpositionen über 1,26 Mrd. $ zwangsaufgelöst, zu 86 % Wetten auf steigende Kurse. Der Fear-and-Greed-Index steht bei 13.",
-          "impact": "Die Zwangsverkäufe verstärken die Abwärtsbewegung. Bei weiter hohem Hebel bleiben schnelle Ausschläge in beide Richtungen möglich.",
-          "source": "The Crypto Times, 14.11.",
-          "url": "https://www.cryptotimes.io/2026/11/14/bitcoin-price-today-btc-slides-to-67k-as-1-26b-crypto-liquidations-hit-longs-fed-hike-bets-rise/"
+          "title": "Bitcoin fällt unter 65.000 $, Ether bei rund 1.775 $",
+          "text": "Bitcoin verlor am Freitag die Marke von 70.000 $, rutschte am Samstag unter 66.000 $ und markierte am Abend auf Coinbase ein 24-Stunden-Tief bei 63.891 $. Ether fiel bis auf 1.750 $. Am 13. November wurden laut CoinGlass binnen 24 Stunden Terminpositionen über rund 1,47 Mrd. $ zwangsaufgelöst, überwiegend Wetten auf steigende Kurse.",
+          "impact": "Die Zwangsverkäufe verstärken die Abwärtsbewegung. Am Wochenende ist der Handel dünner, schnelle Ausschläge in beide Richtungen bleiben möglich.",
+          "source": "Coinpaper, 14.11.",
+          "url": "https://coinpaper.com/38863/why-is-bitcoin-crashing-btc-breaks-below-64-k-as-ethereum-falls-toward-1-800"
         },
         {
           "tag": "Fed · Inflation",
           "title": "Markt preist Zinserhöhung im Dezember voll ein",
-          "text": "Nach Erzeugerpreisen von 6,5 % zum Vorjahr zeigt das CME-FedWatch-Tool 89,7 % für einen Schritt um 0,25 und 10,3 % für 0,5 Punkte. Fed-Gouverneur Waller hatte sich für eine Erhöhung ausgesprochen. Die zehnjährige US-Rendite stieg am Freitag bis auf 5,17 %.",
-          "impact": "Höhere Renditen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Bis zur Fed-Sitzung am 8./9. Dezember bleibt das der bestimmende Faktor.",
-          "source": "The Crypto Times, 14.11.",
-          "url": "https://www.cryptotimes.io/2026/11/14/bitcoin-price-today-btc-slides-to-67k-as-1-26b-crypto-liquidations-hit-longs-fed-hike-bets-rise/"
+          "text": "Das CME-FedWatch-Tool zeigte am Samstag 88,5 % für einen Schritt um 0,25 und 11,5 % für 0,5 Punkte; am 6. November lag die Wahrscheinlichkeit für den kleinen Schritt noch bei 76,3 %. Auf zwölf Monate sind rund 64 Basispunkte an Erhöhungen eingepreist, Anfang November waren es 37. Fed-Gouverneur Waller hatte sich für eine Erhöhung ausgesprochen.",
+          "impact": "Höhere Zinsen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Bis zur Fed-Sitzung am 8./9. Dezember bleibt das der bestimmende Faktor.",
+          "source": "Bitcoin.com News, 14.11.",
+          "url": "https://news.bitcoin.com/market-updates/fed-rate-hike-odds-reach-near-certainty-as-bitcoin-price-falls-to-65k/"
         },
         {
           "tag": "Aktien · Dollar",
@@ -172,12 +172,12 @@
           "url": "https://mlq.ai/news/wall-street-closes-mixed-as-nvidia-and-amd-sink-nasdaq-still-posts-its-best-week-since-august/"
         },
         {
-          "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs verlieren die fünfte Sitzung in Folge Geld",
-          "text": "Laut Farside flossen am 13. November 185,4 Mio. $ aus den US-Spot-Bitcoin-ETFs ab, vom 9. bis 13. November zusammen rund 1,07 Mrd. $. Ether-ETFs verbuchten nach sechs Abflusstagen erstmals wieder einen kleinen Zufluss von 2,3 Mio. $.",
-          "impact": "Die institutionelle Nachfrage fehlt weiterhin. Ob die Abflussserie nächste Woche endet, gilt als wichtigster Hinweis auf eine Stabilisierung.",
-          "source": "Blockchain Reporter, 14.11.",
-          "url": "https://blockchainreporter.net/ether-loses-2000-etf-selling-ten-year-yield/"
+          "tag": "ETF-Flüsse · Liquidität",
+          "title": "Bitcoin-ETFs: zweite Woche in Folge über 1 Mrd. $ Abfluss",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen vom 9. bis 13. November rund 1,07 Mrd. $ ab, über sieben Handelstage in Folge zusammen 1,91 Mrd. $. Ether-ETFs verloren in der Woche 398,9 Mio. $, verbuchten am Freitag aber einen kleinen Zufluss von 2,4 Mio. $. Laut Coinbase Institutional schrumpfte das Angebot der großen Stablecoins binnen 30 Tagen um 11,5 Mrd. $.",
+          "impact": "Die institutionelle Nachfrage fehlt weiterhin, und sinkende Stablecoin-Bestände bedeuten weniger Kaufkraft im Markt. Ob die Abflussserie nächste Woche endet, gilt als wichtigster Hinweis auf eine Stabilisierung.",
+          "source": "The Block, 14.11.",
+          "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
         },
         {
           "tag": "Termin",
@@ -189,7 +189,7 @@
         {
           "tag": "Termin",
           "title": "Mi 18.11.: Protokoll der Fed-Sitzung vom Oktober",
-          "text": "Hinweise auf den Zinsschritt im Dezember.",
+          "text": "Hinweise auf den Zinsschritt im Dezember, 20:00 Uhr MEZ.",
           "source": "",
           "url": ""
         },

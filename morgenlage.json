@@ -1,18 +1,18 @@
 {
   "date": "Samstag, 14. November 2026",
-  "stand": "22:49",
+  "stand": "23:52",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.579 $",
-      "change": "▼ 5,5 % · 24 h",
+      "value": "63.624 $",
+      "change": "▼ 6,8 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.775 $",
-      "change": "▼ 7,9 % · 24 h",
+      "value": "1.750 $",
+      "change": "▼ 9,2 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,8 +29,8 @@
     }
   ],
   "brief": [
-    "Krypto rutscht weiter: Bitcoin fällt unter 65.000 $ mit einem Tagestief bei rund 63.900 $, Ether steht bei rund 1.775 $. Der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
-    "Ukraine: Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht, einen neutralen Status lehnt er ab. Am Donnerstag will Trump Putin und Xi in Shenzhen treffen.",
+    "Krypto rutscht weiter: Bitcoin fällt unter 64.000 $ und steht bei rund 63.600 $, Ether knapp unter 1.750 $. Der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
+    "Ukraine: Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht und wollen nun direkte Gespräche zwischen Moskau und den Europäern anbahnen. Am Donnerstag will Trump Putin und Xi in Shenzhen treffen.",
     "Berlin: Bei der Gen-Z-Demo am Kurfürstendamm zogen am Abend Hunderte durch die City West, dpa meldet 22 Festnahmen. Kommende Woche folgt ein Großeinsatz mit Ukraine-Treffen und Großdemo, nachts Glättegefahr."
   ],
   "sections": [
@@ -109,7 +109,7 @@
         {
           "tag": "Ukraine",
           "title": "USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
-          "text": "Im Gegenzug für einen Rückzug aus dem Donbass stellen die USA nach Selenskyjs Angaben die NATO-Mitgliedschaft in Aussicht. Er würde das bei einem umfassenden Sicherheitspaket per Referendum entscheiden lassen, einen neutralen Status der Ukraine lehnt er ab. Für neue Einschränkungen beim Satellitensystem Starshield hat Kiew nach seinen Worten noch keine klare Erklärung erhalten.",
+          "text": "Im Gegenzug für einen Rückzug aus dem Donbass stellen die USA nach Selenskyjs Angaben die NATO-Mitgliedschaft in Aussicht. Er würde das bei einem umfassenden Sicherheitspaket per Referendum entscheiden lassen, einen neutralen Status lehnt er ab. US-Gesandter Jared Kushner erklärte am Samstag, Washington wolle nun direkte Gespräche zwischen Moskau und den Europäern anbahnen und die nächste Dreierrunde vorbereiten.",
           "source": "Tagesschau, 14.11.",
           "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
         },
@@ -122,10 +122,10 @@
         },
         {
           "tag": "Iran",
-          "title": "Rubio hält weitere Angriffe auf Iran für unnötig",
-          "text": "Washington setzt nach den Worten von US-Außenminister Rubio auf wirtschaftlichen Druck. Zugleich wurde eine neue Drohnenattacke auf Bahrain gemeldet, Teheran droht für den Fall neuer Angriffe mit Vergeltung. Gespräche mit der IAEA über Atominspektionen lehnt Iran vorerst ab.",
-          "source": "Berliner Zeitung, 14.11.",
-          "url": "https://www.berliner-zeitung.de/article/iran-krieg-rubio-us-angriffe-wirtschaftsdruck-bahrain-hormus-10597302"
+          "title": "Iran meldet drei brennende Tanker in der Straße von Hormus",
+          "text": "Nach Angaben der iranischen Revolutionsgarden, verbreitet über die Staatsagentur IRNA, liefen am Samstag drei Öltanker auf Seeminen, als sie eine von Iran gesperrte Route nutzen wollten. Reuters konnte das zunächst nicht unabhängig bestätigen. US-Außenminister Rubio hält weitere Angriffe auf Iran für unnötig und setzt auf wirtschaftlichen Druck; Gespräche mit der IAEA lehnt Teheran vorerst ab.",
+          "source": "AAP/Reuters, 14.11.",
+          "url": "https://www.aapnews.com.au/news/three-oil-tankers-on-fire-after-hitting-mines-in-hormuz"
         },
         {
           "tag": "USA · Gesundheit",
@@ -149,8 +149,8 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin fällt unter 65.000 $, Ether bei rund 1.775 $",
-          "text": "Bitcoin verlor am Freitag die Marke von 70.000 $, rutschte am Samstag unter 66.000 $ und markierte am Abend auf Coinbase ein 24-Stunden-Tief bei 63.891 $. Ether fiel bis auf 1.750 $. Am 13. November wurden laut CoinGlass binnen 24 Stunden Terminpositionen über rund 1,47 Mrd. $ zwangsaufgelöst, überwiegend Wetten auf steigende Kurse.",
+          "title": "Bitcoin fällt unter 64.000 $, Ether knapp unter 1.750 $",
+          "text": "Bitcoin verlor am Freitag die Marke von 70.000 $ und rutschte am Samstag weiter ab. Kurz vor Mitternacht stand er auf Coinbase bei rund 63.600 $, das 24-Stunden-Hoch lag bei 68.284 $; Ether notierte knapp unter 1.750 $. Am 13. November wurden laut CoinGlass binnen 24 Stunden Terminpositionen über rund 1,47 Mrd. $ zwangsaufgelöst, überwiegend Wetten auf steigende Kurse.",
           "impact": "Die Zwangsverkäufe verstärken die Abwärtsbewegung. Am Wochenende ist der Handel dünner, schnelle Ausschläge in beide Richtungen bleiben möglich.",
           "source": "Coinpaper, 14.11.",
           "url": "https://coinpaper.com/38863/why-is-bitcoin-crashing-btc-breaks-below-64-k-as-ethereum-falls-toward-1-800"

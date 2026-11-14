@@ -1,58 +1,226 @@
 {
   "date": "Samstag, 14. November 2026",
-  "stand": "09:30",
+  "stand": "14:42",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
-    {"label": "Bitcoin", "value": "68.970 $", "change": "▼ 3,7 % · 24 h", "dir": "down"},
-    {"label": "Ether", "value": "1.933 $", "change": "▼ 4,0 % · 24 h", "dir": "down"},
-    {"label": "US-Leitzins (Fed)", "value": "3,75–4,00 %", "change": "Erhöhung erwartet", "dir": "warn"},
-    {"label": "US-Erzeugerpreise", "value": "6,5 %", "change": "Höchststand seit 11/2022", "dir": "down"}
+    {
+      "label": "Bitcoin",
+      "value": "66.655 $",
+      "change": "▼ 4,4 % · 24 h",
+      "dir": "down"
+    },
+    {
+      "label": "Ether",
+      "value": "1.889 $",
+      "change": "▼ 4,3 % · 24 h",
+      "dir": "down"
+    },
+    {
+      "label": "US-Leitzins (Fed)",
+      "value": "3,75–4,00 %",
+      "change": "Erhöhung erwartet",
+      "dir": "warn"
+    },
+    {
+      "label": "US-Erzeugerpreise",
+      "value": "6,5 %",
+      "change": "Höchststand seit 11/2022",
+      "dir": "down"
+    }
   ],
   "brief": [
-    "Krypto unter Druck: Bitcoin fällt unter 70.000 $, Ether unter 2.000 $. Hohe US-Inflation, Angst vor einer Fed-Zinserhöhung im Dezember.",
-    "Nvidia-Chef Huang tritt zurück nach einer mutmaßlichen Spionageaffäre. Die Nasdaq verliert 1,4 %.",
-    "Berlin vor Großeinsatz: Ukraine-Treffen, Wirtschaftsforum und Großdemo in der kommenden Woche, rund 3.000 Polizisten eingeplant."
+    "Krypto rutscht weiter: Bitcoin bei rund 66.700 $ auf dem tiefsten Stand seit August, Ether unter 1.900 $. Der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
+    "Ukraine: Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht. Am Donnerstag will Trump Putin und Xi in Shenzhen treffen.",
+    "Berlin: Großeinsatz in der kommenden Woche mit Ukraine-Treffen und Großdemo, am Montag Länderspiel im Olympiastadion. Am Wochenende nachts Glättegefahr."
   ],
   "sections": [
     {
       "id": "deutschland",
       "title": "Deutschland",
       "items": [
-        {"tag": "Politik", "title": "Union und SPD ringen um den Bundeshaushalt 2027", "text": "Die Koalition verhandelt weiter über den Etat für das kommende Jahr. Eine Einigung steht noch aus.", "source": "Tagesschau, 13.11.", "url": "https://www.etwasverpasst.de/tagesschau/13-november-2026-2312782"},
-        {"tag": "Wirtschaft", "title": "Mercedes-Benz stoppt neue Investitionen in deutsche Werke", "text": "Der Konzern legt neue Investitionen an den deutschen Standorten auf Eis und prüft laut Bericht auch Werksschließungen.", "source": "Euronews, 13.11.", "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening"},
-        {"tag": "Technik", "title": "Weltweite Microsoft-Störung trifft Outlook und Teams", "text": "Am Freitag waren Outlook, Teams und weitere Microsoft-Dienste weltweit gestört.", "source": "Euronews, 13.11.", "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening"}
+        {
+          "tag": "Politik",
+          "title": "Bundeshaushalt 2027 steht, Streit um Stromsteuer bleibt",
+          "text": "Der Haushaltsausschuss hat den Etat nach einer Nachtsitzung fertiggestellt: 560,9 Mrd. € Ausgaben und über 210 Mrd. € neue Schulden. Plastiksteuer entfällt, die Zuckersteuer kommt erst 2028. Der Bundestag soll in der letzten Novemberwoche abstimmen.",
+          "source": "WirtschaftsWoche, 13.11.",
+          "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-steht-neuverschuldung-steigt-auf-210-milliarden-euro/100269598.html"
+        },
+        {
+          "tag": "Gesundheit",
+          "title": "Kassenärzte-Chef rechnet mit mehr Selbstzahler-Terminen",
+          "text": "Andreas Gassen erwartet wegen des Sparpakets für die gesetzlichen Kassen weniger Facharzttermine. Die Honorarkürzungen beziffert er auf drei Milliarden Euro, einzelne Fachgruppen verlören bis zu 25 % Umsatz.",
+          "source": "Tagesschau, 14.11.",
+          "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html"
+        },
+        {
+          "tag": "Technik",
+          "title": "Microsoft: Alle Systeme nach Großstörung wiederhergestellt",
+          "text": "Outlook, Teams, Microsoft 365 und Copilot laufen laut Microsoft wieder. Ursache war demnach ein Upgrade der Netzwerkkapazität, kein Angriff. Wer Geschäftspost über Outlook abwickelt, sollte auf verspätete Mails achten.",
+          "source": "Tagesschau, 14.11.",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html"
+        },
+        {
+          "tag": "Wirtschaft",
+          "title": "Mercedes-Benz stoppt Investitionen und prüft Werksschließungen",
+          "text": "Der Konzern legt neue Investitionen an deutschen Standorten auf Eis. Betroffen sind laut rbb auch Berlin und Ludwigsfelde.",
+          "source": "Euronews, 13.11.",
+          "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening"
+        }
       ]
     },
     {
       "id": "berlin",
       "title": "Berlin",
       "items": [
-        {"tag": "Verkehr · Sicherheit", "title": "Großeinsatz in der kommenden Woche: Ukraine-Treffen und Großdemo", "text": "Ukraine-Treffen auf Einladung des Kanzlers, deutsch-ukrainisches Wirtschaftsforum ab Freitag und eine Demo von „Gen Z regelt“ mit 15.000 angemeldeten Teilnehmern. Die GdP rechnet mit rund 3.000 Einsatzkräften.", "source": "Tagesspiegel, 13.11.", "url": "https://www.tagesspiegel.de/berlin/dpa-ukraine-gipfel-und-grossdemo-von-gen-z-regelt-in-berlin-16281734.html"},
-        {"tag": "Polizei", "title": "Auto von „Nius“-Chefredakteur Reichelt in Charlottenburg angezündet", "text": "Das Fahrzeug brannte in der Nacht zu Freitag in der Knesebeckstraße aus, verletzt wurde niemand. Der Staatsschutz ermittelt.", "source": "Tagesspiegel, 13.11.", "url": "https://www.tagesspiegel.de/berlin/julian-reichelt-spricht-von-einschuchterungsversuch-auto-von-nius-chefredakteur-angezundet-16280246.html"},
-        {"tag": "Polizei", "title": "Transporter-Fahrer stirbt nach Unfall in Tempelhof-Schöneberg", "text": "Außerdem meldet die Polizei Schüsse auf einen Imbiss in Marzahn-Hellersdorf und die Festnahme einer Einbrechergruppe.", "source": "Polizei Berlin, 13.11.", "url": "https://www.berlin.de/polizei/polizeimeldungen/"},
-        {"tag": "Senat", "title": "Emir von Katar zu Gast im Roten Rathaus", "text": "Kai Wegner empfing Scheich Tamim bin Hamad Al Thani am Brandenburger Tor.", "source": "berlin.de, 13.11.", "url": "https://www.berlin.de/aktuelles/"}
+        {
+          "tag": "Verkehr · Sicherheit",
+          "title": "Großeinsatz in der kommenden Woche: Ukraine-Treffen und Großdemo",
+          "text": "Ein Ukraine-Treffen auf Einladung des Kanzlers, ein deutsch-ukrainisches Wirtschaftsforum ab Freitag und eine Demo von „Gen Z regelt“ mit 15.000 angemeldeten Teilnehmern am Freitagnachmittag. Die Gewerkschaft der Polizei rechnet mit rund 3.000 Einsatzkräften.",
+          "source": "Tagesspiegel, 13.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-ukraine-gipfel-und-grossdemo-von-gen-z-regelt-in-berlin-16281734.html"
+        },
+        {
+          "tag": "Landespolitik",
+          "title": "Koalitionsverhandlungen: Kulturszene fordert mehr Geld von Rot-Grün-Rot",
+          "text": "Linke, Grüne und SPD verhandeln über eine Landesregierung. Kulturverbände verlangen Planungssicherheit und die Rückkehr des kostenlosen Museumssonntags. Dem steht ein strukturelles Haushaltsdefizit von zwei Milliarden Euro gegenüber.",
+          "source": "rbb24, 14.11.",
+          "url": "https://www.rbb24.de/kultur/beitrag/2026/11/kultur-finanzen-berlin-koalitionsverhandlungen-kuerzungen.html"
+        },
+        {
+          "tag": "Wetter · Verkehr",
+          "title": "Glättegefahr am Wochenende",
+          "text": "Das Wochenende bleibt wolkig und trocken, nachts sinken die Temperaturen aber auf bis zu minus zwei Grad. Stellenweise kann es glatt werden, ab Montag wird es milder.",
+          "source": "Tagesspiegel, 14.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-am-wochenende-wird-es-glatt-in-berlin-und-brandenburg-16284098.html"
+        },
+        {
+          "tag": "Großveranstaltung",
+          "title": "Montagabend: Deutschland gegen Niederlande im Olympiastadion",
+          "text": "Das Nations-League-Spiel wird am Montag, 16. November, um 20:45 Uhr angepfiffen. Es ist das 50. Duell der beiden Mannschaften.",
+          "source": "rbb24, 13.11.",
+          "url": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-nations-league-deutschland-niederlande-berlin-olympiastadion-faq.html"
+        }
       ]
     },
     {
       "id": "welt",
       "title": "Welt",
       "items": [
-        {"tag": "USA · Tech", "title": "Jensen Huang verlässt Nvidia nach 33 Jahren", "text": "Auslöser ist eine mutmaßliche Spionageaffäre mit China-Bezug. Huang und US-Handelsminister Lutnick sollen vor dem Kongress aussagen.", "source": "Euronews, 13.11.", "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening"},
-        {"tag": "Ukraine", "title": "Europa sitzt bei den nächsten Ukraine-Gesprächen mit am Tisch", "text": "Kiew und Moskau stimmen zu, europäische Staaten einzubeziehen. Die EU schickt ein Team aus fünf Ländern.", "source": "Washington Post, 13.11.", "url": "https://www.washingtonpost.com/world/"},
-        {"tag": "Ukraine", "title": "Russische Angriffe: Tote in Saporischschja und Odessa", "text": "Ein Toter in Saporischschja, zwei in Odessa. In Kiew löste ein Drohnenangriff einen Großbrand in einem Wohnhaus aus.", "source": "Reuters via US News, 13.11.", "url": "https://www.usnews.com/news/world"},
-        {"tag": "Nahost", "title": "Gaza: Starkregen überflutet Tausende Zelte", "text": "Mehrere Tote werden gemeldet, die Friedensgespräche stocken.", "source": "World in Summary, 13.11.", "url": "https://www.worldinsummary.com/editions/2026-11-13/"},
-        {"tag": "Iran", "title": "USA bestreiten Zerstörung eines Radars in Bahrain", "text": "Washington weist Berichte zurück, die Revolutionsgarden hätten ein US-Radar in Bahrain zerstört.", "source": "Euronews, 13.11.", "url": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening"}
+        {
+          "tag": "Ukraine",
+          "title": "USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
+          "text": "Im Gegenzug für einen Rückzug aus dem Donbass stellen die USA nach Selenskyjs Angaben die NATO-Mitgliedschaft in Aussicht. Er würde das bei einem umfassenden Sicherheitspaket per Referendum entscheiden lassen. An der nächsten Runde sollen auch Europäer teilnehmen.",
+          "source": "Tagesschau, 14.11.",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
+        },
+        {
+          "tag": "USA · Russland · China",
+          "title": "Trump will Putin und Xi am Donnerstag in Shenzhen treffen",
+          "text": "Laut Weißem Haus soll das erste Dreiertreffen der Staatschefs am Rande des Apec-Gipfels stattfinden. Hauptthema ist der Abbau von Atomwaffen, auch der Iran-Krieg könnte zur Sprache kommen.",
+          "source": "Tagesschau, 14.11.",
+          "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"
+        },
+        {
+          "tag": "USA",
+          "title": "Vier Stunden Startverbot: Tausende Flüge in den USA gestrichen",
+          "text": "Eine Störung der Flugsicherung legte landesweit alle Starts lahm, knapp 7.500 Flüge fielen aus. Die Regierung macht veraltete Technik verantwortlich. Am BER gab es Verspätungen, aber keine größeren Folgen.",
+          "source": "Tagesschau, 14.11.",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html"
+        },
+        {
+          "tag": "Iran",
+          "title": "Iran lehnt Gespräche über Atominspektionen vorerst ab",
+          "text": "Teheran will unter Androhung von Angriffen nicht mit der IAEA weiterverhandeln. In der Straße von Hormus lief nach iranischen Angaben ein LNG-Tanker auf eine Mine. Die USA bestreiten, dass ihr Radar in Bahrain zerstört wurde.",
+          "source": "BR24, 14.11.",
+          "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-9-november-bis-15-november,VaSuymj"
+        },
+        {
+          "tag": "USA · Tech",
+          "title": "Nvidia nach Huang-Rücktritt: Aktie verliert rund 12 % in einer Woche",
+          "text": "Nach dem Rücktritt von Jensen Huang führt Finanzchefin Colette Kress den Konzern übergangsweise. Der Börsenwert fiel unter vier Billionen Dollar.",
+          "source": "MLQ.ai, 13.11.",
+          "url": "https://mlq.ai/news/wall-street-closes-mixed-as-nvidia-and-amd-sink-nasdaq-still-posts-its-best-week-since-august/"
+        }
       ]
     },
     {
       "id": "krypto",
       "title": "Krypto & Finanzen",
       "items": [
-        {"tag": "Inflation", "title": "US-Erzeugerpreise auf Vierjahreshoch", "text": "Im Monatsvergleich +0,3 % statt erwarteter 0,4 %. Die Jahresrate kletterte trotzdem von 6,3 auf 6,5 %.", "impact": "Bitcoin sprang kurz über 70.000 $ und fiel dann Richtung 68.000 $. Die hohe Jahresrate hält die Zinsangst wach.", "source": "KuCoin News, 13.11.", "url": "https://www.kucoin.com/news/flash/us-ppi-inflation-hits-6-5-annual-high-bitcoin-falls-toward-68k"},
-        {"tag": "Fed", "title": "Verbraucherpreise heißer als erwartet, Zinserhöhung eingepreist", "text": "CPI Oktober +0,4 % (erwartet 0,3 %), Kernrate +0,3 % (erwartet 0,2 %). Eine Erhöhung um 25 Basispunkte gilt als Basisszenario.", "impact": "Steigende Renditen ziehen Geld aus Risikoanlagen. Die Unterstützung bei 73.000 $ ist gefallen.", "source": "KuCoin News, 11.11.", "url": "https://www.kucoin.com/news/flash/bitcoin-price-falls-below-74k-amid-higher-than-expected-us-cpi-data"},
-        {"tag": "Aktien · Dollar", "title": "Nasdaq −1,4 %, Dollar-Index auf 19-Monats-Hoch", "text": "Nvidia-Krise und Inflationsdaten drückten die Tech-Werte. Der starke Dollar löste große Liquidationen an den Krypto-Terminmärkten aus.", "impact": "Krypto läuft derzeit mit den Tech-Aktien. Schwäche an der Nasdaq schlägt direkt durch.", "source": "Coinpaper, 13.11.", "url": "https://coinpaper.com/38816/us-ppi-inflation-hits-6-5-highest-since-2022-as-nasdaq-sinks-and-bitcoin-faces-fed-rate-hike-risk"},
-        {"tag": "ETF-Flüsse", "title": "Anhaltende Abflüsse aus Bitcoin- und Ether-ETFs", "text": "US-Spot-Bitcoin-ETFs verloren in der ersten Novemberwoche rund 1,28 Mrd. $, bei Ether-ETFs summieren sich die Abflüsse auf 696 Mio. $.", "impact": "Solange institutionelles Geld abfließt, fehlt die Nachfrage für eine Erholung.", "source": "Cryptoticker, 13.11.", "url": "https://cryptoticker.io/en/ethereum-price-1958-dollars-staking-exit-queue-november-13-2026/"},
-        {"tag": "Termin", "title": "Mi 18.11.: Protokoll der Fed-Sitzung vom Oktober", "text": "Hinweise auf den Zinsschritt im Dezember.", "source": "", "url": ""}
+        {
+          "tag": "Markt",
+          "title": "Bitcoin auf tiefstem Stand seit August, Ether unter 1.900 $",
+          "text": "Bitcoin verlor am Freitag die Marke von 70.000 $ und fiel am Samstag unter 67.000 $. Binnen 24 Stunden wurden Terminpositionen über 1,26 Mrd. $ zwangsaufgelöst, zu 86 % Wetten auf steigende Kurse. Der Fear-and-Greed-Index steht bei 13.",
+          "impact": "Die Zwangsverkäufe verstärken die Abwärtsbewegung. Bei weiter hohem Hebel bleiben schnelle Ausschläge in beide Richtungen möglich.",
+          "source": "The Crypto Times, 14.11.",
+          "url": "https://www.cryptotimes.io/2026/11/14/bitcoin-price-today-btc-slides-to-67k-as-1-26b-crypto-liquidations-hit-longs-fed-hike-bets-rise/"
+        },
+        {
+          "tag": "Fed · Inflation",
+          "title": "Markt preist Zinserhöhung im Dezember voll ein",
+          "text": "Nach Erzeugerpreisen von 6,5 % zum Vorjahr zeigt das CME-FedWatch-Tool 89,7 % für einen Schritt um 0,25 und 10,3 % für 0,5 Punkte. Fed-Gouverneur Waller hatte sich für eine Erhöhung ausgesprochen. Die zehnjährige US-Rendite stieg am Freitag bis auf 5,17 %.",
+          "impact": "Höhere Renditen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Bis zur Fed-Sitzung am 8./9. Dezember bleibt das der bestimmende Faktor.",
+          "source": "The Crypto Times, 14.11.",
+          "url": "https://www.cryptotimes.io/2026/11/14/bitcoin-price-today-btc-slides-to-67k-as-1-26b-crypto-liquidations-hit-longs-fed-hike-bets-rise/"
+        },
+        {
+          "tag": "Aktien · Dollar",
+          "title": "Nasdaq −0,9 %, Dollar-Index auf höchstem Stand seit April 2025",
+          "text": "Am Freitag schloss die Nasdaq bei 25.136 Punkten, der S&P 500 gab 0,4 % nach, der Dow legte 0,1 % zu. Nvidia und AMD belasteten die Tech-Werte. Auf Wochensicht stand für die Nasdaq trotzdem ein Plus von 2,3 %.",
+          "impact": "Krypto fiel diese Woche deutlich stärker als die Tech-Aktien. Der starke Dollar drückt zusätzlich auf in Dollar gehandelte Risikoanlagen.",
+          "source": "MLQ.ai, 13.11.",
+          "url": "https://mlq.ai/news/wall-street-closes-mixed-as-nvidia-and-amd-sink-nasdaq-still-posts-its-best-week-since-august/"
+        },
+        {
+          "tag": "ETF-Flüsse",
+          "title": "Bitcoin-ETFs verlieren die fünfte Sitzung in Folge Geld",
+          "text": "Laut Farside flossen am 13. November 185,4 Mio. $ aus den US-Spot-Bitcoin-ETFs ab, vom 9. bis 13. November zusammen rund 1,07 Mrd. $. Ether-ETFs verbuchten nach sechs Abflusstagen erstmals wieder einen kleinen Zufluss von 2,3 Mio. $.",
+          "impact": "Die institutionelle Nachfrage fehlt weiterhin. Ob die Abflussserie nächste Woche endet, gilt als wichtigster Hinweis auf eine Stabilisierung.",
+          "source": "Blockchain Reporter, 14.11.",
+          "url": "https://blockchainreporter.net/ether-loses-2000-etf-selling-ten-year-yield/"
+        },
+        {
+          "tag": "Termin",
+          "title": "Mo 16.11.: Länderspiel Deutschland–Niederlande",
+          "text": "20:45 Uhr im Berliner Olympiastadion.",
+          "source": "",
+          "url": ""
+        },
+        {
+          "tag": "Termin",
+          "title": "Mi 18.11.: Protokoll der Fed-Sitzung vom Oktober",
+          "text": "Hinweise auf den Zinsschritt im Dezember.",
+          "source": "",
+          "url": ""
+        },
+        {
+          "tag": "Termin",
+          "title": "Do 19.11.: Treffen von Trump, Putin und Xi",
+          "text": "Am Rande des Apec-Gipfels in Shenzhen.",
+          "source": "",
+          "url": ""
+        },
+        {
+          "tag": "Termin",
+          "title": "Fr 20.11.: Wirtschaftsforum und Großdemo in Berlin",
+          "text": "Deutsch-ukrainisches Wirtschaftsforum, Demo von „Gen Z regelt“.",
+          "source": "",
+          "url": ""
+        },
+        {
+          "tag": "Termin",
+          "title": "Mi 25.11.: US-PCE-Inflation für Oktober",
+          "text": "Das bevorzugte Inflationsmaß der Fed, 14:30 Uhr MEZ.",
+          "source": "",
+          "url": ""
+        },
+        {
+          "tag": "Termin",
+          "title": "8./9.12.: Zinsentscheid der Fed",
+          "text": "Entscheidung am 9. Dezember.",
+          "source": "",
+          "url": ""
+        }
       ]
     }
   ]

@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "06:45",
+  "stand": "07:45",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.890 $",
-      "change": "▼ 3,0 % · 24 h",
+      "value": "64.400 $",
+      "change": "▼ 4,3 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.818 $",
-      "change": "▼ 4,1 % · 24 h",
+      "value": "1.792 $",
+      "change": "▼ 5,9 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,8 +29,8 @@
     }
   ],
   "brief": [
-    "Krypto bleibt unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 64.900 $, Ether bei rund 1.820 $. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 13 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
-    "Ukraine und Iran: Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht; beim Treffen von Trump, Putin und Xi am Donnerstag soll die Ukraine kein Thema sein. Iran meldet drei brennende Tanker in der Straße von Hormus, Trump erwägt laut Reuters, vorerst auf neue Angriffe zu verzichten.",
+    "Krypto bleibt unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 64.400 $, Ether bei rund 1.790 $. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 14 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
+    "Iran und Ukraine: Irans Revolutionsgarden melden am Sonntagmorgen einen Drohnenangriff auf ein US-Radar in Bahrain, eine Bestätigung der USA fehlt; in der Straße von Hormus sollen weitere Tanker auf Minen gelaufen sein. Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
     "Berlin: In Tiergarten starb am Samstag ein Kind, das mit dem Fahrrad stürzte und von einem BVG-Bus überrollt wurde. Bei der Gen-Z-Demo am Kurfürstendamm gab es 22 Festnahmen; heute fährt die S-Bahn zwischen Friedrichstraße und Tiergarten nicht."
   ],
   "sections": [
@@ -107,6 +107,13 @@
       "title": "Welt",
       "items": [
         {
+          "tag": "Iran",
+          "title": "Iran meldet Drohnenangriff auf US-Radar in Bahrain – weitere Tanker in Hormus auf Minen gelaufen",
+          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten ein US-Flugabwehrradar auf dem Stützpunkt Riffa in Bahrain getroffen; das US-Zentralkommando hat das bisher nicht bestätigt, Bahrain löste mehrfach Alarm aus und meldete den Abschuss iranischer Drohnen. Irans Marine berichtet von zwei weiteren brennenden Tankern östlich der Straße von Hormus, damit wären es sieben Vorfälle binnen 24 Stunden; unabhängig bestätigt ist das nicht. Laut Reuters erwog Trump am Samstag, auf neue Angriffe zu verzichten, solange Teheran und die Huthi nicht weiter provozieren.",
+          "source": "Iran International, 15.11.",
+          "url": "https://www.iranintl.com/en/liveblog/202611143682"
+        },
+        {
           "tag": "Ukraine",
           "title": "USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
           "text": "Im Gegenzug für einen Rückzug aus dem Donbass stellen die USA nach Selenskyjs Angaben die NATO-Mitgliedschaft in Aussicht. Er würde das bei einem umfassenden Sicherheitspaket per Referendum entscheiden lassen, einen neutralen Status lehnt er ab. US-Gesandter Jared Kushner erklärte am Samstag, Washington wolle nun direkte Gespräche zwischen Moskau und den Europäern anbahnen und die nächste Dreierrunde vorbereiten.",
@@ -119,13 +126,6 @@
           "text": "Das erste Dreiertreffen der Staatschefs soll am 19. November am Rande des Apec-Gipfels stattfinden. Themen sind laut Weißem Haus Atomwaffen und der Iran-Krieg, die Ukraine ausdrücklich nicht; ein US-Regierungsvertreter erwartet keine Einigung, sondern den Beginn von Gesprächen. Der Kreml nennt das Treffen äußerst bedeutsam und weist Vergleiche mit Jalta zurück.",
           "source": "Tagesschau, 14.11.",
           "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"
-        },
-        {
-          "tag": "Iran",
-          "title": "Drei brennende Tanker in der Straße von Hormus – Trump erwägt Verzicht auf neue Angriffe",
-          "text": "Nach Angaben der Revolutionsgarden liefen zwei Öltanker mit abgeschalteter Ortung auf Seeminen, die reguläre Marine meldete einen dritten brennenden Tanker östlich der Meerenge; unabhängig bestätigt ist das nicht. Laut Reuters erwägt Trump, auf neue Angriffe zu verzichten, solange Teheran und die Huthi im Jemen nicht weiter provozieren; entschieden ist nichts, die US-Streitkräfte bleiben einsatzbereit. Der saudische Kronprinz und der türkische Präsident Erdoğan rieten ihm demnach von neuen Schlägen ab.",
-          "source": "Reuters, 14.11.",
-          "url": "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/"
         },
         {
           "tag": "USA · Luftverkehr",
@@ -149,9 +149,9 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 64.900 $ – sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag auf Coinbase bis auf 61.946 $ und notierte gegen 06:38 Uhr MEZ bei rund 64.900 $, Ether bei rund 1.820 $. Bleibt es dabei, endet die Woche mit einem Minus von rund 13 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, betroffen waren über 320.000 Händler; der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
-          "impact": "Die Erholung vom Nachttief geht vor allem auf den Abbau von Hebelpositionen zurück. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
+          "title": "Bitcoin bei rund 64.400 $ – sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag auf Coinbase bis auf 61.946 $ und notierte gegen 07:40 Uhr MEZ bei rund 64.400 $, Ether bei rund 1.790 $; beide gaben seit dem frühen Morgen wieder leicht nach. Bleibt es dabei, endet die Woche nach einem Start bei 74.757 $ mit einem Minus von rund 14 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, betroffen waren über 320.000 Händler; der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "impact": "Die Erholung vom Nachttief geht vor allem auf den Abbau von Hebelpositionen zurück und trägt bisher nicht weiter. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
           "source": "CryptoTicker, 15.11.",
           "url": "https://cryptoticker.io/de/bitcoin-kurs-nachttief-wochenschluss-15-november-2026/"
         },

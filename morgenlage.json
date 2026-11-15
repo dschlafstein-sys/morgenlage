@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "03:50",
+  "stand": "04:48",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.740 $",
-      "change": "▼ 3,4 % · 24 h",
+      "value": "64.869 $",
+      "change": "▼ 3,2 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.809 $",
-      "change": "▼ 4,9 % · 24 h",
+      "value": "1.818 $",
+      "change": "▼ 3,6 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto bleibt unter Druck: Bitcoin fiel in der Nacht bis auf rund 62.100 $, den tiefsten Stand seit Anfang Juli, und steht jetzt bei etwa 64.700 $, Ether bei rund 1.810 $. Der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
-    "Ukraine: Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht und wollen nun direkte Gespräche zwischen Moskau und den Europäern anbahnen. Am Donnerstag will Trump Putin und Xi in Shenzhen treffen.",
-    "Berlin: Bei der Gen-Z-Demo am Kurfürstendamm zählte die Polizei rund 700 Teilnehmer, dpa meldet 22 Festnahmen. Heute fährt die S-Bahn zwischen Friedrichstraße und Tiergarten nicht, kommende Woche folgt ein Großeinsatz mit Ukraine-Treffen und Großdemo."
+    "Krypto bleibt unter Druck: Bitcoin fiel in der Nacht bis auf rund 62.100 $, den tiefsten Stand seit Anfang Juli, und steht jetzt bei etwa 64.900 $, Ether bei rund 1.820 $. Der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
+    "Ukraine: Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht und wollen direkte Gespräche zwischen Moskau und den Europäern anbahnen. Beim Treffen von Trump, Putin und Xi am Donnerstag in Shenzhen soll die Ukraine laut Weißem Haus kein Thema sein.",
+    "Berlin: Bei der Gen-Z-Demo am Kurfürstendamm zählte die Polizei am Abend rund 1.200 Teilnehmer und nahm 22 Menschen vorläufig fest. Heute fährt die S-Bahn zwischen Friedrichstraße und Tiergarten nicht, kommende Woche folgt ein Großeinsatz mit Ukraine-Treffen und Großdemo."
   ],
   "sections": [
     {
@@ -67,10 +67,10 @@
       "items": [
         {
           "tag": "Demo · Polizei",
-          "title": "Gen-Z-Demo am Kurfürstendamm: rund 700 Teilnehmer, 22 Festnahmen",
-          "text": "Am Samstagabend zogen laut Polizei etwa 700 Menschen vom Savignyplatz über den Kurfürstendamm Richtung Halensee, angemeldet waren 100; rund 700 Polizisten waren im Einsatz. Nach Würfen von Pyrotechnik gab es erste Festnahmen, die dpa meldete später insgesamt 22.",
-          "source": "Volksstimme/dpa, 14.11.",
-          "url": "https://www.volksstimme.de/panorama/rund-700-menschen-ziehen-bei-gen-z-demo-durch-berlin-4356191"
+          "title": "Gen-Z-Demo am Kurfürstendamm: rund 1.200 Teilnehmer, 22 Festnahmen",
+          "text": "Am Samstagabend zogen laut Polizei bis zu 1.200 Menschen vom Savignyplatz über den Kurfürstendamm Richtung Halensee, angemeldet waren 100; rund 700 Polizisten waren im Einsatz. 22 Personen wurden vorläufig festgenommen, die Polizei schrieb 13 Strafanzeigen, unter anderem wegen Landfriedensbruchs, Körperverletzung und Verstößen gegen das Sprengstoffgesetz.",
+          "source": "t-online, 14.11.",
+          "url": "https://berlin.t-online.de/region/berlin/id_101529126/berlin-1200-menschen-bei-genz-regelt-demo-in-charlottenburg-.html"
         },
         {
           "tag": "S-Bahn · Verkehr",
@@ -108,17 +108,17 @@
         },
         {
           "tag": "USA · Russland · China",
-          "title": "Trump will Putin und Xi am Donnerstag in Shenzhen treffen",
-          "text": "Laut Weißem Haus soll das erste Dreiertreffen der Staatschefs am Rande des Apec-Gipfels stattfinden. Hauptthema ist der Abbau von Atomwaffen, auch der Iran-Krieg könnte zur Sprache kommen.",
+          "title": "Trump, Putin und Xi am Donnerstag in Shenzhen: Ukraine nicht auf der Tagesordnung",
+          "text": "Das erste Dreiertreffen der Staatschefs soll am 19. November am Rande des Apec-Gipfels stattfinden. Themen sind laut Weißem Haus Atomwaffen und der Iran-Krieg, die Ukraine ausdrücklich nicht; ein US-Regierungsvertreter erwartet keine Einigung, sondern den Beginn von Gesprächen. Der Kreml nennt das Treffen äußerst bedeutsam und weist Vergleiche mit Jalta zurück.",
           "source": "Tagesschau, 14.11.",
           "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"
         },
         {
           "tag": "Iran",
           "title": "Iran meldet drei brennende Tanker in der Straße von Hormus",
-          "text": "Nach Angaben der Revolutionsgarden liefen am Samstag zwei Öltanker, darunter ein Supertanker, mit abgeschalteter Ortung auf Seeminen; zwei weitere drehten nach Warnungen ab. Die reguläre Marine meldete einen dritten brennenden Tanker östlich der Meerenge. Eine unabhängige Bestätigung gibt es bisher nicht; das US-Militär erklärt, die Hauptrouten von Minen geräumt zu haben.",
-          "source": "Manila Times/AFP, 15.11.",
-          "url": "https://www.manilatimes.net/2026/11/15/world/americas-emea/iran-3-oil-tankers-hit-naval-mines-in-strait-of-hormuz/2470080"
+          "text": "Nach Angaben der Revolutionsgarden liefen am Samstag zwei Öltanker mit abgeschalteter Ortung auf Seeminen; zwei weitere drehten nach Warnungen ab. Die reguläre Marine meldete einen dritten brennenden Tanker östlich der Meerenge und drohte weiteren Schiffen in der Sperrzone mit denselben Folgen. Reuters konnte die Angaben nicht überprüfen, Schiffsnamen oder Opferzahlen nennt Teheran nicht.",
+          "source": "ANI, 15.11.",
+          "url": "https://aninews.in/news/world/middle-east/three-oil-tankers-catch-fire-after-hitting-naval-mines-in-hormuz-claims-irans-navy20261115061422/"
         },
         {
           "tag": "USA · Gesundheit",
@@ -143,7 +143,7 @@
         {
           "tag": "Markt",
           "title": "Bitcoin fällt auf rund 62.100 $ und erholt sich leicht",
-          "text": "Bitcoin rutschte in der Nacht zum Sonntag bis auf etwa 62.100 $, laut CryptoTicker der tiefste Stand seit Anfang Juli, und notierte gegen 03:45 Uhr MEZ bei rund 64.700 $. Ether fiel zeitweise auf gut 1.710 $ und stand zuletzt bei rund 1.810 $. Beim Bruch der 64.000-Dollar-Marke wurden binnen einer Stunde Terminpositionen über 691 Mio. $ zwangsaufgelöst, fast nur Wetten auf steigende Kurse; der Fear-&-Greed-Index sank auf 10.",
+          "text": "Bitcoin rutschte in der Nacht zum Sonntag bis auf etwa 62.100 $, laut CryptoTicker der tiefste Stand seit Anfang Juli, und notierte gegen 04:35 Uhr MEZ bei rund 64.900 $. Ether fiel zeitweise auf gut 1.710 $ und stand zuletzt bei rund 1.820 $. Beim Bruch der 64.000-Dollar-Marke wurden binnen einer Stunde Terminpositionen über 691 Mio. $ zwangsaufgelöst, fast nur Wetten auf steigende Kurse; der Fear-&-Greed-Index sank auf 10.",
           "impact": "Die Zwangsverkäufe haben die Abwärtsbewegung verstärkt. Am Wochenende ist der Handel dünn, die US-ETFs handeln erst am Montag wieder; schnelle Ausschläge in beide Richtungen bleiben möglich.",
           "source": "CryptoTicker, 15.11.",
           "url": "https://cryptoticker.io/en/bitcoin-price-62000-crash-fed-hike-60000-level-november-15-2026/"

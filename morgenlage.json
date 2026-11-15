@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "05:38",
+  "stand": "06:45",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.911 $",
-      "change": "▼ 2,7 % · 24 h",
+      "value": "64.890 $",
+      "change": "▼ 3,0 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.820 $",
-      "change": "▼ 3,7 % · 24 h",
+      "value": "1.818 $",
+      "change": "▼ 4,1 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,7 +29,7 @@
     }
   ],
   "brief": [
-    "Krypto bleibt unter Druck: Bitcoin hält sich nach dem Nachttief von rund 62.100 $ bei etwa 64.900 $, Ether bei rund 1.820 $. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
+    "Krypto bleibt unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 64.900 $, Ether bei rund 1.820 $. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 13 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
     "Ukraine und Iran: Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht; beim Treffen von Trump, Putin und Xi am Donnerstag soll die Ukraine kein Thema sein. Iran meldet drei brennende Tanker in der Straße von Hormus, Trump erwägt laut Reuters, vorerst auf neue Angriffe zu verzichten.",
     "Berlin: In Tiergarten starb am Samstag ein Kind, das mit dem Fahrrad stürzte und von einem BVG-Bus überrollt wurde. Bei der Gen-Z-Demo am Kurfürstendamm gab es 22 Festnahmen; heute fährt die S-Bahn zwischen Friedrichstraße und Tiergarten nicht."
   ],
@@ -47,10 +47,10 @@
         },
         {
           "tag": "Politik",
-          "title": "Bundeshaushalt 2027 steht, Stromsteuer soll in den Koalitionsausschuss",
-          "text": "Der Haushaltsausschuss hat den Etat fertiggestellt: 560,9 Mrd. € Ausgaben und über 210 Mrd. € neue Schulden. Kanzler Merz hält an der Senkung der Stromsteuer für alle ab 2027 fest und rechnet damit, dass der Koalitionsausschuss am Dienstag erneut darüber berät. Finanzminister Klingbeil verlangt eine Gegenfinanzierung für die rund fünf Milliarden Euro.",
-          "source": "ZDFheute, 13.11.",
-          "url": "https://www.zdfheute.de/politik/deutschland/merz-klingbeil-stromsteuer-senkung-debatte-100.html"
+          "title": "Stromsteuer vor dem Koalitionsausschuss: Klingbeil nennt höhere Abgeltungssteuer als Gegenfinanzierung",
+          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur, wenn sie finanzierbar ist, und bringt eine höhere Abgeltungssteuer auf Kapitalerträge ins Spiel. Vor dem Koalitionsausschuss am Dienstag mahnt er zudem mehr Tempo bei vereinbarten Reformen an.",
+          "source": "Tagesspiegel/dpa, 14.11.",
+          "url": "https://www.tagesspiegel.de/politik/dpa-knackpunkt-stromsteuersenkung-klingbeil-sieht-keine-vorschlage-die-bei-der-union-auf-applaus-stossen-16285538.html"
         },
         {
           "tag": "Gesundheit",
@@ -123,7 +123,7 @@
         {
           "tag": "Iran",
           "title": "Drei brennende Tanker in der Straße von Hormus – Trump erwägt Verzicht auf neue Angriffe",
-          "text": "Nach Angaben der Revolutionsgarden liefen am Samstag zwei Öltanker mit abgeschalteter Ortung auf Seeminen, die reguläre Marine meldete einen dritten brennenden Tanker östlich der Meerenge; unabhängig bestätigt ist das nicht. Laut Reuters hat Trump seinen Beratern gesagt, er könnte auf neue Angriffe verzichten, solange Teheran und die Huthi im Jemen nicht weiter provozieren; entschieden ist demnach nichts. In der Nacht meldete Bahrain den Abschuss einer iranischen Drohne.",
+          "text": "Nach Angaben der Revolutionsgarden liefen zwei Öltanker mit abgeschalteter Ortung auf Seeminen, die reguläre Marine meldete einen dritten brennenden Tanker östlich der Meerenge; unabhängig bestätigt ist das nicht. Laut Reuters erwägt Trump, auf neue Angriffe zu verzichten, solange Teheran und die Huthi im Jemen nicht weiter provozieren; entschieden ist nichts, die US-Streitkräfte bleiben einsatzbereit. Der saudische Kronprinz und der türkische Präsident Erdoğan rieten ihm demnach von neuen Schlägen ab.",
           "source": "Reuters, 14.11.",
           "url": "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/"
         },
@@ -149,17 +149,17 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin stabilisiert sich bei rund 64.900 $ – über 2 Mrd. $ liquidiert",
-          "text": "Bitcoin rutschte in der Nacht zum Sonntag bis auf etwa 62.100 $, laut CryptoTicker der tiefste Stand seit Anfang Juli, und notierte gegen 05:37 Uhr MEZ bei rund 64.900 $; das 24-Stunden-Hoch lag bei gut 67.400 $. Ether fiel zeitweise auf gut 1.710 $ und stand zuletzt bei rund 1.820 $. Binnen 24 Stunden wurden laut TokenPost Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, betroffen waren über 320.000 Händler.",
-          "impact": "Die Zwangsverkäufe haben die Abwärtsbewegung verstärkt. Am Wochenende ist der Handel dünn, die US-ETFs handeln erst am Montag wieder; schnelle Ausschläge in beide Richtungen bleiben möglich.",
-          "source": "TokenPost, 15.11.",
-          "url": "https://www.tokenpost.com/news/investing/57662"
+          "title": "Bitcoin bei rund 64.900 $ – sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag auf Coinbase bis auf 61.946 $ und notierte gegen 06:38 Uhr MEZ bei rund 64.900 $, Ether bei rund 1.820 $. Bleibt es dabei, endet die Woche mit einem Minus von rund 13 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, betroffen waren über 320.000 Händler; der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "impact": "Die Erholung vom Nachttief geht vor allem auf den Abbau von Hebelpositionen zurück. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
+          "source": "CryptoTicker, 15.11.",
+          "url": "https://cryptoticker.io/de/bitcoin-kurs-nachttief-wochenschluss-15-november-2026/"
         },
         {
           "tag": "Fed · Inflation",
           "title": "Markt preist Zinserhöhung im Dezember voll ein",
-          "text": "Das CME-FedWatch-Tool zeigte am Samstag 88,5 % für einen Schritt um 0,25 und 11,5 % für 0,5 Punkte; am 6. November lag die Wahrscheinlichkeit für den kleinen Schritt noch bei 76,3 %. Auf zwölf Monate sind rund 64 Basispunkte an Erhöhungen eingepreist, Anfang November waren es 37. Fed-Gouverneur Waller hatte sich für eine Erhöhung ausgesprochen.",
-          "impact": "Höhere Zinsen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Bis zur Fed-Sitzung am 8./9. Dezember bleibt das der bestimmende Faktor.",
+          "text": "Das CME-FedWatch-Tool zeigte am Samstag 88,5 % für einen Schritt um 0,25 und 11,5 % für 0,5 Punkte; am 6. November lag die Wahrscheinlichkeit für den kleinen Schritt noch bei 76,3 %. Auf zwölf Monate sind rund 64 Basispunkte an Erhöhungen eingepreist, Anfang November waren es 37. Die Rendite zehnjähriger US-Staatsanleihen schloss am Freitag bei 5,15 %.",
+          "impact": "Höhere Zinsen und Anleiherenditen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Bis zur Fed-Sitzung am 8./9. Dezember bleibt das der bestimmende Faktor.",
           "source": "Bitcoin.com News, 14.11.",
           "url": "https://news.bitcoin.com/market-updates/fed-rate-hike-odds-reach-near-certainty-as-bitcoin-price-falls-to-65k/"
         },
@@ -174,7 +174,7 @@
         {
           "tag": "ETF-Flüsse · Liquidität",
           "title": "Bitcoin-ETFs: zweite Woche in Folge über 1 Mrd. $ Abfluss",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen vom 9. bis 13. November rund 1,07 Mrd. $ ab, über sieben Handelstage in Folge zusammen 1,91 Mrd. $. Ether-ETFs verloren in der Woche 398,9 Mio. $, verbuchten am Freitag aber einen kleinen Zufluss von 2,4 Mio. $. Laut Coinbase Institutional schrumpfte das Angebot der großen Stablecoins binnen 30 Tagen um 11,5 Mrd. $.",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen vom 9. bis 13. November rund 1,07 Mrd. $ ab, über sieben Handelstage in Folge zusammen 1,91 Mrd. $; allein am Freitag waren es 185,4 Mio. $. Ether-ETFs verloren in der Woche 398,9 Mio. $, verbuchten am Freitag aber einen kleinen Zufluss. Laut Coinbase Institutional schrumpfte das Angebot der großen Stablecoins binnen 30 Tagen um 11,5 Mrd. $.",
           "impact": "Die institutionelle Nachfrage fehlt weiterhin, und sinkende Stablecoin-Bestände bedeuten weniger Kaufkraft im Markt. Die ersten ETF-Daten am Montag zeigen, ob die Abflussserie anhält.",
           "source": "The Block, 14.11.",
           "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
@@ -188,7 +188,7 @@
         },
         {
           "tag": "Termin",
-          "title": "Di 17.11.: Koalitionsausschuss zur Stromsteuer erwartet",
+          "title": "Di 17.11.: Koalitionsausschuss zur Stromsteuer",
           "text": "Dazu voraussichtlich die offizielle Bekanntgabe zum Masern-Status der USA.",
           "source": "",
           "url": ""

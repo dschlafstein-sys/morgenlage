@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "09:47",
+  "stand": "10:47",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.650 $",
-      "change": "▼ 3,6 % · 24 h",
+      "value": "65.720 $",
+      "change": "▼ 2,0 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.797 $",
-      "change": "▼ 5,3 % · 24 h",
+      "value": "1.835 $",
+      "change": "▼ 3,4 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto bleibt unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 64.650 $, Ether bei rund 1.800 $; XRP fiel mit 0,89 $ auf den tiefsten Stand seit 2024. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 13,5 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
-    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain und erklären die Straße von Hormus für geschlossen; Bahrain spricht von erfolgreicher Abwehr, eine Bestätigung der USA fehlt. Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
-    "Berlin: In Tiergarten starb am Samstag ein Kind, das mit dem Fahrrad stürzte und von einem BVG-Bus überrollt wurde. Bei der Gen-Z-Demo am Kurfürstendamm gab es 22 Festnahmen; heute fährt die S-Bahn zwischen Friedrichstraße und Tiergarten nicht."
+    "Krypto erholt sich leicht, bleibt aber unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 65.700 $, Ether bei rund 1.835 $; XRP fiel in der Nacht mit 0,89 $ auf den tiefsten Stand seit 2024. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 12 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
+    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain und erklären die Straße von Hormus für geschlossen; Bahrain und das US-Zentralkommando sprechen von abgefangenen Drohnen ohne Schäden. Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
+    "Berlin: In Tiergarten starb am Samstag ein achtjähriges Mädchen, das mit dem Fahrrad stürzte und von einem BVG-Bus überrollt wurde. Bei der Gen-Z-Demo am Kurfürstendamm gab es 22 Festnahmen; heute fährt die S-Bahn zwischen Friedrichstraße und Tiergarten nicht, um 13:30 Uhr beginnt im Reichstag die Gedenkstunde zum Volkstrauertag."
   ],
   "sections": [
     {
@@ -74,8 +74,8 @@
       "items": [
         {
           "tag": "Unfall · BVG",
-          "title": "Tiergarten: Kind stürzt mit dem Fahrrad und wird von BVG-Bus überrollt",
-          "text": "Am Samstag gegen 17 Uhr stürzte ein Kind, das mit seiner Mutter mit dem Rad unterwegs war, an der Ecke Lützowstraße/Potsdamer Straße aus ungeklärter Ursache und wurde von einem Bus erfasst. Es starb noch an der Unfallstelle, die Mutter wurde verletzt und steht unter Schock. Die Polizei ermittelt zum Hergang, die Potsdamer Straße war am Abend in beiden Richtungen gesperrt; die BVG äußerte sich betroffen.",
+          "title": "Tiergarten: Achtjähriges Mädchen stürzt mit dem Fahrrad und wird von BVG-Bus überrollt",
+          "text": "Am Samstag gegen 17 Uhr stürzte ein achtjähriges Mädchen, das mit seiner Mutter mit dem Rad unterwegs war, an der Ecke Lützowstraße/Potsdamer Straße aus ungeklärter Ursache und wurde von einem Bus erfasst. Es starb noch an der Unfallstelle, die Mutter wurde verletzt und steht unter Schock. Die Polizei ermittelt zum Hergang, die Potsdamer Straße war am Abend in beiden Richtungen gesperrt; die BVG äußerte sich betroffen.",
           "source": "rbb24, 14.11.",
           "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tiergarten-unfall-kind-stirbt-bus-bvg.html"
         },
@@ -88,8 +88,8 @@
         },
         {
           "tag": "S-Bahn · Verkehr",
-          "title": "Stadtbahn heute gesperrt: Keine S-Bahn zwischen Friedrichstraße und Tiergarten",
-          "text": "Die Linien S3, S5, S7 und S9 sind bis Montag Betriebsbeginn unterbrochen, es fahren Ersatzbusse. Der RE7 wird über Lichtenberg umgeleitet, die Halte Ostbahnhof und Ostkreuz entfallen. Am Abend ist wegen eines Eishockeyspiels in der Uber Arena (19:30 Uhr) rund um die Warschauer Straße mit mehr Verkehr zu rechnen, in Köpenick gibt es von 14 bis 16 Uhr eine Demonstration.",
+          "title": "Stadtbahn heute gesperrt: Keine S-Bahn zwischen Friedrichstraße und Tiergarten – Gedenkstunde im Reichstag",
+          "text": "Die Linien S3, S5, S7 und S9 sind bis Montag Betriebsbeginn unterbrochen, es fahren Ersatzbusse. Der RE7 wird über Lichtenberg umgeleitet, die Halte Ostbahnhof und Ostkreuz entfallen. Um 13:30 Uhr beginnt im Plenarsaal des Reichstagsgebäudes die zentrale Gedenkstunde zum Volkstrauertag, die Gedenkrede hält Österreichs Bundespräsident Alexander Van der Bellen. Am Abend ist wegen eines Eishockeyspiels in der Uber Arena (19:30 Uhr) rund um die Warschauer Straße mit mehr Verkehr zu rechnen, in Köpenick gibt es von 14 bis 16 Uhr eine Demonstration.",
           "source": "Verkehrsinformationszentrale Berlin, 15.11.",
           "url": "https://viz.berlin.de/aktuelle-meldungen/verkehrsvorschau-fur-das-wochenende/"
         },
@@ -109,7 +109,7 @@
         {
           "tag": "Iran",
           "title": "Iran meldet Drohnenangriff auf US-Radar in Bahrain und erklärt Hormus für geschlossen",
-          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain getroffen, als Antwort auf US-Angriffe im Süden Irans; zudem nannten sie die Straße von Hormus geschlossen. Bahrains Verteidigungsministerium spricht dagegen von einer erfolgreichen Abwehr, das Innenministerium löste zweimal Alarm aus und rief die Bevölkerung in Schutzräume. Das US-Zentralkommando äußerte sich zunächst nicht, unabhängig prüfen lassen sich die Angaben beider Seiten nicht. Laut Reuters erwog Trump am Samstag, auf neue Angriffe zu verzichten, solange Teheran und die Huthi nicht weiter provozieren.",
+          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain getroffen, als Antwort auf US-Angriffe im Süden Irans; zudem nannten sie die Straße von Hormus geschlossen. Bahrains Militär spricht dagegen von abgefangenen Angriffen, das Innenministerium rief die Bevölkerung nach Explosionen gegen 4 Uhr und 6:30 Uhr Ortszeit in Schutzräume. Das US-Zentralkommando erklärte laut AFP, es habe zwei iranische Drohnen abgeschossen, Opfer oder Schäden gebe es nicht; unabhängig prüfen lassen sich die Angaben nicht. Laut Reuters erwog Trump am Samstag, auf neue Angriffe zu verzichten, solange Teheran und die Huthi nicht weiter provozieren.",
           "source": "t-online/dpa, 15.11.",
           "url": "https://www.t-online.de/nachrichten/ausland/id_101529510/iran-greift-ziele-in-bahrain-mit-drohnen-an.html"
         },
@@ -149,9 +149,9 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 64.650 $ – sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $ und notierte gegen 09:40 Uhr MEZ bei etwa 64.650 $, Ether nach einem Tief bei rund 1.715 $ bei etwa 1.800 $; beide liegen leicht über dem Stand von vor einer Stunde. XRP rutschte auf 0,89 $, den tiefsten Stand seit 2024. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von rund 13,5 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
-          "impact": "Die Erholung vom Nachttief geht vor allem auf den Abbau von Hebelpositionen zurück und trägt bisher nicht weiter. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
+          "title": "Bitcoin bei rund 65.700 $ – sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $ und notierte gegen 10:40 Uhr MEZ bei etwa 65.700 $, Ether nach einem Tief bei rund 1.715 $ bei etwa 1.835 $; beide liegen damit über dem Stand von vor einer Stunde. XRP rutschte in der Nacht auf 0,89 $, den tiefsten Stand seit 2024. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von rund 12 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "impact": "Die Erholung vom Nachttief setzt sich in kleinen Schritten fort, der Kurs bleibt aber unter dem 24-Stunden-Hoch von rund 67.400 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
           "source": "CoinGecko, 15.11.",
           "url": "https://www.coingecko.com/en/coins/bitcoin"
         },

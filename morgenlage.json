@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "08:43",
+  "stand": "09:47",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.060 $",
-      "change": "▼ 4,5 % · 24 h",
+      "value": "64.650 $",
+      "change": "▼ 3,6 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.785 $",
-      "change": "▼ 5,8 % · 24 h",
+      "value": "1.797 $",
+      "change": "▼ 5,3 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,8 +29,8 @@
     }
   ],
   "brief": [
-    "Krypto bleibt unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 64.100 $, Ether bei rund 1.785 $. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 14 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
-    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain und erklären die Straße von Hormus für geschlossen; in Bahrain gab es am Morgen zweimal Explosionen und Sirenenalarm, eine Bestätigung der USA fehlt. Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
+    "Krypto bleibt unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 64.650 $, Ether bei rund 1.800 $; XRP fiel mit 0,89 $ auf den tiefsten Stand seit 2024. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 13,5 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
+    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain und erklären die Straße von Hormus für geschlossen; Bahrain spricht von erfolgreicher Abwehr, eine Bestätigung der USA fehlt. Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
     "Berlin: In Tiergarten starb am Samstag ein Kind, das mit dem Fahrrad stürzte und von einem BVG-Bus überrollt wurde. Bei der Gen-Z-Demo am Kurfürstendamm gab es 22 Festnahmen; heute fährt die S-Bahn zwischen Friedrichstraße und Tiergarten nicht."
   ],
   "sections": [
@@ -47,15 +47,15 @@
         },
         {
           "tag": "Politik",
-          "title": "Stromsteuer vor dem Koalitionsausschuss: Klingbeil nennt höhere Abgeltungssteuer als Gegenfinanzierung",
-          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur, wenn sie finanzierbar ist, und bringt eine höhere Abgeltungssteuer auf Kapitalerträge ins Spiel. Vor dem Koalitionsausschuss am Dienstag mahnt er zudem mehr Tempo bei vereinbarten Reformen an.",
+          "title": "Stromsteuer vor dem Koalitionsausschuss: Günther fordert Entlastung für alle, Klingbeil eine Gegenfinanzierung",
+          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur, wenn sie finanzierbar ist, und bringt eine höhere Abgeltungssteuer auf Kapitalerträge ins Spiel. Schleswig-Holsteins Ministerpräsident Daniel Günther (CDU) verlangt die Senkung für Betriebe und Privathaushalte, SPD-Länderchefs wie Bremens Bürgermeister Bovenschulte bestehen auf einer soliden Gegenfinanzierung. Entschieden werden soll im Koalitionsausschuss am Dienstag.",
           "source": "Tagesspiegel/dpa, 14.11.",
           "url": "https://www.tagesspiegel.de/politik/dpa-knackpunkt-stromsteuersenkung-klingbeil-sieht-keine-vorschlage-die-bei-der-union-auf-applaus-stossen-16285538.html"
         },
         {
           "tag": "Gesundheit",
-          "title": "Termin gegen Geld? Breite Kritik an Kassenärzte-Chef Gassen",
-          "text": "Andreas Gassen erwartet wegen Honorarkürzungen von drei Milliarden Euro mehr Selbstzahler-Termine beim Facharzt. Vizekanzler Klingbeil lehnt Zusatzkosten für Kassenpatienten ab und verweist auf die vereinbarte Termingarantie. Der GKV-Spitzenverband nennt den Vorstoß skandalös, der Sozialverband Deutschland unsolidarisch.",
+          "title": "Termin gegen Geld? SPD und Grüne lehnen mehr Selbstzahler-Termine ab",
+          "text": "Kassenärzte-Chef Andreas Gassen erwartet wegen Honorarkürzungen von drei Milliarden Euro mehr Selbstzahler-Termine beim Facharzt. Vizekanzler Klingbeil lehnt Zusatzkosten für Kassenpatienten ab und verweist auf die vereinbarte Termingarantie; auch die Grünen weisen den Vorstoß zurück. Der GKV-Spitzenverband nennt ihn skandalös, der Sozialverband Deutschland unsolidarisch.",
           "source": "ZDFheute, 14.11.",
           "url": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html"
         },
@@ -109,9 +109,9 @@
         {
           "tag": "Iran",
           "title": "Iran meldet Drohnenangriff auf US-Radar in Bahrain und erklärt Hormus für geschlossen",
-          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten ein US-Flugabwehrradar auf dem Stützpunkt Riffa in Bahrain getroffen, und nannten die Straße von Hormus geschlossen. In Bahrain waren laut AFP gegen 4 Uhr und erneut gegen 6:30 Uhr Ortszeit Explosionen zu hören, die Behörden lösten Sirenenalarm aus und riefen die Bevölkerung in Schutzräume; eine Bestätigung des US-Zentralkommandos fehlt bisher. Irans Marine und Garden berichten von mehreren brennenden Tankern nach Minentreffern in und östlich der Meerenge, unabhängig bestätigt ist das nicht. Laut Reuters erwog Trump am Samstag, auf neue Angriffe zu verzichten, solange Teheran und die Huthi nicht weiter provozieren.",
-          "source": "Manila Times/AFP, 15.11.",
-          "url": "https://www.manilatimes.net/2026/11/15/world/blasts-sirens-in-bahrain-as-iran-announces-attack-on-us-base/2470216"
+          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain getroffen, als Antwort auf US-Angriffe im Süden Irans; zudem nannten sie die Straße von Hormus geschlossen. Bahrains Verteidigungsministerium spricht dagegen von einer erfolgreichen Abwehr, das Innenministerium löste zweimal Alarm aus und rief die Bevölkerung in Schutzräume. Das US-Zentralkommando äußerte sich zunächst nicht, unabhängig prüfen lassen sich die Angaben beider Seiten nicht. Laut Reuters erwog Trump am Samstag, auf neue Angriffe zu verzichten, solange Teheran und die Huthi nicht weiter provozieren.",
+          "source": "t-online/dpa, 15.11.",
+          "url": "https://www.t-online.de/nachrichten/ausland/id_101529510/iran-greift-ziele-in-bahrain-mit-drohnen-an.html"
         },
         {
           "tag": "Ukraine",
@@ -135,11 +135,11 @@
           "url": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/"
         },
         {
-          "tag": "USA · Gesundheit",
-          "title": "Berichte: USA verlieren Status als masernfreies Land",
-          "text": "Eine Expertenkommission der Panamerikanischen Gesundheitsorganisation sieht die Voraussetzungen laut US-Medien nicht mehr erfüllt, die offizielle Bekanntgabe wird für Dienstag erwartet. Die Behörde CDC zählte bis zum 12. November 5.412 Fälle, mehr als doppelt so viele wie im gesamten Vorjahr.",
-          "source": "Handelsblatt/dpa, 14.11.",
-          "url": "https://www.handelsblatt.com/technik/forschung-innovation/gesundheitspolitik-medien-usa-verlieren-status-als-masernfreies-land/100269935.html"
+          "tag": "Nahost",
+          "title": "Israel tötet ranghohen Hamas-Kommandeur im Gazastreifen",
+          "text": "Bei einem israelischen Luftangriff in Chan Junis im Süden des Gazastreifens wurde am Samstag Samir Abu Junis getötet, der Kommandeur der Rafah-Brigade; die Hamas hat seinen Tod bestätigt. Nach Angaben aus Israel und Gaza war er an Planung und Leitung des Angriffs vom 7. Oktober 2023 beteiligt.",
+          "source": "Al Jazeera, 15.11.",
+          "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
         }
       ]
     },
@@ -149,11 +149,11 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 64.100 $ – sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $ und notierte gegen 08:40 Uhr MEZ bei etwa 64.060 $, Ether nach einem Tief bei rund 1.715 $ bei etwa 1.785 $; beide liegen damit etwas unter dem Stand vom frühen Morgen. Bleibt es dabei, endet die Woche nach einem Start bei 74.757 $ mit einem Minus von rund 14 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, betroffen waren über 320.000 Händler; der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "title": "Bitcoin bei rund 64.650 $ – sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $ und notierte gegen 09:40 Uhr MEZ bei etwa 64.650 $, Ether nach einem Tief bei rund 1.715 $ bei etwa 1.800 $; beide liegen leicht über dem Stand von vor einer Stunde. XRP rutschte auf 0,89 $, den tiefsten Stand seit 2024. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von rund 13,5 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
           "impact": "Die Erholung vom Nachttief geht vor allem auf den Abbau von Hebelpositionen zurück und trägt bisher nicht weiter. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
-          "source": "CryptoTicker, 15.11.",
-          "url": "https://cryptoticker.io/de/bitcoin-kurs-nachttief-wochenschluss-15-november-2026/"
+          "source": "CoinGecko, 15.11.",
+          "url": "https://www.coingecko.com/en/coins/bitcoin"
         },
         {
           "tag": "Fed · Inflation",

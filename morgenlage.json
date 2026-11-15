@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "10:47",
+  "stand": "11:48",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "65.720 $",
-      "change": "▼ 2,0 % · 24 h",
+      "value": "65.470 $",
+      "change": "▼ 2,6 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.835 $",
-      "change": "▼ 3,4 % · 24 h",
+      "value": "1.826 $",
+      "change": "▼ 4,2 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto erholt sich leicht, bleibt aber unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 65.700 $, Ether bei rund 1.835 $; XRP fiel in der Nacht mit 0,89 $ auf den tiefsten Stand seit 2024. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 12 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
-    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain und erklären die Straße von Hormus für geschlossen; Bahrain und das US-Zentralkommando sprechen von abgefangenen Drohnen ohne Schäden. Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
-    "Berlin: In Tiergarten starb am Samstag ein achtjähriges Mädchen, das mit dem Fahrrad stürzte und von einem BVG-Bus überrollt wurde. Bei der Gen-Z-Demo am Kurfürstendamm gab es 22 Festnahmen; heute fährt die S-Bahn zwischen Friedrichstraße und Tiergarten nicht, um 13:30 Uhr beginnt im Reichstag die Gedenkstunde zum Volkstrauertag."
+    "Krypto bleibt nach dem Nachttief unter Druck: Bitcoin notiert bei rund 65.500 $ (−2,6 % in 24 Stunden), Ether bei rund 1.826 $; in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 12 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
+    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain, erklären die Straße von Hormus für geschlossen und machen die arabischen Nachbarstaaten mitverantwortlich; Bahrain spricht von abgewehrten Angriffen. Die Ukraine soll in der Nacht den russischen Militärflugplatz Achtubinsk angegriffen haben, die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
+    "Berlin und Bund: Nach der Gen-Z-Demo am Kurfürstendamm meldet die Polizei 28 Strafanzeigen und drei verletzte Beamte; in Tiergarten starb am Samstag ein achtjähriges Mädchen unter einem BVG-Bus. Heute fährt keine S-Bahn zwischen Friedrichstraße und Tiergarten, um 13:30 Uhr beginnt die Gedenkstunde im Reichstag. In der SPD fordert Hubertus Heil Parteichef Klingbeil heraus, vor dem Koalitionsausschuss am Dienstag wächst in der CDU der Druck auf Merz bei der Stromsteuer."
   ],
   "sections": [
     {
@@ -40,22 +40,22 @@
       "items": [
         {
           "tag": "Parteien",
-          "title": "SPD-Vorsitz: Heil kandidiert, Schneider und Miersch stützen Klingbeil",
-          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt; gewählt wird auf einem Parteitag im Januar in Bremen. Umweltminister Carsten Schneider und Fraktionschef Matthias Miersch sprachen sich in den Funke-Medien dafür aus, dass Lars Klingbeil im Amt bleibt. Klingbeil hat bisher nicht gesagt, ob er erneut antritt.",
-          "source": "n-tv, 15.11.",
-          "url": "https://www.n-tv.de/politik/Zwei-Spitzengenossen-wollen-Klingbeil-als-SPD-Chef-halten-id31534929.html"
+          "title": "SPD-Vorsitz: Heil tritt an, Fraktionsspitze stellt sich hinter Klingbeil",
+          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt; gewählt wird auf einem Parteitag im Januar in Bremen. Fraktionsgeschäftsführer Dirk Wiese wies im Handelsblatt die Kritik an Lars Klingbeil zurück und lehnte eine feste Trennung von Ministeramt und Parteivorsitz ab, auch Umweltminister Schneider und Fraktionschef Miersch wollen Klingbeil halten. Bayerns SPD-Ko-Chef Sebastian Roloff begrüßte dagegen Heils Kandidatur; Klingbeil hat bisher nicht gesagt, ob er erneut antritt.",
+          "source": "Hasepost/dts, 15.11.",
+          "url": "https://hasepost.de/spd-streitet-ueber-parteivorsitz-und-aemtertrennung-778324/"
         },
         {
           "tag": "Politik",
-          "title": "Stromsteuer vor dem Koalitionsausschuss: Günther fordert Entlastung für alle, Klingbeil eine Gegenfinanzierung",
-          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur, wenn sie finanzierbar ist, und bringt eine höhere Abgeltungssteuer auf Kapitalerträge ins Spiel. Schleswig-Holsteins Ministerpräsident Daniel Günther (CDU) verlangt die Senkung für Betriebe und Privathaushalte, SPD-Länderchefs wie Bremens Bürgermeister Bovenschulte bestehen auf einer soliden Gegenfinanzierung. Entschieden werden soll im Koalitionsausschuss am Dienstag.",
-          "source": "Tagesspiegel/dpa, 14.11.",
-          "url": "https://www.tagesspiegel.de/politik/dpa-knackpunkt-stromsteuersenkung-klingbeil-sieht-keine-vorschlage-die-bei-der-union-auf-applaus-stossen-16285538.html"
+          "title": "Stromsteuer vor dem Koalitionsausschuss: Druck auf Merz aus der CDU wächst",
+          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur bei solider Gegenfinanzierung und bringt eine höhere Abgeltungssteuer ins Spiel. Aus der CDU verlangen neben Schleswig-Holsteins Ministerpräsident Günther nun auch der Dresdner Kreischef Ingo Flemming und Ex-Generalsekretär Paul Ziemiak, die Zusage einzuhalten. Merz will das Thema am Dienstag im Koalitionsausschuss direkt mit Klingbeil klären.",
+          "source": "Merkur, 15.11.",
+          "url": "https://www.merkur.de/politik/koalitionsstreit-um-stromsteuer-union-erhoeht-druck-auf-merz-zr-94590643.html"
         },
         {
           "tag": "Gesundheit",
           "title": "Termin gegen Geld? SPD und Grüne lehnen mehr Selbstzahler-Termine ab",
-          "text": "Kassenärzte-Chef Andreas Gassen erwartet wegen Honorarkürzungen von drei Milliarden Euro mehr Selbstzahler-Termine beim Facharzt. Vizekanzler Klingbeil lehnt Zusatzkosten für Kassenpatienten ab und verweist auf die vereinbarte Termingarantie; auch die Grünen weisen den Vorstoß zurück. Der GKV-Spitzenverband nennt ihn skandalös, der Sozialverband Deutschland unsolidarisch.",
+          "text": "Kassenärzte-Chef Andreas Gassen erwartet wegen Honorarkürzungen von drei Milliarden Euro mehr Selbstzahler-Termine beim Facharzt. Vizekanzler Klingbeil lehnt Zusatzkosten für Kassenpatienten ab und fordert von der CDU mehr Tempo bei der vereinbarten Termingarantie; auch die Grünen weisen den Vorstoß zurück. Der GKV-Spitzenverband nennt ihn skandalös, der Sozialverband Deutschland unsolidarisch.",
           "source": "ZDFheute, 14.11.",
           "url": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html"
         },
@@ -81,10 +81,10 @@
         },
         {
           "tag": "Demo · Polizei",
-          "title": "Gen-Z-Demo am Kurfürstendamm: rund 1.200 Teilnehmer, 22 Festnahmen",
-          "text": "Am Samstagabend zogen laut Polizei bis zu 1.200 Menschen vom Savignyplatz über den Kurfürstendamm Richtung Halensee, angemeldet waren 100; rund 700 Polizisten waren im Einsatz. 22 Personen wurden vorläufig festgenommen, die Polizei schrieb 13 Strafanzeigen, unter anderem wegen Landfriedensbruchs, Körperverletzung und Verstößen gegen das Sprengstoffgesetz.",
-          "source": "t-online, 14.11.",
-          "url": "https://berlin.t-online.de/region/berlin/id_101529126/berlin-1200-menschen-bei-genz-regelt-demo-in-charlottenburg-.html"
+          "title": "Gen-Z-Demo am Kurfürstendamm: Polizei meldet 28 Strafanzeigen und drei verletzte Beamte",
+          "text": "Am Samstagabend zogen rund 1.200 Menschen über den Kurfürstendamm, angemeldet waren 100; etwa 700 Polizisten waren im Einsatz. Die Polizei bilanzierte am Sonntag 28 Strafanzeigen, unter anderem wegen Landfriedensbruchs, tätlichen Angriffs, Widerstands und Verstößen gegen Sprengstoffvorschriften, sowie drei verletzte Beamte. Die Zahl der vorläufigen Festnahmen wird mit 20 bis 22 angegeben; bundesweit kamen deutlich weniger Menschen als bei den Protesten vor zwei Wochen.",
+          "source": "Tagesspiegel/dpa, 15.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-demonstrationen-1200-menschen-bei-gen-z-demo-in-berlin-28-strafanzeigen-16286262.html"
         },
         {
           "tag": "S-Bahn · Verkehr",
@@ -98,7 +98,7 @@
           "title": "Koalitionsverhandlungen: Linke bittet im Fall Emde um Geduld",
           "text": "Linke-Chef Luigi Pantisano verweist beim geplanten Fraktionsausschluss der Abgeordneten Vanessa Emde auf feste Verfahren und Fristen; nötig ist eine Zweidrittelmehrheit, abgestimmt wird frühestens am 24. November. Altkanzlerin Merkel sprach sich gegen ein Bündnis mit der Berliner Linken aus. Linke, Grüne und SPD wollen ihre Verhandlungen im Januar abschließen.",
           "source": "Tagesspiegel, 14.11.",
-          "url": "https://www.tagesspiegel.de/berlin/liveblog/jetzt-gehen-wir-in-die-tiefe-linke-grune-und-spd-beginnen-mit-den-koalitionsverhandlungen-in-berlin-16053722.html"
+          "url": "https://www.tagesspiegel.de/berlin/liveblog/angela-merkel-uber-mogliches-linksbundnis-in-berlin-also-ich-wurde-das-nicht-machen-16053722.html"
         }
       ]
     },
@@ -108,24 +108,24 @@
       "items": [
         {
           "tag": "Iran",
-          "title": "Iran meldet Drohnenangriff auf US-Radar in Bahrain und erklärt Hormus für geschlossen",
-          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain getroffen, als Antwort auf US-Angriffe im Süden Irans; zudem nannten sie die Straße von Hormus geschlossen. Bahrains Militär spricht dagegen von abgefangenen Angriffen, das Innenministerium rief die Bevölkerung nach Explosionen gegen 4 Uhr und 6:30 Uhr Ortszeit in Schutzräume. Das US-Zentralkommando erklärte laut AFP, es habe zwei iranische Drohnen abgeschossen, Opfer oder Schäden gebe es nicht; unabhängig prüfen lassen sich die Angaben nicht. Laut Reuters erwog Trump am Samstag, auf neue Angriffe zu verzichten, solange Teheran und die Huthi nicht weiter provozieren.",
-          "source": "t-online/dpa, 15.11.",
-          "url": "https://www.t-online.de/nachrichten/ausland/id_101529510/iran-greift-ziele-in-bahrain-mit-drohnen-an.html"
+          "title": "Iran meldet Drohnenangriff auf US-Radar in Bahrain und warnt die Nachbarstaaten",
+          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain getroffen; die Straße von Hormus nannten sie geschlossen. Teheran beruft sich auf Selbstverteidigung und macht die arabischen Nachbarn mitverantwortlich, von deren Boden US-Angriffe geflogen oder unterstützt würden. Bahrains Militär spricht von abgewehrten Angriffen, das Innenministerium löste zweimal Raketenalarm aus; das US-Zentralkommando äußerte sich zum jüngsten Angriff zunächst nicht, unabhängig prüfen lassen sich die Angaben nicht. Laut Reuters erwägt Trump, auf neue Angriffe zu verzichten, solange es keine weiteren Provokationen gibt.",
+          "source": "Frankfurter Rundschau, 15.11.",
+          "url": "https://www.fr.de/politik/iran-greift-us-stuetzpunkt-in-bahrain-an-warnung-an-nachbarn-zr-94590674.html"
         },
         {
           "tag": "Ukraine",
-          "title": "USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
-          "text": "Im Gegenzug für einen Rückzug aus dem Donbass stellen die USA nach Selenskyjs Angaben die NATO-Mitgliedschaft in Aussicht. Er würde das bei einem umfassenden Sicherheitspaket per Referendum entscheiden lassen, einen neutralen Status lehnt er ab. US-Gesandter Jared Kushner erklärte am Samstag, Washington wolle nun direkte Gespräche zwischen Moskau und den Europäern anbahnen; bei russischen Angriffen auf ukrainische Städte wurden am Samstag mindestens ein Mensch getötet und mehr als 30 verletzt.",
-          "source": "Tagesschau, 14.11.",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
+          "title": "Berichte über ukrainischen Angriff auf Flugplatz Achtubinsk – USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
+          "text": "In der Nacht zum Sonntag soll die Ukraine den russischen Militärflugplatz Achtubinsk im Gebiet Astrachan angegriffen haben, ein ukrainischer Telegram-Kanal meldet mindestens 30 Explosionen; bestätigt ist das nicht, der Gouverneur spricht von 31 abgeschossenen Drohnen. Russland griff das Gebiet Odessa massiv mit Drohnen an. Politisch stellen die USA Kiew nach Selenskyjs Angaben die NATO-Mitgliedschaft gegen einen Rückzug aus dem Donbass in Aussicht; er würde darüber per Referendum entscheiden lassen und lehnt einen neutralen Status ab.",
+          "source": "Kyiv Independent, 15.11.",
+          "url": "https://kyivindependent.com/ukraine-reportedly-strikes-russian-military-airfield-in-astrakhan-oblast-at-least-30-explosions-heard/"
         },
         {
           "tag": "USA · Russland · China",
           "title": "Trump, Putin und Xi am Donnerstag in Shenzhen: Kreml bestätigt Putins Teilnahme",
           "text": "Das erste Dreiertreffen der Staatschefs soll am 19. November am Rande des Apec-Gipfels stattfinden; Moskau hat Putins Teilnahme am Sonntagmorgen bestätigt. Themen sind laut Weißem Haus Atomwaffen und der Iran-Krieg, die Ukraine ausdrücklich nicht; ein US-Regierungsvertreter erwartet keine Einigung, sondern den Beginn von Gesprächen. Der Kreml nennt das Treffen äußerst bedeutsam und weist Vergleiche mit Jalta zurück.",
-          "source": "ZDFheute-Ticker, 15.11.",
-          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+          "source": "Macau Business/AFP, 15.11.",
+          "url": "https://macaubusiness.com/moscow-confirms-trump-xi-putin-meeting-in-china/"
         },
         {
           "tag": "USA · Luftverkehr",
@@ -137,7 +137,7 @@
         {
           "tag": "Nahost",
           "title": "Israel tötet ranghohen Hamas-Kommandeur im Gazastreifen",
-          "text": "Bei einem israelischen Luftangriff in Chan Junis im Süden des Gazastreifens wurde am Samstag Samir Abu Junis getötet, der Kommandeur der Rafah-Brigade; die Hamas hat seinen Tod bestätigt. Nach Angaben aus Israel und Gaza war er an Planung und Leitung des Angriffs vom 7. Oktober 2023 beteiligt.",
+          "text": "Bei einem israelischen Luftangriff in Chan Junis im Süden des Gazastreifens wurde am Samstag Samir Abu Junis getötet, der Kommandeur der Rafah-Brigade; die Hamas hat seinen Tod bestätigt. Nach Angaben aus Israel und Gaza war er an Planung und Leitung des Angriffs vom 7. Oktober 2023 beteiligt. Verteidigungsminister Israel Katz kündigte an, die Angriffe fortzusetzen, bis der Gazastreifen entwaffnet sei.",
           "source": "Al Jazeera, 15.11.",
           "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
         }
@@ -149,9 +149,9 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 65.700 $ – sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $ und notierte gegen 10:40 Uhr MEZ bei etwa 65.700 $, Ether nach einem Tief bei rund 1.715 $ bei etwa 1.835 $; beide liegen damit über dem Stand von vor einer Stunde. XRP rutschte in der Nacht auf 0,89 $, den tiefsten Stand seit 2024. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von rund 12 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
-          "impact": "Die Erholung vom Nachttief setzt sich in kleinen Schritten fort, der Kurs bleibt aber unter dem 24-Stunden-Hoch von rund 67.400 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
+          "title": "Bitcoin bei rund 65.500 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $, den tiefsten Stand seit vier Monaten, und notierte gegen 11:40 Uhr MEZ bei etwa 65.470 $ (−2,6 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.826 $ (−4,2 %). Beide liegen damit leicht unter dem Stand von vor einer Stunde. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von rund 12 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "impact": "Die Erholung vom Nachttief stockt, der Kurs bleibt unter dem 24-Stunden-Hoch von rund 67.300 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
           "source": "CoinGecko, 15.11.",
           "url": "https://www.coingecko.com/en/coins/bitcoin"
         },
@@ -164,20 +164,20 @@
           "url": "https://news.bitcoin.com/market-updates/fed-rate-hike-odds-reach-near-certainty-as-bitcoin-price-falls-to-65k/"
         },
         {
-          "tag": "Aktien · Dollar",
-          "title": "Nasdaq −0,9 %, Dollar-Index auf höchstem Stand seit April 2025",
-          "text": "Am Freitag schloss die Nasdaq bei 25.136 Punkten, der S&P 500 gab 0,4 % nach, der Dow legte 0,1 % zu. Nvidia und AMD belasteten die Tech-Werte. Auf Wochensicht stand für die Nasdaq trotzdem ein Plus von 2,3 %.",
-          "impact": "Krypto fiel diese Woche deutlich stärker als die Tech-Aktien. Der starke Dollar drückt zusätzlich auf in Dollar gehandelte Risikoanlagen.",
-          "source": "MLQ.ai, 13.11.",
-          "url": "https://mlq.ai/news/wall-street-closes-mixed-as-nvidia-and-amd-sink-nasdaq-still-posts-its-best-week-since-august/"
-        },
-        {
           "tag": "ETF-Flüsse · Liquidität",
           "title": "Bitcoin-ETFs: zweite Woche in Folge über 1 Mrd. $ Abfluss",
           "text": "Aus den US-Spot-Bitcoin-ETFs flossen vom 9. bis 13. November rund 1,07 Mrd. $ ab, über sieben Handelstage in Folge zusammen 1,91 Mrd. $; allein am Freitag waren es 185,4 Mio. $. Ether-ETFs verloren in der Woche 398,9 Mio. $, verbuchten am Freitag aber einen kleinen Zufluss. Laut Coinbase Institutional schrumpfte das Angebot der großen Stablecoins binnen 30 Tagen um 11,5 Mrd. $.",
           "impact": "Die institutionelle Nachfrage fehlt weiterhin, und sinkende Stablecoin-Bestände bedeuten weniger Kaufkraft im Markt. Die ersten ETF-Daten am Montag zeigen, ob die Abflussserie anhält.",
           "source": "The Block, 14.11.",
           "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
+        },
+        {
+          "tag": "Indizes · Unternehmen",
+          "title": "Strategy fällt aus den MSCI-Indizes – Abflüsse von 2 bis 3 Mrd. $ erwartet",
+          "text": "Der Indexanbieter MSCI hat in seiner November-Überprüfung bestätigt, dass der größte börsennotierte Bitcoin-Halter Strategy (MSTR) aus den globalen MSCI-Indizes genommen wird; wirksam wird das nach Börsenschluss am 30. November. Indexfonds müssen die Aktie dann verkaufen, Schätzungen nennen passive Abflüsse von rund 2 bis 3 Mrd. $.",
+          "impact": "Der Verkaufsdruck trifft zunächst die Aktie, nicht Bitcoin selbst. Ein niedrigerer Aktienkurs erschwert es Strategy aber, über neue Aktien weitere Bitcoin-Käufe zu finanzieren – ein Käufer, der dem Markt fehlen kann.",
+          "source": "CryptoPotato, 15.11.",
+          "url": "https://cryptopotato.com/strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin/"
         },
         {
           "tag": "Termin",
@@ -218,6 +218,13 @@
           "tag": "Termin",
           "title": "Mi 25.11.: US-PCE-Inflation für Oktober",
           "text": "Das bevorzugte Inflationsmaß der Fed, 14:30 Uhr MEZ.",
+          "source": "",
+          "url": ""
+        },
+        {
+          "tag": "Termin",
+          "title": "Mo 30.11.: Strategy verlässt die MSCI-Indizes",
+          "text": "Wirksam nach US-Börsenschluss.",
           "source": "",
           "url": ""
         },

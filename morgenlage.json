@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "07:45",
+  "stand": "08:43",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.400 $",
-      "change": "▼ 4,3 % · 24 h",
+      "value": "64.060 $",
+      "change": "▼ 4,5 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.792 $",
-      "change": "▼ 5,9 % · 24 h",
+      "value": "1.785 $",
+      "change": "▼ 5,8 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,8 +29,8 @@
     }
   ],
   "brief": [
-    "Krypto bleibt unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 64.400 $, Ether bei rund 1.790 $. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 14 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
-    "Iran und Ukraine: Irans Revolutionsgarden melden am Sonntagmorgen einen Drohnenangriff auf ein US-Radar in Bahrain, eine Bestätigung der USA fehlt; in der Straße von Hormus sollen weitere Tanker auf Minen gelaufen sein. Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
+    "Krypto bleibt unter Druck: Bitcoin notiert nach dem Nachttief von rund 62.000 $ bei etwa 64.100 $, Ether bei rund 1.785 $. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 14 % zu; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember.",
+    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain und erklären die Straße von Hormus für geschlossen; in Bahrain gab es am Morgen zweimal Explosionen und Sirenenalarm, eine Bestätigung der USA fehlt. Die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
     "Berlin: In Tiergarten starb am Samstag ein Kind, das mit dem Fahrrad stürzte und von einem BVG-Bus überrollt wurde. Bei der Gen-Z-Demo am Kurfürstendamm gab es 22 Festnahmen; heute fährt die S-Bahn zwischen Friedrichstraße und Tiergarten nicht."
   ],
   "sections": [
@@ -41,7 +41,7 @@
         {
           "tag": "Parteien",
           "title": "SPD-Vorsitz: Heil kandidiert, Schneider und Miersch stützen Klingbeil",
-          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt; gewählt wird auf einem Parteitag im Januar. Umweltminister Carsten Schneider und Fraktionschef Matthias Miersch sprachen sich in den Funke-Medien dafür aus, dass Lars Klingbeil im Amt bleibt. Klingbeil hat bisher nicht gesagt, ob er erneut antritt.",
+          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt; gewählt wird auf einem Parteitag im Januar in Bremen. Umweltminister Carsten Schneider und Fraktionschef Matthias Miersch sprachen sich in den Funke-Medien dafür aus, dass Lars Klingbeil im Amt bleibt. Klingbeil hat bisher nicht gesagt, ob er erneut antritt.",
           "source": "n-tv, 15.11.",
           "url": "https://www.n-tv.de/politik/Zwei-Spitzengenossen-wollen-Klingbeil-als-SPD-Chef-halten-id31534929.html"
         },
@@ -60,11 +60,11 @@
           "url": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html"
         },
         {
-          "tag": "Technik",
-          "title": "Microsoft: Alle Systeme nach Großstörung wiederhergestellt",
-          "text": "Outlook, Teams, Microsoft 365 und Copilot laufen laut Microsoft wieder. Ursache war demnach ein Upgrade der Netzwerkkapazität, kein Angriff. Wer Geschäftspost über Outlook abwickelt, sollte auf verspätete Mails achten.",
-          "source": "Tagesschau, 14.11.",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html"
+          "tag": "Wirtschaft",
+          "title": "VW hält an Zielen für 2030 fest – Microsoft-Dienste laufen wieder",
+          "text": "Konzernchef Oliver Blume bekräftigte am Samstagabend die Ziele von rund 9 Millionen verkauften Fahrzeugen und 9 % Rendite bis 2030 und verwies auf den Abbau von mehr als 100.000 Stellen. Outlook, Teams und Microsoft 365 sind nach der Großstörung laut Microsoft wiederhergestellt; Ursache war ein Upgrade der Netzwerkkapazität, kein Angriff. Wer Geschäftspost über Outlook abwickelt, sollte auf verspätete Mails achten.",
+          "source": "ZDFheute-Ticker, 14.11.",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         }
       ]
     },
@@ -75,7 +75,7 @@
         {
           "tag": "Unfall · BVG",
           "title": "Tiergarten: Kind stürzt mit dem Fahrrad und wird von BVG-Bus überrollt",
-          "text": "Am Samstag gegen 17 Uhr stürzte ein Kind, das mit seiner Mutter auf der Potsdamer Straße in Höhe Lützowstraße unterwegs war, aus ungeklärter Ursache vom Rad und wurde von einem Bus erfasst. Es starb noch an der Unfallstelle, die Mutter wurde verletzt und steht unter Schock. Die Polizei ermittelt zum Hergang, die Straße war am Abend in beiden Richtungen gesperrt; die BVG äußerte sich betroffen.",
+          "text": "Am Samstag gegen 17 Uhr stürzte ein Kind, das mit seiner Mutter mit dem Rad unterwegs war, an der Ecke Lützowstraße/Potsdamer Straße aus ungeklärter Ursache und wurde von einem Bus erfasst. Es starb noch an der Unfallstelle, die Mutter wurde verletzt und steht unter Schock. Die Polizei ermittelt zum Hergang, die Potsdamer Straße war am Abend in beiden Richtungen gesperrt; die BVG äußerte sich betroffen.",
           "source": "rbb24, 14.11.",
           "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tiergarten-unfall-kind-stirbt-bus-bvg.html"
         },
@@ -108,29 +108,29 @@
       "items": [
         {
           "tag": "Iran",
-          "title": "Iran meldet Drohnenangriff auf US-Radar in Bahrain – weitere Tanker in Hormus auf Minen gelaufen",
-          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten ein US-Flugabwehrradar auf dem Stützpunkt Riffa in Bahrain getroffen; das US-Zentralkommando hat das bisher nicht bestätigt, Bahrain löste mehrfach Alarm aus und meldete den Abschuss iranischer Drohnen. Irans Marine berichtet von zwei weiteren brennenden Tankern östlich der Straße von Hormus, damit wären es sieben Vorfälle binnen 24 Stunden; unabhängig bestätigt ist das nicht. Laut Reuters erwog Trump am Samstag, auf neue Angriffe zu verzichten, solange Teheran und die Huthi nicht weiter provozieren.",
-          "source": "Iran International, 15.11.",
-          "url": "https://www.iranintl.com/en/liveblog/202611143682"
+          "title": "Iran meldet Drohnenangriff auf US-Radar in Bahrain und erklärt Hormus für geschlossen",
+          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten ein US-Flugabwehrradar auf dem Stützpunkt Riffa in Bahrain getroffen, und nannten die Straße von Hormus geschlossen. In Bahrain waren laut AFP gegen 4 Uhr und erneut gegen 6:30 Uhr Ortszeit Explosionen zu hören, die Behörden lösten Sirenenalarm aus und riefen die Bevölkerung in Schutzräume; eine Bestätigung des US-Zentralkommandos fehlt bisher. Irans Marine und Garden berichten von mehreren brennenden Tankern nach Minentreffern in und östlich der Meerenge, unabhängig bestätigt ist das nicht. Laut Reuters erwog Trump am Samstag, auf neue Angriffe zu verzichten, solange Teheran und die Huthi nicht weiter provozieren.",
+          "source": "Manila Times/AFP, 15.11.",
+          "url": "https://www.manilatimes.net/2026/11/15/world/blasts-sirens-in-bahrain-as-iran-announces-attack-on-us-base/2470216"
         },
         {
           "tag": "Ukraine",
           "title": "USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
-          "text": "Im Gegenzug für einen Rückzug aus dem Donbass stellen die USA nach Selenskyjs Angaben die NATO-Mitgliedschaft in Aussicht. Er würde das bei einem umfassenden Sicherheitspaket per Referendum entscheiden lassen, einen neutralen Status lehnt er ab. US-Gesandter Jared Kushner erklärte am Samstag, Washington wolle nun direkte Gespräche zwischen Moskau und den Europäern anbahnen und die nächste Dreierrunde vorbereiten.",
+          "text": "Im Gegenzug für einen Rückzug aus dem Donbass stellen die USA nach Selenskyjs Angaben die NATO-Mitgliedschaft in Aussicht. Er würde das bei einem umfassenden Sicherheitspaket per Referendum entscheiden lassen, einen neutralen Status lehnt er ab. US-Gesandter Jared Kushner erklärte am Samstag, Washington wolle nun direkte Gespräche zwischen Moskau und den Europäern anbahnen; bei russischen Angriffen auf ukrainische Städte wurden am Samstag mindestens ein Mensch getötet und mehr als 30 verletzt.",
           "source": "Tagesschau, 14.11.",
           "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
         },
         {
           "tag": "USA · Russland · China",
-          "title": "Trump, Putin und Xi am Donnerstag in Shenzhen: Ukraine nicht auf der Tagesordnung",
-          "text": "Das erste Dreiertreffen der Staatschefs soll am 19. November am Rande des Apec-Gipfels stattfinden. Themen sind laut Weißem Haus Atomwaffen und der Iran-Krieg, die Ukraine ausdrücklich nicht; ein US-Regierungsvertreter erwartet keine Einigung, sondern den Beginn von Gesprächen. Der Kreml nennt das Treffen äußerst bedeutsam und weist Vergleiche mit Jalta zurück.",
-          "source": "Tagesschau, 14.11.",
-          "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"
+          "title": "Trump, Putin und Xi am Donnerstag in Shenzhen: Kreml bestätigt Putins Teilnahme",
+          "text": "Das erste Dreiertreffen der Staatschefs soll am 19. November am Rande des Apec-Gipfels stattfinden; Moskau hat Putins Teilnahme am Sonntagmorgen bestätigt. Themen sind laut Weißem Haus Atomwaffen und der Iran-Krieg, die Ukraine ausdrücklich nicht; ein US-Regierungsvertreter erwartet keine Einigung, sondern den Beginn von Gesprächen. Der Kreml nennt das Treffen äußerst bedeutsam und weist Vergleiche mit Jalta zurück.",
+          "source": "ZDFheute-Ticker, 15.11.",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         },
         {
           "tag": "USA · Luftverkehr",
-          "title": "Nach landesweitem Flugstopp: Über 9.000 Flüge gestrichen, Ursache war ein Netzwerkfehler",
-          "text": "Die US-Luftfahrtbehörde FAA ließ am Freitag ab 15:36 Uhr Ostküstenzeit vier Stunden lang keine Flugzeuge starten; rund 9.160 Flüge fielen aus, etwa 7.190 waren verspätet. Laut Verkehrsminister Duffy überlastete ein fehlerhafter Router bei Wartungsarbeiten eines Dienstleisters das Netz der Flugsicherung. Für Montag ist ein Krisentreffen angesetzt, Trump wirbt im Kongress um mehr Geld für die Modernisierung.",
+          "title": "Nach landesweitem Flugstopp: FAA erwartet Normalbetrieb bis Sonntagabend",
+          "text": "Die US-Luftfahrtbehörde FAA ließ am Freitag ab 15:36 Uhr Ostküstenzeit vier Stunden lang keine Flugzeuge starten; rund 9.160 Flüge fielen aus, etwa 7.190 waren verspätet. Laut Verkehrsminister Duffy überlastete ein fehlerhafter Router bei Wartungsarbeiten eines Dienstleisters das Netz der Flugsicherung. FAA-Chef Bryan Bedford rechnet bis Sonntagabend mit Normalbetrieb; auch Transatlantikflüge, etwa über London-Heathrow, waren betroffen. Für Montag ist ein Krisentreffen angesetzt.",
           "source": "CBS News, 15.11.",
           "url": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/"
         },
@@ -149,8 +149,8 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 64.400 $ – sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag auf Coinbase bis auf 61.946 $ und notierte gegen 07:40 Uhr MEZ bei rund 64.400 $, Ether bei rund 1.790 $; beide gaben seit dem frühen Morgen wieder leicht nach. Bleibt es dabei, endet die Woche nach einem Start bei 74.757 $ mit einem Minus von rund 14 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, betroffen waren über 320.000 Händler; der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "title": "Bitcoin bei rund 64.100 $ – sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $ und notierte gegen 08:40 Uhr MEZ bei etwa 64.060 $, Ether nach einem Tief bei rund 1.715 $ bei etwa 1.785 $; beide liegen damit etwas unter dem Stand vom frühen Morgen. Bleibt es dabei, endet die Woche nach einem Start bei 74.757 $ mit einem Minus von rund 14 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, betroffen waren über 320.000 Händler; der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
           "impact": "Die Erholung vom Nachttief geht vor allem auf den Abbau von Hebelpositionen zurück und trägt bisher nicht weiter. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
           "source": "CryptoTicker, 15.11.",
           "url": "https://cryptoticker.io/de/bitcoin-kurs-nachttief-wochenschluss-15-november-2026/"

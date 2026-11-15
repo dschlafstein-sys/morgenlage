@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "14:42",
+  "stand": "15:49",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "65.420 $",
-      "change": "▼ 1,9 % · 24 h",
+      "value": "64.770 $",
+      "change": "▼ 1,8 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.830 $",
-      "change": "▼ 3,1 % · 24 h",
+      "value": "1.808 $",
+      "change": "▼ 2,2 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto bleibt nach dem Nachttief unter Druck: Bitcoin notiert bei rund 65.400 $ (−1,9 % in 24 Stunden), Ether bei rund 1.830 $ (−3,1 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von gut 12 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
-    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain und zwei nach Minentreffern brennende Tanker südlich der Straße von Hormus; Bahrain spricht von abgewehrten Angriffen, Parlamentspräsident Ghalibaf droht mit einer Ausweitung des Konflikts. Die Ukraine soll in der Nacht den russischen Militärflugplatz Achtubinsk angegriffen haben, die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
-    "Berlin und Bund: Nach dem Tod eines achtjährigen Mädchens unter einem BVG-Bus in Tiergarten ermittelt die Polizei gegen den 55-jährigen Fahrer wegen des Verdachts der Unfallflucht. Im Reichstag fand die Gedenkstunde zum Volkstrauertag ohne Kanzler Merz statt, die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten. In der SPD fordert Hubertus Heil Parteichef Klingbeil heraus, vor dem Koalitionsausschuss am Dienstag wächst in der CDU der Druck auf Merz bei der Stromsteuer."
+    "Krypto gibt am Nachmittag leicht nach: Bitcoin notiert bei rund 64.800 $ (−1,8 % in 24 Stunden), Ether bei rund 1.810 $ (−2,2 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von gut 13 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
+    "Iran und Ukraine: Iran hat zum zweiten Mal binnen drei Tagen Bahrain mit Drohnen angegriffen; Bahrain meldet, die Angriffe abgefangen zu haben, die Revolutionsgarden nennen die Straße von Hormus geschlossen und berichten von zwei nach Minentreffern brennenden Tankern. Die Ukraine soll in der Nacht den russischen Militärflugplatz Achtubinsk angegriffen haben, die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
+    "Berlin und Bund: Nach dem Tod eines achtjährigen Mädchens unter einem BVG-Bus in Tiergarten ermittelt die Polizei gegen den 55-jährigen Fahrer wegen des Verdachts der Unfallflucht; in Gropiusstadt brannten in der Nacht zehn Fahrzeuge, die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten. In der SPD fordert Hubertus Heil Parteichef Klingbeil heraus, weitere Minister stellen sich hinter Klingbeil; vor dem Koalitionsausschuss am Dienstag wächst in der CDU der Druck auf Merz bei der Stromsteuer."
   ],
   "sections": [
     {
@@ -40,10 +40,10 @@
       "items": [
         {
           "tag": "Parteien",
-          "title": "SPD-Vorsitz: Heil tritt an, Fraktionsspitze stellt sich hinter Klingbeil",
-          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt; gewählt wird auf einem Parteitag im Januar in Bremen. Fraktionsgeschäftsführer Dirk Wiese wies im Handelsblatt die Kritik an Lars Klingbeil zurück und lehnte eine feste Trennung von Ministeramt und Parteivorsitz ab, auch Umweltminister Schneider und Fraktionschef Miersch wollen Klingbeil halten. Bayerns SPD-Ko-Chef Sebastian Roloff begrüßte dagegen Heils Kandidatur; Klingbeil hat bisher nicht gesagt, ob er erneut antritt.",
-          "source": "Hasepost/dts, 15.11.",
-          "url": "https://hasepost.de/spd-streitet-ueber-parteivorsitz-und-aemtertrennung-778324/"
+          "title": "SPD-Vorsitz: Heil tritt an – weitere Minister stellen sich hinter Klingbeil",
+          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt; gewählt wird auf einem Parteitag im Januar in Bremen. Für Lars Klingbeil sprachen sich nach Umweltminister Schneider und Fraktionschef Miersch auch Justizministerin Hubig und Bauministerin Hubertz aus, Heil hat laut Tagesschau bisher keine namhaften Unterstützer; die Jusos lehnen eine erneute Kandidatur Klingbeils ab. Am 19. November tagt das erweiterte Präsidium, zu dem auch Manuela Schwesig erwartet wird, spätestens am 16. Dezember will der Parteivorstand seinen Personalvorschlag vorlegen. Klingbeil hat bisher nicht gesagt, ob er erneut antritt.",
+          "source": "Tagesschau, 15.11.",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html"
         },
         {
           "tag": "Politik",
@@ -53,18 +53,18 @@
           "url": "https://www.merkur.de/politik/koalitionsstreit-um-stromsteuer-union-erhoeht-druck-auf-merz-zr-94590643.html"
         },
         {
+          "tag": "Wirtschaft · IT",
+          "title": "Microsoft 365 läuft nach schwerer Störung wieder – Bitkom warnt vor Abhängigkeit",
+          "text": "Die Störung bei Outlook, Teams, Copilot und weiteren Diensten des Cloud-Pakets Microsoft 365 ist nach Angaben des Konzerns vom Samstag behoben, alle Systeme laufen wieder. Als Ursache nennt Microsoft ein Problem aus einem früheren Ausbau der Netzwerkkapazität, das erst nach jüngsten Netzwerkänderungen zutage trat; ein Cyberangriff war es demnach nicht. Bitkom-Präsident Ralf Wintergerst und IT-Sicherheitsfachleute verweisen auf die Abhängigkeit vieler Unternehmen, Schulen und Behörden von dem Anbieter.",
+          "source": "Investing.com/dpa-AFX, 15.11.",
+          "url": "https://de.investing.com/news/economy-news/roundup-2-microsoftburoprogramme-laufen-nach-storung-wieder-3768815"
+        },
+        {
           "tag": "Gedenken",
           "title": "Volkstrauertag: Gedenkstunde im Bundestag ohne Kanzler Merz",
           "text": "Im Plenarsaal des Reichstagsgebäudes fand am Sonntagmittag die zentrale Gedenkstunde zum Volkstrauertag statt; die Gedenkrede hielt Österreichs Bundespräsident Alexander Van der Bellen. Anwesend waren unter anderem Bundespräsident Steinmeier, Bundestagspräsidentin Klöckner, Bundesratspräsident Wüst und Verteidigungsminister Pistorius. Kanzler Merz nahm nicht teil, Gründe wurden zunächst nicht bekannt.",
           "source": "ad-hoc-news, 15.11.",
           "url": "https://www.ad-hoc-news.de/politik/volkstrauertag-merz-fehlt-bei-gedenkstunde-im-bundestag/70517094"
-        },
-        {
-          "tag": "Gesundheit",
-          "title": "Termin gegen Geld? SPD und Grüne lehnen mehr Selbstzahler-Termine ab",
-          "text": "Kassenärzte-Chef Andreas Gassen erwartet wegen Honorarkürzungen von drei Milliarden Euro mehr Selbstzahler-Termine beim Facharzt. Vizekanzler Klingbeil lehnt Zusatzkosten für Kassenpatienten ab und fordert von der CDU mehr Tempo bei der vereinbarten Termingarantie; auch die Grünen weisen den Vorstoß zurück. Der GKV-Spitzenverband nennt ihn skandalös, der Sozialverband Deutschland unsolidarisch.",
-          "source": "ZDFheute, 14.11.",
-          "url": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html"
         }
       ]
     },
@@ -80,25 +80,25 @@
           "url": "https://berliner-kurier.de/article/achtjaehriges-maedchen-stirbt-bei-tragischem-unfall-in-berlin-10599434"
         },
         {
-          "tag": "Demo · Polizei",
-          "title": "Gen-Z-Demo am Kurfürstendamm: Polizei meldet 28 Strafanzeigen und drei verletzte Beamte",
-          "text": "Am Samstagabend zogen rund 1.200 Menschen über den Kurfürstendamm, angemeldet waren 100; etwa 700 Polizisten waren im Einsatz. Die Polizei bilanzierte am Sonntag 28 Strafanzeigen, unter anderem wegen Landfriedensbruchs, tätlichen Angriffs, Widerstands und Verstößen gegen Sprengstoffvorschriften, sowie drei verletzte Beamte. Die Zahl der vorläufigen Festnahmen wird mit 20 bis 22 angegeben; bundesweit kamen deutlich weniger Menschen als bei den Protesten vor zwei Wochen.",
-          "source": "Tagesspiegel/dpa, 15.11.",
-          "url": "https://www.tagesspiegel.de/berlin/dpa-demonstrationen-1200-menschen-bei-gen-z-demo-in-berlin-28-strafanzeigen-16286262.html"
+          "tag": "Polizei · Brand",
+          "title": "Gropiusstadt: Zehn Fahrzeuge brennen in der Nacht – 28 Strafanzeigen nach Gen-Z-Demo",
+          "text": "Am Kölner Damm in Gropiusstadt standen in der Nacht zu Sonntag gegen 2 Uhr ein Lkw sowie mehrere Transporter und Pkw auf rund 200 Metern in Flammen, insgesamt zehn Fahrzeuge; die Straße war bis etwa 5 Uhr gesperrt, ein Brandkommissariat des Landeskriminalamts ermittelt wegen des Verdachts der Brandstiftung. Zur Gen-Z-Demo am Samstagabend auf dem Kurfürstendamm mit rund 1.200 Teilnehmern (angemeldet waren 100) bilanzierte die Polizei 28 Strafanzeigen, drei verletzte Beamte und 20 bis 22 vorläufige Festnahmen.",
+          "source": "Tagesspiegel, 15.11.",
+          "url": "https://www.tagesspiegel.de/berlin/zehn-fahrzeuge-gehen-in-flammen-auf-lkw-transporter-und-pkw-brennen-in-berlin-gropiusstadt-16286238.html"
         },
         {
           "tag": "S-Bahn · Verkehr",
           "title": "Stadtbahn bis Montagfrüh gesperrt: Keine S-Bahn zwischen Friedrichstraße und Tiergarten",
-          "text": "Die Linien S3, S5, S7 und S9 sind bis Montag Betriebsbeginn unterbrochen, es fahren Ersatzbusse. Der RE7 wird über Lichtenberg umgeleitet, die Halte Ostbahnhof und Ostkreuz entfallen. In Köpenick läuft bis 16 Uhr eine Demonstration; am Abend ist wegen eines Eishockeyspiels in der Uber Arena (19:30 Uhr) rund um die Warschauer Straße mit mehr Verkehr zu rechnen.",
+          "text": "Die Linien S3, S5, S7 und S9 sind bis Montag Betriebsbeginn unterbrochen, es fahren Ersatzbusse. Der RE7 wird über Lichtenberg umgeleitet, die Halte Ostbahnhof und Ostkreuz entfallen. Am Abend ist wegen eines Eishockeyspiels in der Uber Arena (19:30 Uhr) rund um die Warschauer Straße mit mehr Verkehr zu rechnen.",
           "source": "Verkehrsinformationszentrale Berlin, 15.11.",
           "url": "https://viz.berlin.de/aktuelle-meldungen/verkehrsvorschau-fur-das-wochenende/"
         },
         {
           "tag": "Landespolitik",
-          "title": "Koalitionsverhandlungen: Linke bittet im Fall Emde um Geduld",
-          "text": "Linke-Chef Luigi Pantisano verweist beim geplanten Fraktionsausschluss der Abgeordneten Vanessa Emde auf feste Verfahren und Fristen; nötig ist eine Zweidrittelmehrheit, abgestimmt wird frühestens am 24. November. Altkanzlerin Merkel sprach sich gegen ein Bündnis mit der Berliner Linken aus. Linke, Grüne und SPD wollen ihre Verhandlungen im Januar abschließen.",
-          "source": "Tagesspiegel, 14.11.",
-          "url": "https://www.tagesspiegel.de/berlin/liveblog/angela-merkel-uber-mogliches-linksbundnis-in-berlin-also-ich-wurde-das-nicht-machen-16053722.html"
+          "title": "Fall Emde: Ramelow legt Abgeordneter Austritt aus der Linksfraktion nahe",
+          "text": "Der Linken-Politiker Bodo Ramelow sagte im ZDF, die Berliner Abgeordnete Vanessa Emde solle die Fraktion aus eigenem Antrieb verlassen; um ihre Haltung gehe es ihm dabei nicht. Der Berliner Grünen-Politiker Werner Graf begrüßte das Verfahren zum Fraktionsausschluss. Dafür ist eine Zweidrittelmehrheit nötig, abgestimmt wird frühestens am 24. November; Linke, Grüne und SPD wollen ihre Koalitionsverhandlungen im Januar abschließen.",
+          "source": "ZDFheute, 15.11.",
+          "url": "https://www.zdfheute.de/politik/deutschland/ramelow-linke-koalition-berlin-emde-fraktionsausschluss-100.html"
         }
       ]
     },
@@ -108,10 +108,10 @@
       "items": [
         {
           "tag": "Iran",
-          "title": "Iran meldet Angriff auf US-Radar in Bahrain und brennende Tanker bei Hormus – Ghalibaf droht mit Ausweitung",
-          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain getroffen; zudem seien südlich der Straße von Hormus zwei Öltanker auf Minen gelaufen und in Brand geraten, weil sie eine nicht genehmigte Route genutzt hätten. Bahrains Militär spricht von abgewehrten Angriffen und einer systematischen Aggression Teherans; unabhängig prüfen lassen sich die Angaben nicht. Parlamentspräsident Ghalibaf sagte, Iran werde keinen Zustand zwischen Krieg und Frieden hinnehmen, und drohte bei einem „Fehler“ der USA mit einer geografischen Ausweitung des Konflikts. Laut Reuters erwägt Trump, auf neue Angriffe zu verzichten, solange es keine weiteren Provokationen gibt.",
-          "source": "Al Jazeera Liveblog, 15.11.",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
+          "title": "Iran greift zum zweiten Mal binnen drei Tagen Bahrain an – Revolutionsgarden nennen Straße von Hormus „geschlossen“",
+          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain angegriffen; zudem seien südlich der Straße von Hormus zwei Öltanker auf Minen gelaufen und in Brand geraten. Bahrains Militär teilte mit, die Luftabwehr habe die Angriffe abgefangen, bevor sie ihr Ziel erreichten; unabhängig prüfen lassen sich die Angaben nicht. Laut BBC ist es der zweite Angriff auf das Land in drei Tagen, beim ersten am Freitag gab es nach US-Angaben weder Verletzte noch Schäden. Die Garden erklärten die Meerenge für geschlossen und drohten für den Fall einer US-Aggression mit einer härteren Antwort, Parlamentspräsident Ghalibaf mit einer geografischen Ausweitung des Konflikts. Laut Reuters erwägt Trump, auf neue Angriffe zu verzichten, solange es keine weiteren Provokationen gibt.",
+          "source": "BBC, 15.11.",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
         },
         {
           "tag": "Ukraine",
@@ -123,16 +123,16 @@
         {
           "tag": "USA · Russland · China",
           "title": "Trump, Putin und Xi am Donnerstag in Shenzhen: Kreml bestätigt Putins Teilnahme",
-          "text": "Das erste Dreiertreffen der Staatschefs soll am 19. November am Rande des Apec-Gipfels stattfinden; Moskau hat Putins Teilnahme am Sonntagmorgen bestätigt. Themen sind laut Weißem Haus Atomwaffen und der Iran-Krieg, die Ukraine ausdrücklich nicht; ein US-Regierungsvertreter erwartet keine Einigung, sondern den Beginn von Gesprächen. Der Kreml nennt das Treffen äußerst bedeutsam und weist Vergleiche mit Jalta zurück.",
+          "text": "Das erste Dreiertreffen der Staatschefs soll am 19. November am Rande des Apec-Gipfels stattfinden; Moskau hat Putins Teilnahme am Sonntagmorgen bestätigt. Themen sind laut Weißem Haus Atomwaffen und der Iran-Krieg, die Ukraine ausdrücklich nicht; ein US-Regierungsvertreter erwartet keine Einigung, sondern den Beginn von Gesprächen. Australiens Premier Albanese begrüßte das Treffen; europäische Regierungschefs mahnen laut Guardian, Trump dürfe im Ukraine-Krieg keine großen Zugeständnisse machen.",
           "source": "Macau Business/AFP, 15.11.",
           "url": "https://macaubusiness.com/moscow-confirms-trump-xi-putin-meeting-in-china/"
         },
         {
           "tag": "USA · Luftverkehr",
-          "title": "Nach landesweitem Flugstopp: FAA nennt System stabil, Airlines streichen weiter Tausende Flüge",
-          "text": "Die US-Luftfahrtbehörde FAA ließ am Freitag ab 15:36 Uhr Ostküstenzeit vier Stunden lang keine Flugzeuge starten; laut Verkehrsminister Duffy überlastete ein fehlerhafter Router bei Wartungsarbeiten eines Dienstleisters das Netz der Flugsicherung. Die FAA bezeichnet das System inzwischen als stabil, die Fluggesellschaften rechnen aber damit, 4.000 bis 5.000 von rund 41.000 geplanten Flügen zu streichen. FAA-Chef Bryan Bedford erwartet bis Sonntagabend Normalbetrieb, für Montag ist ein Krisentreffen angesetzt.",
-          "source": "Anadolu, 15.11.",
-          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+          "title": "Nach landesweitem Flugstopp: FAA-Chef erwartet Normalbetrieb bis Sonntagabend – weiter über 1.200 Ausfälle",
+          "text": "Die US-Luftfahrtbehörde FAA ließ am Freitag ab 15:36 Uhr Ostküstenzeit vier Stunden lang keine Flugzeuge starten; laut Verkehrsminister Duffy störte der Austausch alter Kupferleitungen gegen Glasfaser die Kommunikation der Flugsicherung, ein Gerät überlastete dabei weitere Router. Nach Angaben von FAA-Chef Bryan Bedford fielen am Freitag 12.000 Flüge aus, am Samstag zählte FlightAware mehr als 6.600 Streichungen, am Sonntagmorgen waren es laut AFP mehr als 1.200. Bedford erwartet bis Sonntagabend wieder den vollen Flugplan; Duffy fordert vom Kongress 50 Mrd. $ für die Modernisierung der Flugsicherung, New Yorks Gouverneurin Hochul verlangt seinen Rücktritt.",
+          "source": "AFP, 15.11.",
+          "url": "https://www.afp.com/en/faa-chief-says-us-air-travel-back-normal-sunday"
         },
         {
           "tag": "Nahost",
@@ -149,9 +149,9 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 65.400 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $, den tiefsten Stand seit vier Monaten, und notierte gegen 14:40 Uhr MEZ bei etwa 65.420 $ (−1,9 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.830 $ (−3,1 %). Beide bewegen sich damit seit dem Vormittag kaum. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von gut 12 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
-          "impact": "Der Kurs pendelt seitwärts und bleibt unter dem 24-Stunden-Hoch von rund 66.900 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
+          "title": "Bitcoin bei rund 64.800 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $, den tiefsten Stand seit vier Monaten, und notierte gegen 15:40 Uhr MEZ bei etwa 64.770 $ (−1,8 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.808 $ (−2,2 %). Gegenüber dem frühen Nachmittag haben beide leicht nachgegeben. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von gut 13 %; es wäre der sechste Wochenverlust in Folge. Auf Sieben-Tage-Sicht weist CoinGecko für Bitcoin −13,8 % und für Ether −18,1 % aus. Binnen 24 Stunden wurden Terminpositionen über rund 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "impact": "Der Kurs bleibt in der Spanne zwischen dem Nachttief und dem 24-Stunden-Hoch von rund 66.160 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
           "source": "CoinGecko, 15.11.",
           "url": "https://www.coingecko.com/en/coins/bitcoin"
         },

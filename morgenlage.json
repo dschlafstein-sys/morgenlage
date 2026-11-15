@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "16:42",
+  "stand": "17:41",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.685 $",
-      "change": "▼ 0,8 % · 24 h",
+      "value": "64.549 $",
+      "change": "▼ 1,2 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.809 $",
-      "change": "▼ 1,1 % · 24 h",
+      "value": "1.814 $",
+      "change": "▼ 0,5 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto am Nachmittag kaum verändert: Bitcoin notiert bei rund 64.700 $ (−0,8 % in 24 Stunden), Ether bei rund 1.810 $ (−1,1 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von gut 13 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
-    "Nahost und Ukraine: Iran hat zum zweiten Mal binnen drei Tagen Bahrain mit Drohnen angegriffen, Bahrain meldet die Angriffe als abgefangen; nach iranischen Angaben ist in der Straße von Hormus ein Supertanker nach einem Minentreffer gesunken. Im Jemen ziehen sich die Regierungstruppen vom Bab al-Mandeb zurück, die Huthi melden einen Vormarsch auf Aden. Russland und die Ukraine melden Tote und Verletzte nach gegenseitigen Angriffen; die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
-    "Berlin und Bund: Nach dem Tod eines achtjährigen Mädchens unter einem BVG-Bus in Tiergarten ermittelt die Polizei gegen den 55-jährigen Fahrer wegen des Verdachts der Unfallflucht; die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten, am Montagabend wird zum Länderspiel rund um das Olympiastadion gesperrt. In der SPD fordert Hubertus Heil Parteichef Klingbeil heraus, der seine Doppelrolle verteidigt; der Handwerkspräsident warnt vor einem stillen Sterben der Betriebe, am Dienstag berät der Koalitionsausschuss über die Stromsteuer."
+    "Krypto am frühen Abend weiter schwach: Bitcoin notiert bei rund 64.550 $ (−1,2 % in 24 Stunden), Ether bei rund 1.814 $ (−0,5 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von gut 13 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
+    "Nahost und Ukraine: Iran hat zum zweiten Mal binnen drei Tagen Bahrain mit Drohnen angegriffen, Bahrain meldet die Angriffe als abgefangen; das US-Militär bestreitet den zuvor behaupteten Radartreffer. Im Jemen ziehen sich die von Saudi-Arabien gestützten Regierungstruppen vom Bab al-Mandeb in Richtung Aden zurück; Irans Außenminister reist am Dienstag zu Gesprächen nach Oman. Selenskyj wirft SpaceX vor, gedrosselte Starshield-Terminals behinderten die Drohnenabwehr; in Odessa sind 41.000 Haushalte ohne Strom.",
+    "Berlin und Bund: Nach dem Tod eines achtjährigen Mädchens unter einem BVG-Bus in Tiergarten ermittelt die Polizei gegen den 55-jährigen Fahrer wegen des Verdachts der Unfallflucht; der Staatsschutz prüft ein Bekennerschreiben zum Brandanschlag auf das Auto von Nius-Chef Reichelt. Die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten. In der SPD stellt sich der Landesverband Sachsen-Anhalt hinter Herausforderer Hubertus Heil, Klingbeil verteidigt seine Doppelrolle; am Dienstag berät der Koalitionsausschuss über die Stromsteuer."
   ],
   "sections": [
     {
@@ -40,10 +40,10 @@
       "items": [
         {
           "tag": "Parteien",
-          "title": "SPD-Vorsitz: Heil tritt an – Klingbeil verteidigt vor der Basis seine Doppelrolle",
-          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt; gewählt wird auf einem Parteitag im Januar in Bremen. Für Lars Klingbeil sprachen sich nach Umweltminister Schneider und Fraktionschef Miersch auch Justizministerin Hubig und Bauministerin Hubertz aus, die Jusos lehnen eine erneute Kandidatur ab. Klingbeil stellte sich am Sonntag in Potsdam knapp zweieinhalb Stunden lang rund 120 Mitgliedern der Brandenburger SPD und verteidigte, Parteichef und Finanzminister zugleich zu sein; die Partei dürfe nicht in zwei Lager zerfallen. Ob er erneut antritt, ließ er offen und verwies auf den Zeitplan: Spätestens am 16. Dezember soll ein Personalvorschlag stehen. Dem Parteitag liegt ein Antrag vor, beide Ämter zu trennen.",
-          "source": "Tagesspiegel/dpa, 15.11.",
-          "url": "https://www.tagesspiegel.de/potsdam/brandenburg/dpa-antrage-fur-parteitag-spd-chef-bei-der-basis-klingbeil-verteidigt-doppelrolle-16286374.html"
+          "title": "SPD-Vorsitz: Sachsen-Anhalts SPD stellt sich hinter Heil – Klingbeil verteidigt seine Doppelrolle",
+          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt. Am Sonntag stellte sich mit Sachsen-Anhalt ein erster Landesverband hinter ihn; Ko-Landeschef Andreas Schmidt wirbt zudem für Manuela Schwesig als Ko-Vorsitzende. Für Lars Klingbeil sprachen sich Umweltminister Schneider, Fraktionschef Miersch, Justizministerin Hubig und Bauministerin Hubertz aus, die Jusos lehnen eine erneute Kandidatur ab. Klingbeil verteidigte in Potsdam vor rund 120 Mitgliedern der Brandenburger SPD, Parteichef und Finanzminister zugleich zu sein, und ließ offen, ob er wieder antritt. Spätestens am 16. Dezember soll ein Personalvorschlag stehen, gewählt wird auf dem Parteitag am 16. und 17. Januar in Bremen; dort liegt ein Antrag vor, beide Ämter zu trennen.",
+          "source": "MDR, 15.11.",
+          "url": "https://www.mdr.de/nachrichten/deutschland/politik/spd-vorsitz-heil-klingbeil-schwesig,hubertus-heil-214.html"
         },
         {
           "tag": "Politik",
@@ -75,16 +75,16 @@
         {
           "tag": "Unfall · BVG",
           "title": "Tiergarten: Achtjährige von BVG-Bus überrollt – Polizei ermittelt gegen Fahrer wegen Unfallflucht",
-          "text": "Am Samstag starb ein achtjähriges Mädchen, das mit seiner Mutter auf dem Radstreifen der Potsdamer Straße unterwegs war, an der Ecke Lützowstraße. Nach Polizeiangaben fuhren Bus und Radfahrerinnen an der Ampel gleichzeitig an, das Kind geriet aus ungeklärter Ursache ins Schlingern und wurde überrollt; es starb an der Unfallstelle, die Mutter erlitt einen Schock. Der 55-jährige Busfahrer fuhr zunächst weiter und wurde an einer späteren Haltestelle gestoppt, gegen ihn wird wegen des Verdachts der Verkehrsunfallflucht ermittelt. Die BVG äußerte sich tief betroffen und unterstützt die Ermittlungen.",
-          "source": "Berliner Kurier, 15.11.",
-          "url": "https://berliner-kurier.de/article/achtjaehriges-maedchen-stirbt-bei-tragischem-unfall-in-berlin-10599434"
+          "text": "Am Samstag starb ein achtjähriges Mädchen, das mit seiner Mutter auf dem Radstreifen der Potsdamer Straße unterwegs war, an der Ecke Lützowstraße. Nach Polizeiangaben fuhren Bus und Radfahrerinnen an der Ampel gleichzeitig an, das Kind geriet aus ungeklärter Ursache ins Schlingern und wurde überrollt; es starb an der Unfallstelle, die Mutter erlitt einen Schock. Der 55-jährige Busfahrer fuhr zunächst weiter und wurde an einer späteren Haltestelle gestoppt, gegen ihn wird wegen des Verdachts der Verkehrsunfallflucht ermittelt. Die BVG äußerte sich tief betroffen und unterstützt die Ermittlungen. Am Sonntag trauerten viele Menschen an der Unfallstelle; Anwohner halten die Kreuzung laut Berliner Morgenpost für besonders gefährlich.",
+          "source": "Tagesspiegel, 15.11.",
+          "url": "https://www.tagesspiegel.de/berlin/todlicher-unfall-in-berlin-kind-sturzt-mit-rad-und-wird-von-bus-uberrollt-16285790.html"
         },
         {
-          "tag": "Polizei · Brand",
-          "title": "Gropiusstadt: Zehn Fahrzeuge brennen in der Nacht – 28 Strafanzeigen nach Gen-Z-Demo",
-          "text": "Am Kölner Damm in Gropiusstadt standen in der Nacht zu Sonntag gegen 2 Uhr ein Lkw sowie mehrere Transporter und Pkw auf rund 200 Metern in Flammen, insgesamt zehn Fahrzeuge; die Straße war bis etwa 5 Uhr gesperrt, ein Brandkommissariat des Landeskriminalamts ermittelt wegen des Verdachts der Brandstiftung. Zur Gen-Z-Demo am Samstagabend auf dem Kurfürstendamm mit rund 1.200 Teilnehmern (angemeldet waren 100) bilanzierte die Polizei 28 Strafanzeigen, drei verletzte Beamte und 20 bis 22 vorläufige Festnahmen.",
-          "source": "Tagesspiegel, 15.11.",
-          "url": "https://www.tagesspiegel.de/berlin/zehn-fahrzeuge-gehen-in-flammen-auf-lkw-transporter-und-pkw-brennen-in-berlin-gropiusstadt-16286238.html"
+          "tag": "Polizei",
+          "title": "Staatsschutz prüft Bekennerschreiben zum Brandanschlag auf Reichelts Auto – zehn Fahrzeuge brennen in Gropiusstadt",
+          "text": "Nach der Brandstiftung am Auto von Nius-Chefredakteur Julian Reichelt in der Nacht zu Freitag in Charlottenburg prüft der Staatsschutz ein auf der Plattform Indymedia veröffentlichtes Bekennerschreiben; ob es echt ist, ist laut Polizei offen, zu Tatverdächtigen gab es am Sonntag keine Angaben. In Gropiusstadt brannten in der Nacht zu Sonntag am Kölner Damm zehn Fahrzeuge, darunter ein Lkw; ein Brandkommissariat des Landeskriminalamts ermittelt wegen des Verdachts der Brandstiftung. In Wilhelmsruh prügelten sich am Samstagabend auf einer Verlobungsfeier 20 bis 30 Menschen, es gab acht Verletzte und sechs Festnahmen. Zur Gen-Z-Demo auf dem Kurfürstendamm mit rund 1.200 Teilnehmern bilanzierte die Polizei 28 Strafanzeigen und drei verletzte Beamte.",
+          "source": "Tagesschau/rbb, 15.11.",
+          "url": "https://www.tagesschau.de/inland/regional/berlin/nius-chef-reichelt-auto-angezuendet-bekennerschreiben-100.html"
         },
         {
           "tag": "S-Bahn · Verkehr",
@@ -96,7 +96,7 @@
         {
           "tag": "Landespolitik",
           "title": "Fall Emde: Ramelow legt Abgeordneter Austritt aus der Linksfraktion nahe",
-          "text": "Der Linken-Politiker Bodo Ramelow sagte im ZDF, die Berliner Abgeordnete Vanessa Emde solle die Fraktion aus eigenem Antrieb verlassen; um ihre Haltung gehe es ihm dabei nicht. Der Berliner Grünen-Politiker Werner Graf begrüßte das Verfahren zum Fraktionsausschluss. Dafür ist eine Zweidrittelmehrheit nötig, abgestimmt wird frühestens am 24. November; Linke, Grüne und SPD wollen ihre Koalitionsverhandlungen im Januar abschließen.",
+          "text": "Der Linken-Politiker Bodo Ramelow sagte im ZDF, die Berliner Abgeordnete Vanessa Emde solle die Fraktion aus eigenem Antrieb verlassen; um ihre Haltung gehe es ihm dabei nicht. Der Berliner Grünen-Politiker Werner Graf begrüßte das Verfahren zum Fraktionsausschluss. Dafür ist eine Zweidrittelmehrheit nötig, abgestimmt wird frühestens am 24. November; Linke, Grüne und SPD wollen ihre Koalitionsverhandlungen im Januar abschließen. Im Bezirk Mitte hat die Linke laut Tagesspiegel ihre Gespräche mit den Grünen im Streit um ein Antisemitismuspapier und einen Posten abgebrochen.",
           "source": "ZDFheute, 15.11.",
           "url": "https://www.zdfheute.de/politik/deutschland/ramelow-linke-koalition-berlin-emde-fraktionsausschluss-100.html"
         }
@@ -108,17 +108,17 @@
       "items": [
         {
           "tag": "Iran",
-          "title": "Iran greift erneut Bahrain an – laut Teheran Supertanker nach Minentreffer in der Straße von Hormus gesunken",
-          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten ein US-Radar auf dem Stützpunkt Riffa in Bahrain angegriffen. Bahrains Militär teilte mit, die Luftabwehr habe mehrere Angriffe abgefangen; das US-Militär äußerte sich zunächst nicht. Es ist der zweite gemeldete Angriff binnen drei Tagen, beim ersten am Freitag gab es nach US-Angaben weder Verletzte noch Schäden. Die Garden nennen die Straße von Hormus weiter geschlossen; nach ihren Angaben und denen der Agentur ISNA gerieten zwei Tanker nach Minentreffern in Brand, einer davon, ein Supertanker mit mehr als zwei Millionen Barrel Rohöl, sei gesunken. Unabhängig bestätigt ist das nicht. Teheran wies am Nachmittag eine deutsche Forderung zurück, die Urananreicherung zu stoppen; Parlamentspräsident Ghalibaf sagte, Iran habe über Katar sieben Bedingungen für ein Kriegsende übermittelt und warte auf die Antwort der USA. US-Außenminister Rubio warf Iran eine expansionistische Haltung vor.",
-          "source": "Al Jazeera Liveblog, 15.11.",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
+          "title": "Iran greift erneut Bahrain an – USA bestreiten Radartreffer, Araghtschi reist nach Oman",
+          "text": "Die Revolutionsgarden erklärten am Sonntag, sechs Drohnen hätten einen US-Stützpunkt in Bahrain angegriffen, als Vergeltung für feindliche US-Aktionen. Bahrain meldet mehrere Angriffe als abgefangen, die ersten Abschüsse seiner Luftabwehr seit September, und löste kurzzeitig landesweit Alarm aus. Den am Freitag von Iran behaupteten Treffer auf ein US-Frühwarnradar bestreitet das US-Militär: Zwei Drohnen seien ohne Schaden abgefangen worden. Nach Angaben der Garden brannten am Sonntag zwei Tanker nach Minentreffern in der Straße von Hormus, laut der Agentur ISNA sank ein Supertanker; Reuters konnte das nicht unabhängig prüfen. Präsident Trump hatte zuletzt erklärt, er könne auf Angriffe verzichten, wenn neue Provokationen ausbleiben, hält aber an der Seeblockade fest. Die Diplomatie stockt; Irans Außenminister Araghtschi reist am Dienstag zu Gesprächen nach Oman.",
+          "source": "Reuters, 15.11.",
+          "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
         },
         {
           "tag": "Ukraine",
-          "title": "Tote und Verletzte bei Angriffen auf beiden Seiten – USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
-          "text": "In Saporischschja wurden bei einem russischen Raketeneinschlag nach Behördenangaben mindestens 22 Menschen verletzt, darunter drei Kinder; im Gebiet Tschernihiw starben zwei Männer bei einem Drohnenangriff auf eine Energieanlage, in Pawlohrad ein weiterer Mann. Russland meldet einen Toten im Gebiet Rostow sowie einen Drohnentreffer auf eine Industrieanlage in Nischnekamsk in Tatarstan mit drei Verletzten; zudem soll die Ukraine den Militärflugplatz Achtubinsk angegriffen haben, was nicht bestätigt ist. Politisch stellen die USA Kiew nach Selenskyjs Angaben die NATO-Mitgliedschaft gegen einen Rückzug aus dem Donbass in Aussicht; er würde darüber per Referendum entscheiden lassen und lehnt einen neutralen Status ab.",
-          "source": "Tagesschau, 15.11.",
-          "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
+          "title": "Selenskyj: Gedrosselte Starshield-Terminals behindern Drohnenabwehr – 41.000 Haushalte in Odessa ohne Strom",
+          "text": "Präsident Selenskyj wirft SpaceX vor, die Geschwindigkeit der Starshield-Terminals an der Front zu begrenzen: Abfangdrohnen verlören oberhalb von 161 km/h die Verbindung und könnten schnelle russische Schahed-Drohnen nicht einholen. Starlink bestreitet eine Drosselung. In Odessa fiel nach einem nächtlichen Angriff auf eine Energieanlage für 41.000 Haushalte der Strom aus; die Ukraine meldet 106 von 132 Drohnen als abgeschossen. Russland meldet einen Toten und vier Verletzte in Taganrog sowie sechs Verletzte in Nischnekamsk in Tatarstan; die Ukraine griff nach eigenen Angaben den Militärflugplatz Achtubinsk und ein Rüstungswerk im Gebiet Brjansk an. Politisch stellen die USA Kiew laut Selenskyj die NATO-Mitgliedschaft gegen einen Rückzug aus dem Donbass in Aussicht.",
+          "source": "Al Jazeera, 15.11.",
+          "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy"
         },
         {
           "tag": "USA · Russland · China",
@@ -129,15 +129,15 @@
         },
         {
           "tag": "Jemen",
-          "title": "Jemens Regierungstruppen ziehen sich vom Bab al-Mandeb zurück – Huthi melden Vormarsch auf Aden",
-          "text": "Die Armee der international anerkannten Regierung des Jemen verlegt nach eigenen Angaben Truppen von der Meerenge Bab al-Mandeb und weiteren Küstengebieten am Roten Meer ab; ein Sprecher spricht von einer Neuaufstellung, um Aden zu sichern und die Belagerung von Taiz zu brechen. Die Huthi erklären, die Regierungstruppen hätten sich vollständig zurückgezogen, und melden einen Vormarsch auf Aden, den Sitz der Regierung. Die von Saudi-Arabien geführte Koalition fing nach eigenen Angaben zwei Drohnen mit Kurs auf die Region Mekka ab. Zugleich ließen die Huthi rund 600 Gefangene frei, was das Rote Kreuz bestätigte.",
-          "source": "Al Jazeera Liveblog, 15.11.",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
+          "title": "Jemens Regierungstruppen ziehen sich vom Bab al-Mandeb in Richtung Aden zurück",
+          "text": "Die von Saudi-Arabien gestützten Regierungstruppen haben nach eigenen Angaben den Flughafen Dhubab und das Gebiet am Bab al-Mandeb geräumt und sich in Richtung Aden zurückgezogen; Militärkreise nennen als neue Stellung al-Suqyah, rund 150 Kilometer westlich von Aden. Die Huthi stehen laut Reuters kurz vor dem Bezirk Tur al-Bahah. Nach Angaben von Al Jazeera melden die Huthi einen Vormarsch auf Aden und ließen rund 600 Gefangene frei, was das Rote Kreuz bestätigte; Reuters lag zunächst keine Stellungnahme der Huthi oder Saudi-Arabiens vor.",
+          "source": "Reuters, 15.11.",
+          "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
         },
         {
           "tag": "Nahost",
-          "title": "Israel tötet ranghohen Hamas-Kommandeur im Gazastreifen",
-          "text": "Bei einem israelischen Luftangriff in Chan Junis im Süden des Gazastreifens wurde am Samstag Samir Abu Junis getötet, der Kommandeur der Rafah-Brigade; die Hamas hat seinen Tod bestätigt. Nach Angaben aus Israel und Gaza war er an Planung und Leitung des Angriffs vom 7. Oktober 2023 beteiligt. Verteidigungsminister Israel Katz kündigte an, die Angriffe fortzusetzen, bis der Gazastreifen entwaffnet sei; die Türkei und 17 weitere Staaten verurteilten einen israelischen Luftangriff auf das Nasser-Krankenhaus in Chan Junis.",
+          "title": "Israel tötet ranghohen Hamas-Kommandeur – Trauerfeier für rund 70 Tote in Gaza",
+          "text": "Bei einem israelischen Luftangriff in Chan Junis wurde am Samstag Samir Abu Junis getötet, der Kommandeur der Rafah-Brigade; die Hamas hat seinen Tod bestätigt. Verteidigungsminister Israel Katz kündigte an, die Angriffe fortzusetzen, bis der Gazastreifen entwaffnet sei; die Türkei und 17 weitere Staaten verurteilten einen israelischen Luftangriff auf das Nasser-Krankenhaus. Am Sonntag nahmen Tausende Palästinenser an der Beisetzung von rund 70 Menschen teil, deren sterbliche Überreste aus zerstörten Gebäuden geborgen worden waren.",
           "source": "Al Jazeera, 15.11.",
           "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
         }
@@ -149,35 +149,35 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 64.700 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $, den tiefsten Stand seit vier Monaten, und notierte gegen 16:40 Uhr MEZ bei etwa 64.685 $ (−0,8 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.809 $ (−1,1 %). Gegenüber dem Stand von vor einer Stunde hat sich der Kurs kaum bewegt. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von gut 13 %; es wäre der sechste Wochenverlust in Folge. Auf Sieben-Tage-Sicht weist CoinGecko für Bitcoin rund −14,5 % und für Ether −19,0 % aus. Binnen 24 Stunden wurden Terminpositionen über rund 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "title": "Bitcoin bei rund 64.550 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.080 $, den tiefsten Stand seit vier Monaten, und notierte gegen 17:40 Uhr MEZ bei etwa 64.549 $ (−1,2 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.814 $ (−0,5 %). Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von gut 13 %; es wäre der sechste Wochenverlust in Folge. Auf Sieben-Tage-Sicht weist CoinGecko für Bitcoin rund −14,8 % und für Ether −19,2 % aus. Binnen 24 Stunden wurden Terminpositionen über rund 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
           "source": "CoinGecko, 15.11.",
           "url": "https://www.coingecko.com/en/coins/bitcoin",
-          "impact": "Der Kurs bleibt in der Spanne zwischen dem Nachttief und dem 24-Stunden-Hoch von rund 66.000 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder."
+          "impact": "Der Kurs bleibt in der Spanne zwischen dem Nachttief und dem 24-Stunden-Hoch von rund 66.000 $. Am Wochenende ist der Handel dünn; um Mitternacht MEZ öffnet die Terminbörse CME wieder, wo laut CryptoTicker eine Kurslücke bei rund 68.200 $ offen ist, der Wochenschluss folgt um 1 Uhr MEZ."
         },
         {
           "tag": "Fed · Inflation",
           "title": "Markt preist Zinserhöhung im Dezember voll ein",
           "text": "Das CME-FedWatch-Tool zeigte am Samstag 88,5 % für einen Schritt um 0,25 und 11,5 % für 0,5 Punkte; am 6. November lag die Wahrscheinlichkeit für den kleinen Schritt noch bei 76,3 %. Auf zwölf Monate sind rund 64 Basispunkte an Erhöhungen eingepreist, Anfang November waren es 37. Die Rendite zehnjähriger US-Staatsanleihen schloss am Freitag bei 5,15 %.",
-          "impact": "Höhere Zinsen und Anleiherenditen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Bis zur Fed-Sitzung am 8./9. Dezember bleibt das der bestimmende Faktor.",
           "source": "Bitcoin.com News, 14.11.",
-          "url": "https://news.bitcoin.com/market-updates/fed-rate-hike-odds-reach-near-certainty-as-bitcoin-price-falls-to-65k/"
+          "url": "https://news.bitcoin.com/market-updates/fed-rate-hike-odds-reach-near-certainty-as-bitcoin-price-falls-to-65k/",
+          "impact": "Höhere Zinsen und Anleiherenditen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Bis zur Fed-Sitzung am 8./9. Dezember bleibt das der bestimmende Faktor."
         },
         {
           "tag": "ETF-Flüsse · Liquidität",
           "title": "Bitcoin-ETFs: zweite Woche in Folge über 1 Mrd. $ Abfluss",
           "text": "Aus den US-Spot-Bitcoin-ETFs flossen vom 9. bis 13. November rund 1,07 Mrd. $ ab, über sieben Handelstage in Folge zusammen 1,91 Mrd. $; allein am Freitag waren es 185,4 Mio. $. Ether-ETFs verloren in der Woche 398,9 Mio. $, verbuchten am Freitag aber einen kleinen Zufluss. Laut Coinbase Institutional schrumpfte das Angebot der großen Stablecoins binnen 30 Tagen um 11,5 Mrd. $.",
-          "impact": "Die institutionelle Nachfrage fehlt weiterhin, und sinkende Stablecoin-Bestände bedeuten weniger Kaufkraft im Markt. Die ersten ETF-Daten am Montag zeigen, ob die Abflussserie anhält.",
           "source": "The Block, 14.11.",
-          "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
+          "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+          "impact": "Die institutionelle Nachfrage fehlt weiterhin, und sinkende Stablecoin-Bestände bedeuten weniger Kaufkraft im Markt. Die ersten ETF-Daten am Montag zeigen, ob die Abflussserie anhält."
         },
         {
           "tag": "Indizes · Unternehmen",
           "title": "Strategy fällt aus den MSCI-Indizes – Miner MARA verkauft Bitcoin für 1,1 Mrd. $",
           "text": "Der Indexanbieter MSCI nimmt den größten börsennotierten Bitcoin-Halter Strategy (MSTR) nach Börsenschluss am 30. November aus seinen globalen Indizes; Schätzungen nennen passive Abflüsse von rund 2 bis 3 Mrd. $. Strategy hält 850.364 Bitcoin zu einem Durchschnittspreis von 75.456 $ und liegt damit im Minus. Der Miner MARA hat 13.597 Bitcoin, rund 40 % seines Bestands, für 1,1 Mrd. $ verkauft, überwiegend um Kredite zu tilgen.",
-          "impact": "Der MSCI-Verkaufsdruck trifft zunächst die Aktie, nicht Bitcoin selbst; ein niedrigerer Aktienkurs erschwert Strategy aber die Finanzierung weiterer Käufe. Verkäufe von Minern bringen dagegen direkt zusätzliches Angebot in den Markt.",
           "source": "CryptoPotato, 15.11.",
-          "url": "https://cryptopotato.com/strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin/"
+          "url": "https://cryptopotato.com/strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin/",
+          "impact": "Der MSCI-Verkaufsdruck trifft zunächst die Aktie, nicht Bitcoin selbst; ein niedrigerer Aktienkurs erschwert Strategy aber die Finanzierung weiterer Käufe. Verkäufe von Minern bringen dagegen direkt zusätzliches Angebot in den Markt."
         },
         {
           "tag": "Termin",
@@ -189,7 +189,7 @@
         {
           "tag": "Termin",
           "title": "Di 17.11.: Koalitionsausschuss zur Stromsteuer",
-          "text": "Dazu voraussichtlich die offizielle Bekanntgabe zum Masern-Status der USA.",
+          "text": "Dazu Irans Außenminister Araghtschi zu Gesprächen in Oman.",
           "source": "",
           "url": ""
         },

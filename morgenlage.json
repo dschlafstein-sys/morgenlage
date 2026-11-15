@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "11:48",
+  "stand": "14:42",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "65.470 $",
-      "change": "▼ 2,6 % · 24 h",
+      "value": "65.420 $",
+      "change": "▼ 1,9 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.826 $",
-      "change": "▼ 4,2 % · 24 h",
+      "value": "1.830 $",
+      "change": "▼ 3,1 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto bleibt nach dem Nachttief unter Druck: Bitcoin notiert bei rund 65.500 $ (−2,6 % in 24 Stunden), Ether bei rund 1.826 $; in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 12 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
-    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain, erklären die Straße von Hormus für geschlossen und machen die arabischen Nachbarstaaten mitverantwortlich; Bahrain spricht von abgewehrten Angriffen. Die Ukraine soll in der Nacht den russischen Militärflugplatz Achtubinsk angegriffen haben, die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
-    "Berlin und Bund: Nach der Gen-Z-Demo am Kurfürstendamm meldet die Polizei 28 Strafanzeigen und drei verletzte Beamte; in Tiergarten starb am Samstag ein achtjähriges Mädchen unter einem BVG-Bus. Heute fährt keine S-Bahn zwischen Friedrichstraße und Tiergarten, um 13:30 Uhr beginnt die Gedenkstunde im Reichstag. In der SPD fordert Hubertus Heil Parteichef Klingbeil heraus, vor dem Koalitionsausschuss am Dienstag wächst in der CDU der Druck auf Merz bei der Stromsteuer."
+    "Krypto bleibt nach dem Nachttief unter Druck: Bitcoin notiert bei rund 65.400 $ (−1,9 % in 24 Stunden), Ether bei rund 1.830 $ (−3,1 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von gut 12 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
+    "Iran und Ukraine: Irans Revolutionsgarden melden einen Drohnenangriff auf ein US-Radar in Bahrain und zwei nach Minentreffern brennende Tanker südlich der Straße von Hormus; Bahrain spricht von abgewehrten Angriffen, Parlamentspräsident Ghalibaf droht mit einer Ausweitung des Konflikts. Die Ukraine soll in der Nacht den russischen Militärflugplatz Achtubinsk angegriffen haben, die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
+    "Berlin und Bund: Nach dem Tod eines achtjährigen Mädchens unter einem BVG-Bus in Tiergarten ermittelt die Polizei gegen den 55-jährigen Fahrer wegen des Verdachts der Unfallflucht. Im Reichstag fand die Gedenkstunde zum Volkstrauertag ohne Kanzler Merz statt, die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten. In der SPD fordert Hubertus Heil Parteichef Klingbeil heraus, vor dem Koalitionsausschuss am Dienstag wächst in der CDU der Druck auf Merz bei der Stromsteuer."
   ],
   "sections": [
     {
@@ -48,9 +48,16 @@
         {
           "tag": "Politik",
           "title": "Stromsteuer vor dem Koalitionsausschuss: Druck auf Merz aus der CDU wächst",
-          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur bei solider Gegenfinanzierung und bringt eine höhere Abgeltungssteuer ins Spiel. Aus der CDU verlangen neben Schleswig-Holsteins Ministerpräsident Günther nun auch der Dresdner Kreischef Ingo Flemming und Ex-Generalsekretär Paul Ziemiak, die Zusage einzuhalten. Merz will das Thema am Dienstag im Koalitionsausschuss direkt mit Klingbeil klären.",
+          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur bei solider Gegenfinanzierung und bringt eine höhere Abgeltungssteuer ins Spiel. Aus der CDU verlangen neben Schleswig-Holsteins Ministerpräsident Günther auch der Dresdner Kreischef Ingo Flemming und Ex-Generalsekretär Paul Ziemiak, die Zusage einzuhalten. Merz will das Thema am Dienstag im Koalitionsausschuss direkt mit Klingbeil klären.",
           "source": "Merkur, 15.11.",
           "url": "https://www.merkur.de/politik/koalitionsstreit-um-stromsteuer-union-erhoeht-druck-auf-merz-zr-94590643.html"
+        },
+        {
+          "tag": "Gedenken",
+          "title": "Volkstrauertag: Gedenkstunde im Bundestag ohne Kanzler Merz",
+          "text": "Im Plenarsaal des Reichstagsgebäudes fand am Sonntagmittag die zentrale Gedenkstunde zum Volkstrauertag statt; die Gedenkrede hielt Österreichs Bundespräsident Alexander Van der Bellen. Anwesend waren unter anderem Bundespräsident Steinmeier, Bundestagspräsidentin Klöckner, Bundesratspräsident Wüst und Verteidigungsminister Pistorius. Kanzler Merz nahm nicht teil, Gründe wurden zunächst nicht bekannt.",
+          "source": "ad-hoc-news, 15.11.",
+          "url": "https://www.ad-hoc-news.de/politik/volkstrauertag-merz-fehlt-bei-gedenkstunde-im-bundestag/70517094"
         },
         {
           "tag": "Gesundheit",
@@ -58,13 +65,6 @@
           "text": "Kassenärzte-Chef Andreas Gassen erwartet wegen Honorarkürzungen von drei Milliarden Euro mehr Selbstzahler-Termine beim Facharzt. Vizekanzler Klingbeil lehnt Zusatzkosten für Kassenpatienten ab und fordert von der CDU mehr Tempo bei der vereinbarten Termingarantie; auch die Grünen weisen den Vorstoß zurück. Der GKV-Spitzenverband nennt ihn skandalös, der Sozialverband Deutschland unsolidarisch.",
           "source": "ZDFheute, 14.11.",
           "url": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html"
-        },
-        {
-          "tag": "Wirtschaft",
-          "title": "VW hält an Zielen für 2030 fest – Microsoft-Dienste laufen wieder",
-          "text": "Konzernchef Oliver Blume bekräftigte am Samstagabend die Ziele von rund 9 Millionen verkauften Fahrzeugen und 9 % Rendite bis 2030 und verwies auf den Abbau von mehr als 100.000 Stellen. Outlook, Teams und Microsoft 365 sind nach der Großstörung laut Microsoft wiederhergestellt; Ursache war ein Upgrade der Netzwerkkapazität, kein Angriff. Wer Geschäftspost über Outlook abwickelt, sollte auf verspätete Mails achten.",
-          "source": "ZDFheute-Ticker, 14.11.",
-          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         }
       ]
     },
@@ -74,10 +74,10 @@
       "items": [
         {
           "tag": "Unfall · BVG",
-          "title": "Tiergarten: Achtjähriges Mädchen stürzt mit dem Fahrrad und wird von BVG-Bus überrollt",
-          "text": "Am Samstag gegen 17 Uhr stürzte ein achtjähriges Mädchen, das mit seiner Mutter mit dem Rad unterwegs war, an der Ecke Lützowstraße/Potsdamer Straße aus ungeklärter Ursache und wurde von einem Bus erfasst. Es starb noch an der Unfallstelle, die Mutter wurde verletzt und steht unter Schock. Die Polizei ermittelt zum Hergang, die Potsdamer Straße war am Abend in beiden Richtungen gesperrt; die BVG äußerte sich betroffen.",
-          "source": "rbb24, 14.11.",
-          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tiergarten-unfall-kind-stirbt-bus-bvg.html"
+          "title": "Tiergarten: Achtjährige von BVG-Bus überrollt – Polizei ermittelt gegen Fahrer wegen Unfallflucht",
+          "text": "Am Samstag starb ein achtjähriges Mädchen, das mit seiner Mutter auf dem Radstreifen der Potsdamer Straße unterwegs war, an der Ecke Lützowstraße. Nach Polizeiangaben fuhren Bus und Radfahrerinnen an der Ampel gleichzeitig an, das Kind geriet aus ungeklärter Ursache ins Schlingern und wurde überrollt; es starb an der Unfallstelle, die Mutter erlitt einen Schock. Der 55-jährige Busfahrer fuhr zunächst weiter und wurde an einer späteren Haltestelle gestoppt, gegen ihn wird wegen des Verdachts der Verkehrsunfallflucht ermittelt. Die BVG äußerte sich tief betroffen und unterstützt die Ermittlungen.",
+          "source": "Berliner Kurier, 15.11.",
+          "url": "https://berliner-kurier.de/article/achtjaehriges-maedchen-stirbt-bei-tragischem-unfall-in-berlin-10599434"
         },
         {
           "tag": "Demo · Polizei",
@@ -88,8 +88,8 @@
         },
         {
           "tag": "S-Bahn · Verkehr",
-          "title": "Stadtbahn heute gesperrt: Keine S-Bahn zwischen Friedrichstraße und Tiergarten – Gedenkstunde im Reichstag",
-          "text": "Die Linien S3, S5, S7 und S9 sind bis Montag Betriebsbeginn unterbrochen, es fahren Ersatzbusse. Der RE7 wird über Lichtenberg umgeleitet, die Halte Ostbahnhof und Ostkreuz entfallen. Um 13:30 Uhr beginnt im Plenarsaal des Reichstagsgebäudes die zentrale Gedenkstunde zum Volkstrauertag, die Gedenkrede hält Österreichs Bundespräsident Alexander Van der Bellen. Am Abend ist wegen eines Eishockeyspiels in der Uber Arena (19:30 Uhr) rund um die Warschauer Straße mit mehr Verkehr zu rechnen, in Köpenick gibt es von 14 bis 16 Uhr eine Demonstration.",
+          "title": "Stadtbahn bis Montagfrüh gesperrt: Keine S-Bahn zwischen Friedrichstraße und Tiergarten",
+          "text": "Die Linien S3, S5, S7 und S9 sind bis Montag Betriebsbeginn unterbrochen, es fahren Ersatzbusse. Der RE7 wird über Lichtenberg umgeleitet, die Halte Ostbahnhof und Ostkreuz entfallen. In Köpenick läuft bis 16 Uhr eine Demonstration; am Abend ist wegen eines Eishockeyspiels in der Uber Arena (19:30 Uhr) rund um die Warschauer Straße mit mehr Verkehr zu rechnen.",
           "source": "Verkehrsinformationszentrale Berlin, 15.11.",
           "url": "https://viz.berlin.de/aktuelle-meldungen/verkehrsvorschau-fur-das-wochenende/"
         },
@@ -108,10 +108,10 @@
       "items": [
         {
           "tag": "Iran",
-          "title": "Iran meldet Drohnenangriff auf US-Radar in Bahrain und warnt die Nachbarstaaten",
-          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain getroffen; die Straße von Hormus nannten sie geschlossen. Teheran beruft sich auf Selbstverteidigung und macht die arabischen Nachbarn mitverantwortlich, von deren Boden US-Angriffe geflogen oder unterstützt würden. Bahrains Militär spricht von abgewehrten Angriffen, das Innenministerium löste zweimal Raketenalarm aus; das US-Zentralkommando äußerte sich zum jüngsten Angriff zunächst nicht, unabhängig prüfen lassen sich die Angaben nicht. Laut Reuters erwägt Trump, auf neue Angriffe zu verzichten, solange es keine weiteren Provokationen gibt.",
-          "source": "Frankfurter Rundschau, 15.11.",
-          "url": "https://www.fr.de/politik/iran-greift-us-stuetzpunkt-in-bahrain-an-warnung-an-nachbarn-zr-94590674.html"
+          "title": "Iran meldet Angriff auf US-Radar in Bahrain und brennende Tanker bei Hormus – Ghalibaf droht mit Ausweitung",
+          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain getroffen; zudem seien südlich der Straße von Hormus zwei Öltanker auf Minen gelaufen und in Brand geraten, weil sie eine nicht genehmigte Route genutzt hätten. Bahrains Militär spricht von abgewehrten Angriffen und einer systematischen Aggression Teherans; unabhängig prüfen lassen sich die Angaben nicht. Parlamentspräsident Ghalibaf sagte, Iran werde keinen Zustand zwischen Krieg und Frieden hinnehmen, und drohte bei einem „Fehler“ der USA mit einer geografischen Ausweitung des Konflikts. Laut Reuters erwägt Trump, auf neue Angriffe zu verzichten, solange es keine weiteren Provokationen gibt.",
+          "source": "Al Jazeera Liveblog, 15.11.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
         },
         {
           "tag": "Ukraine",
@@ -129,15 +129,15 @@
         },
         {
           "tag": "USA · Luftverkehr",
-          "title": "Nach landesweitem Flugstopp: FAA erwartet Normalbetrieb bis Sonntagabend",
-          "text": "Die US-Luftfahrtbehörde FAA ließ am Freitag ab 15:36 Uhr Ostküstenzeit vier Stunden lang keine Flugzeuge starten; rund 9.160 Flüge fielen aus, etwa 7.190 waren verspätet. Laut Verkehrsminister Duffy überlastete ein fehlerhafter Router bei Wartungsarbeiten eines Dienstleisters das Netz der Flugsicherung. FAA-Chef Bryan Bedford rechnet bis Sonntagabend mit Normalbetrieb; auch Transatlantikflüge, etwa über London-Heathrow, waren betroffen. Für Montag ist ein Krisentreffen angesetzt.",
-          "source": "CBS News, 15.11.",
-          "url": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/"
+          "title": "Nach landesweitem Flugstopp: FAA nennt System stabil, Airlines streichen weiter Tausende Flüge",
+          "text": "Die US-Luftfahrtbehörde FAA ließ am Freitag ab 15:36 Uhr Ostküstenzeit vier Stunden lang keine Flugzeuge starten; laut Verkehrsminister Duffy überlastete ein fehlerhafter Router bei Wartungsarbeiten eines Dienstleisters das Netz der Flugsicherung. Die FAA bezeichnet das System inzwischen als stabil, die Fluggesellschaften rechnen aber damit, 4.000 bis 5.000 von rund 41.000 geplanten Flügen zu streichen. FAA-Chef Bryan Bedford erwartet bis Sonntagabend Normalbetrieb, für Montag ist ein Krisentreffen angesetzt.",
+          "source": "Anadolu, 15.11.",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
         },
         {
           "tag": "Nahost",
           "title": "Israel tötet ranghohen Hamas-Kommandeur im Gazastreifen",
-          "text": "Bei einem israelischen Luftangriff in Chan Junis im Süden des Gazastreifens wurde am Samstag Samir Abu Junis getötet, der Kommandeur der Rafah-Brigade; die Hamas hat seinen Tod bestätigt. Nach Angaben aus Israel und Gaza war er an Planung und Leitung des Angriffs vom 7. Oktober 2023 beteiligt. Verteidigungsminister Israel Katz kündigte an, die Angriffe fortzusetzen, bis der Gazastreifen entwaffnet sei.",
+          "text": "Bei einem israelischen Luftangriff in Chan Junis im Süden des Gazastreifens wurde am Samstag Samir Abu Junis getötet, der Kommandeur der Rafah-Brigade; die Hamas hat seinen Tod bestätigt. Nach Angaben aus Israel und Gaza war er an Planung und Leitung des Angriffs vom 7. Oktober 2023 beteiligt. Verteidigungsminister Israel Katz kündigte an, die Angriffe fortzusetzen, bis der Gazastreifen entwaffnet sei; die Türkei und 17 weitere Staaten verurteilten einen israelischen Luftangriff auf das Nasser-Krankenhaus in Chan Junis.",
           "source": "Al Jazeera, 15.11.",
           "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
         }
@@ -149,9 +149,9 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 65.500 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $, den tiefsten Stand seit vier Monaten, und notierte gegen 11:40 Uhr MEZ bei etwa 65.470 $ (−2,6 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.826 $ (−4,2 %). Beide liegen damit leicht unter dem Stand von vor einer Stunde. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von rund 12 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
-          "impact": "Die Erholung vom Nachttief stockt, der Kurs bleibt unter dem 24-Stunden-Hoch von rund 67.300 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
+          "title": "Bitcoin bei rund 65.400 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $, den tiefsten Stand seit vier Monaten, und notierte gegen 14:40 Uhr MEZ bei etwa 65.420 $ (−1,9 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.830 $ (−3,1 %). Beide bewegen sich damit seit dem Vormittag kaum. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von gut 12 %; es wäre der sechste Wochenverlust in Folge. Binnen 24 Stunden wurden Terminpositionen über mehr als 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "impact": "Der Kurs pendelt seitwärts und bleibt unter dem 24-Stunden-Hoch von rund 66.900 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
           "source": "CoinGecko, 15.11.",
           "url": "https://www.coingecko.com/en/coins/bitcoin"
         },
@@ -173,9 +173,9 @@
         },
         {
           "tag": "Indizes · Unternehmen",
-          "title": "Strategy fällt aus den MSCI-Indizes – Abflüsse von 2 bis 3 Mrd. $ erwartet",
-          "text": "Der Indexanbieter MSCI hat in seiner November-Überprüfung bestätigt, dass der größte börsennotierte Bitcoin-Halter Strategy (MSTR) aus den globalen MSCI-Indizes genommen wird; wirksam wird das nach Börsenschluss am 30. November. Indexfonds müssen die Aktie dann verkaufen, Schätzungen nennen passive Abflüsse von rund 2 bis 3 Mrd. $.",
-          "impact": "Der Verkaufsdruck trifft zunächst die Aktie, nicht Bitcoin selbst. Ein niedrigerer Aktienkurs erschwert es Strategy aber, über neue Aktien weitere Bitcoin-Käufe zu finanzieren – ein Käufer, der dem Markt fehlen kann.",
+          "title": "Strategy fällt aus den MSCI-Indizes – Miner MARA verkauft Bitcoin für 1,1 Mrd. $",
+          "text": "Der Indexanbieter MSCI nimmt den größten börsennotierten Bitcoin-Halter Strategy (MSTR) nach Börsenschluss am 30. November aus seinen globalen Indizes; Schätzungen nennen passive Abflüsse von rund 2 bis 3 Mrd. $. Strategy hält 850.364 Bitcoin zu einem Durchschnittspreis von 75.456 $ und liegt damit im Minus. Der Miner MARA hat 13.597 Bitcoin, rund 40 % seines Bestands, für 1,1 Mrd. $ verkauft, überwiegend um Kredite zu tilgen.",
+          "impact": "Der MSCI-Verkaufsdruck trifft zunächst die Aktie, nicht Bitcoin selbst; ein niedrigerer Aktienkurs erschwert Strategy aber die Finanzierung weiterer Käufe. Verkäufe von Minern bringen dagegen direkt zusätzliches Angebot in den Markt.",
           "source": "CryptoPotato, 15.11.",
           "url": "https://cryptopotato.com/strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin/"
         },

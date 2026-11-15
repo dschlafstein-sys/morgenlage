@@ -1,18 +1,18 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "15:49",
+  "stand": "16:42",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.770 $",
-      "change": "▼ 1,8 % · 24 h",
+      "value": "64.685 $",
+      "change": "▼ 0,8 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.808 $",
-      "change": "▼ 2,2 % · 24 h",
+      "value": "1.809 $",
+      "change": "▼ 1,1 % · 24 h",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto gibt am Nachmittag leicht nach: Bitcoin notiert bei rund 64.800 $ (−1,8 % in 24 Stunden), Ether bei rund 1.810 $ (−2,2 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von gut 13 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
-    "Iran und Ukraine: Iran hat zum zweiten Mal binnen drei Tagen Bahrain mit Drohnen angegriffen; Bahrain meldet, die Angriffe abgefangen zu haben, die Revolutionsgarden nennen die Straße von Hormus geschlossen und berichten von zwei nach Minentreffern brennenden Tankern. Die Ukraine soll in der Nacht den russischen Militärflugplatz Achtubinsk angegriffen haben, die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
-    "Berlin und Bund: Nach dem Tod eines achtjährigen Mädchens unter einem BVG-Bus in Tiergarten ermittelt die Polizei gegen den 55-jährigen Fahrer wegen des Verdachts der Unfallflucht; in Gropiusstadt brannten in der Nacht zehn Fahrzeuge, die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten. In der SPD fordert Hubertus Heil Parteichef Klingbeil heraus, weitere Minister stellen sich hinter Klingbeil; vor dem Koalitionsausschuss am Dienstag wächst in der CDU der Druck auf Merz bei der Stromsteuer."
+    "Krypto am Nachmittag kaum verändert: Bitcoin notiert bei rund 64.700 $ (−0,8 % in 24 Stunden), Ether bei rund 1.810 $ (−1,1 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von gut 13 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
+    "Nahost und Ukraine: Iran hat zum zweiten Mal binnen drei Tagen Bahrain mit Drohnen angegriffen, Bahrain meldet die Angriffe als abgefangen; nach iranischen Angaben ist in der Straße von Hormus ein Supertanker nach einem Minentreffer gesunken. Im Jemen ziehen sich die Regierungstruppen vom Bab al-Mandeb zurück, die Huthi melden einen Vormarsch auf Aden. Russland und die Ukraine melden Tote und Verletzte nach gegenseitigen Angriffen; die USA stellen Kiew laut Selenskyj einen NATO-Beitritt gegen Rückzug aus dem Donbass in Aussicht.",
+    "Berlin und Bund: Nach dem Tod eines achtjährigen Mädchens unter einem BVG-Bus in Tiergarten ermittelt die Polizei gegen den 55-jährigen Fahrer wegen des Verdachts der Unfallflucht; die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten, am Montagabend wird zum Länderspiel rund um das Olympiastadion gesperrt. In der SPD fordert Hubertus Heil Parteichef Klingbeil heraus, der seine Doppelrolle verteidigt; der Handwerkspräsident warnt vor einem stillen Sterben der Betriebe, am Dienstag berät der Koalitionsausschuss über die Stromsteuer."
   ],
   "sections": [
     {
@@ -40,10 +40,10 @@
       "items": [
         {
           "tag": "Parteien",
-          "title": "SPD-Vorsitz: Heil tritt an – weitere Minister stellen sich hinter Klingbeil",
-          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt; gewählt wird auf einem Parteitag im Januar in Bremen. Für Lars Klingbeil sprachen sich nach Umweltminister Schneider und Fraktionschef Miersch auch Justizministerin Hubig und Bauministerin Hubertz aus, Heil hat laut Tagesschau bisher keine namhaften Unterstützer; die Jusos lehnen eine erneute Kandidatur Klingbeils ab. Am 19. November tagt das erweiterte Präsidium, zu dem auch Manuela Schwesig erwartet wird, spätestens am 16. Dezember will der Parteivorstand seinen Personalvorschlag vorlegen. Klingbeil hat bisher nicht gesagt, ob er erneut antritt.",
-          "source": "Tagesschau, 15.11.",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html"
+          "title": "SPD-Vorsitz: Heil tritt an – Klingbeil verteidigt vor der Basis seine Doppelrolle",
+          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt; gewählt wird auf einem Parteitag im Januar in Bremen. Für Lars Klingbeil sprachen sich nach Umweltminister Schneider und Fraktionschef Miersch auch Justizministerin Hubig und Bauministerin Hubertz aus, die Jusos lehnen eine erneute Kandidatur ab. Klingbeil stellte sich am Sonntag in Potsdam knapp zweieinhalb Stunden lang rund 120 Mitgliedern der Brandenburger SPD und verteidigte, Parteichef und Finanzminister zugleich zu sein; die Partei dürfe nicht in zwei Lager zerfallen. Ob er erneut antritt, ließ er offen und verwies auf den Zeitplan: Spätestens am 16. Dezember soll ein Personalvorschlag stehen. Dem Parteitag liegt ein Antrag vor, beide Ämter zu trennen.",
+          "source": "Tagesspiegel/dpa, 15.11.",
+          "url": "https://www.tagesspiegel.de/potsdam/brandenburg/dpa-antrage-fur-parteitag-spd-chef-bei-der-basis-klingbeil-verteidigt-doppelrolle-16286374.html"
         },
         {
           "tag": "Politik",
@@ -53,11 +53,11 @@
           "url": "https://www.merkur.de/politik/koalitionsstreit-um-stromsteuer-union-erhoeht-druck-auf-merz-zr-94590643.html"
         },
         {
-          "tag": "Wirtschaft · IT",
-          "title": "Microsoft 365 läuft nach schwerer Störung wieder – Bitkom warnt vor Abhängigkeit",
-          "text": "Die Störung bei Outlook, Teams, Copilot und weiteren Diensten des Cloud-Pakets Microsoft 365 ist nach Angaben des Konzerns vom Samstag behoben, alle Systeme laufen wieder. Als Ursache nennt Microsoft ein Problem aus einem früheren Ausbau der Netzwerkkapazität, das erst nach jüngsten Netzwerkänderungen zutage trat; ein Cyberangriff war es demnach nicht. Bitkom-Präsident Ralf Wintergerst und IT-Sicherheitsfachleute verweisen auf die Abhängigkeit vieler Unternehmen, Schulen und Behörden von dem Anbieter.",
-          "source": "Investing.com/dpa-AFX, 15.11.",
-          "url": "https://de.investing.com/news/economy-news/roundup-2-microsoftburoprogramme-laufen-nach-storung-wieder-3768815"
+          "tag": "Wirtschaft · Handwerk",
+          "title": "Handwerkspräsident warnt vor „stillem Sterben der Betriebe“",
+          "text": "Jörg Dittrich, Präsident des Zentralverbands des Deutschen Handwerks, sagte den Zeitungen der Funke Mediengruppe, das Geschäftsklima der Branche liege auf dem Niveau der Corona-Pandemie, die Investitionen auf dem der Finanzkrise. In den vergangenen zwei Jahren seien mehr als 150.000 Arbeitsplätze verloren gegangen; ohne Gegensteuern drohe ein Verlust von 70.000 bis 80.000 Stellen pro Jahr. Er fordert niedrigere Lohnzusatzkosten, flexiblere Arbeitszeiten, die zugesagte Abschaffung des Sonntagsbackverbots und eine Stromsteuersenkung für alle Handwerksbetriebe.",
+          "source": "Tagesschau, 15.11.",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html"
         },
         {
           "tag": "Gedenken",
@@ -88,10 +88,10 @@
         },
         {
           "tag": "S-Bahn · Verkehr",
-          "title": "Stadtbahn bis Montagfrüh gesperrt: Keine S-Bahn zwischen Friedrichstraße und Tiergarten",
-          "text": "Die Linien S3, S5, S7 und S9 sind bis Montag Betriebsbeginn unterbrochen, es fahren Ersatzbusse. Der RE7 wird über Lichtenberg umgeleitet, die Halte Ostbahnhof und Ostkreuz entfallen. Am Abend ist wegen eines Eishockeyspiels in der Uber Arena (19:30 Uhr) rund um die Warschauer Straße mit mehr Verkehr zu rechnen.",
-          "source": "Verkehrsinformationszentrale Berlin, 15.11.",
-          "url": "https://viz.berlin.de/aktuelle-meldungen/verkehrsvorschau-fur-das-wochenende/"
+          "title": "Stadtbahn bis Montagfrüh gesperrt – am Montag Sperrungen zum Länderspiel am Olympiastadion",
+          "text": "Die Linien S3, S5, S7 und S9 sind zwischen Friedrichstraße und Tiergarten bis Montag Betriebsbeginn unterbrochen, es fahren Ersatzbusse; der RE7 wird über Lichtenberg umgeleitet. Zum Länderspiel Deutschland–Niederlande am Montag (20:45 Uhr) gelten rund um das Olympiastadion ab 14 Uhr Halteverbote, ab 18 Uhr bis Mitternacht sind unter anderem Olympischer Platz, Trakehner Allee und Flatowallee gesperrt. Die Polizei rechnet mit größeren Fangruppen am Theodor-Heuss-Platz und an der Heerstraße; niederländische Fans haben einen Fanmarsch angekündigt.",
+          "source": "Tagesspiegel, 15.11.",
+          "url": "https://www.tagesspiegel.de/berlin/hopst-oranje-am-montag-wieder-durch-berlin-landerspiel-im-olympiastadion--darauf-muss-sich-die-hauptstadt-einstellen-16286713.html"
         },
         {
           "tag": "Landespolitik",
@@ -108,17 +108,17 @@
       "items": [
         {
           "tag": "Iran",
-          "title": "Iran greift zum zweiten Mal binnen drei Tagen Bahrain an – Revolutionsgarden nennen Straße von Hormus „geschlossen“",
-          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten das Radar der US-Hubschrauberbasis Riffa in Bahrain angegriffen; zudem seien südlich der Straße von Hormus zwei Öltanker auf Minen gelaufen und in Brand geraten. Bahrains Militär teilte mit, die Luftabwehr habe die Angriffe abgefangen, bevor sie ihr Ziel erreichten; unabhängig prüfen lassen sich die Angaben nicht. Laut BBC ist es der zweite Angriff auf das Land in drei Tagen, beim ersten am Freitag gab es nach US-Angaben weder Verletzte noch Schäden. Die Garden erklärten die Meerenge für geschlossen und drohten für den Fall einer US-Aggression mit einer härteren Antwort, Parlamentspräsident Ghalibaf mit einer geografischen Ausweitung des Konflikts. Laut Reuters erwägt Trump, auf neue Angriffe zu verzichten, solange es keine weiteren Provokationen gibt.",
-          "source": "BBC, 15.11.",
-          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+          "title": "Iran greift erneut Bahrain an – laut Teheran Supertanker nach Minentreffer in der Straße von Hormus gesunken",
+          "text": "Die Revolutionsgarden erklärten am Sonntagmorgen, sechs Drohnen hätten ein US-Radar auf dem Stützpunkt Riffa in Bahrain angegriffen. Bahrains Militär teilte mit, die Luftabwehr habe mehrere Angriffe abgefangen; das US-Militär äußerte sich zunächst nicht. Es ist der zweite gemeldete Angriff binnen drei Tagen, beim ersten am Freitag gab es nach US-Angaben weder Verletzte noch Schäden. Die Garden nennen die Straße von Hormus weiter geschlossen; nach ihren Angaben und denen der Agentur ISNA gerieten zwei Tanker nach Minentreffern in Brand, einer davon, ein Supertanker mit mehr als zwei Millionen Barrel Rohöl, sei gesunken. Unabhängig bestätigt ist das nicht. Teheran wies am Nachmittag eine deutsche Forderung zurück, die Urananreicherung zu stoppen; Parlamentspräsident Ghalibaf sagte, Iran habe über Katar sieben Bedingungen für ein Kriegsende übermittelt und warte auf die Antwort der USA. US-Außenminister Rubio warf Iran eine expansionistische Haltung vor.",
+          "source": "Al Jazeera Liveblog, 15.11.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
         },
         {
           "tag": "Ukraine",
-          "title": "Berichte über ukrainischen Angriff auf Flugplatz Achtubinsk – USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
-          "text": "In der Nacht zum Sonntag soll die Ukraine den russischen Militärflugplatz Achtubinsk im Gebiet Astrachan angegriffen haben, ein ukrainischer Telegram-Kanal meldet mindestens 30 Explosionen; bestätigt ist das nicht, der Gouverneur spricht von 31 abgeschossenen Drohnen. Russland griff das Gebiet Odessa massiv mit Drohnen an. Politisch stellen die USA Kiew nach Selenskyjs Angaben die NATO-Mitgliedschaft gegen einen Rückzug aus dem Donbass in Aussicht; er würde darüber per Referendum entscheiden lassen und lehnt einen neutralen Status ab.",
-          "source": "Kyiv Independent, 15.11.",
-          "url": "https://kyivindependent.com/ukraine-reportedly-strikes-russian-military-airfield-in-astrakhan-oblast-at-least-30-explosions-heard/"
+          "title": "Tote und Verletzte bei Angriffen auf beiden Seiten – USA bieten Kiew laut Selenskyj NATO-Beitritt gegen Gebietsverzicht",
+          "text": "In Saporischschja wurden bei einem russischen Raketeneinschlag nach Behördenangaben mindestens 22 Menschen verletzt, darunter drei Kinder; im Gebiet Tschernihiw starben zwei Männer bei einem Drohnenangriff auf eine Energieanlage, in Pawlohrad ein weiterer Mann. Russland meldet einen Toten im Gebiet Rostow sowie einen Drohnentreffer auf eine Industrieanlage in Nischnekamsk in Tatarstan mit drei Verletzten; zudem soll die Ukraine den Militärflugplatz Achtubinsk angegriffen haben, was nicht bestätigt ist. Politisch stellen die USA Kiew nach Selenskyjs Angaben die NATO-Mitgliedschaft gegen einen Rückzug aus dem Donbass in Aussicht; er würde darüber per Referendum entscheiden lassen und lehnt einen neutralen Status ab.",
+          "source": "Tagesschau, 15.11.",
+          "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
         },
         {
           "tag": "USA · Russland · China",
@@ -128,11 +128,11 @@
           "url": "https://macaubusiness.com/moscow-confirms-trump-xi-putin-meeting-in-china/"
         },
         {
-          "tag": "USA · Luftverkehr",
-          "title": "Nach landesweitem Flugstopp: FAA-Chef erwartet Normalbetrieb bis Sonntagabend – weiter über 1.200 Ausfälle",
-          "text": "Die US-Luftfahrtbehörde FAA ließ am Freitag ab 15:36 Uhr Ostküstenzeit vier Stunden lang keine Flugzeuge starten; laut Verkehrsminister Duffy störte der Austausch alter Kupferleitungen gegen Glasfaser die Kommunikation der Flugsicherung, ein Gerät überlastete dabei weitere Router. Nach Angaben von FAA-Chef Bryan Bedford fielen am Freitag 12.000 Flüge aus, am Samstag zählte FlightAware mehr als 6.600 Streichungen, am Sonntagmorgen waren es laut AFP mehr als 1.200. Bedford erwartet bis Sonntagabend wieder den vollen Flugplan; Duffy fordert vom Kongress 50 Mrd. $ für die Modernisierung der Flugsicherung, New Yorks Gouverneurin Hochul verlangt seinen Rücktritt.",
-          "source": "AFP, 15.11.",
-          "url": "https://www.afp.com/en/faa-chief-says-us-air-travel-back-normal-sunday"
+          "tag": "Jemen",
+          "title": "Jemens Regierungstruppen ziehen sich vom Bab al-Mandeb zurück – Huthi melden Vormarsch auf Aden",
+          "text": "Die Armee der international anerkannten Regierung des Jemen verlegt nach eigenen Angaben Truppen von der Meerenge Bab al-Mandeb und weiteren Küstengebieten am Roten Meer ab; ein Sprecher spricht von einer Neuaufstellung, um Aden zu sichern und die Belagerung von Taiz zu brechen. Die Huthi erklären, die Regierungstruppen hätten sich vollständig zurückgezogen, und melden einen Vormarsch auf Aden, den Sitz der Regierung. Die von Saudi-Arabien geführte Koalition fing nach eigenen Angaben zwei Drohnen mit Kurs auf die Region Mekka ab. Zugleich ließen die Huthi rund 600 Gefangene frei, was das Rote Kreuz bestätigte.",
+          "source": "Al Jazeera Liveblog, 15.11.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
         },
         {
           "tag": "Nahost",
@@ -149,11 +149,11 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 64.800 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $, den tiefsten Stand seit vier Monaten, und notierte gegen 15:40 Uhr MEZ bei etwa 64.770 $ (−1,8 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.808 $ (−2,2 %). Gegenüber dem frühen Nachmittag haben beide leicht nachgegeben. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von gut 13 %; es wäre der sechste Wochenverlust in Folge. Auf Sieben-Tage-Sicht weist CoinGecko für Bitcoin −13,8 % und für Ether −18,1 % aus. Binnen 24 Stunden wurden Terminpositionen über rund 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
-          "impact": "Der Kurs bleibt in der Spanne zwischen dem Nachttief und dem 24-Stunden-Hoch von rund 66.160 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder.",
+          "title": "Bitcoin bei rund 64.700 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.000 $, den tiefsten Stand seit vier Monaten, und notierte gegen 16:40 Uhr MEZ bei etwa 64.685 $ (−0,8 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.809 $ (−1,1 %). Gegenüber dem Stand von vor einer Stunde hat sich der Kurs kaum bewegt. Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von gut 13 %; es wäre der sechste Wochenverlust in Folge. Auf Sieben-Tage-Sicht weist CoinGecko für Bitcoin rund −14,5 % und für Ether −19,0 % aus. Binnen 24 Stunden wurden Terminpositionen über rund 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
           "source": "CoinGecko, 15.11.",
-          "url": "https://www.coingecko.com/en/coins/bitcoin"
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "impact": "Der Kurs bleibt in der Spanne zwischen dem Nachttief und dem 24-Stunden-Hoch von rund 66.000 $. Am Wochenende ist der Handel dünn; der Wochenschluss folgt in der Nacht zu Montag um 1 Uhr MEZ, die US-ETFs handeln erst am Montag wieder."
         },
         {
           "tag": "Fed · Inflation",

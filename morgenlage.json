@@ -1,19 +1,19 @@
 {
   "date": "Sonntag, 15. November 2026",
-  "stand": "17:41",
+  "stand": "21:50",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.549 $",
-      "change": "▼ 1,2 % · 24 h",
+      "value": "65.049 $",
+      "change": "▼ 0,7 % · 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.814 $",
-      "change": "▼ 0,5 % · 24 h",
-      "dir": "down"
+      "value": "1.830 $",
+      "change": "▲ 0,2 % · 24 h",
+      "dir": "up"
     },
     {
       "label": "US-Leitzins (Fed)",
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto am frühen Abend weiter schwach: Bitcoin notiert bei rund 64.550 $ (−1,2 % in 24 Stunden), Ether bei rund 1.814 $ (−0,5 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von gut 13 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, und Strategy fliegt Ende November aus den MSCI-Indizes.",
-    "Nahost und Ukraine: Iran hat zum zweiten Mal binnen drei Tagen Bahrain mit Drohnen angegriffen, Bahrain meldet die Angriffe als abgefangen; das US-Militär bestreitet den zuvor behaupteten Radartreffer. Im Jemen ziehen sich die von Saudi-Arabien gestützten Regierungstruppen vom Bab al-Mandeb in Richtung Aden zurück; Irans Außenminister reist am Dienstag zu Gesprächen nach Oman. Selenskyj wirft SpaceX vor, gedrosselte Starshield-Terminals behinderten die Drohnenabwehr; in Odessa sind 41.000 Haushalte ohne Strom.",
-    "Berlin und Bund: Nach dem Tod eines achtjährigen Mädchens unter einem BVG-Bus in Tiergarten ermittelt die Polizei gegen den 55-jährigen Fahrer wegen des Verdachts der Unfallflucht; der Staatsschutz prüft ein Bekennerschreiben zum Brandanschlag auf das Auto von Nius-Chef Reichelt. Die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten. In der SPD stellt sich der Landesverband Sachsen-Anhalt hinter Herausforderer Hubertus Heil, Klingbeil verteidigt seine Doppelrolle; am Dienstag berät der Koalitionsausschuss über die Stromsteuer."
+    "Krypto am Abend stabilisiert, Woche tiefrot: Bitcoin notiert bei rund 65.050 $ (−0,7 % in 24 Stunden), Ether bei rund 1.830 $ (+0,2 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 13 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember; um 1 Uhr MEZ schließt die Wochenkerze, zugleich öffnet die Terminbörse CME wieder.",
+    "Nahost und Ukraine: Iran hat zum zweiten Mal binnen drei Tagen Bahrain mit Drohnen angegriffen, Bahrain meldet die Angriffe als abgefangen; der Golf-Kooperationsrat spricht von einer offenen Herausforderung der Friedensbemühungen, Katar von gefährlicher Eskalation. Im Jemen ziehen sich die von Saudi-Arabien gestützten Regierungstruppen vom Bab al-Mandeb zurück, um Aden zu sichern. Die EU hat im Mittelmeer einen mutmaßlichen Tanker der russischen Schattenflotte geentert; Selenskyj wirft SpaceX vor, gedrosselte Starshield-Terminals behinderten die Drohnenabwehr.",
+    "Berlin und Bund: In Moabit ist am Sonntagabend vor einem Wohnhaus ein Sprengsatz explodiert, mehrere Fenster gingen zu Bruch; die Polizei ermittelt. Nach dem Tod einer Achtjährigen unter einem BVG-Bus in Tiergarten wird gegen den Fahrer wegen des Verdachts der Unfallflucht ermittelt; die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten. Im SPD-Machtkampf stärken Pistorius und Schweitzer Parteichef Klingbeil, der offenlässt, ob er wieder antritt; die Mittelstandsunion Köln fordert von Merz das Ende der Koalition, am Dienstag tagt der Koalitionsausschuss zur Stromsteuer."
   ],
   "sections": [
     {
@@ -40,17 +40,17 @@
       "items": [
         {
           "tag": "Parteien",
-          "title": "SPD-Vorsitz: Sachsen-Anhalts SPD stellt sich hinter Heil – Klingbeil verteidigt seine Doppelrolle",
-          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil seine Kandidatur für den Parteivorsitz erklärt. Am Sonntag stellte sich mit Sachsen-Anhalt ein erster Landesverband hinter ihn; Ko-Landeschef Andreas Schmidt wirbt zudem für Manuela Schwesig als Ko-Vorsitzende. Für Lars Klingbeil sprachen sich Umweltminister Schneider, Fraktionschef Miersch, Justizministerin Hubig und Bauministerin Hubertz aus, die Jusos lehnen eine erneute Kandidatur ab. Klingbeil verteidigte in Potsdam vor rund 120 Mitgliedern der Brandenburger SPD, Parteichef und Finanzminister zugleich zu sein, und ließ offen, ob er wieder antritt. Spätestens am 16. Dezember soll ein Personalvorschlag stehen, gewählt wird auf dem Parteitag am 16. und 17. Januar in Bremen; dort liegt ein Antrag vor, beide Ämter zu trennen.",
-          "source": "MDR, 15.11.",
-          "url": "https://www.mdr.de/nachrichten/deutschland/politik/spd-vorsitz-heil-klingbeil-schwesig,hubertus-heil-214.html"
+          "title": "SPD-Vorsitz: Pistorius und Schweitzer stützen Klingbeil – Heil will das Profil der Partei schärfen",
+          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil am Wochenende seine Bewerbung um den Parteivorsitz an Vorstand und Landesverbände geschickt; in der ARD sagte er, die SPD dürfe sich mit Umfragewerten von zwölf Prozent nicht abfinden. Lars Klingbeil verteidigte seine Doppelrolle als Parteichef und Finanzminister, erklärte, er klebe nicht an seinem Amt, und will zunächst in der Partei ausloten, ob er antritt. Hinter ihn stellten sich laut dpa Verteidigungsminister Pistorius und Alexander Schweitzer, die selbst nicht kandidieren, sowie Umweltminister Schneider und Fraktionschef Miersch; Sachsen-Anhalts Landesverband unterstützt Heil, die Jusos würden eine Frau allein an der Spitze begrüßen. Saarlands Ministerpräsidentin Rehlinger will nicht antreten; Manuela Schwesig, die als Favoritin für den weiblichen Teil einer Doppelspitze gilt, stellt sich am Montag in Schwerin zur Wiederwahl als Ministerpräsidentin. Der Vorstand will bis spätestens 16. Dezember einen Personalvorschlag vorlegen, gewählt wird auf dem Parteitag am 16. und 17. Januar in Bremen.",
+          "source": "dpa-AFX via Investing.com, 15.11.",
+          "url": "https://de.investing.com/news/economy-news/roundup-4machtkampf-in-spd-ist-eroffnet-heil-tritt-fur-vorsitz-an-3768903"
         },
         {
           "tag": "Politik",
-          "title": "Stromsteuer vor dem Koalitionsausschuss: Druck auf Merz aus der CDU wächst",
-          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur bei solider Gegenfinanzierung und bringt eine höhere Abgeltungssteuer ins Spiel. Aus der CDU verlangen neben Schleswig-Holsteins Ministerpräsident Günther auch der Dresdner Kreischef Ingo Flemming und Ex-Generalsekretär Paul Ziemiak, die Zusage einzuhalten. Merz will das Thema am Dienstag im Koalitionsausschuss direkt mit Klingbeil klären.",
-          "source": "Merkur, 15.11.",
-          "url": "https://www.merkur.de/politik/koalitionsstreit-um-stromsteuer-union-erhoeht-druck-auf-merz-zr-94590643.html"
+          "title": "Stromsteuer vor dem Koalitionsausschuss: Mittelstandsunion Köln fordert Ende der Koalition",
+          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur bei solider Gegenfinanzierung und mahnt vor dem Koalitionsausschuss am Dienstag mehr Tempo bei den verabredeten Gesundheitsreformen an. Aus der CDU verlangen unter anderem Schleswig-Holsteins Ministerpräsident Günther und Ex-Generalsekretär Ziemiak, die Zusage einzuhalten. Am Sonntagabend wurde zudem bekannt, dass die Mittelstands- und Wirtschaftsunion Köln Merz auffordert, das Bündnis mit der SPD zu beenden, eine Minderheitsregierung der Union zu bilden und dem Haushalt die Zustimmung zu verweigern.",
+          "source": "Focus, 15.11.",
+          "url": "https://www.focus.de/politik/deutschland/mit-koeln-fordert-merz-zum-ende-der-koalition-mit-spd-auf_fd3790df-a1de-4c20-aa0a-bac4976a0383.html"
         },
         {
           "tag": "Wirtschaft · Handwerk",
@@ -75,16 +75,16 @@
         {
           "tag": "Unfall · BVG",
           "title": "Tiergarten: Achtjährige von BVG-Bus überrollt – Polizei ermittelt gegen Fahrer wegen Unfallflucht",
-          "text": "Am Samstag starb ein achtjähriges Mädchen, das mit seiner Mutter auf dem Radstreifen der Potsdamer Straße unterwegs war, an der Ecke Lützowstraße. Nach Polizeiangaben fuhren Bus und Radfahrerinnen an der Ampel gleichzeitig an, das Kind geriet aus ungeklärter Ursache ins Schlingern und wurde überrollt; es starb an der Unfallstelle, die Mutter erlitt einen Schock. Der 55-jährige Busfahrer fuhr zunächst weiter und wurde an einer späteren Haltestelle gestoppt, gegen ihn wird wegen des Verdachts der Verkehrsunfallflucht ermittelt. Die BVG äußerte sich tief betroffen und unterstützt die Ermittlungen. Am Sonntag trauerten viele Menschen an der Unfallstelle; Anwohner halten die Kreuzung laut Berliner Morgenpost für besonders gefährlich.",
+          "text": "Am Samstag starb ein achtjähriges Mädchen, das mit seiner Mutter auf dem Radstreifen der Potsdamer Straße unterwegs war, an der Ecke Lützowstraße. Nach Polizeiangaben fuhren Bus und Radfahrerinnen an der Ampel gleichzeitig an, das Kind geriet aus ungeklärter Ursache ins Schlingern und wurde überrollt; es starb an der Unfallstelle, die Mutter erlitt einen Schock. Der 55-jährige Busfahrer fuhr zunächst weiter und wurde an einer späteren Haltestelle gestoppt; ob er den Unfall bemerkt hatte, ist offen, gegen ihn wird wegen des Verdachts der Verkehrsunfallflucht ermittelt. Die BVG äußerte sich tief betroffen und unterstützt die Ermittlungen. Am Sonntag legten Menschen an der Unfallstelle Blumen nieder; Anwohner halten die Kreuzung laut Berliner Morgenpost für besonders gefährlich.",
           "source": "Tagesspiegel, 15.11.",
-          "url": "https://www.tagesspiegel.de/berlin/todlicher-unfall-in-berlin-kind-sturzt-mit-rad-und-wird-von-bus-uberrollt-16285790.html"
+          "url": "https://www.tagesspiegel.de/berlin/todlicher-unfall-in-berlin-achtjahrige-sturzt-mit-rad-und-wird-von-bvg-bus-uberrollt-16285790.html"
         },
         {
           "tag": "Polizei",
-          "title": "Staatsschutz prüft Bekennerschreiben zum Brandanschlag auf Reichelts Auto – zehn Fahrzeuge brennen in Gropiusstadt",
-          "text": "Nach der Brandstiftung am Auto von Nius-Chefredakteur Julian Reichelt in der Nacht zu Freitag in Charlottenburg prüft der Staatsschutz ein auf der Plattform Indymedia veröffentlichtes Bekennerschreiben; ob es echt ist, ist laut Polizei offen, zu Tatverdächtigen gab es am Sonntag keine Angaben. In Gropiusstadt brannten in der Nacht zu Sonntag am Kölner Damm zehn Fahrzeuge, darunter ein Lkw; ein Brandkommissariat des Landeskriminalamts ermittelt wegen des Verdachts der Brandstiftung. In Wilhelmsruh prügelten sich am Samstagabend auf einer Verlobungsfeier 20 bis 30 Menschen, es gab acht Verletzte und sechs Festnahmen. Zur Gen-Z-Demo auf dem Kurfürstendamm mit rund 1.200 Teilnehmern bilanzierte die Polizei 28 Strafanzeigen und drei verletzte Beamte.",
-          "source": "Tagesschau/rbb, 15.11.",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/nius-chef-reichelt-auto-angezuendet-bekennerschreiben-100.html"
+          "title": "Explosion vor Wohnhaus in Moabit – Staatsschutz prüft Bekennerschreiben zum Brandanschlag auf Reichelts Auto",
+          "text": "In der Havelberger Straße in Moabit ist am Sonntagabend ein Sprengsatz explodiert und hat mehrere Fenster eines Wohnhauses zerstört; die Polizei ermittelt wegen eines Verstoßes gegen das Sprengstoffgesetz. Zeugen zufolge könnten Jugendliche eine Kugelbombe auf die Straße geworfen haben, nach ersten Erkenntnissen war es möglicherweise ein Eigenbau oder ein Bündel illegaler Böller. Nach der Brandstiftung am Auto von Nius-Chefredakteur Julian Reichelt in der Nacht zu Freitag prüft der Staatsschutz ein im Internet veröffentlichtes Bekennerschreiben, dessen Echtheit offen ist. In Gropiusstadt brannten in der Nacht zu Sonntag am Kölner Damm zehn Fahrzeuge, das Landeskriminalamt ermittelt wegen des Verdachts der Brandstiftung; bei einer Schlägerei auf einer Verlobungsfeier in Wilhelmsruh gab es am Samstagabend acht Verletzte.",
+          "source": "Tagesspiegel, 15.11.",
+          "url": "https://www.tagesspiegel.de/berlin/polizei-ermittelt-wegen-sprengstoffverstosses-explosion-vor-wohnhaus-in-berlin-moabit-16287451.html"
         },
         {
           "tag": "S-Bahn · Verkehr",
@@ -108,17 +108,17 @@
       "items": [
         {
           "tag": "Iran",
-          "title": "Iran greift erneut Bahrain an – USA bestreiten Radartreffer, Araghtschi reist nach Oman",
-          "text": "Die Revolutionsgarden erklärten am Sonntag, sechs Drohnen hätten einen US-Stützpunkt in Bahrain angegriffen, als Vergeltung für feindliche US-Aktionen. Bahrain meldet mehrere Angriffe als abgefangen, die ersten Abschüsse seiner Luftabwehr seit September, und löste kurzzeitig landesweit Alarm aus. Den am Freitag von Iran behaupteten Treffer auf ein US-Frühwarnradar bestreitet das US-Militär: Zwei Drohnen seien ohne Schaden abgefangen worden. Nach Angaben der Garden brannten am Sonntag zwei Tanker nach Minentreffern in der Straße von Hormus, laut der Agentur ISNA sank ein Supertanker; Reuters konnte das nicht unabhängig prüfen. Präsident Trump hatte zuletzt erklärt, er könne auf Angriffe verzichten, wenn neue Provokationen ausbleiben, hält aber an der Seeblockade fest. Die Diplomatie stockt; Irans Außenminister Araghtschi reist am Dienstag zu Gesprächen nach Oman.",
-          "source": "Reuters, 15.11.",
-          "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+          "title": "Iran greift erneut Bahrain an – Golfstaaten sprechen von Eskalation, Araghtschi reist nach Oman",
+          "text": "Die Revolutionsgarden erklärten am Sonntag, sechs Drohnen hätten ein US-Luftabwehrradar auf dem Stützpunkt Riffa in Bahrain getroffen. Bahrain meldet mehrere Angriffe als abgefangen und löste erstmals seit Monaten landesweit Alarm aus; den am Freitag von Iran behaupteten Radartreffer bestreitet das US-Militär. Der Generalsekretär des Golf-Kooperationsrats nannte den Angriff eine offene Herausforderung der Friedensbemühungen, Vermittler Katar sprach von gefährlicher Eskalation; die Börsen am Golf schlossen schwächer (Saudi-Arabien −0,7 %, Katar −1,8 %). Nach Angaben der Garden sank in der Straße von Hormus ein Tanker nach einem Minentreffer, ein zweiter wurde beschädigt; unabhängig bestätigt ist das nicht. Irans Parlamentspräsident Ghalibaf erklärte, der Weg zu einem Kriegsende sei offen, wenn die USA Teherans Bedingungen akzeptierten. Außenminister Araghtschi reist am Dienstag zu Gesprächen nach Oman.",
+          "source": "The National, 15.11.",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/15/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/"
         },
         {
           "tag": "Ukraine",
-          "title": "Selenskyj: Gedrosselte Starshield-Terminals behindern Drohnenabwehr – 41.000 Haushalte in Odessa ohne Strom",
-          "text": "Präsident Selenskyj wirft SpaceX vor, die Geschwindigkeit der Starshield-Terminals an der Front zu begrenzen: Abfangdrohnen verlören oberhalb von 161 km/h die Verbindung und könnten schnelle russische Schahed-Drohnen nicht einholen. Starlink bestreitet eine Drosselung. In Odessa fiel nach einem nächtlichen Angriff auf eine Energieanlage für 41.000 Haushalte der Strom aus; die Ukraine meldet 106 von 132 Drohnen als abgeschossen. Russland meldet einen Toten und vier Verletzte in Taganrog sowie sechs Verletzte in Nischnekamsk in Tatarstan; die Ukraine griff nach eigenen Angaben den Militärflugplatz Achtubinsk und ein Rüstungswerk im Gebiet Brjansk an. Politisch stellen die USA Kiew laut Selenskyj die NATO-Mitgliedschaft gegen einen Rückzug aus dem Donbass in Aussicht.",
-          "source": "Al Jazeera, 15.11.",
-          "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy"
+          "title": "EU entert mutmaßlichen Schattenflotten-Tanker – Selenskyj kritisiert gedrosselte Starshield-Terminals",
+          "text": "Die EU-Marinemission Irini hat am 13. November im Mittelmeer den Rohöltanker „Midag“ geentert, der laut EU-Außenbeauftragter Kallas unter falscher Flagge fuhr und der russischen Schattenflotte zugerechnet wird; Kallas machte das am Sonntag bekannt, am Montag sollen die EU-Außenminister weitere Sanktionslistungen beschließen. Präsident Selenskyj wirft SpaceX vor, die Geschwindigkeit der Starshield-Terminals zu begrenzen, wodurch Abfangdrohnen schnelle russische Schahed-Drohnen nicht einholen könnten; Starlink bestreitet eine Drosselung. Russland griff in der Nacht mit 132 Drohnen an, in Odessa fiel für 41.000 Haushalte der Strom aus; binnen eines Tages wurden laut Kyiv Independent in der Ukraine vier Menschen getötet und 69 verletzt. Die Ukraine griff nach eigenen Angaben den Militärflugplatz Achtubinsk an; Russland meldet einen Toten und vier Verletzte in Taganrog.",
+          "source": "Kyiv Independent, 15.11.",
+          "url": "https://kyivindependent.com/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says/"
         },
         {
           "tag": "USA · Russland · China",
@@ -129,10 +129,10 @@
         },
         {
           "tag": "Jemen",
-          "title": "Jemens Regierungstruppen ziehen sich vom Bab al-Mandeb in Richtung Aden zurück",
-          "text": "Die von Saudi-Arabien gestützten Regierungstruppen haben nach eigenen Angaben den Flughafen Dhubab und das Gebiet am Bab al-Mandeb geräumt und sich in Richtung Aden zurückgezogen; Militärkreise nennen als neue Stellung al-Suqyah, rund 150 Kilometer westlich von Aden. Die Huthi stehen laut Reuters kurz vor dem Bezirk Tur al-Bahah. Nach Angaben von Al Jazeera melden die Huthi einen Vormarsch auf Aden und ließen rund 600 Gefangene frei, was das Rote Kreuz bestätigte; Reuters lag zunächst keine Stellungnahme der Huthi oder Saudi-Arabiens vor.",
-          "source": "Reuters, 15.11.",
-          "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+          "title": "Jemens Regierungstruppen räumen Stellungen am Bab al-Mandeb, um Aden zu sichern",
+          "text": "Die von Saudi-Arabien gestützten Südlichen Streitkräfte ziehen sich nach eigenen Angaben vom Flughafen Dhubab und aus dem Gebiet am Bab al-Mandeb zurück; Vorrang habe die Sicherung der Übergangshauptstadt Aden und der Nachbarprovinzen, zudem sollen Verstärkungen die Huthi-Belagerung von Taiz brechen. Die Huthi haben Höhenzüge nördlich von Aden eingenommen und kündigen einen Vormarsch auf die Stadt an. Die saudisch geführte Koalition meldet den Abschuss von zwei Drohnen über der Region Mekka und von zwei ballistischen Raketen in Richtung Riad. Das Rote Kreuz bestätigte, dass die Huthi einseitig 600 Gefangene freigelassen haben.",
+          "source": "Al Jazeera, 15.11.",
+          "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden"
         },
         {
           "tag": "Nahost",
@@ -149,11 +149,11 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 64.550 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.080 $, den tiefsten Stand seit vier Monaten, und notierte gegen 17:40 Uhr MEZ bei etwa 64.549 $ (−1,2 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.814 $ (−0,5 %). Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von gut 13 %; es wäre der sechste Wochenverlust in Folge. Auf Sieben-Tage-Sicht weist CoinGecko für Bitcoin rund −14,8 % und für Ether −19,2 % aus. Binnen 24 Stunden wurden Terminpositionen über rund 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+          "title": "Bitcoin am Abend bei rund 65.050 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
+          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.080 $, den tiefsten Stand seit vier Monaten, und notierte gegen 21:50 Uhr MEZ bei etwa 65.049 $ (−0,7 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.830 $ (+0,2 %). Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von rund 13 %; es wäre der sechste Wochenverlust in Folge. Auf Sieben-Tage-Sicht weist CoinGecko für Bitcoin rund −14,4 % und für Ether rund −19 % aus. Laut CryptoTicker wurden binnen 24 Stunden Terminpositionen über rund 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
           "source": "CoinGecko, 15.11.",
           "url": "https://www.coingecko.com/en/coins/bitcoin",
-          "impact": "Der Kurs bleibt in der Spanne zwischen dem Nachttief und dem 24-Stunden-Hoch von rund 66.000 $. Am Wochenende ist der Handel dünn; um Mitternacht MEZ öffnet die Terminbörse CME wieder, wo laut CryptoTicker eine Kurslücke bei rund 68.200 $ offen ist, der Wochenschluss folgt um 1 Uhr MEZ."
+          "impact": "Der Kurs hat sich im oberen Teil der Tagesspanne zwischen dem Nachttief und dem 24-Stunden-Hoch von rund 66.000 $ stabilisiert. Am Wochenende ist der Handel dünn; um 1 Uhr MEZ schließt die Wochenkerze, zur selben Stunde öffnet laut CryptoTicker die Terminbörse CME wieder, deren Freitagsschluss bei rund 68.200 $ eine Kurslücke hinterlassen hat."
         },
         {
           "tag": "Fed · Inflation",
@@ -182,7 +182,7 @@
         {
           "tag": "Termin",
           "title": "Mo 16.11.: Länderspiel Deutschland–Niederlande",
-          "text": "20:45 Uhr im Berliner Olympiastadion.",
+          "text": "20:45 Uhr im Berliner Olympiastadion. Dazu EU-Außenminister zu neuen Sanktionen gegen Russlands Schattenflotte, Schwesig stellt sich in Schwerin zur Wiederwahl.",
           "source": "",
           "url": ""
         },

@@ -1,18 +1,18 @@
 {
-  "date": "Sonntag, 15. November 2026",
-  "stand": "21:50",
+  "date": "Montag, 16. November 2026",
+  "stand": "01:48",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "65.049 $",
-      "change": "▼ 0,7 % · 24 h",
-      "dir": "down"
+      "value": "64.903 $",
+      "change": "▲ 1,9 % · 24 h",
+      "dir": "up"
     },
     {
       "label": "Ether",
-      "value": "1.830 $",
-      "change": "▲ 0,2 % · 24 h",
+      "value": "1.815 $",
+      "change": "▲ 3,7 % · 24 h",
       "dir": "up"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Krypto am Abend stabilisiert, Woche tiefrot: Bitcoin notiert bei rund 65.050 $ (−0,7 % in 24 Stunden), Ether bei rund 1.830 $ (+0,2 %); in der Nacht war Bitcoin mit rund 62.000 $ auf ein Vier-Monats-Tief gefallen. Auf Wochensicht steuert Bitcoin auf ein Minus von rund 13 % zu, der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember; um 1 Uhr MEZ schließt die Wochenkerze, zugleich öffnet die Terminbörse CME wieder.",
-    "Nahost und Ukraine: Iran hat zum zweiten Mal binnen drei Tagen Bahrain mit Drohnen angegriffen, Bahrain meldet die Angriffe als abgefangen; der Golf-Kooperationsrat spricht von einer offenen Herausforderung der Friedensbemühungen, Katar von gefährlicher Eskalation. Im Jemen ziehen sich die von Saudi-Arabien gestützten Regierungstruppen vom Bab al-Mandeb zurück, um Aden zu sichern. Die EU hat im Mittelmeer einen mutmaßlichen Tanker der russischen Schattenflotte geentert; Selenskyj wirft SpaceX vor, gedrosselte Starshield-Terminals behinderten die Drohnenabwehr.",
-    "Berlin und Bund: In Moabit ist am Sonntagabend vor einem Wohnhaus ein Sprengsatz explodiert, mehrere Fenster gingen zu Bruch; die Polizei ermittelt. Nach dem Tod einer Achtjährigen unter einem BVG-Bus in Tiergarten wird gegen den Fahrer wegen des Verdachts der Unfallflucht ermittelt; die S-Bahn fährt bis Montagfrüh nicht zwischen Friedrichstraße und Tiergarten. Im SPD-Machtkampf stärken Pistorius und Schweitzer Parteichef Klingbeil, der offenlässt, ob er wieder antritt; die Mittelstandsunion Köln fordert von Merz das Ende der Koalition, am Dienstag tagt der Koalitionsausschuss zur Stromsteuer."
+    "Krypto nach dem Wochenschluss: Bitcoin notiert kurz nach dem Wochenschluss um 1 Uhr MEZ bei rund 64.900 $ (+1,9 % in 24 Stunden, gemessen am Nachttief vom Sonntag bei rund 62.000 $), Ether bei rund 1.815 $ (+3,7 %). Gegenüber dem Wochenstart bei 74.757 $ sind das rund 13 % weniger, der sechste Wochenverlust in Folge; der Markt rechnet fest mit einer Fed-Zinserhöhung im Dezember, heute um 18 Uhr MEZ spricht Fed-Chef Warsh.",
+    "Nahost und Europa: Irans Vizeaußenminister Gharibabadi erklärt, Teheran werde nicht abwarten, bis die USA zuerst angreifen; nach den iranischen Drohnenangriffen auf Bahrain hat die US-Botschaft dort eine Sicherheitswarnung herausgegeben. Im Jemen ziehen sich die Regierungstruppen vom Bab al-Mandeb zurück, um Aden zu sichern. In Israel wirbt Netanjahu nach der Wahl ohne klare Mehrheit bei Oppositionsführer Eisenkot um eine Einheitsregierung; Estland schließt zum 1. Dezember seine drei Grenzübergänge nach Russland.",
+    "Bund und Berlin: Vor dem Koalitionsausschuss am Dienstag hält CSU-Chef Söder die Stromsteuersenkung für alle für finanzierbar und lehnt es ab, dafür die Mütterrente anzutasten; im SPD-Machtkampf stützen Pistorius und Schweitzer Parteichef Klingbeil. In Berlin ermittelt die Polizei nach einer Explosion vor einem Wohnhaus in Moabit und nach dem Tod einer Achtjährigen unter einem BVG-Bus; heute Abend gelten zum Länderspiel Deutschland–Niederlande ab 18 Uhr Sperrungen rund um das Olympiastadion."
   ],
   "sections": [
     {
@@ -39,32 +39,32 @@
       "title": "Deutschland",
       "items": [
         {
+          "tag": "Politik",
+          "title": "Stromsteuer: Söder hält Senkung für alle für finanzierbar – Mütterrente will er nicht antasten",
+          "text": "CSU-Chef Markus Söder sagte am Sonntagabend im ZDF, eine Finanzierung der Stromsteuersenkung für alle zu finden, sei kein Hexenwerk; es gehe um die Glaubwürdigkeit der Koalition, auch die kalte Progression müsse noch geklärt werden. Vorschläge, dafür auf die bereits beschlossene Ausweitung der Mütterrente zu verzichten, wies er zurück, für eine Übergewinnsteuer für Mineralölkonzerne zeigte er sich offen. Im Haushalt 2027 fehlen für die von Kanzler Merz zugesagte Senkung gut fünf Milliarden Euro; Finanzminister Klingbeil will sie nur bei solider Gegenfinanzierung. Der Koalitionsausschuss berät am Dienstag im Kanzleramt. Die Mittelstands- und Wirtschaftsunion Köln fordert Merz laut Focus auf, das Bündnis mit der SPD zu beenden.",
+          "source": "ZDFheute, 15.11.",
+          "url": "https://www.zdfheute.de/politik/deutschland/soeder-csu-koalition-haushalt-stromsteuer-muetterrente-100.html"
+        },
+        {
           "tag": "Parteien",
           "title": "SPD-Vorsitz: Pistorius und Schweitzer stützen Klingbeil – Heil will das Profil der Partei schärfen",
-          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil am Wochenende seine Bewerbung um den Parteivorsitz an Vorstand und Landesverbände geschickt; in der ARD sagte er, die SPD dürfe sich mit Umfragewerten von zwölf Prozent nicht abfinden. Lars Klingbeil verteidigte seine Doppelrolle als Parteichef und Finanzminister, erklärte, er klebe nicht an seinem Amt, und will zunächst in der Partei ausloten, ob er antritt. Hinter ihn stellten sich laut dpa Verteidigungsminister Pistorius und Alexander Schweitzer, die selbst nicht kandidieren, sowie Umweltminister Schneider und Fraktionschef Miersch; Sachsen-Anhalts Landesverband unterstützt Heil, die Jusos würden eine Frau allein an der Spitze begrüßen. Saarlands Ministerpräsidentin Rehlinger will nicht antreten; Manuela Schwesig, die als Favoritin für den weiblichen Teil einer Doppelspitze gilt, stellt sich am Montag in Schwerin zur Wiederwahl als Ministerpräsidentin. Der Vorstand will bis spätestens 16. Dezember einen Personalvorschlag vorlegen, gewählt wird auf dem Parteitag am 16. und 17. Januar in Bremen.",
+          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil am Wochenende seine Bewerbung um den Parteivorsitz an Vorstand und Landesverbände geschickt; in der ARD sagte er, die SPD dürfe sich mit Umfragewerten von zwölf Prozent nicht abfinden, er erhalte viel Zuspruch aus der Partei. Lars Klingbeil verteidigte seine Doppelrolle als Parteichef und Finanzminister und will zunächst in der Partei ausloten, ob er antritt. Hinter ihn stellten sich laut dpa Verteidigungsminister Pistorius und Alexander Schweitzer, die selbst nicht kandidieren, sowie Umweltminister Schneider und Fraktionschef Miersch; Sachsen-Anhalts Landesverband unterstützt Heil. Manuela Schwesig, die als Favoritin für den weiblichen Teil einer Doppelspitze gilt, stellt sich an diesem Montag in Schwerin zur Wiederwahl als Ministerpräsidentin. Der Vorstand will bis spätestens 16. Dezember einen Personalvorschlag vorlegen, gewählt wird am 16. und 17. Januar in Bremen.",
           "source": "dpa-AFX via Investing.com, 15.11.",
           "url": "https://de.investing.com/news/economy-news/roundup-4machtkampf-in-spd-ist-eroffnet-heil-tritt-fur-vorsitz-an-3768903"
         },
         {
-          "tag": "Politik",
-          "title": "Stromsteuer vor dem Koalitionsausschuss: Mittelstandsunion Köln fordert Ende der Koalition",
-          "text": "Der Haushalt 2027 steht mit 560,9 Mrd. € Ausgaben und über 210 Mrd. € neuen Schulden; die von Kanzler Merz zugesagte Stromsteuersenkung für alle, rund 5,4 Mrd. €, ist darin nicht eingeplant. Finanzminister Klingbeil will sie nur bei solider Gegenfinanzierung und mahnt vor dem Koalitionsausschuss am Dienstag mehr Tempo bei den verabredeten Gesundheitsreformen an. Aus der CDU verlangen unter anderem Schleswig-Holsteins Ministerpräsident Günther und Ex-Generalsekretär Ziemiak, die Zusage einzuhalten. Am Sonntagabend wurde zudem bekannt, dass die Mittelstands- und Wirtschaftsunion Köln Merz auffordert, das Bündnis mit der SPD zu beenden, eine Minderheitsregierung der Union zu bilden und dem Haushalt die Zustimmung zu verweigern.",
-          "source": "Focus, 15.11.",
-          "url": "https://www.focus.de/politik/deutschland/mit-koeln-fordert-merz-zum-ende-der-koalition-mit-spd-auf_fd3790df-a1de-4c20-aa0a-bac4976a0383.html"
+          "tag": "Gesundheit",
+          "title": "Arzttermine gegen Aufpreis: Vorstoß des Kassenärzte-Chefs stößt auf breite Ablehnung",
+          "text": "Kassenärzte-Chef Andreas Gassen hat in Aussicht gestellt, dass Kassenpatienten schnelle Termine künftig nur noch als Selbstzahler bekommen könnten, und begründet das mit Honorarkürzungen von drei Milliarden Euro durch das Sparpaket der Bundesregierung. Vizekanzler Klingbeil erklärte, das sei mit der SPD nicht zu machen; der Spitzenverband der Krankenkassen sprach von einer Angstkampagne, Grüne, Sozialverband und Patientenschützer kritisierten den Vorstoß ebenfalls. Gesundheitsminister Linnemann will noch in diesem Jahr eine Reform vorlegen, die Patienten stärker über die Hausarztpraxis steuert.",
+          "source": "Tagesschau, 15.11.",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html"
         },
         {
           "tag": "Wirtschaft · Handwerk",
           "title": "Handwerkspräsident warnt vor „stillem Sterben der Betriebe“",
-          "text": "Jörg Dittrich, Präsident des Zentralverbands des Deutschen Handwerks, sagte den Zeitungen der Funke Mediengruppe, das Geschäftsklima der Branche liege auf dem Niveau der Corona-Pandemie, die Investitionen auf dem der Finanzkrise. In den vergangenen zwei Jahren seien mehr als 150.000 Arbeitsplätze verloren gegangen; ohne Gegensteuern drohe ein Verlust von 70.000 bis 80.000 Stellen pro Jahr. Er fordert niedrigere Lohnzusatzkosten, flexiblere Arbeitszeiten, die zugesagte Abschaffung des Sonntagsbackverbots und eine Stromsteuersenkung für alle Handwerksbetriebe.",
+          "text": "Jörg Dittrich, Präsident des Zentralverbands des Deutschen Handwerks, sagte den Zeitungen der Funke Mediengruppe, das Geschäftsklima der Branche liege auf dem Niveau der Corona-Pandemie, die Investitionen auf dem der Finanzkrise. In den vergangenen zwei Jahren seien mehr als 150.000 Arbeitsplätze verloren gegangen; ohne Gegensteuern drohe ein Verlust von 70.000 bis 80.000 Stellen pro Jahr. Er fordert niedrigere Lohnzusatzkosten, flexiblere Arbeitszeiten und eine Stromsteuersenkung für alle Handwerksbetriebe.",
           "source": "Tagesschau, 15.11.",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html"
-        },
-        {
-          "tag": "Gedenken",
-          "title": "Volkstrauertag: Gedenkstunde im Bundestag ohne Kanzler Merz",
-          "text": "Im Plenarsaal des Reichstagsgebäudes fand am Sonntagmittag die zentrale Gedenkstunde zum Volkstrauertag statt; die Gedenkrede hielt Österreichs Bundespräsident Alexander Van der Bellen. Anwesend waren unter anderem Bundespräsident Steinmeier, Bundestagspräsidentin Klöckner, Bundesratspräsident Wüst und Verteidigungsminister Pistorius. Kanzler Merz nahm nicht teil, Gründe wurden zunächst nicht bekannt.",
-          "source": "ad-hoc-news, 15.11.",
-          "url": "https://www.ad-hoc-news.de/politik/volkstrauertag-merz-fehlt-bei-gedenkstunde-im-bundestag/70517094"
         }
       ]
     },
@@ -73,30 +73,30 @@
       "title": "Berlin",
       "items": [
         {
-          "tag": "Unfall · BVG",
-          "title": "Tiergarten: Achtjährige von BVG-Bus überrollt – Polizei ermittelt gegen Fahrer wegen Unfallflucht",
-          "text": "Am Samstag starb ein achtjähriges Mädchen, das mit seiner Mutter auf dem Radstreifen der Potsdamer Straße unterwegs war, an der Ecke Lützowstraße. Nach Polizeiangaben fuhren Bus und Radfahrerinnen an der Ampel gleichzeitig an, das Kind geriet aus ungeklärter Ursache ins Schlingern und wurde überrollt; es starb an der Unfallstelle, die Mutter erlitt einen Schock. Der 55-jährige Busfahrer fuhr zunächst weiter und wurde an einer späteren Haltestelle gestoppt; ob er den Unfall bemerkt hatte, ist offen, gegen ihn wird wegen des Verdachts der Verkehrsunfallflucht ermittelt. Die BVG äußerte sich tief betroffen und unterstützt die Ermittlungen. Am Sonntag legten Menschen an der Unfallstelle Blumen nieder; Anwohner halten die Kreuzung laut Berliner Morgenpost für besonders gefährlich.",
-          "source": "Tagesspiegel, 15.11.",
-          "url": "https://www.tagesspiegel.de/berlin/todlicher-unfall-in-berlin-achtjahrige-sturzt-mit-rad-und-wird-von-bvg-bus-uberrollt-16285790.html"
-        },
-        {
-          "tag": "Polizei",
-          "title": "Explosion vor Wohnhaus in Moabit – Staatsschutz prüft Bekennerschreiben zum Brandanschlag auf Reichelts Auto",
-          "text": "In der Havelberger Straße in Moabit ist am Sonntagabend ein Sprengsatz explodiert und hat mehrere Fenster eines Wohnhauses zerstört; die Polizei ermittelt wegen eines Verstoßes gegen das Sprengstoffgesetz. Zeugen zufolge könnten Jugendliche eine Kugelbombe auf die Straße geworfen haben, nach ersten Erkenntnissen war es möglicherweise ein Eigenbau oder ein Bündel illegaler Böller. Nach der Brandstiftung am Auto von Nius-Chefredakteur Julian Reichelt in der Nacht zu Freitag prüft der Staatsschutz ein im Internet veröffentlichtes Bekennerschreiben, dessen Echtheit offen ist. In Gropiusstadt brannten in der Nacht zu Sonntag am Kölner Damm zehn Fahrzeuge, das Landeskriminalamt ermittelt wegen des Verdachts der Brandstiftung; bei einer Schlägerei auf einer Verlobungsfeier in Wilhelmsruh gab es am Samstagabend acht Verletzte.",
-          "source": "Tagesspiegel, 15.11.",
-          "url": "https://www.tagesspiegel.de/berlin/polizei-ermittelt-wegen-sprengstoffverstosses-explosion-vor-wohnhaus-in-berlin-moabit-16287451.html"
-        },
-        {
           "tag": "S-Bahn · Verkehr",
-          "title": "Stadtbahn bis Montagfrüh gesperrt – am Montag Sperrungen zum Länderspiel am Olympiastadion",
-          "text": "Die Linien S3, S5, S7 und S9 sind zwischen Friedrichstraße und Tiergarten bis Montag Betriebsbeginn unterbrochen, es fahren Ersatzbusse; der RE7 wird über Lichtenberg umgeleitet. Zum Länderspiel Deutschland–Niederlande am Montag (20:45 Uhr) gelten rund um das Olympiastadion ab 14 Uhr Halteverbote, ab 18 Uhr bis Mitternacht sind unter anderem Olympischer Platz, Trakehner Allee und Flatowallee gesperrt. Die Polizei rechnet mit größeren Fangruppen am Theodor-Heuss-Platz und an der Heerstraße; niederländische Fans haben einen Fanmarsch angekündigt.",
+          "title": "Heute Länderspiel am Olympiastadion: Sperrungen ab 18 Uhr – Stadtbahn bis Betriebsbeginn unterbrochen",
+          "text": "Zum Länderspiel Deutschland–Niederlande am Montagabend (20:45 Uhr) gelten rund um das Olympiastadion ab 14 Uhr Halteverbote, von 18 Uhr bis Mitternacht sind unter anderem Olympischer Platz, Trakehner Allee und Flatowallee gesperrt. Die Polizei rechnet mit größeren Fangruppen am Theodor-Heuss-Platz und an der Heerstraße; niederländische Fans haben einen Fanmarsch angekündigt. Die Linien S3, S5, S7 und S9 sind zwischen Friedrichstraße und Tiergarten noch bis zum Betriebsbeginn am Montagmorgen unterbrochen, es fahren Ersatzbusse.",
           "source": "Tagesspiegel, 15.11.",
           "url": "https://www.tagesspiegel.de/berlin/hopst-oranje-am-montag-wieder-durch-berlin-landerspiel-im-olympiastadion--darauf-muss-sich-die-hauptstadt-einstellen-16286713.html"
         },
         {
+          "tag": "Polizei",
+          "title": "Explosion vor Wohnhaus in Moabit – Staatsschutz prüft Bekennerschreiben zum Brandanschlag auf Reichelts Auto",
+          "text": "In der Havelberger Straße in Moabit ist am Sonntagabend ein Sprengsatz explodiert und hat mehrere Fenster eines Wohnhauses zerstört; die Polizei ermittelt wegen eines Verstoßes gegen das Sprengstoffgesetz. Zeugen zufolge könnten Jugendliche eine Kugelbombe auf die Straße geworfen haben. Nach der Brandstiftung am Auto von Nius-Chefredakteur Julian Reichelt in der Nacht zu Freitag prüft der Staatsschutz ein im Internet veröffentlichtes Bekennerschreiben, dessen Echtheit offen ist. In Gropiusstadt brannten in der Nacht zu Sonntag zehn Fahrzeuge, das Landeskriminalamt ermittelt wegen des Verdachts der Brandstiftung. Nach der Demonstration von „Gen Z regelt“ am Samstag in Charlottenburg meldet der rbb 20 Festnahmen und 28 Strafanzeigen.",
+          "source": "Tagesspiegel, 15.11.",
+          "url": "https://www.tagesspiegel.de/berlin/polizei-ermittelt-wegen-sprengstoffverstosses-explosion-vor-wohnhaus-in-berlin-moabit-16287451.html"
+        },
+        {
+          "tag": "Unfall · BVG",
+          "title": "Tiergarten: Achtjährige von BVG-Bus überrollt – Polizei ermittelt gegen Fahrer wegen Unfallflucht",
+          "text": "Am Samstag starb ein achtjähriges Mädchen, das mit seiner Mutter auf dem Radstreifen der Potsdamer Straße unterwegs war, an der Ecke Lützowstraße. Nach Polizeiangaben fuhren Bus und Radfahrerinnen an der Ampel gleichzeitig an, das Kind geriet aus ungeklärter Ursache ins Schlingern und wurde überrollt; es starb an der Unfallstelle. Der 55-jährige Busfahrer fuhr zunächst weiter und wurde an einer späteren Haltestelle gestoppt; ob er den Unfall bemerkt hatte, ist offen, gegen ihn wird wegen des Verdachts der Verkehrsunfallflucht ermittelt. Die BVG äußerte sich tief betroffen; am Sonntag legten Menschen an der Unfallstelle Blumen nieder.",
+          "source": "Tagesspiegel, 15.11.",
+          "url": "https://www.tagesspiegel.de/berlin/todlicher-unfall-in-berlin-achtjahrige-sturzt-mit-rad-und-wird-von-bvg-bus-uberrollt-16285790.html"
+        },
+        {
           "tag": "Landespolitik",
           "title": "Fall Emde: Ramelow legt Abgeordneter Austritt aus der Linksfraktion nahe",
-          "text": "Der Linken-Politiker Bodo Ramelow sagte im ZDF, die Berliner Abgeordnete Vanessa Emde solle die Fraktion aus eigenem Antrieb verlassen; um ihre Haltung gehe es ihm dabei nicht. Der Berliner Grünen-Politiker Werner Graf begrüßte das Verfahren zum Fraktionsausschluss. Dafür ist eine Zweidrittelmehrheit nötig, abgestimmt wird frühestens am 24. November; Linke, Grüne und SPD wollen ihre Koalitionsverhandlungen im Januar abschließen. Im Bezirk Mitte hat die Linke laut Tagesspiegel ihre Gespräche mit den Grünen im Streit um ein Antisemitismuspapier und einen Posten abgebrochen.",
+          "text": "Der Linken-Politiker Bodo Ramelow sagte im ZDF, die Berliner Abgeordnete Vanessa Emde solle die Fraktion aus eigenem Antrieb verlassen. Der Berliner Grünen-Politiker Werner Graf begrüßte das Verfahren zum Fraktionsausschluss. Dafür ist eine Zweidrittelmehrheit nötig, abgestimmt wird frühestens am 24. November; Linke, Grüne und SPD wollen ihre Koalitionsverhandlungen im Januar abschließen. Im Bezirk Mitte hat die Linke laut Tagesspiegel ihre Gespräche mit den Grünen im Streit um ein Antisemitismuspapier und einen Posten abgebrochen.",
           "source": "ZDFheute, 15.11.",
           "url": "https://www.zdfheute.de/politik/deutschland/ramelow-linke-koalition-berlin-emde-fraktionsausschluss-100.html"
         }
@@ -108,38 +108,38 @@
       "items": [
         {
           "tag": "Iran",
-          "title": "Iran greift erneut Bahrain an – Golfstaaten sprechen von Eskalation, Araghtschi reist nach Oman",
-          "text": "Die Revolutionsgarden erklärten am Sonntag, sechs Drohnen hätten ein US-Luftabwehrradar auf dem Stützpunkt Riffa in Bahrain getroffen. Bahrain meldet mehrere Angriffe als abgefangen und löste erstmals seit Monaten landesweit Alarm aus; den am Freitag von Iran behaupteten Radartreffer bestreitet das US-Militär. Der Generalsekretär des Golf-Kooperationsrats nannte den Angriff eine offene Herausforderung der Friedensbemühungen, Vermittler Katar sprach von gefährlicher Eskalation; die Börsen am Golf schlossen schwächer (Saudi-Arabien −0,7 %, Katar −1,8 %). Nach Angaben der Garden sank in der Straße von Hormus ein Tanker nach einem Minentreffer, ein zweiter wurde beschädigt; unabhängig bestätigt ist das nicht. Irans Parlamentspräsident Ghalibaf erklärte, der Weg zu einem Kriegsende sei offen, wenn die USA Teherans Bedingungen akzeptierten. Außenminister Araghtschi reist am Dienstag zu Gesprächen nach Oman.",
-          "source": "The National, 15.11.",
-          "url": "https://www.thenationalnews.com/news/mena/2026/11/15/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/"
-        },
-        {
-          "tag": "Ukraine",
-          "title": "EU entert mutmaßlichen Schattenflotten-Tanker – Selenskyj kritisiert gedrosselte Starshield-Terminals",
-          "text": "Die EU-Marinemission Irini hat am 13. November im Mittelmeer den Rohöltanker „Midag“ geentert, der laut EU-Außenbeauftragter Kallas unter falscher Flagge fuhr und der russischen Schattenflotte zugerechnet wird; Kallas machte das am Sonntag bekannt, am Montag sollen die EU-Außenminister weitere Sanktionslistungen beschließen. Präsident Selenskyj wirft SpaceX vor, die Geschwindigkeit der Starshield-Terminals zu begrenzen, wodurch Abfangdrohnen schnelle russische Schahed-Drohnen nicht einholen könnten; Starlink bestreitet eine Drosselung. Russland griff in der Nacht mit 132 Drohnen an, in Odessa fiel für 41.000 Haushalte der Strom aus; binnen eines Tages wurden laut Kyiv Independent in der Ukraine vier Menschen getötet und 69 verletzt. Die Ukraine griff nach eigenen Angaben den Militärflugplatz Achtubinsk an; Russland meldet einen Toten und vier Verletzte in Taganrog.",
-          "source": "Kyiv Independent, 15.11.",
-          "url": "https://kyivindependent.com/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says/"
-        },
-        {
-          "tag": "USA · Russland · China",
-          "title": "Trump, Putin und Xi am Donnerstag in Shenzhen: Kreml bestätigt Putins Teilnahme",
-          "text": "Das erste Dreiertreffen der Staatschefs soll am 19. November am Rande des Apec-Gipfels stattfinden; Moskau hat Putins Teilnahme am Sonntagmorgen bestätigt. Themen sind laut Weißem Haus Atomwaffen und der Iran-Krieg, die Ukraine ausdrücklich nicht; ein US-Regierungsvertreter erwartet keine Einigung, sondern den Beginn von Gesprächen. Australiens Premier Albanese begrüßte das Treffen; europäische Regierungschefs mahnen laut Guardian, Trump dürfe im Ukraine-Krieg keine großen Zugeständnisse machen.",
-          "source": "Macau Business/AFP, 15.11.",
-          "url": "https://macaubusiness.com/moscow-confirms-trump-xi-putin-meeting-in-china/"
+          "title": "Iran droht mit Erstschlag – US-Botschaft in Bahrain gibt nach Drohnenangriffen Sicherheitswarnung heraus",
+          "text": "Irans Vizeaußenminister Kazem Gharibabadi erklärte, Teheran werde nicht abwarten, bis die USA zuerst angreifen; Washington nutze die Diplomatie womöglich, um Zeit für einen weiteren Angriff zu gewinnen. Die US-Botschaft in Bahrain warnte US-Bürger vor Angriffen Irans und der Huthi. Am Sonntag hatten die Revolutionsgarden nach eigenen Angaben einen US-Stützpunkt in Bahrain mit sechs Drohnen angegriffen; Bahrain meldet mehrere Angriffe als abgefangen, die ersten Abschüsse seiner Luftabwehr seit September. Laut den Garden gerieten in der Straße von Hormus zwei Tanker nach Minentreffern in Brand, unabhängig bestätigt ist das nicht. US-Präsident Trump will laut Reuters von Angriffen absehen, wenn es keine neuen Provokationen gibt, die Seeblockade aber aufrechterhalten. Außenminister Araghtschi reist am Dienstag zu Gesprächen nach Oman.",
+          "source": "Al Jazeera Liveblog, 16.11.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"
         },
         {
           "tag": "Jemen",
           "title": "Jemens Regierungstruppen räumen Stellungen am Bab al-Mandeb, um Aden zu sichern",
-          "text": "Die von Saudi-Arabien gestützten Südlichen Streitkräfte ziehen sich nach eigenen Angaben vom Flughafen Dhubab und aus dem Gebiet am Bab al-Mandeb zurück; Vorrang habe die Sicherung der Übergangshauptstadt Aden und der Nachbarprovinzen, zudem sollen Verstärkungen die Huthi-Belagerung von Taiz brechen. Die Huthi haben Höhenzüge nördlich von Aden eingenommen und kündigen einen Vormarsch auf die Stadt an. Die saudisch geführte Koalition meldet den Abschuss von zwei Drohnen über der Region Mekka und von zwei ballistischen Raketen in Richtung Riad. Das Rote Kreuz bestätigte, dass die Huthi einseitig 600 Gefangene freigelassen haben.",
-          "source": "Al Jazeera, 15.11.",
-          "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden"
+          "text": "Die von Saudi-Arabien gestützten Regierungstruppen ziehen sich nach eigenen Angaben aus dem Gebiet am Bab al-Mandeb und von weiteren Küstenabschnitten zurück; Vorrang habe die Sicherung der Übergangshauptstadt Aden. Reuters wertet das als schweren Rückschlag für die saudische Kampagne gegen die mit Iran verbündeten Huthi, die einen Vormarsch auf Aden ankündigen. Die saudisch geführte Koalition meldet den Abschuss von zwei Drohnen und zwei ballistischen Raketen. Das Rote Kreuz bestätigte, dass die Huthi 600 Gefangene freigelassen haben.",
+          "source": "Reuters, 15.11.",
+          "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
         },
         {
-          "tag": "Nahost",
-          "title": "Israel tötet ranghohen Hamas-Kommandeur – Trauerfeier für rund 70 Tote in Gaza",
-          "text": "Bei einem israelischen Luftangriff in Chan Junis wurde am Samstag Samir Abu Junis getötet, der Kommandeur der Rafah-Brigade; die Hamas hat seinen Tod bestätigt. Verteidigungsminister Israel Katz kündigte an, die Angriffe fortzusetzen, bis der Gazastreifen entwaffnet sei; die Türkei und 17 weitere Staaten verurteilten einen israelischen Luftangriff auf das Nasser-Krankenhaus. Am Sonntag nahmen Tausende Palästinenser an der Beisetzung von rund 70 Menschen teil, deren sterbliche Überreste aus zerstörten Gebäuden geborgen worden waren.",
-          "source": "Al Jazeera, 15.11.",
-          "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
+          "tag": "Ukraine · Russland",
+          "title": "Estland schließt Grenzübergänge nach Russland – EU entert mutmaßlichen Schattenflotten-Tanker",
+          "text": "Estland schließt zum 1. Dezember seine drei Grenzübergänge nach Russland in Narva, Luhamaa und Koidula; die Regierung begründet das mit einem versuchten Brandanschlag auf den Drohnenhersteller Threod Systems, den sie dem russischen Militärgeheimdienst GRU zuschreibt. Die EU-Marinemission Irini hat im Mittelmeer einen Rohöltanker geentert, der laut EU-Außenbeauftragter Kallas der russischen Schattenflotte zugerechnet wird; an diesem Montag beraten die EU-Außenminister über weitere Sanktionslistungen. Präsident Selenskyj wirft SpaceX vor, gedrosselte Starshield-Terminals behinderten die Abwehr schneller russischer Drohnen. Russland griff in der Nacht zum Sonntag mit 132 Drohnen an, binnen eines Tages wurden laut Kyiv Independent vier Menschen getötet und 69 verletzt; die Ukraine meldet Angriffe auf den Militärflugplatz Achtubinsk und auf russische Raffinerie- und Petrochemieanlagen.",
+          "source": "Tagesschau, 15.11.",
+          "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html"
+        },
+        {
+          "tag": "Israel · Gaza",
+          "title": "Israel nach der Wahl: Netanjahu wirbt bei Eisenkot um Einheitsregierung – Hamas-Kommandeur getötet",
+          "text": "Die Parlamentswahl in Israel hat keine klare Mehrheit gebracht. Noch-Premier Netanjahu schlug Oppositionspolitiker Gadi Eisenkot in einer Videobotschaft Gespräche ohne Vorbedingungen über eine nationale Einheitsregierung vor; Eisenkot, der selbst nach Koalitionspartnern sucht, hält das laut ARD für einen Bluff. Am Dienstag steht der Wechsel an der Spitze der Knesset an. Im Gazastreifen wurde am Samstag bei einem israelischen Luftangriff in Chan Junis der Kommandeur der Rafah-Brigade der Hamas getötet; am Sonntag wurden rund 70 aus Trümmern geborgene Tote beigesetzt.",
+          "source": "Tagesschau, 15.11.",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html"
+        },
+        {
+          "tag": "Tschechien",
+          "title": "Massenprotest in Prag gegen Pläne für den öffentlich-rechtlichen Rundfunk",
+          "text": "Auf der Letná-Ebene in Prag haben am Sonntag Zehntausende gegen die Rundfunkreform der Regierung demonstriert; die Veranstalter der Initiative „Eine Million Momente für Demokratie“ sprachen von 350.000 bis 450.000 Teilnehmern. Die Regierung will die Rundfunkgebühren abschaffen, die Sender aus dem Staatshaushalt finanzieren und die Mittel um 15 Prozent kürzen. Die Demonstranten befürchten, dass die Sender damit unter Regierungskontrolle geraten.",
+          "source": "Tagesschau, 15.11.",
+          "url": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html"
         }
       ]
     },
@@ -149,47 +149,47 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin am Abend bei rund 65.050 $ – Vier-Monats-Tief in der Nacht, sechster Wochenverlust in Folge zeichnet sich ab",
-          "text": "Bitcoin fiel in der Nacht zum Sonntag bis auf rund 62.080 $, den tiefsten Stand seit vier Monaten, und notierte gegen 21:50 Uhr MEZ bei etwa 65.049 $ (−0,7 % in 24 Stunden); Ether stand nach einem Tief bei rund 1.714 $ bei etwa 1.830 $ (+0,2 %). Bleibt es dabei, endet die Woche für Bitcoin nach einem Start bei 74.757 $ mit einem Minus von rund 13 %; es wäre der sechste Wochenverlust in Folge. Auf Sieben-Tage-Sicht weist CoinGecko für Bitcoin rund −14,4 % und für Ether rund −19 % aus. Laut CryptoTicker wurden binnen 24 Stunden Terminpositionen über rund 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
-          "source": "CoinGecko, 15.11.",
+          "title": "Bitcoin nach dem Wochenschluss bei rund 64.900 $ – sechster Wochenverlust in Folge",
+          "text": "Um 1 Uhr MEZ ist die Wochenkerze geschlossen; kurz danach, um 01:40 Uhr, notierte Bitcoin laut CoinGecko bei 64.903 $ (+1,9 % in 24 Stunden), Ether bei 1.815 $ (+3,7 %). Das Plus erklärt sich aus dem Vergleich mit der Nacht zum Sonntag, als Bitcoin bis auf rund 62.080 $ und Ether bis auf rund 1.714 $ gefallen waren. Gegenüber dem Wochenstart bei 74.757 $ liegt Bitcoin rund 13 % tiefer und damit die sechste Woche in Folge unter dem Vorwochenschluss; auf Sieben-Tage-Sicht weist CoinGecko für Bitcoin −12,2 % und für Ether −13,7 % aus. Am Wochenende wurden laut CryptoTicker binnen 24 Stunden Terminpositionen über rund 2 Mrd. $ zwangsaufgelöst, der Fear-and-Greed-Index stand am Sonntag bei 10 („extreme Angst“).",
+          "source": "CoinGecko, 16.11.",
           "url": "https://www.coingecko.com/en/coins/bitcoin",
-          "impact": "Der Kurs hat sich im oberen Teil der Tagesspanne zwischen dem Nachttief und dem 24-Stunden-Hoch von rund 66.000 $ stabilisiert. Am Wochenende ist der Handel dünn; um 1 Uhr MEZ schließt die Wochenkerze, zur selben Stunde öffnet laut CryptoTicker die Terminbörse CME wieder, deren Freitagsschluss bei rund 68.200 $ eine Kurslücke hinterlassen hat."
+          "impact": "Die Erholung vom Nachttief hat bis zum Wochenschluss gehalten, die Tagesspanne reicht von rund 62.080 bis 65.980 $. Mit der Wiedereröffnung der Terminbörse CME in der Nacht zum Montag bleibt zum Freitagsschluss bei rund 68.200 $ eine Kurslücke von gut 3.000 $; ob sie sich schließt, zeigt der Handel der ersten Wochentage."
         },
         {
           "tag": "Fed · Inflation",
-          "title": "Markt preist Zinserhöhung im Dezember voll ein",
-          "text": "Das CME-FedWatch-Tool zeigte am Samstag 88,5 % für einen Schritt um 0,25 und 11,5 % für 0,5 Punkte; am 6. November lag die Wahrscheinlichkeit für den kleinen Schritt noch bei 76,3 %. Auf zwölf Monate sind rund 64 Basispunkte an Erhöhungen eingepreist, Anfang November waren es 37. Die Rendite zehnjähriger US-Staatsanleihen schloss am Freitag bei 5,15 %.",
+          "title": "Markt preist Zinserhöhung im Dezember voll ein – heute spricht Fed-Chef Warsh",
+          "text": "Das CME-FedWatch-Tool zeigte am Samstag 88,5 % für einen Schritt um 0,25 und 11,5 % für 0,5 Punkte; am 6. November lag die Wahrscheinlichkeit für den kleinen Schritt noch bei 76,3 %. Die Rendite zehnjähriger US-Staatsanleihen schloss am Freitag bei 5,15 %. An diesem Montag um 18 Uhr MEZ spricht Fed-Chef Kevin Warsh in San Francisco, am Dienstag folgen die US-Einzelhandelsumsätze, am Mittwoch das Protokoll der Oktober-Sitzung.",
           "source": "Bitcoin.com News, 14.11.",
           "url": "https://news.bitcoin.com/market-updates/fed-rate-hike-odds-reach-near-certainty-as-bitcoin-price-falls-to-65k/",
-          "impact": "Höhere Zinsen und Anleiherenditen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Bis zur Fed-Sitzung am 8./9. Dezember bleibt das der bestimmende Faktor."
+          "impact": "Höhere Zinsen und Anleiherenditen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Die Warsh-Rede ist der erste Termin der Woche, an dem sich die Zinserwartungen verschieben können; bis zur Fed-Sitzung am 8./9. Dezember bleibt das der bestimmende Faktor."
         },
         {
           "tag": "ETF-Flüsse · Liquidität",
           "title": "Bitcoin-ETFs: zweite Woche in Folge über 1 Mrd. $ Abfluss",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen vom 9. bis 13. November rund 1,07 Mrd. $ ab, über sieben Handelstage in Folge zusammen 1,91 Mrd. $; allein am Freitag waren es 185,4 Mio. $. Ether-ETFs verloren in der Woche 398,9 Mio. $, verbuchten am Freitag aber einen kleinen Zufluss. Laut Coinbase Institutional schrumpfte das Angebot der großen Stablecoins binnen 30 Tagen um 11,5 Mrd. $.",
-          "source": "The Block, 14.11.",
-          "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-          "impact": "Die institutionelle Nachfrage fehlt weiterhin, und sinkende Stablecoin-Bestände bedeuten weniger Kaufkraft im Markt. Die ersten ETF-Daten am Montag zeigen, ob die Abflussserie anhält."
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen vom 9. bis 13. November rund 1,07 Mrd. $ ab, davon 908 Mio. $ aus BlackRocks IBIT; es waren sieben Handelstage mit Abflüssen in Folge, zusammen mit der Vorwoche rund 2,35 Mrd. $. Ether-ETFs verloren in der Woche rund 399 Mio. $. Laut Coinbase Institutional schrumpfte das Angebot der großen Stablecoins binnen 30 Tagen um 11,5 Mrd. $.",
+          "source": "CryptoTicker, 15.11.",
+          "url": "https://cryptoticker.io/de/bitcoin-wochenausblick-16-22-november-2026/",
+          "impact": "Die institutionelle Nachfrage fehlt weiterhin, und sinkende Stablecoin-Bestände bedeuten weniger Kaufkraft im Markt. Die ETF-Daten vom Montag, die in der Nacht zum Dienstag vorliegen, zeigen, ob die Abflussserie anhält."
         },
         {
           "tag": "Indizes · Unternehmen",
-          "title": "Strategy fällt aus den MSCI-Indizes – Miner MARA verkauft Bitcoin für 1,1 Mrd. $",
-          "text": "Der Indexanbieter MSCI nimmt den größten börsennotierten Bitcoin-Halter Strategy (MSTR) nach Börsenschluss am 30. November aus seinen globalen Indizes; Schätzungen nennen passive Abflüsse von rund 2 bis 3 Mrd. $. Strategy hält 850.364 Bitcoin zu einem Durchschnittspreis von 75.456 $ und liegt damit im Minus. Der Miner MARA hat 13.597 Bitcoin, rund 40 % seines Bestands, für 1,1 Mrd. $ verkauft, überwiegend um Kredite zu tilgen.",
+          "title": "Strategy fällt aus den MSCI-Indizes – Coinbase-Aktie auf tiefstem Schlusskurs seit Februar 2024",
+          "text": "Der Indexanbieter MSCI nimmt den größten börsennotierten Bitcoin-Halter Strategy (MSTR) nach Börsenschluss am 30. November aus seinen globalen Indizes; Schätzungen nennen passive Abflüsse von rund 2 bis 3 Mrd. $. Strategy hält 850.364 Bitcoin zu einem Durchschnittspreis von 75.456 $ und liegt damit im Minus. Die Coinbase-Aktie schloss am Freitag laut CryptoTicker bei 127,65 $, dem tiefsten Schlusskurs seit Februar 2024. Der Miner MARA hat 13.597 Bitcoin für 1,1 Mrd. $ verkauft, überwiegend um Kredite zu tilgen.",
           "source": "CryptoPotato, 15.11.",
           "url": "https://cryptopotato.com/strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin/",
-          "impact": "Der MSCI-Verkaufsdruck trifft zunächst die Aktie, nicht Bitcoin selbst; ein niedrigerer Aktienkurs erschwert Strategy aber die Finanzierung weiterer Käufe. Verkäufe von Minern bringen dagegen direkt zusätzliches Angebot in den Markt."
+          "impact": "Der Druck trifft zunächst die Aktien, nicht Bitcoin selbst; ein niedrigerer Aktienkurs erschwert Strategy aber die Finanzierung weiterer Käufe. Verkäufe von Minern bringen dagegen direkt zusätzliches Angebot in den Markt. Der US-Aktienhandel am Montag zeigt, wie die Krypto-Aktien den Wochenendrückgang verarbeiten."
         },
         {
           "tag": "Termin",
-          "title": "Mo 16.11.: Länderspiel Deutschland–Niederlande",
-          "text": "20:45 Uhr im Berliner Olympiastadion. Dazu EU-Außenminister zu neuen Sanktionen gegen Russlands Schattenflotte, Schwesig stellt sich in Schwerin zur Wiederwahl.",
+          "title": "Mo 16.11.: Rede von Fed-Chef Warsh",
+          "text": "18:00 Uhr MEZ in San Francisco. Dazu Länderspiel Deutschland–Niederlande (20:45 Uhr, Olympiastadion), EU-Außenminister zu Sanktionen gegen Russlands Schattenflotte, Schwesig stellt sich in Schwerin zur Wiederwahl.",
           "source": "",
           "url": ""
         },
         {
           "tag": "Termin",
           "title": "Di 17.11.: Koalitionsausschuss zur Stromsteuer",
-          "text": "Dazu Irans Außenminister Araghtschi zu Gesprächen in Oman.",
+          "text": "Dazu US-Einzelhandelsumsätze (14:30 Uhr MEZ), Nvidia-Quartalszahlen (22:20 Uhr MEZ), Irans Außenminister Araghtschi in Oman.",
           "source": "",
           "url": ""
         },
@@ -209,8 +209,8 @@
         },
         {
           "tag": "Termin",
-          "title": "Fr 20.11.: Wirtschaftsforum und Großdemo in Berlin",
-          "text": "Deutsch-ukrainisches Wirtschaftsforum, Demo von „Gen Z regelt“.",
+          "title": "Fr 20.11.: Verfall von Bitcoin-Optionen auf Deribit",
+          "text": "Rund 28.300 BTC, 9:00 Uhr MEZ. Dazu deutsch-ukrainisches Wirtschaftsforum und Großdemo von „Gen Z regelt“ in Berlin.",
           "source": "",
           "url": ""
         },

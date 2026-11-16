@@ -1,241 +1,241 @@
 {
-  "date": "Montag, 16. November 2026",
-  "stand": "06:50",
-  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
-  "tiles": [
+ "date": "Montag, 16. November 2026",
+ "stand": "11:55",
+ "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
+ "tiles": [
+  {
+   "label": "Bitcoin",
+   "value": "64.320 $",
+   "change": "−2,2 % · 24 h",
+   "dir": "down"
+  },
+  {
+   "label": "Ether",
+   "value": "1.796 $",
+   "change": "−1,7 % · 24 h",
+   "dir": "down"
+  },
+  {
+   "label": "US-Leitzins (Fed)",
+   "value": "3,75–4,00 %",
+   "change": "Erhöhung erwartet",
+   "dir": "warn"
+  },
+  {
+   "label": "US-Rendite 10 Jahre",
+   "value": "5,14 %",
+   "change": "+25,7 Basispunkte Vorwoche",
+   "dir": "warn"
+  }
+ ],
+ "brief": [
+  "Krypto am Montagmittag: Bitcoin ist binnen 24 Stunden um rund 2 % auf etwa 64.300 $ gefallen, Ether um knapp 2 % auf rund 1.796 $; auf Sieben-Tage-Sicht liegen beide rund 14 bzw. 15 % im Minus. Asiens Chipwerte sind nach dem Führungswechsel bei Nvidia eingebrochen, die Nasdaq-Futures liegen gut 1 % im Minus, die zehnjährige US-Rendite steht bei 5,14 %. Um 18 Uhr MEZ spricht Fed-Chef Warsh; der Markt hat für Dezember mehr als eine volle Zinserhöhung um 0,25 Punkte eingepreist.",
+  "Nahost und Weltpolitik: In und vor der Straße von Hormus wurden am Montagmorgen erneut zwei Tanker beschädigt, einer laut Irans Marine durch eine Seemine, einer laut der britischen Seefahrtsbehörde durch ein Geschoss; UN-Generalsekretär Guterres fordert einen ernsthaften diplomatischen Prozess. Am Donnerstag treffen sich Trump, Putin und Xi in Shenzhen. Selenskyj zufolge haben US-Unterhändler gefragt, ob die Ukraine den Donbass im Tausch gegen eine Nato-Mitgliedschaft räumen würde.",
+  "Bund und Berlin: Kanzler Merz ist einen Tag vor dem Koalitionsausschuss bei der CSU-Spitze in München, die auf die Stromsteuersenkung für alle drängt; Innenminister Dobrindt räumt ein, dass sie ohne Gegenfinanzierung nicht umsetzbar ist. In Salzgitter demonstrieren mehr als 2.000 Stahlarbeiter vor dem Stahlgipfel, in Schwerin stellt sich Manuela Schwesig um 13 Uhr zur Wiederwahl. In Berlin gelten zum Länderspiel Deutschland–Niederlande ab 14 Uhr Halteverbote und ab 18 Uhr Sperrungen rund um das Olympiastadion."
+ ],
+ "sections": [
+  {
+   "id": "deutschland",
+   "title": "Deutschland",
+   "items": [
     {
-      "label": "Bitcoin",
-      "value": "64.681 $",
-      "change": "≈ 0 % · 24 h",
-      "dir": "warn"
+     "tag": "Politik",
+     "title": "Stromsteuer: Merz bei der CSU-Spitze in München – Dobrindt nennt Entlastung „dringend notwendig“",
+     "text": "Einen Tag vor dem Koalitionsausschuss ist Kanzler Friedrich Merz an diesem Montag zu einem länger vereinbarten Treffen mit dem CSU-Vorstand in München. Bundesinnenminister Alexander Dobrindt sagte dem ZDF vor der Sitzung, eine Senkung der Stromsteuer für alle sei dringend notwendig, räumte aber ein, dass sie ohne geklärte Gegenfinanzierung nicht umsetzbar ist. Landesgruppenchef Alexander Hoffmann kündigte an, am Dienstag werde über die Stromsteuer und den Ausgleich der kalten Progression gesprochen und darüber, was finanziell möglich sei. CSU-Chef Markus Söder hatte am Sonntagabend abgelehnt, dafür die Ausweitung der Mütterrente anzutasten; Finanzminister Klingbeil verlangt eine seriöse Gegenfinanzierung. Die Senkung kostet laut dpa rund 5,4 Milliarden Euro und ist im Haushalt 2027 bisher nicht eingeplant.",
+     "source": "Yahoo Nachrichten/AFP, 16.11.",
+     "url": "https://de.nachrichten.yahoo.com/dobrindt-dr%C3%A4ngt-stromsteuersenkung-entlastung-dringend-092800283.html"
     },
     {
-      "label": "Ether",
-      "value": "1.814 $",
-      "change": "≈ 0 % · 24 h",
-      "dir": "warn"
+     "tag": "Wirtschaft · Industrie",
+     "title": "Stahlgipfel in Salzgitter: Mehr als 2.000 Stahlarbeiter demonstrieren für wettbewerbsfähige Strompreise",
+     "text": "Vor dem nationalen Stahlgipfel auf dem Werksgelände in Salzgitter haben nach Gewerkschaftsangaben mehr als 2.000 Beschäftigte demonstriert. Die IG Metall verlangt einen „Umsetzungsgipfel“ mit konkreten Ergebnissen statt Absichtserklärungen: wettbewerbsfähige Energiepreise, Schutz vor unfairer internationaler Konkurrenz und verlässliche Bedingungen für Investitionen. Wirtschaftsministerin Katherina Reiche will eine Rede halten, erwartet werden auch die Ministerpräsidenten Olaf Lies und Hendrik Wüst. In der Stahlerzeugung arbeiten rund 80.000 Menschen, in stahlintensiven Branchen laut Wirtschaftsvereinigung Stahl rund vier Millionen.",
+     "source": "Handelsblatt/dpa, 16.11.",
+     "url": "https://www.handelsblatt.com/politik/deutschland/demo-vor-stahlbranchentreffen-mehr-als-2000-stahlarbeiter-demonstrieren-fuer-ihre-zukunft/100270173.html"
     },
     {
-      "label": "US-Leitzins (Fed)",
-      "value": "3,75–4,00 %",
-      "change": "Erhöhung erwartet",
-      "dir": "warn"
+     "tag": "Migration",
+     "title": "Abschiebezentrum in Ruanda: Dobrindt stellt Pläne in Wien vor – Kritik aus der SPD",
+     "text": "Deutschland, Österreich, Dänemark, die Niederlande und Griechenland haben sich laut Diplomaten auf Ruanda als ersten Standort für ein Rückführungszentrum außerhalb der EU geeinigt; Innenminister Dobrindt trifft die Partner an diesem Montag in Wien. Dorthin sollen abgelehnte Asylbewerber gebracht werden, die nicht in ihr Herkunftsland abgeschoben werden können; das Modellprojekt ist im Bundeshaushalt 2027 vorgesehen. Die SPD-Abgeordneten Rasha Nasr und Hakan Demir erklären, die Pläne seien nicht mit ihrer Partei abgestimmt, und warnen vor willkürlicher Haft und Folter in Ruanda. Der SPD-Innenpolitiker Sebastian Fiedler spricht von 20 Millionen Euro für 40 Plätze. Eine unterzeichnete Vereinbarung ist bisher nicht bekannt.",
+     "source": "Handelsblatt, 16.11.",
+     "url": "https://www.handelsblatt.com/politik/deutschland/asylpolitik-kritik-an-geplanten-eu-abschiebezentren-in-ruanda/100270139.html"
     },
     {
-      "label": "US-Erzeugerpreise",
-      "value": "6,5 %",
-      "change": "Höchststand seit 11/2022",
-      "dir": "down"
+     "tag": "Parteien · Länder",
+     "title": "Schwesig stellt sich um 13 Uhr zur Wiederwahl – in der SPD fordert Heil Klingbeil heraus",
+     "text": "Der Landtag in Schwerin kommt um 13 Uhr zur Sondersitzung zusammen, in der Manuela Schwesig als Ministerpräsidentin wiedergewählt und vereidigt werden soll; die Koalition aus SPD, Linken und Grünen hat 39 der 71 Sitze. Neue Finanzministerin wird Carola Voß, Heiko Geue wechselt in die Staatskanzlei, die erste Kabinettssitzung ist für 18 Uhr angesetzt. Schwesig gilt zugleich als Favoritin für den weiblichen Teil der SPD-Doppelspitze. Um den Parteivorsitz bewirbt sich seit dem Wochenende der frühere Arbeitsminister Hubertus Heil, der anders als Lars Klingbeil kein Ministeramt anstrebt; Klingbeil lässt offen, ob er wieder antritt. Gewählt wird die neue Spitze am 16. und 17. Januar in Bremen.",
+     "source": "Yahoo Nachrichten, 16.11.",
+     "url": "https://de.nachrichten.yahoo.com/schwesig-wiederwahl-heute-ministerien-sparpl%C3%A4ne-093831179.html"
     }
-  ],
-  "brief": [
-    "Krypto am Montagmorgen: Bitcoin notiert um 06:46 Uhr MEZ bei rund 64.700 $ und damit binnen 24 Stunden nahezu unverändert, Ether bei rund 1.814 $; auf Sieben-Tage-Sicht liegen beide rund 13 bzw. 15 % im Minus, der Fear-and-Greed-Index steht bei 10. Die US-Aktienfutures geben leicht nach, die zehnjährige US-Rendite liegt bei 5,14 %; um 18 Uhr MEZ spricht Fed-Chef Warsh, der Markt rechnet weiter fest mit einer Zinserhöhung im Dezember.",
-    "Nahost und Weltpolitik: Mit der USS „Theodore Roosevelt“ hat ein dritter US-Flugzeugträger die Region erreicht, nachdem Iran am Sonntag einen US-Stützpunkt in Bahrain mit Drohnen angegriffen hat; Fortschritte in den Gesprächen zwischen Washington und Teheran sind nicht erkennbar. Peking bestätigt für Donnerstag das erste Dreiertreffen von Trump, Putin und Xi am Rande des Apec-Gipfels in Shenzhen. In Israel fordert Oppositionsführer Eisenkot nach einem Bericht über mutmaßliche Wahlbeeinflussung Netanjahus sofortigen Rückzug.",
-    "Bund und Berlin: Einen Tag vor dem Koalitionsausschuss zur Stromsteuer ist Kanzler Merz heute bei der CSU-Spitze in München; Söder lehnt es ab, für die Gegenfinanzierung die Mütterrente anzutasten. In Schwerin stellt sich Manuela Schwesig zur Wiederwahl. In Berlin gelten zum Länderspiel Deutschland–Niederlande ab 18 Uhr Sperrungen rund um das Olympiastadion; nach der Explosion vor einem Wohnhaus in Moabit hält die Polizei auch einen selbstgebauten Sprengsatz für denkbar."
-  ],
-  "sections": [
+   ]
+  },
+  {
+   "id": "berlin",
+   "title": "Berlin",
+   "items": [
     {
-      "id": "deutschland",
-      "title": "Deutschland",
-      "items": [
-        {
-          "tag": "Politik",
-          "title": "Stromsteuer: Merz heute bei der CSU-Spitze in München – Söder will die Mütterrente nicht antasten",
-          "text": "Einen Tag vor dem Koalitionsausschuss nimmt Kanzler Friedrich Merz an diesem Montag an einer Sitzung des CSU-Vorstands in München teil. CSU-Chef Markus Söder hatte am Sonntagabend im ZDF gesagt, eine Finanzierung der Stromsteuersenkung für alle zu finden, sei kein Hexenwerk, einen Verzicht auf die bereits beschlossene Ausweitung der Mütterrente aber abgelehnt; für eine Übergewinnsteuer für Mineralölkonzerne zeigte er sich offen. Die Senkung kostet laut dpa rund 5,4 Milliarden Euro und ist im Haushalt 2027 bisher nicht eingeplant. Finanzminister Klingbeil verlangt eine seriöse Gegenfinanzierung und nennt als eigene Idee eine höhere Abgeltungssteuer auf Kapitalerträge. Die Mittelstands- und Wirtschaftsunion Köln fordert Merz laut Focus auf, das Bündnis mit der SPD zu beenden.",
-          "source": "Spiegel, 16.11.",
-          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea"
-        },
-        {
-          "tag": "Parteien",
-          "title": "SPD-Vorsitz: Heil fordert Klingbeil heraus – Schwesig stellt sich heute in Schwerin zur Wiederwahl",
-          "text": "Nach dem Rücktritt der Ko-Vorsitzenden Bärbel Bas hat der frühere Arbeitsminister Hubertus Heil am Wochenende seine Bewerbung um den Parteivorsitz erklärt; er will sich dem Amt nach eigenen Worten mit ganzer Kraft widmen. Lars Klingbeil verteidigt seine Doppelrolle als Parteichef und Finanzminister und lässt offen, ob er wieder antritt; hinter ihn stellten sich laut dpa unter anderem Verteidigungsminister Pistorius und Alexander Schweitzer. Manuela Schwesig, die als Favoritin für den weiblichen Teil der Doppelspitze gilt, stellt sich an diesem Montag in Schwerin zur Wiederwahl als Ministerpräsidentin; dem Koalitionsvertrag von SPD, Linken und Grünen haben laut Spiegel alle drei Parteien zugestimmt. Fraktionschef Miersch nannte es eine schallende Ohrfeige, dass nur noch drei Prozent der jungen Menschen die SPD für ihre Partei halten. Gewählt wird die neue Spitze am 16. und 17. Januar in Bremen.",
-          "source": "Spiegel, 16.11.",
-          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea"
-        },
-        {
-          "tag": "Wirtschaft · Verbraucher",
-          "title": "Umfrage: Fast die Hälfte der Erwachsenen kann kaum oder gar nicht sparen",
-          "text": "In einer YouGov-Umfrage im Auftrag der Bank Chase unter 2.149 Erwachsenen von Ende Oktober gaben 47 Prozent an, kaum oder gar kein Geld zurücklegen zu können; 50 Prozent haben dafür Spielraum, 16 Prozent gelingt es problemlos. Als Hindernis nennen 56 Prozent die hohen Verbraucherpreise und 46 Prozent zu geringe Einkünfte. Gespart wird vor allem auf dem Girokonto (42 Prozent) und dem Tagesgeldkonto (38 Prozent), 29 Prozent nutzen Fonds oder ETFs, 14 Prozent Einzelaktien.",
-          "source": "Süddeutsche Zeitung/dpa, 16.11.",
-          "url": "https://www.sueddeutsche.de/wirtschaft/umfrage-hohe-lebenskosten-nur-die-haelfte-der-menschen-kann-sparen-dpa.urn-newsml-dpa-com-20090101-261116-930-825"
-        },
-        {
-          "tag": "Wirtschaft · Handwerk",
-          "title": "Handwerkspräsident warnt vor „stillem Sterben der Betriebe“",
-          "text": "Jörg Dittrich, Präsident des Zentralverbands des Deutschen Handwerks, sagte den Zeitungen der Funke Mediengruppe, das Geschäftsklima der Branche liege auf dem Niveau der Corona-Pandemie, die Investitionen auf dem der Finanzkrise. In den vergangenen zwei Jahren seien mehr als 150.000 Arbeitsplätze verloren gegangen; ohne Gegensteuern drohe ein Verlust von 70.000 bis 80.000 Stellen pro Jahr. Er fordert niedrigere Lohnzusatzkosten, flexiblere Arbeitszeiten und eine Stromsteuersenkung für alle Handwerksbetriebe.",
-          "source": "Tagesschau, 15.11.",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html"
-        }
-      ]
+     "tag": "Verkehr · Länderspiel",
+     "title": "Heute Länderspiel am Olympiastadion: Halteverbote ab 14 Uhr, Sperrungen ab 18 Uhr",
+     "text": "Zum Länderspiel Deutschland–Niederlande am Montagabend (20:45 Uhr, Einlass zwei Stunden vorher) sperrt die Polizei das Umfeld des Olympiastadions weiträumig ab. Ab 14 Uhr gelten Halteverbote, von 18 Uhr bis Mitternacht sind unter anderem Olympischer Platz, Trakehner Allee und Flatowallee gesperrt. Die Polizei rechnet mit größeren Fangruppen am Theodor-Heuss-Platz und an der Heerstraße; niederländische Fans haben einen Fanmarsch angekündigt. Es ist der letzte Gruppenspieltag der Nations League, laut rbb gab es zuletzt nur noch wenige Karten. Die Sperrung der Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Tiergarten war laut S-Bahn bis Montag, 1:30 Uhr, befristet.",
+     "source": "Berliner Morgenpost, 16.11.",
+     "url": "https://www.morgenpost.de/berlin/article413685732/deutschland-gegen-niederlande-polizei-sperrt-gegend-um-berliner-olympiastadion.html"
     },
     {
-      "id": "berlin",
-      "title": "Berlin",
-      "items": [
-        {
-          "tag": "Verkehr · Länderspiel",
-          "title": "Heute Länderspiel am Olympiastadion: Halteverbote ab 14 Uhr, Sperrungen ab 18 Uhr",
-          "text": "Zum Länderspiel Deutschland–Niederlande am Montagabend (20:45 Uhr) sperrt die Polizei das Umfeld des Olympiastadions weiträumig ab. Ab 14 Uhr gelten Halteverbote, von 18 Uhr bis Mitternacht sind unter anderem Olympischer Platz, Trakehner Allee und Flatowallee gesperrt. Die Polizei rechnet mit größeren Fangruppen am Theodor-Heuss-Platz und an der Heerstraße; niederländische Fans haben einen Fanmarsch angekündigt. Die Unterbrechung der Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Tiergarten war bis zum Betriebsbeginn am Montagmorgen angekündigt.",
-          "source": "Berliner Morgenpost, 16.11.",
-          "url": "https://www.morgenpost.de/berlin/article413685732/deutschland-gegen-niederlande-polizei-sperrt-gegend-um-berliner-olympiastadion.html"
-        },
-        {
-          "tag": "Polizei",
-          "title": "Explosion vor Wohnhaus in Moabit: Polizei hält auch selbstgebauten Sprengsatz für denkbar",
-          "text": "In der Havelberger Straße in Moabit hat am Sonntagabend eine Explosion die Fenster mehrerer Wohnungen eines Hauses beschädigt. Zeugen berichteten laut Polizei, Unbekannte hätten womöglich einen Sprengkörper, vermutlich eine Kugelbombe, auf die Straße geworfen; die Ermittler halten auch einen selbstgebauten Sprengsatz für denkbar und gehen dem Verdacht eines Verstoßes gegen das Sprengstoffgesetz nach. Nach der Brandstiftung am Auto von Nius-Chefredakteur Julian Reichelt prüft der Staatsschutz weiter ein im Internet veröffentlichtes Bekennerschreiben, dessen Echtheit offen ist. In Gropiusstadt brannten in der Nacht zu Sonntag zehn Fahrzeuge, das Landeskriminalamt ermittelt wegen des Verdachts der Brandstiftung.",
-          "source": "Stern/dpa, 16.11.",
-          "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/kriminalitaet--explosion-in-moabit-beschaedigt-fenster-an-einem-wohnhaus-38555484.html"
-        },
-        {
-          "tag": "Unfall · BVG",
-          "title": "Tiergarten: Achtjährige von BVG-Bus überrollt – Polizei ermittelt gegen Fahrer wegen Unfallflucht",
-          "text": "Am Samstag starb ein achtjähriges Mädchen, das mit seiner Mutter auf dem Radstreifen der Potsdamer Straße unterwegs war, an der Ecke Lützowstraße. Nach Polizeiangaben fuhren Bus und Radfahrerinnen an der Ampel gleichzeitig an, das Kind geriet aus ungeklärter Ursache ins Schlingern und wurde überrollt; es starb an der Unfallstelle. Der 55-jährige Busfahrer fuhr zunächst weiter und wurde an einer späteren Haltestelle gestoppt; ob er den Unfall bemerkt hatte, ist offen, gegen ihn wird wegen des Verdachts der Verkehrsunfallflucht ermittelt. Am Sonntag legten Menschen an der Unfallstelle Blumen nieder; Anwohner halten die Kreuzung laut Morgenpost für besonders gefährlich.",
-          "source": "Tagesspiegel, 15.11.",
-          "url": "https://www.tagesspiegel.de/berlin/todlicher-unfall-in-berlin-achtjahrige-sturzt-mit-rad-und-wird-von-bvg-bus-uberrollt-16285790.html"
-        },
-        {
-          "tag": "Landespolitik",
-          "title": "Fall Emde: Ramelow legt Abgeordneter Austritt aus der Linksfraktion nahe",
-          "text": "Der Linken-Politiker Bodo Ramelow sagte im ZDF, die Berliner Abgeordnete Vanessa Emde solle die Fraktion aus eigenem Antrieb verlassen. Der Berliner Grünen-Politiker Werner Graf begrüßte das Verfahren zum Fraktionsausschluss. Dafür ist eine Zweidrittelmehrheit nötig, abgestimmt wird frühestens am 24. November; Linke, Grüne und SPD wollen ihre Koalitionsverhandlungen im Januar abschließen. Im Bezirk Mitte hat die Linke laut Tagesspiegel ihre Gespräche mit den Grünen im Streit um ein Antisemitismuspapier und einen Posten abgebrochen.",
-          "source": "ZDFheute, 15.11.",
-          "url": "https://www.zdfheute.de/politik/deutschland/ramelow-linke-koalition-berlin-emde-fraktionsausschluss-100.html"
-        }
-      ]
+     "tag": "Polizei",
+     "title": "Explosion vor Wohnhaus in Moabit: Polizei hält auch selbstgebauten Sprengsatz für denkbar",
+     "text": "In der Havelberger Straße in Moabit hat am Sonntagabend eine Explosion die Fenster mehrerer Wohnungen eines Hauses beschädigt. Zeugen berichteten laut Polizei, Unbekannte hätten womöglich einen Sprengkörper, vermutlich eine Kugelbombe, auf die Straße geworfen; die Ermittler halten auch einen selbstgebauten Sprengsatz für denkbar und gehen dem Verdacht eines Verstoßes gegen das Sprengstoffgesetz nach. Nach der Brandstiftung am Auto von Nius-Chefredakteur Julian Reichelt prüft der Staatsschutz weiter ein im Internet veröffentlichtes Bekennerschreiben, dessen Echtheit offen ist. In Gropiusstadt brannten in der Nacht zu Sonntag zehn Fahrzeuge, das Landeskriminalamt ermittelt wegen des Verdachts der Brandstiftung.",
+     "source": "Stern/dpa, 16.11.",
+     "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/kriminalitaet--explosion-in-moabit-beschaedigt-fenster-an-einem-wohnhaus-38555484.html"
     },
     {
-      "id": "welt",
-      "title": "Welt",
-      "items": [
-        {
-          "tag": "Iran",
-          "title": "Dritter US-Flugzeugträger erreicht Nahost – Iran erklärt Straße von Hormus nach Angriff auf Bahrain für geschlossen",
-          "text": "Die USS „Theodore Roosevelt“ hat am Sonntag das Einsatzgebiet des US-Regionalkommandos Centcom erreicht, wie Axios und Al Jazeera berichten; dort sind bereits die Träger „George H.W. Bush“ und „George Washington“ stationiert. Ob die Präsenz verstärkt oder ein Schiff abgelöst wird, ist offen. Irans Revolutionsgarden hatten am Sonntag nach eigenen Angaben ein US-Luftabwehrradar auf einem Stützpunkt in Bahrain mit sechs Drohnen angegriffen, den zweiten Angriff binnen drei Tagen; Bahrain meldet die Drohnen als abgefangen, Verletzte gab es nicht. Die Garden erklärten die Straße von Hormus für geschlossen und meldeten, zwei Tanker seien auf Minen gelaufen und einer davon gesunken; eine unabhängige Bestätigung gibt es nicht. In den Gesprächen zwischen Washington und Teheran sind laut Spiegel keine Fortschritte erkennbar; Vizeaußenminister Gharibabadi hatte erklärt, Iran werde einen US-Erstschlag nicht abwarten. Außenminister Araghtschi reist am Dienstag nach Oman.",
-          "source": "Spiegel, 16.11.",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-dritter-us-flugzeugtraeger-erreicht-nahen-osten-a-97da317f-1d1c-41c8-ae22-22a908b3b203"
-        },
-        {
-          "tag": "USA · China · Russland",
-          "title": "Peking bestätigt Dreiertreffen von Trump, Putin und Xi am Donnerstag in Shenzhen",
-          "text": "China hat am Montag bestätigt, dass Xi Jinping, Donald Trump und Wladimir Putin am Donnerstag am Rande des Apec-Gipfels in Shenzhen zusammenkommen; das Weiße Haus hatte den Termin am Freitag, der Kreml am Samstag bestätigt. Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Auf der Tagesordnung stehen laut South China Morning Post die Kontrolle künstlicher Intelligenz in Atomarsenalen und nukleare Abrüstung, Trump will zudem über den Iran-Krieg sprechen; der Krieg in der Ukraine soll nach US-Angaben kein Thema sein. Der Apec-Gipfel beginnt am Mittwoch.",
-          "source": "South China Morning Post, 16.11.",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3374523/china-us-russia-trilateral-set-thursday-beijing"
-        },
-        {
-          "tag": "Ukraine · Russland",
-          "title": "Selenskyj: Starshield-Drosselung erleichtert Angriffe auf das Stromnetz – Treffen der Unterstützerstaaten in Vorbereitung",
-          "text": "Präsident Selenskyj sagte am Sonntag, viele russische Angriffe auf Energie- und Bahnanlagen kämen durch, weil die Geschwindigkeit der Starshield-Terminals von SpaceX entlang der Front weiter beschränkt sei. Russland griff in der Nacht Infrastruktur in acht Regionen an; in Tschornomorsk wurden sechs Menschen verletzt, rund 41.000 Kunden waren ohne Strom. Selenskyj kündigte ein Treffen der „Koalition der Willigen“ zur europäischen Position in Friedensgesprächen und für nächste Woche ein Treffen der Ramstein-Gruppe an; Frankreich, Großbritannien, Polen, Deutschland und Italien sollen Europa bei künftigen Gesprächen vertreten. Estland schließt zum 1. Dezember seine Grenzübergänge nach Russland, Moskau spricht von Russophobie. An diesem Montag beraten die EU-Außenminister in Brüssel, nachdem die Marinemission Irini einen mutmaßlichen Tanker der russischen Schattenflotte geentert hat.",
-          "source": "The Guardian, 16.11.",
-          "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-war-briefing-energy-attacks-made-possible-by-continuing-starshield-restrictions-says-zelenskyy"
-        },
-        {
-          "tag": "Israel",
-          "title": "Israel: Eisenkot fordert nach Bericht über Wahlbeeinflussung Netanjahus sofortigen Rückzug",
-          "text": "Oppositionspolitiker Gadi Eisenkot erklärte, Benjamin Netanjahu dürfe keine Minute länger an der Spitze der Regierung bleiben, und verlangte Ermittlungen von Polizei und Inlandsgeheimdienst. Laut dem Sender Channel 12 hatte Netanjahus Stabschef am Vorabend der Wahl vom 27. Oktober Anzeige gegen Mitglieder der arabischen Partei Ra'am erstattet; drei von ihnen wurden ohne richterlichen Beschluss festgenommen und wieder freigelassen, nachdem sich die Hinweise als haltlos erwiesen hatten. Ra'am kam auf 19 Sitze, keines der beiden Lager erreicht die nötigen 61 Mandate. Vertreter beider Seiten haben über eine Einheitsregierung gesprochen, Eisenkot nennt Netanjahus Angebot einen Bluff. Im Gazastreifen war am Samstag der Kommandeur der Rafah-Brigade der Hamas bei einem israelischen Luftangriff getötet worden.",
-          "source": "Al Jazeera, 16.11.",
-          "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling"
-        },
-        {
-          "tag": "Jemen",
-          "title": "Jemens Regierungstruppen räumen Stellungen am Bab al-Mandeb, um Aden zu sichern",
-          "text": "Die von Saudi-Arabien gestützten Regierungstruppen ziehen sich nach eigenen Angaben aus dem Gebiet am Bab al-Mandeb und von weiteren Küstenabschnitten zurück; Vorrang habe die Sicherung der Übergangshauptstadt Aden. Reuters wertet das als schweren Rückschlag für die saudische Kampagne gegen die mit Iran verbündeten Huthi, die einen Vormarsch auf Aden ankündigen. Die saudisch geführte Koalition meldet den Abschuss von zwei Drohnen und zwei ballistischen Raketen. Das Rote Kreuz bestätigte, dass die Huthi 600 Gefangene freigelassen haben.",
-          "source": "Reuters, 15.11.",
-          "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
-        }
-      ]
+     "tag": "Unfall · BVG",
+     "title": "Tiergarten: Achtjährige von BVG-Bus überrollt – Polizei ermittelt gegen Fahrer wegen Unfallflucht",
+     "text": "Am Samstag starb ein achtjähriges Mädchen, das mit seiner Mutter auf dem Radstreifen der Potsdamer Straße unterwegs war, an der Ecke Lützowstraße. Nach Polizeiangaben fuhren Bus und Radfahrerinnen an der Ampel gleichzeitig an, das Kind geriet aus ungeklärter Ursache ins Schlingern und wurde überrollt; es starb an der Unfallstelle. Der 55-jährige Busfahrer fuhr zunächst weiter und wurde an einer späteren Haltestelle gestoppt; ob er den Unfall bemerkt hatte, ist offen, gegen ihn wird wegen des Verdachts der Verkehrsunfallflucht ermittelt. Am Sonntag legten Menschen an der Unfallstelle Blumen nieder; Anwohner halten die Kreuzung laut Morgenpost für besonders gefährlich.",
+     "source": "Tagesspiegel, 15.11.",
+     "url": "https://www.tagesspiegel.de/berlin/todlicher-unfall-in-berlin-achtjahrige-sturzt-mit-rad-und-wird-von-bvg-bus-uberrollt-16285790.html"
     },
     {
-      "id": "krypto",
-      "title": "Krypto & Finanzen",
-      "items": [
-        {
-          "tag": "Markt",
-          "title": "Bitcoin hält sich am Montagmorgen bei rund 64.700 $ – auf Wochensicht gut 13 % im Minus",
-          "text": "Um 06:46 Uhr MEZ notierte Bitcoin laut CoinGecko bei 64.681 $ und damit binnen 24 Stunden nahezu unverändert (Abweichung unter einem halben Prozent), die Tagesspanne reicht von 63.777 bis 65.980 $. Ether stand bei 1.814 $ (Spanne 1.774 bis 1.841 $). Auf Sieben-Tage-Sicht liegt Bitcoin 13,4 % und Ether 15,0 % im Minus; am Wochenende war Bitcoin bis auf rund 62.000 $ gefallen, den tiefsten Stand seit Juli. Der Fear-and-Greed-Index steht bei 10 („extreme Angst“). Die Zwangsauflösungen von Terminpositionen sind laut CoinGlass von knapp 2 Mrd. $ am Wochenende auf rund 243 Mio. $ in 24 Stunden zurückgegangen, die Finanzierungssätze am Terminmarkt sind erstmals seit März negativ.",
-          "source": "CoinGecko, 16.11.",
-          "url": "https://www.coingecko.com/en/coins/bitcoin",
-          "impact": "Der Kurs hat sich über dem Sonntagstief stabilisiert, eine Erholung ist das noch nicht. Marktberichte nennen 62.000 bis 63.000 $ als Unterstützung; erst eine Rückkehr in den Bereich von 67.000 bis 70.000 $ würde den Abwärtsdruck demnach mindern. Negative Finanzierungssätze zeigen, dass am Terminmarkt derzeit die Wetten auf fallende Kurse überwiegen."
-        },
-        {
-          "tag": "Fed · Zinsen",
-          "title": "Heute spricht Fed-Chef Warsh – US-Rendite bei 5,14 %, Aktienfutures leicht im Minus",
-          "text": "Fed-Chef Kevin Warsh eröffnet an diesem Montag um 18 Uhr MEZ eine Konferenz der Notenbank zu Produktivität und Arbeitsmarkt; in dieser Woche stehen laut CoinGabbar 15 Auftritte von Fed-Vertretern an. Das CME-FedWatch-Tool zeigte am Samstag 88,5 % für eine Zinserhöhung um 0,25 Punkte im Dezember. Chicagos Fed-Präsident Goolsbee sagte am Freitag bei CNBC, die Inflation erweise sich als hartnäckiger als erwartet, bei ausbleibenden Fortschritten könne die Fed entschlossener vorgehen. In der Nacht zum Montag lag die Rendite zehnjähriger US-Staatsanleihen bei 5,14 %, die Futures auf den Nasdaq-100 gaben 0,58 % und auf den S&P 500 0,22 % nach; Brent-Öl kostete 95,33 $.",
-          "source": "Stocktwits via TradingView, 16.11.",
-          "url": "https://www.tradingview.com/news/stocktwits:e26789b02094b:0-dow-s-p-500-nasdaq-futures-edge-lower-as-markets-brace-for-nvidia-earnings-anthropic-ipo-fed-minutes-smmt-nbis-help-mstr-in-focus/",
-          "impact": "Höhere Zinsen und Anleiherenditen machen zinslose Anlagen wie Bitcoin weniger attraktiv. Die Warsh-Rede ist der erste Termin der Woche, an dem sich die Zinserwartungen verschieben können; es folgen am Dienstag die US-Einzelhandelsumsätze und am Mittwoch das Protokoll der Oktober-Sitzung."
-        },
-        {
-          "tag": "ETF-Flüsse · Liquidität",
-          "title": "Bitcoin-ETFs: sieben Handelstage mit Abflüssen, zusammen rund 1,9 Mrd. $",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen bis einschließlich Freitag, 13. November, an sieben Handelstagen in Folge zusammen rund 1,91 Mrd. $ ab. Am Freitag waren es 185,4 Mio. $, davon 143,5 Mio. $ aus BlackRocks IBIT und 41,9 Mio. $ aus Fidelitys FBTC. Der Kursaufschlag auf Coinbase gegenüber Binance ist seit 51 Tagen negativ. Laut Glassnode schrumpfte das Stablecoin-Angebot binnen eines Monats um rund 17 Mrd. $; CryptoQuant zufolge haben Adressen mit mehr als 1.000 Bitcoin in der Korrektur rund 47.000 Bitcoin zugekauft, die Verkäufe mittelgroßer Halter überwogen aber.",
-          "source": "crypto.news, 16.11.",
-          "url": "https://crypto.news/bitcoin-price-prediction-btc-62k-rebound/",
-          "impact": "Die institutionelle Nachfrage aus den USA fehlt weiterhin, und sinkende Stablecoin-Bestände bedeuten weniger Kaufkraft im Markt. Die ETF-Daten vom Montag, die in der Nacht zum Dienstag vorliegen, zeigen, ob die Abflussserie anhält."
-        },
-        {
-          "tag": "Aktien · Regulierung",
-          "title": "Strategy-Aktie außerbörslich über 7 % im Minus – Anthropic-Börsengang und Nvidia-Zahlen in dieser Woche",
-          "text": "Die Aktie des größten börsennotierten Bitcoin-Halters Strategy (MSTR) verlor im außerbörslichen Handel in der Nacht zum Montag mehr als 7 %; der Indexanbieter MSCI nimmt sie nach Börsenschluss am 30. November aus seinen globalen Indizes. Anthropic will am Mittwoch den Ausgabepreis für 825 Millionen Aktien in einer Spanne von 70 bis 78 $ festlegen, der Handel an der Nasdaq soll am Donnerstag beginnen; laut Reuters ist das Angebot rund sechsfach überzeichnet. Einige Analysten vermuten, dass dafür Geld aus liquiden Anlagen wie Bitcoin abgezogen wird, belegt ist das nicht. Nvidia legt am Dienstag nach US-Börsenschluss Quartalszahlen vor. Die Chancen, dass der US-Kongress das Krypto-Marktstrukturgesetz CLARITY Act noch in der auslaufenden Sitzungsperiode beschließt, gelten laut CoinGabbar als gering.",
-          "source": "Stocktwits via TradingView, 16.11.",
-          "url": "https://www.tradingview.com/news/stocktwits:e26789b02094b:0-dow-s-p-500-nasdaq-futures-edge-lower-as-markets-brace-for-nvidia-earnings-anthropic-ipo-fed-minutes-smmt-nbis-help-mstr-in-focus/",
-          "impact": "Der Druck trifft zunächst die Aktie, nicht Bitcoin selbst; ein niedrigerer Kurs erschwert Strategy aber die Finanzierung weiterer Käufe. Große Börsengänge und die Nvidia-Zahlen bestimmen die Risikostimmung an der Nasdaq, an der sich der Kryptomarkt zuletzt orientiert hat. Bleibt das Marktstrukturgesetz liegen, verschiebt sich die erhoffte Rechtssicherheit in den USA auf 2027."
-        },
-        {
-          "tag": "Termin",
-          "title": "Mo 16.11.: Rede von Fed-Chef Warsh",
-          "text": "18:00 Uhr MEZ, Eröffnung einer Fed-Konferenz. Dazu Stahlgipfel in Salzgitter (11:00 Uhr), Empire-State-Index (14:30 Uhr MEZ), EU-Außenminister in Brüssel, Merz beim CSU-Vorstand, Wiederwahl Schwesigs in Schwerin, Länderspiel Deutschland–Niederlande (20:45 Uhr, Olympiastadion).",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Di 17.11.: Koalitionsausschuss zur Stromsteuer",
-          "text": "Dazu US-Einzelhandelsumsätze (14:30 Uhr MEZ), Nvidia-Quartalszahlen nach US-Börsenschluss, Irans Außenminister Araghtschi in Oman.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Mi 18.11.: Protokoll der Fed-Sitzung vom Oktober",
-          "text": "Hinweise auf den Zinsschritt im Dezember, 20:00 Uhr MEZ. Dazu Beginn des Apec-Gipfels in Shenzhen und Preisfestlegung beim Anthropic-Börsengang.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Do 19.11.: Treffen von Trump, Putin und Xi",
-          "text": "Am Rande des Apec-Gipfels in Shenzhen. Dazu erster Handelstag der Anthropic-Aktie an der Nasdaq.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Fr 20.11.: Verfall von Bitcoin-Optionen auf Deribit",
-          "text": "Rund 28.300 BTC, 9:00 Uhr MEZ. Dazu deutsch-ukrainisches Wirtschaftsforum und Großdemo von „Gen Z regelt“ in Berlin.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Mi 25.11.: US-PCE-Inflation für Oktober",
-          "text": "Das bevorzugte Inflationsmaß der Fed, 14:30 Uhr MEZ.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Mo 30.11.: Strategy verlässt die MSCI-Indizes",
-          "text": "Wirksam nach US-Börsenschluss.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "8./9.12.: Zinsentscheid der Fed",
-          "text": "Entscheidung am 9. Dezember.",
-          "source": "",
-          "url": ""
-        }
-      ]
+     "tag": "Landespolitik",
+     "title": "Fall Emde: Ramelow legt Abgeordneter Austritt aus der Linksfraktion nahe",
+     "text": "Der Linken-Politiker Bodo Ramelow sagte im ZDF, die Berliner Abgeordnete Vanessa Emde solle die Fraktion aus eigenem Antrieb verlassen. Der Berliner Grünen-Politiker Werner Graf begrüßte das Verfahren zum Fraktionsausschluss. Dafür ist eine Zweidrittelmehrheit nötig, abgestimmt wird frühestens am 24. November; Linke, Grüne und SPD wollen ihre Koalitionsverhandlungen im Januar abschließen. Im Bezirk Mitte hat die Linke laut Tagesspiegel ihre Gespräche mit den Grünen im Streit um ein Antisemitismuspapier und einen Posten abgebrochen.",
+     "source": "ZDFheute, 15.11.",
+     "url": "https://www.zdfheute.de/politik/deutschland/ramelow-linke-koalition-berlin-emde-fraktionsausschluss-100.html"
     }
-  ]
+   ]
+  },
+  {
+   "id": "welt",
+   "title": "Welt",
+   "items": [
+    {
+     "tag": "Iran",
+     "title": "Straße von Hormus: Am Montagmorgen zwei weitere Tanker beschädigt – Guterres fordert Diplomatie",
+     "text": "Irans Marine meldete am Montagmorgen, ein Tanker sei östlich der Straße von Hormus auf eine Seemine gelaufen, in Brand geraten und manövrierunfähig. Die britische Seefahrtsbehörde UKMTO berichtete kurz darauf von einem weiteren Tanker, der bei der Ausfahrt aus der Meerenge von einem unbekannten Geschoss getroffen wurde; im Maschinenraum brach Feuer aus, Verletzte gab es nicht. UN-Generalsekretär Guterres forderte einen ernsthaften diplomatischen Prozess, um den Zustand zwischen Krieg und Frieden zu beenden. Am Sonntag hatten Irans Revolutionsgarden sechs Drohnen auf einen von den USA genutzten Stützpunkt in Bahrain abgefeuert, die Bahrain nach eigenen Angaben abfing; mit der USS „Theodore Roosevelt“ ist ein dritter US-Flugzeugträger in der Region. Parlamentspräsident Ghalibaf nennt ein Ende des Konflikts möglich, wenn Washington Teherans Bedingungen akzeptiert; einem Marktbericht zufolge erwägen die USA derzeit keine unmittelbaren Angriffe. Brent-Öl kostete am Morgen 96,59 $.",
+     "source": "Iran International Liveblog, 16.11.",
+     "url": "https://www.iranintl.com/en/liveblog/202611143682"
+    },
+    {
+     "tag": "USA · China · Russland",
+     "title": "Dreiertreffen von Trump, Putin und Xi am Donnerstag in Shenzhen",
+     "text": "Xi Jinping, Donald Trump und Wladimir Putin wollen am Donnerstag am Rande des Apec-Gipfels in Shenzhen zusammenkommen; das Weiße Haus und der Kreml haben den Termin bestätigt, laut South China Morning Post am Montag auch Peking. Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Im Mittelpunkt stehen nukleare Rüstungskontrolle und der Iran-Krieg; eine Einigung wird nach US-Angaben nicht erwartet, die Ukraine steht nicht auf der Tagesordnung. Vorab haben die USA und acht Partner, darunter Japan, Großbritannien, Indien und Südkorea, eine Erklärung zum Schutz von Technologien und Lieferketten für künstliche Intelligenz unterzeichnet; Deutschland soll kommende Woche folgen.",
+     "source": "South China Morning Post, 16.11.",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374523/china-us-russia-trilateral-set-thursday-beijing"
+    },
+    {
+     "tag": "Ukraine · Russland",
+     "title": "Selenskyj: USA fragten nach Rückzug aus dem Donbass im Tausch gegen Nato-Mitgliedschaft",
+     "text": "Präsident Selenskyj zufolge haben US-Unterhändler nach der jüngsten Gesprächsrunde in Abu Dhabi erstmals gefragt, ob die Ukraine ihre Truppen aus dem restlichen Donbass abziehen würde, wenn sie dafür Nato-Mitglied wird. Washington hat das nicht bestätigt; ein US-Vertreter sprach von mehreren Ideen, die diskutiert würden. Selenskyj will einen konkreten Vorschlag nur dann zur Abstimmung stellen, wenn er belastbare Sicherheitsgarantien, keine Beschränkungen für die Armee und Geld für den Wiederaufbau enthält. Russland griff in der Nacht zu Sonntag Infrastruktur in acht Regionen an; Selenskyj macht dafür auch die gedrosselten Starshield-Terminals von SpaceX verantwortlich. Estland schließt zum 1. Dezember seine drei Grenzübergänge nach Russland, an diesem Montag beraten die EU-Außenminister in Brüssel.",
+     "source": "10 Things Global News, 16.11.",
+     "url": "https://www.10things.news/p/10-things-global-news-16th-november"
+    },
+    {
+     "tag": "Israel",
+     "title": "Israel: Eisenkot fordert nach Bericht über Wahlbeeinflussung Netanjahus sofortigen Rückzug",
+     "text": "Oppositionspolitiker Gadi Eisenkot erklärte, Benjamin Netanjahu dürfe keine Minute länger an der Spitze der Regierung bleiben, und verlangte Ermittlungen von Polizei und Inlandsgeheimdienst. Laut dem Sender Channel 12 hatte Netanjahus Stabschef am Vorabend der Wahl vom 27. Oktober Anzeige gegen Mitglieder der arabischen Partei Ra'am erstattet; drei von ihnen wurden ohne richterlichen Beschluss festgenommen und wieder freigelassen, nachdem sich die Hinweise als haltlos erwiesen hatten. Keines der beiden Lager erreicht die nötigen 61 Mandate; Netanjahus Angebot einer Einheitsregierung nennt Eisenkot einen Bluff. Am Montagmorgen meldete Israels Armee einen Luftangriff auf eine für die Hisbollah bestimmte Waffenlieferung an der syrisch-libanesischen Grenze.",
+     "source": "Al Jazeera, 16.11.",
+     "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling"
+    },
+    {
+     "tag": "Jemen",
+     "title": "Jemens Regierungstruppen räumen Stellungen am Bab al-Mandeb, um Aden zu sichern",
+     "text": "Die von Saudi-Arabien gestützten Regierungstruppen ziehen sich nach eigenen Angaben aus dem Gebiet am Bab al-Mandeb und von weiteren Küstenabschnitten zurück; Vorrang habe die Sicherung der Übergangshauptstadt Aden. Reuters wertet das als schweren Rückschlag für die saudische Kampagne gegen die mit Iran verbündeten Huthi, die einen Vormarsch auf Aden ankündigen. Die saudisch geführte Koalition meldet den Abschuss von zwei Drohnen und zwei ballistischen Raketen. Am Montagmorgen meldete die UKMTO zudem die Annäherung eines Boots mit vier Bewaffneten an einen Tanker rund 430 Seemeilen östlich der jemenitischen Insel Sokotra.",
+     "source": "Reuters, 15.11.",
+     "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+    }
+   ]
+  },
+  {
+   "id": "krypto",
+   "title": "Krypto & Finanzen",
+   "items": [
+    {
+     "tag": "Markt",
+     "title": "Bitcoin fällt um rund 2 % auf etwa 64.300 $ – Ether bei 1.796 $",
+     "text": "Gegen 11:40 Uhr MEZ notierte Bitcoin laut Blockchain.com bei 64.320 $ und damit 2,2 % tiefer als 24 Stunden zuvor (Tagesspanne 64.272 bis 65.708 $); Investing.com nannte für 11:05 Uhr MEZ 64.353,50 $. Ether stand laut CoinGecko bei 1.796 $ (minus 1,7 %, Spanne 1.792 bis 1.838 $). Auf Sieben-Tage-Sicht liegt Bitcoin laut CoinCodex 13,7 % und Ether laut CoinGecko 15,3 % im Minus. XRP und Cardano verloren je 2,1 %, Solana 1,8 %; die Trump-Memecoin fiel erstmals seit ihrem Start 2025 unter 1 $. Investing.com nennt als Gründe die erwarteten US-Zinserhöhungen, die nach dem Wahlsieg der Demokraten bei den Kongresswahlen unsichere Regulierung und die Zurückhaltung vor den Nvidia-Zahlen. Der Fear-and-Greed-Index steht bei 10 („extreme Angst“).",
+     "source": "Investing.com, 16.11.",
+     "url": "https://au.investing.com/news/cryptocurrency-news/bitcoin-slides-to-643k-as-crypto-sentiment-dithers-etf-outflows-persist-4772761",
+     "impact": "Die Stabilisierung vom frühen Morgen hat nicht gehalten, der Kurs liegt aber weiter über dem Wochenendtief von 61.946 $. Marktberichte sehen dieses Tief als entscheidende Marke nach unten und die 200-Wochen-Linie bei rund 67.800 $ als Widerstand nach oben."
+    },
+    {
+     "tag": "Fed · Zinsen",
+     "title": "Heute 18 Uhr spricht Fed-Chef Warsh – Markt preist für Dezember mehr als einen Zinsschritt ein",
+     "text": "Fed-Chef Kevin Warsh eröffnet um 18 Uhr MEZ eine Konferenz der Notenbank in San Francisco zu Produktivität und Arbeitsmarkt; außerdem sprechen heute Fed-Gouverneur Barr, New Yorks Fed-Präsident Williams (15:05 Uhr) und Beth Hammack (20:15 Uhr). Am Terminmarkt sind für Dezember 27 Basispunkte Straffung eingepreist, also mehr als ein voller Schritt von 0,25 Punkten; laut Investing.com setzen einzelne Händler auf 0,5 Punkte. Mehrere Fed-Vertreter äußerten sich zuletzt straff: Jeff Schmid sieht die Inflation als zu hoch, Susan Collins hält einen stetigen Pfad von Erhöhungen für angemessen. Die zehnjährige US-Rendite liegt bei 5,14 % nach einem Anstieg um 25,7 Basispunkte in der Vorwoche, die zweijährige bei 4,85 %; der Dollar-Index steht mit 103,47 auf dem höchsten Stand seit Mai 2025.",
+     "source": "GFX Macro, 16.11.",
+     "url": "https://gfxfts.substack.com/p/asian-chip-stocks-slump-ahead-of",
+     "impact": "Steigende Renditen und ein starker Dollar belasten zinslose Anlagen wie Bitcoin. Die Warsh-Rede ist der erste Termin der Woche, an dem sich die Zinserwartungen verschieben können; es folgen am Dienstag die US-Einzelhandelsumsätze und am Mittwoch das Protokoll der Oktober-Sitzung."
+    },
+    {
+     "tag": "ETF-Flüsse",
+     "title": "Bitcoin-ETFs: sieben Handelstage mit Abflüssen, dritte Abflusswoche in Folge",
+     "text": "Aus den US-Spot-Bitcoin-ETFs flossen laut Farside bis einschließlich Freitag, 13. November, an sieben Handelstagen in Folge zusammen rund 1,91 Mrd. $ ab; im November gab es bisher keinen Tag mit Zuflüssen. Am Freitag waren es 185,4 Mio. $, davon 143,5 Mio. $ aus BlackRocks IBIT. Für die Woche bis 13. November weist SoSoValue Abflüsse von rund 1,07 Mrd. $ aus, die dritte Abflusswoche in Folge und die fünfte in sechs Wochen. Am Wochenende wurden gehebelte Positionen im Umfang von mehr als 2 Mrd. $ zwangsweise aufgelöst.",
+     "source": "crypto.news, 16.11.",
+     "url": "https://crypto.news/bitcoin-fed-nvidia-anthropic-ipo-crypto-week-ahead/",
+     "impact": "Die institutionelle Nachfrage aus den USA fehlt weiterhin; ohne ein Ende der Abflüsse sehen Marktbeobachter keinen stabilen Boden. Die ETF-Daten vom Montag liegen in der Nacht zum Dienstag vor und zeigen, ob die Serie anhält."
+    },
+    {
+     "tag": "Tech · Aktien",
+     "title": "Chipwerte in Asien brechen ein – Nvidia vor Zahlen ohne Huang, Strategy fliegt aus MSCI-Indizes",
+     "text": "Taiwans Leitindex verlor am Montag 6,0 %, Südkoreas Kospi 3,6 % und der Nikkei 2,4 %; TSMC gab 5,7 % und SK Hynix 7,9 % nach. Die Nvidia-Aktie hatte in der Vorwoche 12,7 % verloren, nachdem der Verwaltungsrat Mitgründer Jensen Huang abgelöst hatte; laut Financial Times erwägt Huang eine Rückkehr, US-Finanzminister Bessent verlangt eine Neuaufstellung der Führung und Antworten zu den Exportkontrollen. Interimschefin Colette Kress legt am Dienstag nach US-Börsenschluss die Quartalszahlen vor. Die Futures auf den Nasdaq-100 lagen am Morgen 1,1 % und auf den S&P 500 0,5 % im Minus. Der Indexanbieter MSCI nimmt Unternehmen mit Krypto-Bestand, allen voran Strategy, Ende November aus seinen Indizes; Anthropic will am Mittwoch den Preis für seinen Börsengang festlegen, erster Handelstag an der Nasdaq ist Donnerstag.",
+     "source": "GFX Macro, 16.11.",
+     "url": "https://gfxfts.substack.com/p/asian-chip-stocks-slump-ahead-of",
+     "impact": "Der Kryptomarkt hat sich zuletzt an der Risikostimmung der Nasdaq orientiert; ein schwacher Chipsektor und die Nvidia-Zahlen am Dienstag wirken deshalb unmittelbar. Der MSCI-Ausschluss erschwert Strategy laut Investing.com den Zugang zu Kapital und könnte Verkäufe von Beständen nach sich ziehen."
+    },
+    {
+     "tag": "Termin",
+     "title": "Mo 16.11.: Rede von Fed-Chef Warsh",
+     "text": "18:00 Uhr MEZ, Eröffnung einer Fed-Konferenz in San Francisco. Dazu Fed-Reden von Williams (15:05 Uhr) und Hammack (20:15 Uhr), Wiederwahl Schwesigs in Schwerin (13:00 Uhr), Stahlgipfel in Salzgitter, EU-Außenminister in Brüssel, Länderspiel Deutschland–Niederlande (20:45 Uhr, Olympiastadion).",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Di 17.11.: Koalitionsausschuss zur Stromsteuer",
+     "text": "Dazu US-Einzelhandelsumsätze (14:30 Uhr MEZ), US-Industrieproduktion (15:15 Uhr MEZ), Nvidia-Quartalszahlen (22:20 Uhr MEZ), Irans Außenminister Araghtschi in Oman.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Mi 18.11.: Protokoll der Fed-Sitzung vom Oktober",
+     "text": "Hinweise auf den Zinsschritt im Dezember, 20:00 Uhr MEZ. Dazu Beginn des Apec-Gipfels in Shenzhen und Preisfestlegung beim Anthropic-Börsengang.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Do 19.11.: Treffen von Trump, Putin und Xi",
+     "text": "Am Rande des Apec-Gipfels in Shenzhen. Dazu erster Handelstag der Anthropic-Aktie an der Nasdaq und wöchentliche US-Arbeitslosenanträge.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Fr 20.11.: Verfall von Bitcoin-Optionen auf Deribit",
+     "text": "Rund 28.300 BTC, 9:00 Uhr MEZ. Dazu US-Verbraucherstimmung der Universität Michigan (16:00 Uhr MEZ), deutsch-ukrainisches Wirtschaftsforum und Großdemo von „Gen Z regelt“ in Berlin.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Mi 25.11.: US-PCE-Inflation für Oktober",
+     "text": "Das bevorzugte Inflationsmaß der Fed, 14:30 Uhr MEZ.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Mo 30.11.: Strategy verlässt die MSCI-Indizes",
+     "text": "Wirksam nach US-Börsenschluss.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "8./9.12.: Zinsentscheid der Fed",
+     "text": "Entscheidung am 9. Dezember.",
+     "source": "",
+     "url": ""
+    }
+   ]
+  }
+ ]
 }

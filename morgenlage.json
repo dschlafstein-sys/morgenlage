@@ -1,18 +1,18 @@
 {
  "date": "Montag, 16. November 2026",
- "stand": "16:54",
+ "stand": "21:45",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "64.217 $",
-   "change": "−0,9 % · 24 h",
+   "value": "65.073 $",
+   "change": "−0,1 % · 24 h",
    "dir": "down"
   },
   {
    "label": "Ether",
-   "value": "1.803 $",
-   "change": "−1,6 % · 24 h",
+   "value": "1.819 $",
+   "change": "−0,6 % · 24 h",
    "dir": "down"
   },
   {
@@ -24,14 +24,14 @@
   {
    "label": "US-Rendite 10 Jahre",
    "value": "5,13 %",
-   "change": "−0,02 Punkte zum Freitag",
+   "change": "knapp unter Freitag (5,15 %)",
    "dir": "warn"
   }
  ],
  "brief": [
-  "Krypto am Montagnachmittag: Bitcoin notiert gegen 16:40 Uhr MEZ bei rund 64.200 $ (minus 0,9 % in 24 Stunden), Ether lag am frühen Nachmittag bei rund 1.800 $ (minus 1,6 %). Die Wall Street hat schwächer eröffnet: Der Nasdaq verlor im frühen Handel gut 1 %, Chipwerte wie AMD und Micron deutlich mehr; die zehnjährige US-Rendite steht bei 5,13 %. Um 18 Uhr MEZ spricht Fed-Chef Warsh, eine Zinserhöhung im Dezember ist am Markt voll eingepreist.",
-  "Nahost und Weltpolitik: Irans Staatsfernsehen meldet drei weitere Tanker, die in der Straße von Hormus nach Minenkontakt brennen; die Revolutionsgarden sprechen von sechs beschädigten Tankern seit Sonntag, unabhängig bestätigt ist das nicht. Brent-Öl fiel trotzdem um gut 2 % auf 93,55 $, weil die Internationale Energieagentur für das vierte Quartal ein Überangebot erwartet. Am Donnerstag treffen sich Trump, Putin und Xi in Shenzhen.",
-  "Bund und Berlin: Kanzler Merz hat nach der CSU-Vorstandssitzung in München angekündigt, dass der Koalitionsausschuss am Dienstag die Senkung der Stromsteuer für alle ab 2027 beschließt. Manuela Schwesig ist in Schwerin mit 39 Stimmen als Ministerpräsidentin wiedergewählt worden, der Stahlgipfel in Salzgitter brachte zunächst keine konkreten Beschlüsse. In Berlin sind zum Länderspiel Deutschland–Niederlande (20:45 Uhr) ab 18 Uhr die Straßen rund um das Olympiastadion gesperrt."
+  "Märkte am Montagabend: Die Wall Street steht kurz vor Handelsschluss deutlich im Minus: Der Nasdaq verlor laut Reuters im späten Handel 2,3 % und liegt damit mehr als 10 % unter seinem Rekord von Anfang Oktober, Nvidia gab vor den Quartalszahlen am Dienstag gut 4 % nach. Bitcoin hält sich mit rund 65.070 $ (21:35 Uhr MEZ, minus 0,1 % in 24 Stunden) stabil, Ether steht bei rund 1.820 $. Fed-Chef Warsh sprach in San Francisco nur über künstliche Intelligenz und gab keinen Hinweis zum Zins; eine Erhöhung im Dezember bleibt am Markt fast vollständig eingepreist.",
+  "Nahost, Ukraine und Weltpolitik: Iran meldet seit Sonntag sechs durch Minen beschädigte Tanker in der Straße von Hormus, unabhängig bestätigt ist das nicht; der Ölpreis fiel trotzdem, weil die Internationale Energieagentur ein Überangebot erwartet. Die EU-Außenminister haben neue Sanktionen gegen 12 Personen und 101 Organisationen beschlossen, Russland meldet den Abschuss von 1.336 ukrainischen Drohnen in einer Nacht. Am Donnerstag treffen sich Trump, Putin und Xi in Shenzhen.",
+  "Bund und Berlin: Kanzler Merz hat angekündigt, dass der Koalitionsausschuss am Dienstag die Senkung der Stromsteuer für alle ab 2027 beschließt, und stellte klar, dass der Koalitionsvertrag unabhängig vom SPD-Personal gilt. Der Stahlgipfel in Salzgitter blieb ohne konkrete Beschlüsse, Manuela Schwesig wurde in Schwerin wiedergewählt. In Berlin führt Deutschland im Länderspiel gegen die Niederlande zur Pause 1:0; die Straßen rund um das Olympiastadion bleiben bis Mitternacht gesperrt."
  ],
  "sections": [
   {
@@ -40,15 +40,15 @@
    "items": [
     {
      "tag": "Politik",
-     "title": "Stromsteuer: Merz kündigt für Dienstag eine Einigung im Koalitionsausschuss an",
-     "text": "Kanzler Friedrich Merz sagte am Montag nach der CSU-Vorstandssitzung in München bei einem gemeinsamen Auftritt mit Markus Söder, der Koalitionsausschuss werde am Dienstag eine Einigung erzielen: Die Stromsteuer soll 2027 für alle, auch für private Haushalte, auf das europäische Mindestmaß sinken. Finanzminister Lars Klingbeil könne davon nicht überrascht sein, man habe am Wochenende gesprochen und die Zahlen abgeglichen; Merz rechnet mit kurzen Beratungen. Söder nannte die Senkung und den Ausgleich der kalten Progression eine Frage der Glaubwürdigkeit. Wie die Entlastung gegenfinanziert wird, ist weiter offen; sie kostet laut dpa rund 5,4 Milliarden Euro und ist im Haushalt 2027 bisher nicht eingeplant. Bislang gilt der niedrigere Satz nur für Industrie, Gewerbe und Landwirtschaft.",
+     "title": "Stromsteuer: Merz kündigt Einigung für Dienstag an – Koalitionsvertrag gilt „unabhängig von Personen“",
+     "text": "Kanzler Friedrich Merz sagte am Montag nach der CSU-Vorstandssitzung in München, der Koalitionsausschuss werde am Dienstag eine Einigung erzielen: Die Stromsteuer soll 2027 für alle, auch für private Haushalte, auf das europäische Mindestmaß sinken. Wie die Entlastung gegenfinanziert wird, ist offen; sie kostet laut dpa rund 5,4 Milliarden Euro und ist im Haushalt 2027 bisher nicht eingeplant. Mit Blick auf die Kandidatur von Hubertus Heil für den SPD-Vorsitz betonte Merz, der Koalitionsvertrag sei die Geschäftsgrundlage auch für die nächsten zwei Jahre und werde nicht neu verhandelt, jede Partei kläre ihre Personalfragen selbst. CSU-Chef Markus Söder warnte, ein Wechsel an der SPD-Spitze dürfe die geplanten Sozialreformen nicht aufhalten.",
      "source": "t-online/Reuters/dpa, 16.11.",
      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101531278/vor-dem-koalitionsausschuss-merz-kuendigt-stromsteuer-entscheidung-an.html"
     },
     {
      "tag": "Wirtschaft · Industrie",
-     "title": "Stahlgipfel in Salzgitter: Reiche verteidigt Industriestrompreis – zunächst keine konkreten Beschlüsse",
-     "text": "Auf dem nationalen Stahlgipfel in Salzgitter verlangte ein Bündnis der Stahlhersteller einen verlässlichen, wettbewerbsfähigen Strompreis, wirksame Leitmärkte und Handelsschutz. Wirtschaftsministerin Katherina Reiche sagte, die Regierung habe erstmals überhaupt einen Industriestrompreis durchgesetzt, und zwar gegen deutlichen Widerstand aus Brüssel. Konkrete Vereinbarungen wurden laut dpa bis zum Nachmittag nicht bekannt. Niedersachsens Ministerpräsident Olaf Lies forderte, europäischen Stahl überall dort einzusetzen, wo der Staat baut, fördert oder beschafft; Betriebsräte von ArcelorMittal Bremen warfen der Ministerin vor, die Forderung nach einem wettbewerbsfähigen Strompreis nicht aufzugreifen. Vor dem Treffen hatten nach Gewerkschaftsangaben mehr als 2.000 Beschäftigte demonstriert.",
+     "title": "Stahlgipfel in Salzgitter endet ohne konkrete Beschlüsse",
+     "text": "Auf dem nationalen Stahlgipfel in Salzgitter verlangte ein Bündnis der Stahlhersteller einen verlässlichen, wettbewerbsfähigen Strompreis, wirksame Leitmärkte und Handelsschutz; verbindliche Zusagen der Bundesregierung meldet dpa nicht. Wirtschaftsministerin Katherina Reiche verwies darauf, dass es erstmals einen Industriestrompreis gebe, durchgesetzt gegen deutlichen Widerstand aus Brüssel. Niedersachsens Ministerpräsident Olaf Lies forderte, bei öffentlich geförderten Projekten auf europäischen Stahl zu setzen, sein nordrhein-westfälischer Kollege Hendrik Wüst warnte, ohne bessere Rahmenbedingungen werde in Deutschland irgendwann kein Stahl mehr produziert. Die IG Metall kritisierte widersprüchliche Signale aus Politik und Unternehmen. In der Stahlerzeugung arbeiten rund 80.000 Menschen; vor dem Treffen hatten nach Gewerkschaftsangaben mehr als 2.000 Beschäftigte demonstriert.",
      "source": "Handelsblatt/dpa, 16.11.",
      "url": "https://www.handelsblatt.com/politik/deutschland/branchengipfel-in-salzgitter-stahl-soll-zukunft-bleiben-aber-wie/100270254.html"
     },
@@ -73,11 +73,11 @@
    "title": "Berlin",
    "items": [
     {
-     "tag": "Verkehr · Länderspiel",
-     "title": "Länderspiel am Olympiastadion: Sperrungen ab 18 Uhr, 60.000 Zuschauer erwartet",
-     "text": "Zum Länderspiel Deutschland–Niederlande am Montagabend (20:45 Uhr) erwartet die Polizei 60.000 Zuschauer. Seit 14 Uhr gelten Halteverbote, unter anderem am Olympischen Platz, in der Heilsberger Allee, der Trakehner Allee und der Lyckallee; von 18 Uhr bis Mitternacht sind Olympischer Platz, Trakehner Allee, Flatowallee, Coubertinplatz und der östliche Teil der Jesse-Owens-Allee gesperrt. Größere Fangruppen erwartet die Polizei vor allem am Theodor-Heuss-Platz, an der Heerstraße und an der Flatowallee. Niederländische Fans haben einen „Orange Fan Walk“ angekündigt, eine Zahl der Gästefans liegt der Polizei nicht vor.",
+     "tag": "Länderspiel · Verkehr",
+     "title": "Länderspiel im Olympiastadion: Deutschland führt zur Pause 1:0 – Sperrungen bis Mitternacht",
+     "text": "Im Nations-League-Spiel gegen die Niederlande führt die deutsche Mannschaft zur Halbzeit 1:0, das Tor erzielte Derry Scherhant in der 41. Minute. Vor dem Anpfiff zogen niederländische Fans vom Theodor-Heuss-Platz über Heerstraße und Flatowallee zum Stadion; die Polizei zählte gegen 18 Uhr rund 600 Teilnehmer und rechnet insgesamt mit mindestens 1.500 angereisten Gästefans. Es wurde Pyrotechnik gezündet, sonst blieb es laut Polizei zunächst ruhig; 600 Einsatzkräfte sind im Stadtgebiet unterwegs, unterstützt von Beamten aus den Niederlanden. Olympischer Platz, Trakehner Allee, Flatowallee, Coubertinplatz und der östliche Teil der Jesse-Owens-Allee bleiben bis Mitternacht gesperrt.",
      "source": "Tagesspiegel, 16.11.",
-     "url": "https://www.tagesspiegel.de/berlin/niederlande-gegen-deutschland-hier-kommt-es-vor-dem-fussballspiel-im-berliner-olympiastadion-zu-sperrungen-16291248.html"
+     "url": "https://www.tagesspiegel.de/berlin/wir-sind-einfach-die-besten-fans-oranje-anhanger-hupfen-durch-berlin--und-verteilen-bierduschen-16292449.html"
     },
     {
      "tag": "Verkehr · Dienstag",
@@ -98,7 +98,7 @@
      "title": "Fall Emde belastet Koalitionsverhandlungen – Abstimmung über Ausschluss frühestens am 24. November",
      "text": "Der Vorstand der Berliner Linksfraktion arbeitet an einem Antrag, die Neuköllner Abgeordnete Vanessa Emde auszuschließen; nötig ist eine Zweidrittelmehrheit, abgestimmt werden kann laut Satzung frühestens am 24. November. Emde will ihr Mandat behalten, Bodo Ramelow hatte ihr im ZDF nahegelegt, die Fraktion von sich aus zu verlassen. Linke, Grüne und SPD verhandeln in 14 Facharbeitsgruppen mit rund 300 Beteiligten; erste Ergebnisse sollen bis Ende November vorliegen, der Koalitionsvertrag Anfang Januar stehen. Die Berliner SPD lädt ihre Mitglieder noch bis 18. November zu nicht öffentlichen Dialogrunden ein.",
      "source": "Tagesspiegel Liveblog, 16.11.",
-     "url": "https://tagesspiegel.de/berlin/liveblog/vertrauen-verspielt-berliner-linke-chefs-erfuhren-aus-den-medien-dass-emde-ihr-mandat-behalten-will-16053722.html"
+     "url": "https://www.tagesspiegel.de/berlin/liveblog/jedes-vertrauen-zerstort-ramelow-fordert-austritt-von-vanessa-emde-aus-berliner-linksfraktion-16053722.html"
     }
    ]
   },
@@ -109,23 +109,23 @@
     {
      "tag": "Iran",
      "title": "Straße von Hormus: Iran meldet weitere brennende Tanker – Ölpreis fällt trotzdem",
-     "text": "Irans Staatsfernsehen zufolge sind in der Nacht und am Montagmorgen drei Öltanker nach Minenkontakt in Brand geraten; die Marine der Revolutionsgarden spricht von sechs beschädigten Tankern seit Sonntag und meldet laut der Agentur Anadolu, ein Supertanker mit mehr als zwei Millionen Barrel Rohöl sei gesunken. Unabhängig bestätigt ist das nicht. Die britische Seefahrtsbehörde UKMTO berichtet von einem weiteren Tanker, den ein unbekanntes Geschoss traf. Teheran warnt Reedereien, auch der von den USA geschützte Korridor sei wegen Minen gefährlich. Brent-Öl verbilligte sich bis 15:44 Uhr dennoch um 2,4 % auf 93,55 $: Die Internationale Energieagentur erwartet für das vierte Quartal ein Überangebot von rund 1,7 Millionen Barrel pro Tag, zudem kommen bis Ende Februar etwa 71 Millionen Barrel aus Notreserven auf den Markt.",
-     "source": "Investing.com, 16.11.",
-     "url": "https://de.investing.com/news/stock-market-news/olpreis-tanker-brennen-in-der-strase-von-hormus--trotzdem-fallt-brent-3770753"
+     "text": "Irans Staatsfernsehen zufolge sind in der Nacht und am Montagmorgen drei Öltanker nach Minenkontakt in Brand geraten; die Marine der Revolutionsgarden spricht von sechs beschädigten Tankern seit Sonntag. Unabhängig bestätigt ist das nicht, Beobachter führen die meisten Treffer laut dpa eher auf Geschosse als auf Minen zurück. Die britische Seefahrtsbehörde UKMTO berichtet von einem weiteren Tanker, den ein unbekanntes Geschoss traf. Außenminister Araghtschi machte die USA und Israel für die Lage verantwortlich, Pakistan will weiter zwischen Washington und Teheran vermitteln; mit der „USS Theodore Roosevelt“ ist ein dritter US-Flugzeugträger in der Region. Brent-Öl verbilligte sich bis 15:44 Uhr dennoch um 2,4 % auf 93,55 $: Die Internationale Energieagentur erwartet für das vierte Quartal ein Überangebot, zudem haben Saudi-Arabien und die Emirate ihre Verkaufspreise gesenkt.",
+     "source": "taz Liveblog, 16.11.",
+     "url": "https://taz.de/-Nachrichten-im-Irankrieg-/!6230520/"
+    },
+    {
+     "tag": "Ukraine · EU",
+     "title": "EU verhängt neue Russland-Sanktionen – Moskau meldet 1.336 abgefangene Drohnen",
+     "text": "Die EU-Außenminister haben am Montag in Brüssel 12 Personen und 101 Organisationen auf die Sanktionsliste gesetzt, darunter Tatjana Kim, deren Onlineplattform Wildberries nach EU-Angaben das russische Militär mitversorgt. Die Außenbeauftragte Kaja Kallas, die dem neuen siebenköpfigen Verhandlungsteam der EU für mögliche Friedensgespräche nicht angehört, nannte Moskaus Forderungen absurd und verlangte zuerst eine Waffenruhe. Russlands Verteidigungsministerium meldete, in einer Nacht 1.336 ukrainische Drohnen abgefangen zu haben, rund 600 davon mit Ziel Region Moskau; der Verkehr auf der Krim-Brücke wurde nach einem Angriff eingeschränkt. Laut „Financial Times“ will die EU-Kommission am Mittwoch einen weiteren Kredit über 45 Milliarden Euro für die Ukraine vorschlagen. Am Dienstag tagt die Ramstein-Gruppe zur Flugabwehr.",
+     "source": "taz, 16.11.",
+     "url": "https://taz.de/Treffen-der-EU-Aussenminister/!6230422/"
     },
     {
      "tag": "USA · China · Russland",
      "title": "Dreiertreffen von Trump, Putin und Xi am Donnerstag in Shenzhen",
-     "text": "Xi Jinping, Donald Trump und Wladimir Putin wollen am Donnerstag am Rande des Apec-Gipfels in Shenzhen zusammenkommen; das Weiße Haus und der Kreml haben den Termin bestätigt, laut South China Morning Post am Montag auch Peking. Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Im Mittelpunkt stehen nukleare Rüstungskontrolle und der Iran-Krieg; eine Einigung wird nach US-Angaben nicht erwartet, die Ukraine steht offiziell nicht auf der Tagesordnung. Vorab haben die USA und acht Partner, darunter Japan, Großbritannien, Indien und Südkorea, eine Erklärung zum Schutz von Technologien und Lieferketten für künstliche Intelligenz unterzeichnet.",
+     "text": "Xi Jinping, Donald Trump und Wladimir Putin wollen am Donnerstag am Rande des Apec-Gipfels in Shenzhen zusammenkommen; das Weiße Haus, der Kreml und seit Montag auch Peking haben den Termin bestätigt. Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Im Mittelpunkt stehen nukleare Rüstungskontrolle und der Iran-Krieg; eine Einigung wird nach US-Angaben nicht erwartet, die Ukraine will Trump laut Bloomberg nicht ansprechen. Vor dem Treffen hat die US-Regierung zudem eine Regel erlassen, die Chinas Zugang zu den leistungsfähigsten KI-Chips weiter einschränkt.",
      "source": "South China Morning Post, 16.11.",
      "url": "https://www.scmp.com/news/china/diplomacy/article/3374523/china-us-russia-trilateral-set-thursday-beijing"
-    },
-    {
-     "tag": "Ukraine · Russland",
-     "title": "Ukraine: EU-Außenminister beraten über Winterhilfe – Selenskyj lehnt neutralen Status ab",
-     "text": "Die EU-Außenminister beraten an diesem Montag in Brüssel darüber, wie die Ukraine vor dem Winter gestärkt werden kann, und über hybride Angriffe Russlands auf EU-Staaten. Präsident Selenskyj zufolge setzte Russland in der vergangenen Woche mehr als 2.300 Drohnen, 1.590 Gleitbomben und 15 Raketen ein. Einen neutralen Status seines Landes lehnt er ab; zuvor hatten US-Unterhändler nach seinen Angaben gefragt, ob die Ukraine den restlichen Donbass im Tausch gegen eine Nato-Mitgliedschaft räumen würde. Am Dienstag tagt die Ramstein-Gruppe, von der Selenskyj Zusagen bei der Flugabwehr erwartet, am Donnerstag trifft sich in Berlin die Koalition der Willigen mit Kanzler Merz. Estland schließt zum 1. Dezember seine Grenzübergänge nach Russland.",
-     "source": "Yahoo Nachrichten/AFP, 16.11.",
-     "url": "https://de.nachrichten.yahoo.com/eu-au%C3%9Fenminister-beraten-%C3%BC-ukraine-031334875.html"
     },
     {
      "tag": "Israel",
@@ -149,68 +149,61 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin hält sich bei rund 64.200 $ – Ether um 1.800 $",
-     "text": "Um 16:40 Uhr MEZ notierte Bitcoin laut CoinDesk bei 64.217 $ und damit 0,9 % tiefer als 24 Stunden zuvor. Ether stand laut Binance um 14:45 Uhr MEZ bei 1.803 $ (minus 1,6 %, Tagesspanne 1.786 bis 1.840 $). Am Samstagabend war Bitcoin auf Binance bis auf 62.006 $ gefallen, den tiefsten Stand seit Juli; am Freitagabend hatte der Kurs noch bei 68.398 $ gelegen. Seit der Erholung pendelt er laut Unchained zwischen rund 63.800 und 66.100 $. Der gesamte Kryptomarkt ist laut CoinGecko 2,18 Billionen $ wert, Bitcoins Anteil liegt bei 59,3 %; der Fear-and-Greed-Index zeigt „extreme Angst“. Als Gründe nennen Marktberichte die über den Erwartungen liegende US-Inflation im Oktober, die gestiegenen Renditen und den Ausverkauf bei KI- und Technologiewerten.",
+     "title": "Bitcoin behauptet sich bei rund 65.000 $ – trotz Ausverkauf an der Nasdaq",
+     "text": "Um 21:35 Uhr MEZ notierte Bitcoin laut CoinDesk bei 65.073 $ und damit 0,1 % tiefer als 24 Stunden zuvor; am Nachmittag hatte der Kurs noch bei rund 64.200 $ gelegen. Ether stand laut CoinLore um 21:38 Uhr MEZ bei 1.819 $ (minus 0,6 %, Tagesspanne 1.790 bis 1.853 $). Am Wochenende war Bitcoin bis auf rund 62.000 $ gefallen, den tiefsten Stand seit Juli; am Freitagabend hatte er noch bei gut 68.000 $ gelegen. Der Fear-and-Greed-Index steht bei 10 und damit im Bereich „extreme Angst“. Als Gründe für den Rutsch nennen Marktberichte die über den Erwartungen liegende US-Inflation im Oktober, die gestiegenen Renditen und den Ausverkauf bei KI- und Technologiewerten.",
      "source": "CoinDesk, 16.11.",
      "url": "https://www.coindesk.com/price/bitcoin",
-     "impact": "Der Kurs hält sich über dem Wochenendtief von rund 62.000 $, das Marktberichte als entscheidende Marke nach unten sehen. Der Tages-RSI von 24 gilt technisch als überverkauft, alle wichtigen gleitenden Durchschnitte liegen aber deutlich über dem Kurs."
+     "impact": "Bitcoin hat den neuerlichen Kursrutsch der Technologieaktien am Montag nicht mitgemacht und hält sich über dem Wochenendtief von rund 62.000 $. Über dem Kurs liegt der 200-Wochen-Durchschnitt bei rund 68.000 $, den Bitcoin am 14. November unterschritten hat."
     },
     {
      "tag": "Fed · Zinsen",
-     "title": "Um 18 Uhr spricht Fed-Chef Warsh – Zinserhöhung im Dezember voll eingepreist",
-     "text": "Fed-Chef Kevin Warsh eröffnet um 18 Uhr MEZ eine Konferenz der Notenbank in San Francisco zu Produktivität und Arbeitsmarkt, um 20:15 Uhr folgt Beth Hammack. Eine Erhöhung um 0,25 Punkte im Dezember ist laut Saxo Bank mehr als vollständig eingepreist, ein Schritt um 0,5 Punkte gilt als wenig wahrscheinlich; die Terminkurse deuten laut Unchained auf einen durchschnittlichen Leitzins von rund 4,07 % im Dezember nach derzeit 3,88 %. Hintergrund sind die US-Verbraucherpreise, die im Oktober um 0,4 % zum Vormonat stiegen (Kernrate 0,3 %), jeweils ein Zehntel mehr als erwartet. Die zehnjährige US-Rendite lag am Nachmittag bei 5,13 % nach 5,15 % zum Wochenschluss und 4,88 % am 9. November; der Euro fiel am Morgen auf 1,1012 $.",
-     "source": "Saxo Bank, 16.11.",
-     "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026",
-     "impact": "Steigende Renditen und ein starker Dollar belasten zinslose Anlagen wie Bitcoin. Die Warsh-Rede ist der erste Termin der Woche, an dem sich die Zinserwartungen verschieben können; es folgen am Dienstag die US-Einzelhandelsumsätze und am Mittwoch das Protokoll der Oktober-Sitzung."
+     "title": "Warsh spricht über KI und schweigt zum Zins – Erhöhung im Dezember bleibt eingepreist",
+     "text": "Fed-Chef Kevin Warsh hat am Montag eine Konferenz der Notenbank in San Francisco eröffnet und drei Szenarien skizziert, die der Fed-Stab durchrechnet: einen Produktivitätsschub durch künstliche Intelligenz, steigende Arbeitslosigkeit durch Automatisierung oder enttäuschte Renditeerwartungen mit fallenden Aktienkursen und Abschwung. Er nannte sie Anschauungsbeispiele, keine Prognosen; zu Inflation und Zinskurs äußerte er sich nicht. Das FedWatch-Barometer der CME zeigte laut Reuters eine Wahrscheinlichkeit von 93,7 % für eine Erhöhung um 0,25 Punkte am 9. Dezember. Hintergrund sind die US-Verbraucherpreise, die im Oktober um 0,4 % zum Vormonat stiegen (Kernrate 0,3 %), jeweils ein Zehntel mehr als erwartet. Die zehnjährige US-Rendite lag am Abend bei rund 5,13 % nach 5,15 % zum Wochenschluss.",
+     "source": "KSTP/AP, 16.11.",
+     "url": "https://kstp.com/kstp-news/business-news/fed-chairman-warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk/",
+     "impact": "Die Rede hat die Zinserwartungen nicht verschoben; der Zinsdruck auf zinslose Anlagen wie Bitcoin bleibt damit bestehen. Die nächsten Termine mit Einfluss sind die US-Einzelhandelsumsätze am Dienstag und das Protokoll der Oktober-Sitzung am Mittwoch."
+    },
+    {
+     "tag": "Tech · Aktien",
+     "title": "Nasdaq rutscht um mehr als 2 % ab – Nvidia verliert vor den Quartalszahlen gut 4 %",
+     "text": "Die Wall Street hat am Montag deutlich nachgegeben: Im späten Handel lag der Nasdaq Composite laut Reuters 2,30 % im Minus bei 24.557 Punkten und damit mehr als 10 % unter seinem Rekordschluss vom 6. Oktober, der S&P 500 verlor 1,78 %, der Dow Jones 1,26 %; die Schlusskurse standen bei Redaktionsschluss noch aus. Nvidia fiel um gut 4 %, nachdem CNBC berichtet hatte, der Verwaltungsrat erwäge keine Rückkehr des zurückgetretenen Mitgründers Jensen Huang; der Halbleiterindex der Börse Philadelphia gab 4,6 % nach, das Angstbarometer VIX stieg laut Yahoo Finance auf rund 22. Zusätzlich belastete eine neue US-Regel, die den Zugang zu Hochleistungschips über Rechenzentren im Ausland beschränkt. Die Aktie des Bitcoin-Halters Strategy verlor zur Handelsmitte rund 7 %. Nvidia legt am Dienstag nach US-Börsenschluss Zahlen vor; Analysten erwarten rund 109 Mrd. $ Umsatz.",
+     "source": "Korea Times/Reuters, 16.11.",
+     "url": "https://www.koreatimes.co.kr/world/20261117/nasdaq-sp-500-fall-over-1-in-run-up-to-nvidia-results-anthropic-debut",
+     "impact": "Der Kryptomarkt hatte sich zuletzt an der Risikostimmung der Nasdaq orientiert. Die Nvidia-Zahlen am Dienstagabend und der Anthropic-Börsengang am Donnerstag sind die nächsten Belastungsproben für diese Stimmung."
     },
     {
      "tag": "ETF-Flüsse",
      "title": "Bitcoin-ETFs: sieben Handelstage mit Abflüssen, rund 1,9 Mrd. $ seit 5. November",
-     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Freitag, 13. November, den siebten Handelstag in Folge mit Nettoabflüssen: 185,5 Mio. $, davon 143,5 Mio. $ aus BlackRocks IBIT. Seit dem 5. November flossen laut Unchained rund 1,9 Mrd. $ ab; für die Vorwoche nennt die Saxo Bank etwa 1,07 Mrd. $. In den 24 Stunden bis Freitagmorgen wurden laut CoinGlass Positionen im Umfang von rund 1,65 Mrd. $ zwangsweise aufgelöst, zu 88,9 % Wetten auf steigende Kurse; beim Rutsch am Samstag kamen laut Saxo Bank etwa 2 Mrd. $ hinzu. Die IBIT-Aktie lag am Montag vorbörslich 3,5 % im Minus.",
-     "source": "Unchained, 16.11.",
-     "url": "https://unchainedcrypto.com/bitcoin-hovers-near-64200-after-sliding-to-about-62000-over-the-weekend/",
-     "impact": "Die institutionelle Nachfrage aus den USA fehlt weiterhin. Die ETF-Daten vom Montag liegen in der Nacht zum Dienstag vor und zeigen, ob die Abflussserie anhält."
-    },
-    {
-     "tag": "Tech · Aktien",
-     "title": "Wall Street eröffnet schwächer: Nasdaq gut 1 % im Minus, Chipwerte unter Druck vor Nvidia-Zahlen",
-     "text": "Zum Handelsstart am Montag fiel der Nasdaq Composite laut Reuters um 1,13 % auf 24.853 Punkte, der S&P 500 um 0,63 % auf 7.514 und der Dow Jones um 0,15 %; im frühen Handel weitete der Nasdaq das Minus laut Yahoo Finance auf 1,3 % aus, das Angstbarometer VIX stieg über 20. Nvidia verlor rund 2,5 %, AMD gut 5 %, Micron und Marvell jeweils rund 7 %. Die Nvidia-Aktie hat binnen fünf Handelstagen fast 13 % eingebüßt; am Dienstag nach US-Börsenschluss legt der Konzern erstmals ohne Mitgründer Jensen Huang Quartalszahlen vor. In Asien hatten der Kospi 3,6 % und der Nikkei 2,4 % verloren. Der Indexanbieter MSCI nimmt Unternehmen mit Krypto-Bestand, allen voran Strategy, Ende November aus seinen Indizes; Anthropic will am Mittwoch den Preis für seinen Börsengang festlegen.",
-     "source": "Investing.com/Reuters, 16.11.",
-     "url": "https://www.investing.com/news/stock-market-news/nasdaq-falls-1-at-open-as-nvidia-woesweigh-on-sentiment-ahead-of-earnings-5030288",
-     "impact": "Der Kryptomarkt hat sich zuletzt an der Risikostimmung der Nasdaq orientiert; der schwache Chipsektor und die Nvidia-Zahlen am Dienstagabend wirken deshalb unmittelbar auf die Kurse."
-    },
-    {
-     "tag": "Termin",
-     "title": "Mo 16.11.: Rede von Fed-Chef Warsh",
-     "text": "18:00 Uhr MEZ, Eröffnung einer Fed-Konferenz in San Francisco. Dazu Fed-Rede von Hammack (20:15 Uhr) und Länderspiel Deutschland–Niederlande (20:45 Uhr, Olympiastadion).",
-     "source": "",
-     "url": ""
+     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Freitag, 13. November, den siebten Handelstag in Folge mit Nettoabflüssen: 185,4 Mio. $, davon 143,5 Mio. $ aus BlackRocks IBIT und 41,9 Mio. $ aus Fidelitys FBTC. Seit dem 5. November summieren sich die Abflüsse auf rund 1,91 Mrd. $, in der Woche vom 9. bis 13. November waren es laut Farside rund 1,07 Mrd. $. Aus Ether-Fonds flossen in derselben Woche 398,9 Mio. $ ab, aus allen in den USA gelisteten Krypto-ETFs zusammen 1,53 Mrd. $. Am Wochenende wurden zudem gehebelte Positionen im Umfang von rund 2 Mrd. $ zwangsweise aufgelöst, überwiegend Wetten auf steigende Kurse.",
+     "source": "BitcoinWorld, 16.11.",
+     "url": "https://bitcoinworld.co.in/bitcoin-recovery-etf-outflows-november-2026/",
+     "impact": "Die institutionelle Nachfrage aus den USA fehlt weiterhin. Die ETF-Daten vom Montag werden am Dienstagmorgen erwartet und zeigen, ob die Abflussserie anhält."
     },
     {
      "tag": "Termin",
      "title": "Di 17.11.: Koalitionsausschuss zur Stromsteuer",
-     "text": "Dazu Treffen der Ramstein-Gruppe, US-Einzelhandelsumsätze und US-Industrieproduktion für Oktober, Nvidia-Quartalszahlen nach US-Börsenschluss, US-Rohöllagerdaten des API (22:30 Uhr MEZ).",
+     "text": "Dazu Treffen der Ramstein-Gruppe, US-Einzelhandelsumsätze für Oktober (14:30 Uhr MEZ), Nvidia-Quartalszahlen nach US-Börsenschluss (gegen 22:20 Uhr MEZ) und Nachtsperrung der A100 Richtung Wedding ab 22 Uhr.",
      "source": "",
      "url": ""
     },
     {
      "tag": "Termin",
      "title": "Mi 18.11.: Protokoll der Fed-Sitzung vom Oktober",
-     "text": "Hinweise auf den Zinsschritt im Dezember, 20:00 Uhr MEZ. Dazu US-Baubeginne für Oktober, Beginn des Apec-Gipfels in Shenzhen und Preisfestlegung beim Anthropic-Börsengang.",
+     "text": "Hinweise auf den Zinsschritt im Dezember, 20:00 Uhr MEZ. Dazu Vorschlag der EU-Kommission für einen Ukraine-Kredit über 45 Mrd. Euro und Preisfestlegung beim Anthropic-Börsengang.",
      "source": "",
      "url": ""
     },
     {
      "tag": "Termin",
      "title": "Do 19.11.: Treffen von Trump, Putin und Xi",
-     "text": "Am Rande des Apec-Gipfels in Shenzhen. Dazu Koalition der Willigen mit Kanzler Merz in Berlin, erster Handelstag der Anthropic-Aktie an der Nasdaq und wöchentliche US-Arbeitslosenanträge.",
+     "text": "Am Rande des Apec-Gipfels in Shenzhen. Dazu Koalition der Willigen mit Kanzler Merz in Berlin und erster Handelstag der Anthropic-Aktie.",
      "source": "",
      "url": ""
     },
     {
      "tag": "Termin",
      "title": "Fr 20.11.: Verfall von Bitcoin-Optionen auf Deribit",
-     "text": "Rund 28.300 BTC, 9:00 Uhr MEZ. Dazu US-Verbraucherstimmung der Universität Michigan (16:00 Uhr MEZ), deutsch-ukrainisches Wirtschaftsforum und Großdemo von „Gen Z regelt“ in Berlin.",
+     "text": "Rund 28.300 BTC, 9:00 Uhr MEZ. Dazu US-Verbraucherstimmung der Universität Michigan (16:00 Uhr MEZ) und Großdemo von „Gen Z regelt“ in Berlin.",
      "source": "",
      "url": ""
     },

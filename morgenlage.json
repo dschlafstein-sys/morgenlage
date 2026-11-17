@@ -1,18 +1,18 @@
 {
  "date": "Dienstag, 17. November 2026",
- "stand": "01:48",
+ "stand": "06:44",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "65.293 $",
-   "change": "+0,2 % · 24 h",
+   "value": "64.893 $",
+   "change": "+0,4 % · 24 h",
    "dir": "up"
   },
   {
    "label": "Ether",
-   "value": "1.824 $",
-   "change": "+0,9 % · 24 h",
+   "value": "1.837 $",
+   "change": "+1,2 % · 24 h",
    "dir": "up"
   },
   {
@@ -23,15 +23,15 @@
   },
   {
    "label": "US-Rendite 10 Jahre",
-   "value": "5,12 %",
-   "change": "−0,03 Punkte zum Freitag",
+   "value": "5,13 %",
+   "change": "−0,02 Punkte zum Freitag",
    "dir": "warn"
   }
  ],
  "brief": [
-  "Märkte: Die Wall Street hat am Montag deutlich im Minus geschlossen: Der Nasdaq verlor 2,49 % auf 24.509,76 Punkte, der S&P 500 1,92 %, der Dow Jones 1,41 %; Nvidia gab vor den Quartalszahlen am heutigen Dienstagabend 4,12 % nach. Bitcoin hält sich mit rund 65.290 $ (plus 0,2 % in 24 Stunden) über dem Wochenendtief, Ether steht bei rund 1.820 $. Eine Zinserhöhung der Fed im Dezember bleibt am Markt fast vollständig eingepreist; heute folgen die US-Einzelhandelsumsätze.",
-  "Ukraine, Nahost und Weltpolitik: Russische Raketen haben in der Nacht nach vorläufigen Angaben von Bürgermeister Klitschko die Nord- und die Südbrücke über den Dnipro in Kiew getroffen, in mehreren Stadtteilen fielen Fernwärme und Wasser aus; die Krim-Brücke ist nach einem erneuten ukrainischen Angriff gesperrt. Heute tagt die Ramstein-Gruppe in Brüssel. Brent-Öl schloss trotz der Tankerbrände in der Straße von Hormus 3,6 % tiefer bei 92,44 $. Am Donnerstag treffen sich Trump, Putin und Xi in Shenzhen.",
-  "Bund und Berlin: Der Koalitionsausschuss soll heute die Senkung der Stromsteuer für alle ab 2027 beschließen; wie die rund 5,4 Milliarden Euro gegenfinanziert werden, ist offen. Die deutsche Nationalmannschaft hat die Niederlande im ausverkauften Olympiastadion 5:0 geschlagen und steht im Viertelfinale der Nations League. In Berlin gelten heute neue Baustellen auf der Greifswalder Straße, abends S-Bahn-Ersatzverkehr im Südosten und ab 22 Uhr eine Nachtsperrung der A100 Richtung Wedding."
+  "Märkte: Der Ausverkauf bei Technologiewerten hat am Dienstagmorgen Asien erfasst: Der Nikkei verlor 1,2 %, der Hang Seng 1,2 %, der Kospi 1,0 %, nachdem der Nasdaq am Montag 2,5 % und Nvidia 4,1 % abgegeben hatten. Die US-Futures zeigen sich stabil bis leicht fester; Nvidia legt heute nach US-Börsenschluss Zahlen vor. Bitcoin steht bei rund 64.890 $ (plus 0,4 % in 24 Stunden), Ether bei rund 1.840 $; eine Zinserhöhung der Fed im Dezember bleibt fast vollständig eingepreist.",
+  "Ukraine, Nahost und Weltpolitik: Russische Raketen haben in der Nacht nach vorläufigen Angaben von Bürgermeister Klitschko die Nord- und die Südbrücke über den Dnipro in Kiew getroffen, in mehreren Stadtteilen fielen Fernwärme und Wasser aus; Angaben zu Opfern gab es am Morgen noch nicht. Irans Marine meldet einen weiteren Tanker, der in der Straße von Hormus auf eine Mine gelaufen sei; Brent-Öl gab im asiatischen Handel dennoch weiter auf 91,66 $ nach. Trump ist nach Asien aufgebrochen, am Donnerstag trifft er Putin und Xi in Shenzhen.",
+  "Bund und Berlin: Der Koalitionsausschuss berät heute Abend über die Senkung der Stromsteuer für alle ab 2027, die kalte Progression und offene Rentenfragen; Finanzminister Klingbeil verlangt eine dauerhafte Gegenfinanzierung der rund 5,4 Milliarden Euro. In Berlin will der Vorstand der Linksfraktion ab 10 Uhr den Ausschlussantrag gegen die Abgeordnete Vanessa Emde auf den Weg bringen. Im Verkehr gelten heute die neue Baustelle auf der Greifswalder Straße, abends S-Bahn-Ersatzverkehr im Südosten und ab 22 Uhr die Nachtsperrung der A100 Richtung Wedding."
  ],
  "sections": [
   {
@@ -40,29 +40,29 @@
    "items": [
     {
      "tag": "Politik",
-     "title": "Stromsteuer: Koalitionsausschuss soll heute entscheiden – Finanzierung weiter offen",
-     "text": "Der Koalitionsausschuss von Union und SPD kommt am heutigen Dienstag zusammen. Kanzler Friedrich Merz hatte am Montag nach der CSU-Vorstandssitzung in München eine Einigung angekündigt: Die Stromsteuer soll 2027 für alle, auch für private Haushalte, auf das europäische Mindestmaß sinken. Wie die Entlastung gegenfinanziert wird, ist offen; sie kostet laut dpa rund 5,4 Milliarden Euro und ist im Haushalt 2027 bisher nicht eingeplant. Linken-Fraktionschefin Heidi Reichinnek verlangte in der Nacht einen konkreten Finanzierungsvorschlag und zusätzlich direkte Hilfen wie ein Klimageld. Mit Blick auf die Kandidatur von Hubertus Heil für den SPD-Vorsitz hatte Merz betont, der Koalitionsvertrag gelte unabhängig von Personen und werde nicht neu verhandelt.",
-     "source": "t-online/Reuters/dpa, 16.11.",
-     "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101531278/vor-dem-koalitionsausschuss-merz-kuendigt-stromsteuer-entscheidung-an.html"
+     "title": "Stromsteuer: Koalitionsausschuss tagt heute Abend – Klingbeil pocht auf Gegenfinanzierung",
+     "text": "Die Spitzen von Union und SPD kommen am Dienstagabend zum Koalitionsausschuss zusammen. Kanzler Friedrich Merz hat eine Einigung zugesagt: Die Stromsteuer soll 2027 für alle, auch für private Haushalte, auf das europäische Mindestmaß sinken; er rechnet mit kurzen Beratungen. Finanzminister Lars Klingbeil will eine Lösung, verlangt aber eine seriöse und dauerhafte Gegenfinanzierung; die Entlastung kostet laut dpa rund 5,4 Milliarden Euro, ein Finanzierungsplan fehlt bisher ebenso wie für den vollen Ausgleich der kalten Progression. Unions-Fraktionsvize Mathias Middelberg regte an, beides der Ausweitung der Mütterrente vorzuziehen, CSU-Chef Markus Söder lehnt es ab, das beschlossene Gesetz zurückzunehmen. DIW-Präsident Marcel Fratzscher rät von der Steuersenkung ab und nennt sie teuer. Auf der Tagesordnung stehen laut Merz auch die offenen Punkte der Rentenreform.",
+     "source": "Frankfurter Rundschau, 17.11.",
+     "url": "https://www.fr.de/politik/koalitionsausschuss-streit-um-stromsteuer-und-finanzen-zr-94593647.html"
+    },
+    {
+     "tag": "Wirtschaft · Gründer",
+     "title": "So viele Firmengründungen wie seit elf Jahren nicht mehr",
+     "text": "Der Bundesverband der Volksbanken und Raiffeisenbanken rechnet für 2026 mit rund 286.000 neu gegründeten Unternehmen, 3,4 Prozent mehr als im Vorjahr und so viele wie seit 2015 nicht mehr; 2023 waren es noch etwa 230.000. Gegründet wird vor allem in Handel, Verkehr und Gastgewerbe sowie bei wirtschaftsnahen Dienstleistungen. Im KI-Bereich stieg die Zahl der Gründungen um etwa 35 Prozent, er macht aber nur einen kleinen Teil des Gesamtbilds aus.",
+     "source": "Onetz/dpa, 17.11.",
+     "url": "https://www.onetz.de/deutschland-welt/so-viele-firmengruendungen-seit-elf-jahren-mehr-id5565365.html"
     },
     {
      "tag": "Wirtschaft · Industrie",
      "title": "Stahlgipfel in Salzgitter endet ohne konkrete Beschlüsse",
-     "text": "Auf dem nationalen Stahlgipfel in Salzgitter verlangte ein Bündnis der Stahlhersteller einen verlässlichen, wettbewerbsfähigen Strompreis, wirksame Leitmärkte und Handelsschutz; verbindliche Zusagen der Bundesregierung meldet dpa nicht. Wirtschaftsministerin Katherina Reiche verwies darauf, dass es erstmals einen Industriestrompreis gebe, durchgesetzt gegen deutlichen Widerstand aus Brüssel. Niedersachsens Ministerpräsident Olaf Lies forderte, bei öffentlich geförderten Projekten auf europäischen Stahl zu setzen, sein nordrhein-westfälischer Kollege Hendrik Wüst warnte, ohne bessere Rahmenbedingungen werde in Deutschland irgendwann kein Stahl mehr produziert. Die IG Metall kritisierte widersprüchliche Signale aus Politik und Unternehmen. In der Stahlerzeugung arbeiten rund 80.000 Menschen; vor dem Treffen hatten nach Gewerkschaftsangaben mehr als 2.000 Beschäftigte demonstriert.",
+     "text": "Auf dem nationalen Stahlgipfel in Salzgitter verlangte ein Bündnis der Stahlhersteller am Montag einen verlässlichen, wettbewerbsfähigen Strompreis, wirksame Leitmärkte und Handelsschutz; verbindliche Zusagen der Bundesregierung meldet dpa nicht. Wirtschaftsministerin Katherina Reiche verwies darauf, dass es erstmals einen Industriestrompreis gebe. Niedersachsens Ministerpräsident Olaf Lies forderte, bei öffentlich geförderten Projekten auf europäischen Stahl zu setzen, sein nordrhein-westfälischer Kollege Hendrik Wüst warnte, ohne bessere Rahmenbedingungen werde in Deutschland irgendwann kein Stahl mehr produziert. In der Stahlerzeugung arbeiten rund 80.000 Menschen.",
      "source": "Handelsblatt/dpa, 16.11.",
      "url": "https://www.handelsblatt.com/politik/deutschland/branchengipfel-in-salzgitter-stahl-soll-zukunft-bleiben-aber-wie/100270254.html"
     },
     {
-     "tag": "Länder · Parteien",
-     "title": "Schwesig mit 39 Stimmen als Ministerpräsidentin wiedergewählt",
-     "text": "Der Landtag in Schwerin hat Manuela Schwesig am Montag in geheimer Wahl im Amt bestätigt: Sie erhielt 39 Stimmen bei 29 Gegenstimmen, nötig waren 36. Die Koalition aus SPD, Linken und Grünen hat 39 der 71 Sitze, einzige Oppositionsfraktion ist die AfD mit 32 Abgeordneten. In der SPD hoffen viele, dass Schwesig auch für den Parteivorsitz antritt; laut „Süddeutscher Zeitung“ könnte eine Erklärung am Donnerstagabend fallen, wenn sich die Parteispitze mit den Ministerpräsidenten trifft. Um den Vorsitz bewirbt sich bereits der frühere Arbeitsminister Hubertus Heil, gewählt wird am 16. und 17. Januar in Bremen.",
-     "source": "Salzburger Nachrichten/dpa, 16.11.",
-     "url": "https://www.sn.at/politik/weltpolitik/schwesig-wiedergewaehlt-und-wird-sie-auch-spd-co-chefin-art-684243"
-    },
-    {
      "tag": "Migration",
      "title": "Abschiebezentrum in Ruanda: Fünf Staaten beraten in Wien – Dänemark sieht Pläne „kurz vor dem Ziel“",
-     "text": "Innenminister Alexander Dobrindt hat am Montag in Wien mit Vertretern Österreichs, Griechenlands, Dänemarks und der Niederlande über ein Rückführungszentrum außerhalb der EU beraten; Diplomaten zufolge soll zunächst ein Pilotprojekt in Ruanda starten. Dänemarks Außenminister Lars Løkke Rasmussen sagte, die Pläne stünden kurz vor dem Ziel, und nannte Ruanda einen guten Standort. EU-Migrationskommissar Magnus Brunner verwies darauf, dass die irregulären Grenzübertritte in die EU binnen zwei Jahren um mehr als die Hälfte gesunken seien. In der SPD stößt das Vorhaben auf Widerstand, die Abgeordneten Rasha Nasr und Hakan Demir nennen es nicht abgestimmt. Eine unterzeichnete Vereinbarung ist bisher nicht bekannt.",
+     "text": "Innenminister Alexander Dobrindt hat am Montag in Wien mit Vertretern Österreichs, Griechenlands, Dänemarks und der Niederlande über ein Rückführungszentrum außerhalb der EU beraten; Diplomaten zufolge soll zunächst ein Pilotprojekt in Ruanda starten. Dänemarks Außenminister Lars Løkke Rasmussen sagte, die Pläne stünden kurz vor dem Ziel. In der SPD stößt das Vorhaben auf Widerstand, die Abgeordneten Rasha Nasr und Hakan Demir nennen es nicht abgestimmt. Eine unterzeichnete Vereinbarung ist bisher nicht bekannt.",
      "source": "Handelsblatt, 16.11.",
      "url": "https://www.handelsblatt.com/politik/deutschland/asylpolitik-dobrindts-ruanda-abschiebeplan-stoesst-auf-widerstand/100270115.html"
     }
@@ -73,11 +73,11 @@
    "title": "Berlin",
    "items": [
     {
-     "tag": "Länderspiel",
-     "title": "5:0 gegen die Niederlande: Deutschland zieht im Olympiastadion ins Viertelfinale ein",
-     "text": "Die deutsche Nationalmannschaft hat das Nations-League-Spiel gegen die Niederlande am Montagabend 5:0 gewonnen und steht damit im Viertelfinale. Vor 71.765 Zuschauern im ausverkauften Olympiastadion trafen unter anderem Derry Scherhant (41. Minute), Nico Schlotterbeck (65.), Florian Wirtz und Brajan Gruda. Vor dem Anpfiff waren niederländische Fans vom Theodor-Heuss-Platz zum Stadion gezogen; die Polizei zählte am frühen Abend rund 600 Teilnehmer, es wurde Pyrotechnik gezündet, sonst blieb es nach ihren Angaben zunächst ruhig. Eine Abschlussbilanz der Polizei lag in der Nacht noch nicht vor. Die Sperrungen rund um das Stadion waren bis Mitternacht angesetzt.",
-     "source": "Tagesspiegel, 16.11.",
-     "url": "https://www.tagesspiegel.de/sport/es-ist-zu-fruh-um-in-euphorie-zu-verfallen-deutsche-fans-feiern-den-fulminanten-sieg-uber-die-niederlande-16292530.html"
+     "tag": "Landespolitik",
+     "title": "Linksfraktion: Vorstand berät ab 10 Uhr über Ausschlussantrag gegen Emde",
+     "text": "Der Vorstand der Berliner Linksfraktion will sich am heutigen Dienstag in seiner Sitzung ab 10 Uhr auf einen Antrag verständigen, die Neuköllner Abgeordnete Vanessa Emde auszuschließen; am Nachmittag berät die Fraktion die weiteren Schritte. Nötig ist eine Zweidrittelmehrheit, abgestimmt werden kann wegen der Fristen frühestens am 24. November. Emde lehnt es ab, ihr Mandat zurückzugeben; ihr wird unter anderem vorgeworfen, das Existenzrecht Israels infrage zu stellen, von einer zunächst unterschriebenen Erklärung gegen Antisemitismus hatte sie sich wieder distanziert. Parallel berichten „Bild“ und „Welt“ über ein fünf Jahre altes Video, in dem die Linken-Politikerin Elif Eralp die Berliner Polizei ein „massives Sicherheitsrisiko“ nennt; die Polizeigewerkschaft kritisiert die Aussagen. Linke, Grüne und SPD verhandeln derzeit über eine Koalition.",
+     "source": "n-tv/dpa, 17.11.",
+     "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Linke-beraet-naechste-Schritte-Fraktionsausschluss-fuer-Emde-id31541372.html"
     },
     {
      "tag": "Verkehr · heute",
@@ -87,18 +87,18 @@
      "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
     },
     {
-     "tag": "Polizei",
-     "title": "Explosion vor Wohnhaus in Moabit: Polizei vermutet Kugelbombe",
-     "text": "In der Havelberger Straße in Moabit hat am Sonntagabend eine Explosion die Fenster mehrerer Wohnungen eines Hauses beschädigt. Zeugen berichteten laut Polizei, Unbekannte hätten womöglich einen Sprengkörper, vermutlich eine Kugelbombe, auf die Straße geworfen; die Ermittler halten auch einen selbstgebauten Sprengsatz für denkbar und gehen dem Verdacht eines Verstoßes gegen das Sprengstoffgesetz nach. Nach der Brandstiftung am Auto von Nius-Chefredakteur Julian Reichelt prüft der Staatsschutz weiter ein im Internet veröffentlichtes Bekennerschreiben, dessen Echtheit offen ist. In Schöneberg zog die Polizei am Montag laut rbb einen Tesla Cybertruck aus dem Verkehr, weil Papiere fehlten.",
-     "source": "rbb24, 16.11.",
-     "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-moabit-explosion-fenster-kaputt-wohnhaus.html"
+     "tag": "Polizei · BVG",
+     "title": "Achtjährige von BVG-Bus überrollt: Ermittlungen wegen Unfallflucht",
+     "text": "Nach dem Tod eines achtjährigen Mädchens an der Potsdamer Straße Ecke Lützowstraße ermittelt die Polizei gegen den 55 Jahre alten Fahrer eines BVG-Busses wegen des Verdachts der Verkehrsunfallflucht. Das Kind war am Samstag beim Anfahren an der Ampel mit dem Fahrrad ins Schlingern geraten, gestürzt und vom Bus überrollt worden; der Fahrer fuhr zunächst weiter und wurde an einer anderen Haltestelle gestoppt. Die BVG äußerte sich tief betroffen und unterstützt die Ermittlungen. In Moabit sucht die Polizei weiter nach den Verursachern einer Explosion vom Sonntagabend, die in der Havelberger Straße Fenster mehrerer Wohnungen beschädigte; vermutet wird eine Kugelbombe.",
+     "source": "Tagesschau/rbb, 16.11.",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-mitte-kind-bei-verkehrsunfall-mit-bus-toedlich-verletzt-100.html"
     },
     {
-     "tag": "Landespolitik",
-     "title": "Fall Emde belastet Koalitionsverhandlungen – Abstimmung über Ausschluss frühestens am 24. November",
-     "text": "Der Vorstand der Berliner Linksfraktion arbeitet an einem Antrag, die Neuköllner Abgeordnete Vanessa Emde auszuschließen; nötig ist eine Zweidrittelmehrheit, abgestimmt werden kann laut Satzung frühestens am 24. November. Emde will ihr Mandat behalten, Bodo Ramelow hatte ihr im ZDF nahegelegt, die Fraktion von sich aus zu verlassen. Linke, Grüne und SPD verhandeln in 14 Facharbeitsgruppen mit rund 300 Beteiligten; erste Ergebnisse sollen bis Ende November vorliegen, der Koalitionsvertrag Anfang Januar stehen. Die Berliner SPD lädt ihre Mitglieder noch bis 18. November zu nicht öffentlichen Dialogrunden ein.",
-     "source": "Tagesspiegel Liveblog, 16.11.",
-     "url": "https://www.tagesspiegel.de/berlin/liveblog/jedes-vertrauen-zerstort-ramelow-fordert-austritt-von-vanessa-emde-aus-berliner-linksfraktion-16053722.html"
+     "tag": "Länderspiel",
+     "title": "5:0 gegen die Niederlande: Deutschland zieht im Olympiastadion ins Viertelfinale ein",
+     "text": "Die deutsche Nationalmannschaft hat das Nations-League-Spiel gegen die Niederlande am Montagabend 5:0 gewonnen und steht im Viertelfinale. Vor 71.765 Zuschauern im ausverkauften Olympiastadion trafen unter anderem Derry Scherhant, Nico Schlotterbeck, Florian Wirtz und Brajan Gruda. Vor dem Anpfiff waren nach Polizeiangaben rund 600 niederländische Fans vom Theodor-Heuss-Platz zum Stadion gezogen; es wurde Pyrotechnik gezündet, sonst blieb es zunächst ruhig.",
+     "source": "Tagesspiegel, 16.11.",
+     "url": "https://www.tagesspiegel.de/sport/es-ist-zu-fruh-um-in-euphorie-zu-verfallen-deutsche-fans-feiern-den-fulminanten-sieg-uber-die-niederlande-16292530.html"
     }
    ]
   },
@@ -107,25 +107,25 @@
    "title": "Welt",
    "items": [
     {
-     "tag": "Iran",
-     "title": "Straße von Hormus: Sechs Tanker laut Iran in Brand – Brent schließt trotzdem 3,6 % tiefer",
-     "text": "Die Marine der Revolutionsgarden spricht von sechs Tankern, die am Sonntag und Montag in der Straße von Hormus in Brand geraten seien; Reuters konnte das nicht unabhängig prüfen. Die britische Seefahrtsbehörde UKMTO meldete am Montag einen Tanker, der bei der Ausfahrt von einem unbekannten Geschoss getroffen wurde, das Feuer im Maschinenraum forderte keine Opfer. Brent-Öl schloss dennoch 3,40 $ oder 3,6 % tiefer bei 92,44 $, US-Öl der Sorte WTI bei 85,72 $: Die Internationale Energieagentur erwartet für das vierte Quartal ein Angebot von 105 Millionen Barrel pro Tag, 1,7 Millionen mehr als die Nachfrage, und die Lieferungen aus der Region erholen sich. Mit der „USS Theodore Roosevelt“ ist ein dritter US-Flugzeugträger im Arabischen Meer; die Gespräche zwischen Washington und Teheran stocken laut ABC News weiter.",
-     "source": "rallies.ai/Reuters, 16.11.",
-     "url": "https://rallies.ai/news/oil-settles-lower-as-recovering-middle-east-exports-bolster-surplus-outlook-ae7928db1c064e7a"
-    },
-    {
      "tag": "Ukraine",
      "title": "Russische Raketen treffen zwei Dnipro-Brücken in Kiew – Krim-Brücke erneut gesperrt",
-     "text": "Russland hat Kiew in der Nacht zu Dienstag mit ballistischen Raketen angegriffen. Nach vorläufigen Angaben von Bürgermeister Vitali Klitschko wurden die Nord- und die Südbrücke über den Dnipro getroffen; kritische Infrastruktur sei beschädigt, in mehreren Stadtteilen fielen Fernwärme und Wasser aus. Angaben zu Opfern und zur Zahl der Raketen gab es zunächst nicht. Beschossen wurden auch Charkiw, Dnipro, Saporischschja, wo eine Industrieanlage getroffen wurde, und Smila. Auf der Krim meldete der von Moskau eingesetzte Verwaltungschef Aksjonow einen neuen ukrainischen Angriff auf die Brücke zum russischen Festland, der Verkehr ruht; Moskaus Bürgermeister sprach von mehr als 200 abgeschossenen Drohnen. Am Dienstag tagt die Ramstein-Gruppe im Nato-Hauptquartier in Brüssel. Die EU-Außenminister hatten am Montag 12 Personen und 101 Organisationen neu sanktioniert.",
-     "source": "VOL.AT/APA, 17.11.",
-     "url": "https://www.vol.at/zwei-bruecken-in-kiew-von-raketen-getroffen/11251259"
+     "text": "Russland hat Kiew in der Nacht zu Dienstag erneut mit Raketen angegriffen. Nach vorläufigen Angaben von Bürgermeister Vitali Klitschko wurden die Nord- und die Südbrücke über den Dnipro getroffen; kritische Infrastruktur sei beschädigt, in mehreren Stadtbezirken fielen Fernwärme und Wasser aus. Schon frühere Schäden an Straßen- und U-Bahn-Brücken belasten den Verkehr in der Dreimillionenstadt erheblich. Beschossen wurden auch Charkiw, Dnipro, Saporischschja, wo ein Industrieobjekt getroffen wurde, und Smila; Angaben zu Opfern lagen am Morgen noch nicht vor. Auf der Krim meldete der von Moskau eingesetzte Verwaltungschef Aksjonow neue ukrainische Angriffe auf die Brücke zum russischen Festland, sie ist wieder gesperrt; Moskaus Bürgermeister sprach von mehr als 200 abgewehrten Drohnen. Am Dienstag tagt die Ramstein-Gruppe im Nato-Hauptquartier in Brüssel.",
+     "source": "boerse.de/dpa-AFX, 17.11.",
+     "url": "https://www.boerse.de/nachrichten/Klitschko-Zwei-Bruecken-in-Kiew-von-russischen-Raketen-getroffen/38723635"
+    },
+    {
+     "tag": "Iran",
+     "title": "Straße von Hormus: Irans Marine meldet weiteren Tanker auf Mine – Öl gibt trotzdem nach",
+     "text": "Die iranische Marine meldete in der Nacht einen weiteren Tanker, der im Osten der Straße von Hormus auf eine Seemine gelaufen und in Brand geraten sei; er sei mit abgeschalteten Navigationssystemen durch eine Sperrzone gefahren. Teheran warnt Reedereien, das Gebiet ohne Abstimmung mit den iranischen Streitkräften zu befahren; die Revolutionsgarden sprechen von sechs getroffenen Tankern binnen zwei Tagen, unabhängig bestätigt ist das nicht. Die britische Seefahrtsbehörde UKMTO meldete einen Angriff auf einen Tanker sieben Seemeilen vor Khasab in Oman, die Besatzung ist wohlauf. Die Revolutionsgarden geben zudem an, nahe der Meerenge eine US-Drohne erbeutet zu haben. Brent-Öl, am Montag 3,6 % tiefer bei 92,44 $ geschlossen, gab im asiatischen Handel weitere 0,8 % auf 91,66 $ nach, US-Öl kostete 85,01 $.",
+     "source": "Economic Times, 17.11.",
+     "url": "https://m.economictimes.com/news/defence/fourth-oil-tanker-catches-fire-in-hormuz-after-hitting-naval-mine-says-iranian-navy/articleshow/135907174.cms"
     },
     {
      "tag": "USA · China · Russland",
-     "title": "Dreiertreffen von Trump, Putin und Xi am Donnerstag in Shenzhen",
-     "text": "Xi Jinping, Donald Trump und Wladimir Putin wollen am Donnerstag am Rande des Apec-Gipfels in Shenzhen zusammenkommen; das Weiße Haus, der Kreml und seit Montag auch Peking haben den Termin bestätigt. Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Im Mittelpunkt stehen nukleare Rüstungskontrolle und der Iran-Krieg; eine Einigung wird nach US-Angaben nicht erwartet, die Ukraine will Trump laut Bloomberg nicht ansprechen. Vor dem Treffen hat die US-Regierung zudem eine Regel erlassen, die Chinas Zugang zu den leistungsfähigsten KI-Chips weiter einschränkt.",
-     "source": "South China Morning Post, 16.11.",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3374523/china-us-russia-trilateral-set-thursday-beijing"
+     "title": "Trump auf dem Weg nach Asien – Dreiertreffen mit Putin und Xi am Donnerstag in Shenzhen",
+     "text": "US-Präsident Donald Trump ist am Montag nach Asien aufgebrochen. Am Donnerstag trifft er in Shenzhen am Rande des Apec-Gipfels zunächst Xi Jinping und dann gemeinsam mit ihm Wladimir Putin, es ist das erste Dreiertreffen der Staatschefs der USA, Chinas und Russlands. Das Weiße Haus nennt als Themen die Verringerung der Atomwaffenarsenale und ein Ende des Iran-Kriegs; ein US-Regierungsvertreter sagte, die Ukraine stehe nicht auf der Agenda, Trump selbst kündigte bei der Abreise an, auch darüber zu sprechen. Die Ukraine verlangt, beteiligt zu werden, wenn über ihre Zukunft verhandelt wird. Die Apec-Woche beginnt am heutigen Dienstag mit dem Treffen der Unternehmenschefs; Trump hält auch eine Begegnung mit Nordkoreas Machthaber Kim Jong-un für möglich.",
+     "source": "The Well News, 16.11.",
+     "url": "https://www.thewellnews.com/white-house/whats-on-the-table-when-trump-meets-xi-and-putin-in-shenzhen/"
     },
     {
      "tag": "Israel",
@@ -149,40 +149,40 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin hält sich bei rund 65.300 $ – auch nach dem schwachen Wall-Street-Schluss",
-     "text": "In der Nacht zu Dienstag notierte Bitcoin laut CoinGecko bei 65.293 $ und damit 0,2 % höher als 24 Stunden zuvor; die Spanne der letzten 24 Stunden reichte von 63.879 bis 65.502 $. Ether stand laut Bybit bei 1.824 $ (plus 0,9 %, Spanne 1.787 bis 1.858 $). Am Wochenende war Bitcoin bis auf rund 62.000 $ gefallen, den tiefsten Stand seit Juli; am Freitagabend hatte er noch bei gut 68.000 $ gelegen. Als Gründe für den Rutsch nennen Marktberichte die über den Erwartungen liegende US-Inflation im Oktober, die gestiegenen Renditen und den Ausverkauf bei KI- und Technologiewerten.",
+     "title": "Bitcoin pendelt um 65.000 $ – größte Optionsposition ist jetzt eine Absicherung bei 60.000 $",
+     "text": "Am Dienstagmorgen notierte Bitcoin laut CoinGecko bei 64.893 $ und damit 0,4 % höher als 24 Stunden zuvor; die Spanne der letzten 24 Stunden reichte von 63.879 bis 65.502 $. Ether stand bei 1.837 $ (plus 1,2 %, Spanne 1.787 bis 1.858 $). Am Wochenende war Bitcoin bis auf rund 62.000 $ gefallen, den tiefsten Stand seit Juli. Laut CoinDesk ist die Verkaufsoption mit Basispreis 60.000 $ inzwischen die größte Bitcoin-Optionsposition auf Deribit, mit rund 900 Mio. $ offenem Nominalvolumen; sie hat die lange dominierende Kaufoption bei 100.000 $ abgelöst. Der Analyst Nicolai Søndergaard nennt die Zone von 60.000 bis 62.600 $ den entscheidenden Test der kommenden Wochen.",
      "source": "CoinGecko, 17.11.",
      "url": "https://www.coingecko.com/en/coins/bitcoin",
-     "impact": "Bitcoin hat den Kursrutsch der Technologieaktien am Montag nicht mitgemacht und hält sich über dem Wochenendtief von rund 62.000 $. Über dem Kurs liegt der 200-Wochen-Durchschnitt bei rund 68.000 $, den Bitcoin am 14. November unterschritten hat."
-    },
-    {
-     "tag": "Fed · Zinsen",
-     "title": "Warsh spricht über KI und schweigt zum Zins – Erhöhung im Dezember bleibt eingepreist",
-     "text": "Fed-Chef Kevin Warsh hat am Montag eine Konferenz der Notenbank in San Francisco eröffnet und drei Szenarien skizziert, die der Fed-Stab durchrechnet: einen Produktivitätsschub durch künstliche Intelligenz, steigende Arbeitslosigkeit durch Automatisierung oder enttäuschte Renditeerwartungen mit fallenden Aktienkursen und Abschwung. Er nannte sie Anschauungsbeispiele, keine Prognosen; zu Inflation und Zinskurs äußerte er sich nicht. Das FedWatch-Barometer der CME zeigte laut Reuters eine Wahrscheinlichkeit von 93,7 % für eine Erhöhung um 0,25 Punkte am 9. Dezember. Hintergrund sind die US-Verbraucherpreise, die im Oktober um 0,4 % zum Vormonat stiegen (Kernrate 0,3 %), jeweils ein Zehntel mehr als erwartet. Die zehnjährige US-Rendite schloss am Montag bei 5,12 % nach 5,15 % zum Wochenschluss.",
-     "source": "KSTP/AP, 16.11.",
-     "url": "https://kstp.com/kstp-news/business-news/fed-chairman-warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk/",
-     "impact": "Die Rede hat die Zinserwartungen nicht verschoben; der Zinsdruck auf zinslose Anlagen wie Bitcoin bleibt damit bestehen. Die nächsten Termine mit Einfluss sind die US-Einzelhandelsumsätze am Dienstag und das Protokoll der Oktober-Sitzung am Mittwoch."
+     "impact": "Der Kurs hält sich über dem Wochenendtief, die Optionspositionen zeigen aber, dass sich der Markt gegen einen Fall unter 60.000 $ absichert. Über dem Kurs liegen der 200-Wochen-Durchschnitt bei rund 68.000 $ und der 200-Tage-Durchschnitt bei rund 73.000 $."
     },
     {
      "tag": "Tech · Aktien",
-     "title": "Wall Street schließt tiefrot: Nasdaq minus 2,5 %, Nvidia verliert vor den Zahlen 4,1 %",
-     "text": "Die US-Börsen haben am Montag deutlich nachgegeben: Der Nasdaq Composite schloss 2,49 % tiefer bei 24.509,76 Punkten, der S&P 500 verlor 1,92 % auf 7.416,59 und der Dow Jones 1,41 % auf 51.608,17 Punkte. Das Angstbarometer VIX stieg um knapp 19 % auf 22,91. Nvidia fiel um 4,12 % auf 156,14 $, nachdem CNBC berichtet hatte, der Verwaltungsrat erwäge keine Rückkehr des zurückgetretenen Mitgründers Jensen Huang; zusätzlich belastete eine neue US-Regel, die den Zugang zu Hochleistungschips über Rechenzentren im Ausland beschränkt. Nvidia legt am heutigen Dienstag nach US-Börsenschluss Zahlen vor, am Donnerstag folgt der erste Handelstag der Anthropic-Aktie; angeboten werden laut BitcoinWorld bis zu 825 Millionen Aktien zu je 70 bis 78 $.",
-     "source": "Yahoo Finance, 16.11.",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
-     "impact": "Der Kryptomarkt hatte sich zuletzt an der Risikostimmung der Nasdaq orientiert. Die Nvidia-Zahlen am Dienstagabend und der Anthropic-Börsengang am Donnerstag sind die nächsten Belastungsproben für diese Stimmung."
+     "title": "Asiens Börsen fallen den vierten Tag – Nvidia-Zahlen heute nach US-Börsenschluss",
+     "text": "Nach dem Kursrutsch an der Wall Street gaben am Dienstag auch die asiatischen Börsen nach: Der Nikkei verlor 1,2 % auf 58.956,67 Punkte, der Hang Seng 1,2 %, der Kospi 1,0 % auf 5.051,93 und der australische S&P/ASX 200 1,5 %; SoftBank fiel um 6,2 %. Laut Bloomberg ist es der vierte Verlusttag in Folge für die Region, der MSCI Asia Pacific lag 1,1 % im Minus. Am Montag hatten der Nasdaq Composite 2,49 %, der S&P 500 1,92 % und der Dow Jones 1,41 % verloren, ein Index der Chipwerte 5,3 % und Nvidia 4,1 %; belastet haben neue US-Beschränkungen für Chinas Zugang zu KI-Chips und Servern. Die Futures auf den S&P 500 waren am Morgen kaum verändert, die auf den Nasdaq 100 lagen 0,5 % im Plus. Nvidia legt am heutigen Dienstag nach US-Börsenschluss Zahlen vor, die Interimschefin Colette Kress leitet die Telefonkonferenz; am Donnerstag folgt der erste Handelstag der Anthropic-Aktie.",
+     "source": "Yahoo Finance/AP, 17.11.",
+     "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-decline-following-stocks-040148315.html",
+     "impact": "Der Kryptomarkt hatte sich zuletzt an der Risikostimmung der Technologieaktien orientiert. Die Nvidia-Zahlen am Dienstagabend und der Anthropic-Börsengang am Donnerstag sind die nächsten Belastungsproben für diese Stimmung."
+    },
+    {
+     "tag": "Fed · Zinsen",
+     "title": "Zinserhöhung im Dezember bleibt eingepreist – zehnjährige US-Rendite bei 5,13 %",
+     "text": "Fed-Chef Kevin Warsh hat am Montag eine Konferenz der Notenbank in San Francisco eröffnet und Szenarien zu den wirtschaftlichen Folgen künstlicher Intelligenz skizziert; zu Inflation und Zinskurs äußerte er sich nicht. Das FedWatch-Barometer der CME zeigte laut Reuters eine Wahrscheinlichkeit von 93,7 % für eine Erhöhung um 0,25 Punkte am 9. Dezember. Hintergrund sind die US-Verbraucherpreise, die im Oktober um 0,4 % zum Vormonat stiegen (Kernrate 0,3 %), jeweils ein Zehntel mehr als erwartet. Die zehnjährige US-Rendite ging laut AP am Montag auf 5,13 % zurück nach 5,15 % am Freitag; Anfang des Monats hatte sie noch bei 4,80 % gelegen. Der Dollar kostete am Morgen 159,35 Yen, der Euro 1,1003 $.",
+     "source": "KSTP/AP, 16.11.",
+     "url": "https://kstp.com/kstp-news/business-news/fed-chairman-warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk/",
+     "impact": "Die Zinserwartungen haben sich nicht verschoben; der Zinsdruck auf zinslose Anlagen wie Bitcoin bleibt bestehen. Die nächsten Termine mit Einfluss sind die US-Einzelhandelsumsätze am Dienstag und das Protokoll der Oktober-Sitzung am Mittwoch."
     },
     {
      "tag": "ETF-Flüsse",
      "title": "Bitcoin-ETFs: sieben Handelstage mit Abflüssen, rund 1,9 Mrd. $ seit 5. November",
-     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Freitag, 13. November, den siebten Handelstag in Folge mit Nettoabflüssen: 185,4 Mio. $, davon 143,5 Mio. $ aus BlackRocks IBIT und 41,9 Mio. $ aus Fidelitys FBTC. Seit dem 5. November summieren sich die Abflüsse auf rund 1,91 Mrd. $, in der Woche vom 9. bis 13. November waren es laut Farside rund 1,07 Mrd. $. Aus Ether-Fonds flossen in derselben Woche 398,9 Mio. $ ab, aus allen in den USA gelisteten Krypto-ETFs zusammen 1,53 Mrd. $. Am Wochenende wurden zudem gehebelte Positionen im Umfang von rund 2 Mrd. $ zwangsweise aufgelöst, überwiegend Wetten auf steigende Kurse.",
-     "source": "BitcoinWorld, 16.11.",
-     "url": "https://bitcoinworld.co.in/bitcoin-recovery-etf-outflows-november-2026/",
-     "impact": "Die institutionelle Nachfrage aus den USA fehlt weiterhin. Die ETF-Daten vom Montag lagen in der Nacht noch nicht vor und zeigen, ob die Abflussserie anhält."
+     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Freitag, 13. November, den siebten Handelstag in Folge mit Nettoabflüssen: 185,4 Mio. $, davon 143,5 Mio. $ aus BlackRocks IBIT und 41,9 Mio. $ aus Fidelitys FBTC. Seit dem 5. November summieren sich die Abflüsse auf rund 1,9 Mrd. $, in der Woche vom 9. bis 13. November waren es rund 1,07 Mrd. $ nach 1,28 Mrd. $ in der Woche davor. Laut CoinDesk liegt die Bilanz für 2026 damit bei netto rund 1,9 Mrd. $ Abflüssen, nach Zuflüssen von 21 Mrd. $ im Jahr 2025 und 35 Mrd. $ im Jahr 2024. Am Wochenende wurden zudem gehebelte Positionen im Umfang von gut 2 Mrd. $ zwangsweise aufgelöst.",
+     "source": "CoinDesk, 16.11.",
+     "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+     "impact": "Die institutionelle Nachfrage aus den USA fehlt weiterhin. Die ETF-Daten vom Montag lagen am Morgen noch nicht vor und zeigen, ob die Abflussserie anhält."
     },
     {
      "tag": "Termin",
      "title": "Di 17.11.: Koalitionsausschuss zur Stromsteuer",
-     "text": "Dazu Treffen der Ramstein-Gruppe in Brüssel, US-Einzelhandelsumsätze für Oktober (14:30 Uhr MEZ), Nvidia-Quartalszahlen nach US-Börsenschluss (gegen 22:20 Uhr MEZ) und Nachtsperrung der A100 Richtung Wedding ab 22 Uhr.",
+     "text": "Am Abend. Dazu Vorstand der Berliner Linksfraktion zum Fall Emde (10 Uhr), Treffen der Ramstein-Gruppe in Brüssel, US-Einzelhandelsumsätze für Oktober (14:30 Uhr MEZ), Nvidia-Quartalszahlen nach US-Börsenschluss (gegen 22:20 Uhr MEZ) und Nachtsperrung der A100 Richtung Wedding ab 22 Uhr.",
      "source": "",
      "url": ""
     },

@@ -1,19 +1,19 @@
 {
- "date": "Montag, 16. November 2026",
- "stand": "21:45",
+ "date": "Dienstag, 17. November 2026",
+ "stand": "01:48",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "65.073 $",
-   "change": "−0,1 % · 24 h",
-   "dir": "down"
+   "value": "65.293 $",
+   "change": "+0,2 % · 24 h",
+   "dir": "up"
   },
   {
    "label": "Ether",
-   "value": "1.819 $",
-   "change": "−0,6 % · 24 h",
-   "dir": "down"
+   "value": "1.824 $",
+   "change": "+0,9 % · 24 h",
+   "dir": "up"
   },
   {
    "label": "US-Leitzins (Fed)",
@@ -23,15 +23,15 @@
   },
   {
    "label": "US-Rendite 10 Jahre",
-   "value": "5,13 %",
-   "change": "knapp unter Freitag (5,15 %)",
+   "value": "5,12 %",
+   "change": "−0,03 Punkte zum Freitag",
    "dir": "warn"
   }
  ],
  "brief": [
-  "Märkte am Montagabend: Die Wall Street steht kurz vor Handelsschluss deutlich im Minus: Der Nasdaq verlor laut Reuters im späten Handel 2,3 % und liegt damit mehr als 10 % unter seinem Rekord von Anfang Oktober, Nvidia gab vor den Quartalszahlen am Dienstag gut 4 % nach. Bitcoin hält sich mit rund 65.070 $ (21:35 Uhr MEZ, minus 0,1 % in 24 Stunden) stabil, Ether steht bei rund 1.820 $. Fed-Chef Warsh sprach in San Francisco nur über künstliche Intelligenz und gab keinen Hinweis zum Zins; eine Erhöhung im Dezember bleibt am Markt fast vollständig eingepreist.",
-  "Nahost, Ukraine und Weltpolitik: Iran meldet seit Sonntag sechs durch Minen beschädigte Tanker in der Straße von Hormus, unabhängig bestätigt ist das nicht; der Ölpreis fiel trotzdem, weil die Internationale Energieagentur ein Überangebot erwartet. Die EU-Außenminister haben neue Sanktionen gegen 12 Personen und 101 Organisationen beschlossen, Russland meldet den Abschuss von 1.336 ukrainischen Drohnen in einer Nacht. Am Donnerstag treffen sich Trump, Putin und Xi in Shenzhen.",
-  "Bund und Berlin: Kanzler Merz hat angekündigt, dass der Koalitionsausschuss am Dienstag die Senkung der Stromsteuer für alle ab 2027 beschließt, und stellte klar, dass der Koalitionsvertrag unabhängig vom SPD-Personal gilt. Der Stahlgipfel in Salzgitter blieb ohne konkrete Beschlüsse, Manuela Schwesig wurde in Schwerin wiedergewählt. In Berlin führt Deutschland im Länderspiel gegen die Niederlande zur Pause 1:0; die Straßen rund um das Olympiastadion bleiben bis Mitternacht gesperrt."
+  "Märkte: Die Wall Street hat am Montag deutlich im Minus geschlossen: Der Nasdaq verlor 2,49 % auf 24.509,76 Punkte, der S&P 500 1,92 %, der Dow Jones 1,41 %; Nvidia gab vor den Quartalszahlen am heutigen Dienstagabend 4,12 % nach. Bitcoin hält sich mit rund 65.290 $ (plus 0,2 % in 24 Stunden) über dem Wochenendtief, Ether steht bei rund 1.820 $. Eine Zinserhöhung der Fed im Dezember bleibt am Markt fast vollständig eingepreist; heute folgen die US-Einzelhandelsumsätze.",
+  "Ukraine, Nahost und Weltpolitik: Russische Raketen haben in der Nacht nach vorläufigen Angaben von Bürgermeister Klitschko die Nord- und die Südbrücke über den Dnipro in Kiew getroffen, in mehreren Stadtteilen fielen Fernwärme und Wasser aus; die Krim-Brücke ist nach einem erneuten ukrainischen Angriff gesperrt. Heute tagt die Ramstein-Gruppe in Brüssel. Brent-Öl schloss trotz der Tankerbrände in der Straße von Hormus 3,6 % tiefer bei 92,44 $. Am Donnerstag treffen sich Trump, Putin und Xi in Shenzhen.",
+  "Bund und Berlin: Der Koalitionsausschuss soll heute die Senkung der Stromsteuer für alle ab 2027 beschließen; wie die rund 5,4 Milliarden Euro gegenfinanziert werden, ist offen. Die deutsche Nationalmannschaft hat die Niederlande im ausverkauften Olympiastadion 5:0 geschlagen und steht im Viertelfinale der Nations League. In Berlin gelten heute neue Baustellen auf der Greifswalder Straße, abends S-Bahn-Ersatzverkehr im Südosten und ab 22 Uhr eine Nachtsperrung der A100 Richtung Wedding."
  ],
  "sections": [
   {
@@ -40,8 +40,8 @@
    "items": [
     {
      "tag": "Politik",
-     "title": "Stromsteuer: Merz kündigt Einigung für Dienstag an – Koalitionsvertrag gilt „unabhängig von Personen“",
-     "text": "Kanzler Friedrich Merz sagte am Montag nach der CSU-Vorstandssitzung in München, der Koalitionsausschuss werde am Dienstag eine Einigung erzielen: Die Stromsteuer soll 2027 für alle, auch für private Haushalte, auf das europäische Mindestmaß sinken. Wie die Entlastung gegenfinanziert wird, ist offen; sie kostet laut dpa rund 5,4 Milliarden Euro und ist im Haushalt 2027 bisher nicht eingeplant. Mit Blick auf die Kandidatur von Hubertus Heil für den SPD-Vorsitz betonte Merz, der Koalitionsvertrag sei die Geschäftsgrundlage auch für die nächsten zwei Jahre und werde nicht neu verhandelt, jede Partei kläre ihre Personalfragen selbst. CSU-Chef Markus Söder warnte, ein Wechsel an der SPD-Spitze dürfe die geplanten Sozialreformen nicht aufhalten.",
+     "title": "Stromsteuer: Koalitionsausschuss soll heute entscheiden – Finanzierung weiter offen",
+     "text": "Der Koalitionsausschuss von Union und SPD kommt am heutigen Dienstag zusammen. Kanzler Friedrich Merz hatte am Montag nach der CSU-Vorstandssitzung in München eine Einigung angekündigt: Die Stromsteuer soll 2027 für alle, auch für private Haushalte, auf das europäische Mindestmaß sinken. Wie die Entlastung gegenfinanziert wird, ist offen; sie kostet laut dpa rund 5,4 Milliarden Euro und ist im Haushalt 2027 bisher nicht eingeplant. Linken-Fraktionschefin Heidi Reichinnek verlangte in der Nacht einen konkreten Finanzierungsvorschlag und zusätzlich direkte Hilfen wie ein Klimageld. Mit Blick auf die Kandidatur von Hubertus Heil für den SPD-Vorsitz hatte Merz betont, der Koalitionsvertrag gelte unabhängig von Personen und werde nicht neu verhandelt.",
      "source": "t-online/Reuters/dpa, 16.11.",
      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101531278/vor-dem-koalitionsausschuss-merz-kuendigt-stromsteuer-entscheidung-an.html"
     },
@@ -73,16 +73,16 @@
    "title": "Berlin",
    "items": [
     {
-     "tag": "Länderspiel · Verkehr",
-     "title": "Länderspiel im Olympiastadion: Deutschland führt zur Pause 1:0 – Sperrungen bis Mitternacht",
-     "text": "Im Nations-League-Spiel gegen die Niederlande führt die deutsche Mannschaft zur Halbzeit 1:0, das Tor erzielte Derry Scherhant in der 41. Minute. Vor dem Anpfiff zogen niederländische Fans vom Theodor-Heuss-Platz über Heerstraße und Flatowallee zum Stadion; die Polizei zählte gegen 18 Uhr rund 600 Teilnehmer und rechnet insgesamt mit mindestens 1.500 angereisten Gästefans. Es wurde Pyrotechnik gezündet, sonst blieb es laut Polizei zunächst ruhig; 600 Einsatzkräfte sind im Stadtgebiet unterwegs, unterstützt von Beamten aus den Niederlanden. Olympischer Platz, Trakehner Allee, Flatowallee, Coubertinplatz und der östliche Teil der Jesse-Owens-Allee bleiben bis Mitternacht gesperrt.",
+     "tag": "Länderspiel",
+     "title": "5:0 gegen die Niederlande: Deutschland zieht im Olympiastadion ins Viertelfinale ein",
+     "text": "Die deutsche Nationalmannschaft hat das Nations-League-Spiel gegen die Niederlande am Montagabend 5:0 gewonnen und steht damit im Viertelfinale. Vor 71.765 Zuschauern im ausverkauften Olympiastadion trafen unter anderem Derry Scherhant (41. Minute), Nico Schlotterbeck (65.), Florian Wirtz und Brajan Gruda. Vor dem Anpfiff waren niederländische Fans vom Theodor-Heuss-Platz zum Stadion gezogen; die Polizei zählte am frühen Abend rund 600 Teilnehmer, es wurde Pyrotechnik gezündet, sonst blieb es nach ihren Angaben zunächst ruhig. Eine Abschlussbilanz der Polizei lag in der Nacht noch nicht vor. Die Sperrungen rund um das Stadion waren bis Mitternacht angesetzt.",
      "source": "Tagesspiegel, 16.11.",
-     "url": "https://www.tagesspiegel.de/berlin/wir-sind-einfach-die-besten-fans-oranje-anhanger-hupfen-durch-berlin--und-verteilen-bierduschen-16292449.html"
+     "url": "https://www.tagesspiegel.de/sport/es-ist-zu-fruh-um-in-euphorie-zu-verfallen-deutsche-fans-feiern-den-fulminanten-sieg-uber-die-niederlande-16292530.html"
     },
     {
-     "tag": "Verkehr · Dienstag",
-     "title": "Ab Dienstag: Nachtsperrung auf der A100, Ersatzbusse bei der S-Bahn im Südosten",
-     "text": "Die Verkehrsinformationszentrale kündigt für Dienstag mehrere Einschränkungen an. Auf der A100 in Richtung Wedding wird in der Nacht zu Mittwoch zwischen 22 und 6 Uhr gesperrt, um die mobile Betonschutzwand abzubauen. Bei der S-Bahn fahren abends zwischen 21:30 und 1:30 Uhr zwischen Schöneweide und Grünau beziehungsweise Altglienicke Busse statt Bahnen, die S47 fällt aus. Auf der Greifswalder Straße in Prenzlauer Berg beginnen am Morgen Bauarbeiten; stadteinwärts bleibt zwischen Ostseestraße und Schieritzstraße bis Mitte 2027 nur ein Fahrstreifen. Am Kladower Damm regelt etwa einen Monat lang eine Baustellenampel den Verkehr.",
+     "tag": "Verkehr · heute",
+     "title": "Heute: Baustelle Greifswalder Straße, abends S-Bahn-Ersatzbusse, nachts A100 gesperrt",
+     "text": "Die Verkehrsinformationszentrale nennt für den heutigen Dienstag mehrere Einschränkungen. Auf der Greifswalder Straße in Prenzlauer Berg beginnen am Morgen Bauarbeiten; stadteinwärts bleibt zwischen Ostseestraße und Schieritzstraße bis Mitte 2027 nur ein Fahrstreifen. Bei der S-Bahn fahren abends zwischen 21:30 und 1:30 Uhr zwischen Schöneweide und Grünau beziehungsweise Altglienicke Busse statt Bahnen, die S47 fällt aus. Die A100 in Richtung Wedding wird in der Nacht zu Mittwoch zwischen 22 und 6 Uhr gesperrt, um die mobile Betonschutzwand abzubauen. Am Kladower Damm regelt etwa einen Monat lang eine Baustellenampel den Verkehr.",
      "source": "Verkehrsinformationszentrale Berlin, 16.11.",
      "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
     },
@@ -108,17 +108,17 @@
    "items": [
     {
      "tag": "Iran",
-     "title": "Straße von Hormus: Iran meldet weitere brennende Tanker – Ölpreis fällt trotzdem",
-     "text": "Irans Staatsfernsehen zufolge sind in der Nacht und am Montagmorgen drei Öltanker nach Minenkontakt in Brand geraten; die Marine der Revolutionsgarden spricht von sechs beschädigten Tankern seit Sonntag. Unabhängig bestätigt ist das nicht, Beobachter führen die meisten Treffer laut dpa eher auf Geschosse als auf Minen zurück. Die britische Seefahrtsbehörde UKMTO berichtet von einem weiteren Tanker, den ein unbekanntes Geschoss traf. Außenminister Araghtschi machte die USA und Israel für die Lage verantwortlich, Pakistan will weiter zwischen Washington und Teheran vermitteln; mit der „USS Theodore Roosevelt“ ist ein dritter US-Flugzeugträger in der Region. Brent-Öl verbilligte sich bis 15:44 Uhr dennoch um 2,4 % auf 93,55 $: Die Internationale Energieagentur erwartet für das vierte Quartal ein Überangebot, zudem haben Saudi-Arabien und die Emirate ihre Verkaufspreise gesenkt.",
-     "source": "taz Liveblog, 16.11.",
-     "url": "https://taz.de/-Nachrichten-im-Irankrieg-/!6230520/"
+     "title": "Straße von Hormus: Sechs Tanker laut Iran in Brand – Brent schließt trotzdem 3,6 % tiefer",
+     "text": "Die Marine der Revolutionsgarden spricht von sechs Tankern, die am Sonntag und Montag in der Straße von Hormus in Brand geraten seien; Reuters konnte das nicht unabhängig prüfen. Die britische Seefahrtsbehörde UKMTO meldete am Montag einen Tanker, der bei der Ausfahrt von einem unbekannten Geschoss getroffen wurde, das Feuer im Maschinenraum forderte keine Opfer. Brent-Öl schloss dennoch 3,40 $ oder 3,6 % tiefer bei 92,44 $, US-Öl der Sorte WTI bei 85,72 $: Die Internationale Energieagentur erwartet für das vierte Quartal ein Angebot von 105 Millionen Barrel pro Tag, 1,7 Millionen mehr als die Nachfrage, und die Lieferungen aus der Region erholen sich. Mit der „USS Theodore Roosevelt“ ist ein dritter US-Flugzeugträger im Arabischen Meer; die Gespräche zwischen Washington und Teheran stocken laut ABC News weiter.",
+     "source": "rallies.ai/Reuters, 16.11.",
+     "url": "https://rallies.ai/news/oil-settles-lower-as-recovering-middle-east-exports-bolster-surplus-outlook-ae7928db1c064e7a"
     },
     {
-     "tag": "Ukraine · EU",
-     "title": "EU verhängt neue Russland-Sanktionen – Moskau meldet 1.336 abgefangene Drohnen",
-     "text": "Die EU-Außenminister haben am Montag in Brüssel 12 Personen und 101 Organisationen auf die Sanktionsliste gesetzt, darunter Tatjana Kim, deren Onlineplattform Wildberries nach EU-Angaben das russische Militär mitversorgt. Die Außenbeauftragte Kaja Kallas, die dem neuen siebenköpfigen Verhandlungsteam der EU für mögliche Friedensgespräche nicht angehört, nannte Moskaus Forderungen absurd und verlangte zuerst eine Waffenruhe. Russlands Verteidigungsministerium meldete, in einer Nacht 1.336 ukrainische Drohnen abgefangen zu haben, rund 600 davon mit Ziel Region Moskau; der Verkehr auf der Krim-Brücke wurde nach einem Angriff eingeschränkt. Laut „Financial Times“ will die EU-Kommission am Mittwoch einen weiteren Kredit über 45 Milliarden Euro für die Ukraine vorschlagen. Am Dienstag tagt die Ramstein-Gruppe zur Flugabwehr.",
-     "source": "taz, 16.11.",
-     "url": "https://taz.de/Treffen-der-EU-Aussenminister/!6230422/"
+     "tag": "Ukraine",
+     "title": "Russische Raketen treffen zwei Dnipro-Brücken in Kiew – Krim-Brücke erneut gesperrt",
+     "text": "Russland hat Kiew in der Nacht zu Dienstag mit ballistischen Raketen angegriffen. Nach vorläufigen Angaben von Bürgermeister Vitali Klitschko wurden die Nord- und die Südbrücke über den Dnipro getroffen; kritische Infrastruktur sei beschädigt, in mehreren Stadtteilen fielen Fernwärme und Wasser aus. Angaben zu Opfern und zur Zahl der Raketen gab es zunächst nicht. Beschossen wurden auch Charkiw, Dnipro, Saporischschja, wo eine Industrieanlage getroffen wurde, und Smila. Auf der Krim meldete der von Moskau eingesetzte Verwaltungschef Aksjonow einen neuen ukrainischen Angriff auf die Brücke zum russischen Festland, der Verkehr ruht; Moskaus Bürgermeister sprach von mehr als 200 abgeschossenen Drohnen. Am Dienstag tagt die Ramstein-Gruppe im Nato-Hauptquartier in Brüssel. Die EU-Außenminister hatten am Montag 12 Personen und 101 Organisationen neu sanktioniert.",
+     "source": "VOL.AT/APA, 17.11.",
+     "url": "https://www.vol.at/zwei-bruecken-in-kiew-von-raketen-getroffen/11251259"
     },
     {
      "tag": "USA · China · Russland",
@@ -135,11 +135,11 @@
      "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling"
     },
     {
-     "tag": "Jemen",
-     "title": "Jemens Regierungstruppen räumen Stellungen am Bab al-Mandeb, um Aden zu sichern",
-     "text": "Die von Saudi-Arabien gestützten Regierungstruppen ziehen sich nach eigenen Angaben aus dem Gebiet am Bab al-Mandeb und von weiteren Küstenabschnitten zurück; Vorrang habe die Sicherung der Übergangshauptstadt Aden. Reuters wertet das als schweren Rückschlag für die saudische Kampagne gegen die mit Iran verbündeten Huthi, die einen Vormarsch auf Aden ankündigen. Die saudisch geführte Koalition meldete den Abschuss von zwei Drohnen und zwei ballistischen Raketen.",
-     "source": "Reuters, 15.11.",
-     "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+     "tag": "Jemen · Saudi-Arabien",
+     "title": "Jemen: Regierungstruppen räumen Bab al-Mandeb – Saudi-Arabien fängt Huthi-Drohnen ab",
+     "text": "Die von Saudi-Arabien gestützten Regierungstruppen haben sich nach eigenen Angaben aus dem Gebiet am Bab al-Mandeb und von weiteren Küstenabschnitten zurückgezogen, um die Übergangshauptstadt Aden zu sichern. Reuters wertet das als schweren Rückschlag für die saudische Kampagne gegen die mit Iran verbündeten Huthi, die einen Vormarsch auf Aden ankündigen. Am Montag fing Saudi-Arabien nach Angaben eines Koalitionssprechers zwei Huthi-Drohnen über den Regionen Mekka und Riad ab.",
+     "source": "ABC News Liveblog, 16.11.",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
     }
    ]
   },
@@ -149,26 +149,26 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin behauptet sich bei rund 65.000 $ – trotz Ausverkauf an der Nasdaq",
-     "text": "Um 21:35 Uhr MEZ notierte Bitcoin laut CoinDesk bei 65.073 $ und damit 0,1 % tiefer als 24 Stunden zuvor; am Nachmittag hatte der Kurs noch bei rund 64.200 $ gelegen. Ether stand laut CoinLore um 21:38 Uhr MEZ bei 1.819 $ (minus 0,6 %, Tagesspanne 1.790 bis 1.853 $). Am Wochenende war Bitcoin bis auf rund 62.000 $ gefallen, den tiefsten Stand seit Juli; am Freitagabend hatte er noch bei gut 68.000 $ gelegen. Der Fear-and-Greed-Index steht bei 10 und damit im Bereich „extreme Angst“. Als Gründe für den Rutsch nennen Marktberichte die über den Erwartungen liegende US-Inflation im Oktober, die gestiegenen Renditen und den Ausverkauf bei KI- und Technologiewerten.",
-     "source": "CoinDesk, 16.11.",
-     "url": "https://www.coindesk.com/price/bitcoin",
-     "impact": "Bitcoin hat den neuerlichen Kursrutsch der Technologieaktien am Montag nicht mitgemacht und hält sich über dem Wochenendtief von rund 62.000 $. Über dem Kurs liegt der 200-Wochen-Durchschnitt bei rund 68.000 $, den Bitcoin am 14. November unterschritten hat."
+     "title": "Bitcoin hält sich bei rund 65.300 $ – auch nach dem schwachen Wall-Street-Schluss",
+     "text": "In der Nacht zu Dienstag notierte Bitcoin laut CoinGecko bei 65.293 $ und damit 0,2 % höher als 24 Stunden zuvor; die Spanne der letzten 24 Stunden reichte von 63.879 bis 65.502 $. Ether stand laut Bybit bei 1.824 $ (plus 0,9 %, Spanne 1.787 bis 1.858 $). Am Wochenende war Bitcoin bis auf rund 62.000 $ gefallen, den tiefsten Stand seit Juli; am Freitagabend hatte er noch bei gut 68.000 $ gelegen. Als Gründe für den Rutsch nennen Marktberichte die über den Erwartungen liegende US-Inflation im Oktober, die gestiegenen Renditen und den Ausverkauf bei KI- und Technologiewerten.",
+     "source": "CoinGecko, 17.11.",
+     "url": "https://www.coingecko.com/en/coins/bitcoin",
+     "impact": "Bitcoin hat den Kursrutsch der Technologieaktien am Montag nicht mitgemacht und hält sich über dem Wochenendtief von rund 62.000 $. Über dem Kurs liegt der 200-Wochen-Durchschnitt bei rund 68.000 $, den Bitcoin am 14. November unterschritten hat."
     },
     {
      "tag": "Fed · Zinsen",
      "title": "Warsh spricht über KI und schweigt zum Zins – Erhöhung im Dezember bleibt eingepreist",
-     "text": "Fed-Chef Kevin Warsh hat am Montag eine Konferenz der Notenbank in San Francisco eröffnet und drei Szenarien skizziert, die der Fed-Stab durchrechnet: einen Produktivitätsschub durch künstliche Intelligenz, steigende Arbeitslosigkeit durch Automatisierung oder enttäuschte Renditeerwartungen mit fallenden Aktienkursen und Abschwung. Er nannte sie Anschauungsbeispiele, keine Prognosen; zu Inflation und Zinskurs äußerte er sich nicht. Das FedWatch-Barometer der CME zeigte laut Reuters eine Wahrscheinlichkeit von 93,7 % für eine Erhöhung um 0,25 Punkte am 9. Dezember. Hintergrund sind die US-Verbraucherpreise, die im Oktober um 0,4 % zum Vormonat stiegen (Kernrate 0,3 %), jeweils ein Zehntel mehr als erwartet. Die zehnjährige US-Rendite lag am Abend bei rund 5,13 % nach 5,15 % zum Wochenschluss.",
+     "text": "Fed-Chef Kevin Warsh hat am Montag eine Konferenz der Notenbank in San Francisco eröffnet und drei Szenarien skizziert, die der Fed-Stab durchrechnet: einen Produktivitätsschub durch künstliche Intelligenz, steigende Arbeitslosigkeit durch Automatisierung oder enttäuschte Renditeerwartungen mit fallenden Aktienkursen und Abschwung. Er nannte sie Anschauungsbeispiele, keine Prognosen; zu Inflation und Zinskurs äußerte er sich nicht. Das FedWatch-Barometer der CME zeigte laut Reuters eine Wahrscheinlichkeit von 93,7 % für eine Erhöhung um 0,25 Punkte am 9. Dezember. Hintergrund sind die US-Verbraucherpreise, die im Oktober um 0,4 % zum Vormonat stiegen (Kernrate 0,3 %), jeweils ein Zehntel mehr als erwartet. Die zehnjährige US-Rendite schloss am Montag bei 5,12 % nach 5,15 % zum Wochenschluss.",
      "source": "KSTP/AP, 16.11.",
      "url": "https://kstp.com/kstp-news/business-news/fed-chairman-warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk/",
      "impact": "Die Rede hat die Zinserwartungen nicht verschoben; der Zinsdruck auf zinslose Anlagen wie Bitcoin bleibt damit bestehen. Die nächsten Termine mit Einfluss sind die US-Einzelhandelsumsätze am Dienstag und das Protokoll der Oktober-Sitzung am Mittwoch."
     },
     {
      "tag": "Tech · Aktien",
-     "title": "Nasdaq rutscht um mehr als 2 % ab – Nvidia verliert vor den Quartalszahlen gut 4 %",
-     "text": "Die Wall Street hat am Montag deutlich nachgegeben: Im späten Handel lag der Nasdaq Composite laut Reuters 2,30 % im Minus bei 24.557 Punkten und damit mehr als 10 % unter seinem Rekordschluss vom 6. Oktober, der S&P 500 verlor 1,78 %, der Dow Jones 1,26 %; die Schlusskurse standen bei Redaktionsschluss noch aus. Nvidia fiel um gut 4 %, nachdem CNBC berichtet hatte, der Verwaltungsrat erwäge keine Rückkehr des zurückgetretenen Mitgründers Jensen Huang; der Halbleiterindex der Börse Philadelphia gab 4,6 % nach, das Angstbarometer VIX stieg laut Yahoo Finance auf rund 22. Zusätzlich belastete eine neue US-Regel, die den Zugang zu Hochleistungschips über Rechenzentren im Ausland beschränkt. Die Aktie des Bitcoin-Halters Strategy verlor zur Handelsmitte rund 7 %. Nvidia legt am Dienstag nach US-Börsenschluss Zahlen vor; Analysten erwarten rund 109 Mrd. $ Umsatz.",
-     "source": "Korea Times/Reuters, 16.11.",
-     "url": "https://www.koreatimes.co.kr/world/20261117/nasdaq-sp-500-fall-over-1-in-run-up-to-nvidia-results-anthropic-debut",
+     "title": "Wall Street schließt tiefrot: Nasdaq minus 2,5 %, Nvidia verliert vor den Zahlen 4,1 %",
+     "text": "Die US-Börsen haben am Montag deutlich nachgegeben: Der Nasdaq Composite schloss 2,49 % tiefer bei 24.509,76 Punkten, der S&P 500 verlor 1,92 % auf 7.416,59 und der Dow Jones 1,41 % auf 51.608,17 Punkte. Das Angstbarometer VIX stieg um knapp 19 % auf 22,91. Nvidia fiel um 4,12 % auf 156,14 $, nachdem CNBC berichtet hatte, der Verwaltungsrat erwäge keine Rückkehr des zurückgetretenen Mitgründers Jensen Huang; zusätzlich belastete eine neue US-Regel, die den Zugang zu Hochleistungschips über Rechenzentren im Ausland beschränkt. Nvidia legt am heutigen Dienstag nach US-Börsenschluss Zahlen vor, am Donnerstag folgt der erste Handelstag der Anthropic-Aktie; angeboten werden laut BitcoinWorld bis zu 825 Millionen Aktien zu je 70 bis 78 $.",
+     "source": "Yahoo Finance, 16.11.",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
      "impact": "Der Kryptomarkt hatte sich zuletzt an der Risikostimmung der Nasdaq orientiert. Die Nvidia-Zahlen am Dienstagabend und der Anthropic-Börsengang am Donnerstag sind die nächsten Belastungsproben für diese Stimmung."
     },
     {
@@ -177,12 +177,12 @@
      "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Freitag, 13. November, den siebten Handelstag in Folge mit Nettoabflüssen: 185,4 Mio. $, davon 143,5 Mio. $ aus BlackRocks IBIT und 41,9 Mio. $ aus Fidelitys FBTC. Seit dem 5. November summieren sich die Abflüsse auf rund 1,91 Mrd. $, in der Woche vom 9. bis 13. November waren es laut Farside rund 1,07 Mrd. $. Aus Ether-Fonds flossen in derselben Woche 398,9 Mio. $ ab, aus allen in den USA gelisteten Krypto-ETFs zusammen 1,53 Mrd. $. Am Wochenende wurden zudem gehebelte Positionen im Umfang von rund 2 Mrd. $ zwangsweise aufgelöst, überwiegend Wetten auf steigende Kurse.",
      "source": "BitcoinWorld, 16.11.",
      "url": "https://bitcoinworld.co.in/bitcoin-recovery-etf-outflows-november-2026/",
-     "impact": "Die institutionelle Nachfrage aus den USA fehlt weiterhin. Die ETF-Daten vom Montag werden am Dienstagmorgen erwartet und zeigen, ob die Abflussserie anhält."
+     "impact": "Die institutionelle Nachfrage aus den USA fehlt weiterhin. Die ETF-Daten vom Montag lagen in der Nacht noch nicht vor und zeigen, ob die Abflussserie anhält."
     },
     {
      "tag": "Termin",
      "title": "Di 17.11.: Koalitionsausschuss zur Stromsteuer",
-     "text": "Dazu Treffen der Ramstein-Gruppe, US-Einzelhandelsumsätze für Oktober (14:30 Uhr MEZ), Nvidia-Quartalszahlen nach US-Börsenschluss (gegen 22:20 Uhr MEZ) und Nachtsperrung der A100 Richtung Wedding ab 22 Uhr.",
+     "text": "Dazu Treffen der Ramstein-Gruppe in Brüssel, US-Einzelhandelsumsätze für Oktober (14:30 Uhr MEZ), Nvidia-Quartalszahlen nach US-Börsenschluss (gegen 22:20 Uhr MEZ) und Nachtsperrung der A100 Richtung Wedding ab 22 Uhr.",
      "source": "",
      "url": ""
     },

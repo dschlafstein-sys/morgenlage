@@ -1,13 +1,13 @@
 {
-  "date": "Dienstag, 17. November 2026",
-  "stand": "21:49",
+  "date": "Mittwoch, 18. November 2026",
+  "stand": "01:54",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "63.985 $",
-      "change": "−1,5 % · 24 h",
-      "dir": "down"
+      "value": "64.899 $",
+      "change": "±0,0 % · 24 h",
+      "dir": "warn"
     },
     {
       "label": "Ether",
@@ -23,15 +23,15 @@
     },
     {
       "label": "US-Rendite 10 Jahre",
-      "value": "5,09 %",
-      "change": "−0,03 Punkte zum Vortag",
+      "value": "5,10 %",
+      "change": "−0,02 Punkte zum Vortag",
       "dir": "warn"
     }
   ],
   "brief": [
-    "Märkte: Bitcoin ist unter 64.000 $ gefallen (rund 63.990 $, minus 1,5 % in 24 Stunden), Ether steht bei rund 1.800 $ (minus 1,1 %). Der Dax schloss 2,1 % tiefer bei 26.045 Punkten, die Deutsche Bank verlor nach den Berichten über interne Dokumente 6 %. An der Wall Street lagen Dow, S&P 500 und Nasdaq am Abend mehr als 1 % im Minus; Fed-Vertreter Alberto Musalem hält bald eine weitere Zinserhöhung für nötig. Nvidia legt gegen 22:20 Uhr Zahlen vor.",
-    "Ukraine, Nahost und Weltpolitik: Laut Präsident Selenskyj ist ein Abschnitt der Krim-Brücke nach einem Angriff mit Flamingo-Marschflugkörpern eingestürzt; in Kiew trafen russische Raketen zwei Dnipro-Brücken, zwei Menschen starben. Iran griff zum dritten Mal seit Freitag eine US-Radaranlage in Bahrain an, laut US-Militär ohne Schäden. Trump traf in Manila die Regierungschefs von Indien, Japan und Australien; am Donnerstag kommt er in Shenzhen mit Putin und Xi zusammen.",
-    "Bund und Berlin: Der Koalitionsausschuss berät seit dem Abend im Kanzleramt über die Stromsteuersenkung ab 2027 und eine Lücke von rund sieben Milliarden Euro; ein Ergebnis war bis zum Abend nicht gemeldet. In Berlin hat die Linksfraktion den Ausschlussantrag gegen die Abgeordnete Vanessa Emde eingebracht, abgestimmt wird voraussichtlich am 24. November. Zwischen Berlin und Hannover rollen wieder Züge, der Normalbetrieb ist für Mittwochmorgen angekündigt."
+    "Märkte: Nvidia hat nach US-Börsenschluss die Erwartungen übertroffen: Umsatz 115,8 Mrd. $ (plus 103 %), Gewinn je Aktie 2,68 $, Ausblick rund 130 Mrd. $; die Aktie lag nachbörslich rund 4 % im Plus. Zuvor hatte die Wall Street erneut verloren: Dow minus 1,6 % auf 50.759 Punkte, S&P 500 minus 1,0 %, Nasdaq minus 0,7 %. Bitcoin steht bei rund 64.900 $ und damit auf dem Niveau von vor 24 Stunden, Ether lag zuletzt bei rund 1.800 $. Der Dax hatte 2,1 % tiefer bei 26.045 Punkten geschlossen.",
+    "Nahost, Ukraine und Weltpolitik: Die USA haben nach dem dritten iranischen Angriff auf Bahrain eine Raketenstellung der Revolutionsgarden auf der Insel Qeschm in der Straße von Hormus bombardiert; laut iranischer Agentur IRNA ohne schwere Schäden. An der Krim-Brücke sind laut ukrainischem Generalstab ein Bogen und ein Feld der Straßenbrücke eingestürzt, der Kreml kündigt den Wiederaufbau an. Trump trifft am Mittwoch in Manila Präsident Marcos und reist dann nach Shenzhen; Putin ist bereits in China eingetroffen.",
+    "Bund und Berlin: Vom Koalitionsausschuss zur Stromsteuersenkung ab 2027 war bis in die Nacht kein Ergebnis gemeldet; es geht um 5,4 Milliarden Euro und eine Lücke von rund sieben Milliarden Euro im Haushalt 2027. In Berlin soll die Linksfraktion voraussichtlich am 24. November über den Ausschluss von Vanessa Emde abstimmen. Zwischen Berlin und Hannover ist für Mittwochmorgen wieder Normalbetrieb angekündigt; die A100 Richtung Wedding ist noch bis 6 Uhr gesperrt."
   ],
   "sections": [
     {
@@ -40,10 +40,10 @@
       "items": [
         {
           "tag": "Politik",
-          "title": "Stromsteuer: Koalitionsausschuss berät im Kanzleramt – bis zum Abend kein Ergebnis gemeldet",
-          "text": "Die Spitzen von Union und SPD beraten seit dem Dienstagabend im Kanzleramt. Kanzler Friedrich Merz will die Stromsteuer zum 1. Januar 2027 für alle auf das europäische Mindestmaß senken, was 5,4 Milliarden Euro kostet; laut Verivox würde das einen Drei-Personen-Haushalt um 7,75 Euro im Monat entlasten. Zusammen mit dem Ausgleich der kalten Progression fehlen laut dpa rund sieben Milliarden Euro für 2027. Die Union will Überschüsse des EEG-Kontos nutzen oder Subventionen kürzen, die SPD verlangt eine dauerhafte Gegenfinanzierung und bringt höhere Steuern auf Kapitalerträge oder Unternehmensgewinne sowie eine Übergewinnsteuer ins Gespräch. Merz hatte ein kurzes Treffen mit Einigung erwartet. Der Bundestag soll am 27. November über den Haushalt abstimmen, die Koalition hat eine Mehrheit von zwölf Stimmen. Weitere Themen sind Rentenreform, Spritpreisdeckel und Wahlrecht.",
-          "source": "ariva/dpa-AFX, 17.11.",
-          "url": "https://www.ariva.de/news/roundup-showdown-um-die-stromsteuer-im-koalitionsausschuss-12210444"
+          "title": "Stromsteuer: Koalitionsausschuss tagt im Kanzleramt – bis in die Nacht kein Ergebnis gemeldet",
+          "text": "Die Spitzen von Union und SPD berieten am Dienstagabend im Kanzleramt; bis in die Nacht lag keine Meldung über ein Ergebnis vor. Kanzler Friedrich Merz will die Stromsteuer zum 1. Januar 2027 für alle auf das europäische Mindestmaß senken, was 5,4 Milliarden Euro kostet; laut Verivox würde das einen Drei-Personen-Haushalt um 7,75 Euro im Monat entlasten. Zusammen mit dem Ausgleich der kalten Progression fehlen laut dpa rund sieben Milliarden Euro für 2027. Die Union will Überschüsse des EEG-Kontos nutzen oder Subventionen kürzen, Finanzminister Lars Klingbeil verlangt eine dauerhafte Gegenfinanzierung von mindestens fünf Milliarden Euro im Jahr; die SPD bringt höhere Steuern auf Kapitalerträge oder Unternehmensgewinne ins Gespräch. Weitere Themen sind der Spritpreisdeckel, zu dem Wirtschaftsministerin Katherina Reiche einen Entwurf vorgelegt hat, die Rentenreform und das Wahlrecht. Der Bundestag soll am 27. November über den Haushalt abstimmen.",
+          "source": "ad-hoc-news, 17.11.",
+          "url": "https://www.ad-hoc-news.de/politik/stromsteuer-und-spritpreisdeckel-koalition-ringt-um-einigung/70528784"
         },
         {
           "tag": "Wirtschaft · Banken",
@@ -55,7 +55,7 @@
         {
           "tag": "Wirtschaft · Börse",
           "title": "Dax schließt 2,1 % tiefer bei 26.045 Punkten – ZEW-Erwartungen steigen dennoch deutlich",
-          "text": "Der Dax hat am Dienstag 2,08 % auf 26.045,37 Punkte verloren, der MDax 1,25 % auf 30.147,34 Punkte. Als Gründe nennt dpa-AFX die Nervosität vor den Nvidia-Zahlen, neue Forderungen aus der Fed nach Zinserhöhungen, die Berichte über die Deutsche Bank und schwache Softwarewerte; SAP fiel um 5,6 % auf den tiefsten Stand seit vier Wochen. Evonik gewann 4,2 %, nachdem Bloomberg über ein verbessertes Angebot von BASF berichtet hatte. Die ZEW-Konjunkturerwartungen waren am Vormittag um 7,5 auf 35,6 Punkte gestiegen, erwartet worden waren 28,3 Punkte.",
+          "text": "Der Dax hat am Dienstag 2,08 % auf 26.045,37 Punkte verloren, der MDax 1,25 % auf 30.147,34 Punkte. Als Gründe nennt dpa-AFX die Nervosität vor den Nvidia-Zahlen, neue Forderungen aus der Fed nach Zinserhöhungen, die Berichte über die Deutsche Bank und schwache Softwarewerte; SAP fiel um 5,6 % auf den tiefsten Stand seit vier Wochen. Evonik gewann 4,2 %, nachdem Bloomberg über ein verbessertes Angebot von BASF berichtet hatte. Die ZEW-Konjunkturerwartungen waren am Vormittag um 7,5 auf 35,6 Punkte gestiegen, erwartet worden waren 28,3 Punkte. Die Nvidia-Zahlen kamen erst nach Xetra-Schluss und fielen besser aus als erwartet.",
           "source": "ariva/dpa-AFX, 17.11.",
           "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-klare-verluste-12210828"
         },
@@ -75,14 +75,21 @@
         {
           "tag": "Landespolitik",
           "title": "Linksfraktion bringt Ausschlussantrag gegen Emde ein – Abstimmung voraussichtlich am 24. November",
-          "text": "Der Vorstand der Berliner Linksfraktion hat am Dienstag den Antrag auf Ausschluss der Neuköllner Abgeordneten Vanessa Emde beschlossen und in die Sitzung der 44 Abgeordneten eingebracht. Begründet wird er damit, dass Emde nicht zu einer gemeinsamen Arbeitsgrundlage zurückkehren wolle und das Vertrauen verloren sei. Emde verließ die Sitzung laut dpa wortlos; in einem Brief an die Parteispitze hatte sie erklärt, ihr Mandat weiter auszuüben und zur Mitarbeit bereit zu sein. Wegen der Fristen wird voraussichtlich am 24. November abgestimmt, nötig ist eine Zweidrittelmehrheit. Der Fall belastet die Koalitionsverhandlungen von Linke, Grünen und SPD.",
+          "text": "Der Vorstand der Berliner Linksfraktion hat am Dienstag den Antrag auf Ausschluss der Neuköllner Abgeordneten Vanessa Emde beschlossen und in die Sitzung der 44 Abgeordneten eingebracht. Begründet wird er damit, dass Emde nicht zu einer gemeinsamen Arbeitsgrundlage zurückkehren wolle und das Vertrauen verloren sei. Emde verließ die Sitzung laut dpa wortlos; in einem Brief an die Parteispitze hatte sie erklärt, ihr Mandat weiter auszuüben und zur Mitarbeit bereit zu sein. Weil ein solcher Antrag laut Fraktionssatzung eine Woche vorher angekündigt sein muss, wird voraussichtlich am 24. November abgestimmt; nötig ist eine Zweidrittelmehrheit. SPD und Grüne hatten den Ausschluss zur Bedingung für eine Koalition gemacht, die Verhandlungen der drei Parteien sollen im Januar abgeschlossen sein.",
           "source": "Tagesspiegel/dpa, 17.11.",
           "url": "https://www.tagesspiegel.de/politik/dpa-regierungsbildung-in-berlin-berliner-linke-fraktionsspitze-beantragt-ausschluss-emdes-16292628.html"
         },
         {
+          "tag": "Verkehr · Mittwoch",
+          "title": "Mittwoch: A100 Richtung Wedding bis 6 Uhr gesperrt – Demo in Gesundbrunnen, Konzert in der Uber Arena",
+          "text": "Die A100 in Richtung Wedding ist noch bis 6 Uhr gesperrt, weil die mobile Betonschutzwand abgebaut wird. Im Tunnel Britz der A100 steht in der Nacht zu Donnerstag von 21 bis 5 Uhr je Richtung nur ein Fahrstreifen zur Verfügung. Ab dem Vormittag beginnen neue Baustellen: auf der Buschkrugallee in Britz (bis Mitte Dezember ein Fahrstreifen je Richtung), am Mierendorffplatz in Charlottenburg (rechter Fahrstreifen bis Ende Dezember gesperrt) und in der Wackenbergstraße in Niederschönhausen (bis Ende März 2027 abschnittsweise gesperrt). Von 18 bis 20 Uhr zieht eine Demonstration vom S-Bahnhof Humboldthain über die Hussitenstraße zur Gustav-Meyer-Allee; ab 19:30 Uhr sorgt ein Konzert in der Uber Arena für mehr Verkehr rund um Mühlenstraße und Warschauer Straße. Für BVG und S-Bahn meldet die Verkehrsinformationszentrale keine neuen Bauarbeiten.",
+          "source": "Verkehrsinformationszentrale Berlin, 17.11.",
+          "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
+        },
+        {
           "tag": "Bahn",
           "title": "Berlin–Hannover: Züge rollen wieder – Normalbetrieb für Mittwochmorgen angekündigt",
-          "text": "Nach der Vollsperrung zwischen Magdeburg und Helmstedt fahren wieder Züge, zuerst Güterzüge, seit dem Nachmittag sollten auch Fernzüge folgen. Der normale Betrieb soll laut t-online am Mittwochmorgen wieder laufen; die Reparaturen kämen sehr gut voran, sagte ein Bahnsprecher. Ein Mähfahrzeug hatte am Montag bei Magdeburg Bahntechnik beschädigt, betroffen waren täglich rund 100 Güter- und Personenzüge. Der Abschnitt ist zugleich Umleitungsstrecke für die gesperrte Schnellfahrstrecke über Stendal und Wolfsburg, die Fahrzeiten bleiben deshalb länger.",
+          "text": "Nach der Vollsperrung zwischen Magdeburg und Helmstedt fahren wieder Züge, zuerst Güterzüge, seit Dienstagnachmittag sollten auch Fernzüge folgen. Der normale Betrieb soll laut t-online am Mittwochmorgen wieder laufen; die Reparaturen kämen sehr gut voran, sagte ein Bahnsprecher. Ein Mähfahrzeug hatte am Montag bei Magdeburg Bahntechnik beschädigt, betroffen waren täglich rund 100 Güter- und Personenzüge. Der Abschnitt ist zugleich Umleitungsstrecke für die gesperrte Schnellfahrstrecke über Stendal und Wolfsburg, die Fahrzeiten bleiben deshalb länger. Außerdem soll die Ringbahn laut Tagesspiegel ab dem 28. Juni 2030 zwischen Frankfurter Allee und Ostkreuz voraussichtlich 14 Monate lang unterbrochen werden, weil drei Eisenbahnbrücken neu gebaut werden.",
           "source": "t-online, 17.11.",
           "url": "https://berlin.t-online.de/region/berlin/id_101532034/berlin-hannover-deutsche-bahn-mit-massiven-verspaetungen.html"
         },
@@ -92,13 +99,6 @@
           "text": "Die Senatsinnenverwaltung hat den Moscheeverein Al-Irschad samt Teilorganisationen verboten; betroffen ist auch die Moschee „Markaz Al Qaem“ in Neukölln. Seit dem frühen Dienstagmorgen durchsuchte die Polizei 28 Vereinsräume, Geschäftsräume und Wohnungen in Berlin. Innensenatorin Iris Spranger begründet das Verbot damit, dass der Verein sich gegen den Gedanken der Völkerverständigung richte und die Hisbollah im Libanon unterstütze. Der Tagesspiegel berichtet, Funktionäre der Neuköllner Linken hätten den Verein mehrfach besucht; von einer möglichen Unterstützung der Hisbollah hätten sie demnach nichts gewusst.",
           "source": "rbb24, 17.11.",
           "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-razzia-hisbollah-naher-moschee-verein-verbot.html"
-        },
-        {
-          "tag": "Verkehr · heute Nacht",
-          "title": "Heute Nacht: A100 Richtung Wedding gesperrt, S-Bahn-Ersatzbusse im Südosten",
-          "text": "Die A100 in Richtung Wedding ist in der Nacht zu Mittwoch zwischen 22 und 6 Uhr gesperrt, weil die mobile Betonschutzwand abgebaut wird. Bei der S-Bahn fahren bis 1:30 Uhr zwischen Schöneweide und Grünau beziehungsweise Altglienicke Busse statt Bahnen, die S47 fällt aus. Auf der Greifswalder Straße in Prenzlauer Berg bleibt stadteinwärts zwischen Ostseestraße und Schieritzstraße bis Mitte 2027 nur ein Fahrstreifen. Außerdem soll die Ringbahn laut Tagesspiegel ab dem 28. Juni 2030 zwischen Frankfurter Allee und Ostkreuz voraussichtlich 14 Monate lang unterbrochen werden, weil drei Eisenbahnbrücken neu gebaut werden.",
-          "source": "Verkehrsinformationszentrale Berlin, 16.11.",
-          "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
         }
       ]
     },
@@ -107,37 +107,37 @@
       "title": "Welt",
       "items": [
         {
-          "tag": "Ukraine",
-          "title": "Krim-Brücke: Abschnitt nach „siebenstufiger Operation“ eingestürzt – zwei Tote in Kiew",
-          "text": "Ein Abschnitt der Krim-Brücke ist nach einem ukrainischen Angriff mit Flamingo-Marschflugkörpern eingestürzt; Präsident Wolodymyr Selenskyj sprach vom Abschluss einer über mehrere Wochen geführten Operation in sieben Phasen. Der Verkehr ist laut dem von Moskau eingesetzten Verwaltungschef Sergej Aksjonow unterbrochen, er meldete zudem mindestens zwei Tote durch einen Drohnenangriff auf der Krim. Die Eisenbahnbrücke scheint nach Einschätzung des Militärexperten Oberst Reisner im ZDF unbeschädigt. Russland beschoss in Kiew die Nord- und die Südbrücke über den Dnipro mit ballistischen Raketen; laut Selenskyj zielten sieben Raketen auf die Brücken. Im Bezirk Obolon wurden zwei Menschen getötet, Wasser und Heizung fielen teilweise aus; die Südbrücke wurde am Nachmittag teilweise wieder freigegeben. Russland meldet mehr als 1.400 abgefangene Drohnen in einer Nacht.",
-          "source": "Kyiv Independent, 17.11.",
-          "url": "https://kyivindependent.com/ukraine-war-latest-entire-section-of-crimean-bridge-collapses-after-seven-phase-operation-zelensky-reveals/"
+          "tag": "Iran · USA",
+          "title": "USA greifen Raketenstellung auf iranischer Insel Qeschm an – Antwort auf dritten Angriff auf Bahrain",
+          "text": "US-Kampfjets haben am Dienstag eine Raketenstellung der Revolutionsgarden auf der Insel Qeschm in der Straße von Hormus mit Präzisionsmunition angegriffen, wie ein US-Vertreter der Agentur AFP sagte; es sei die Antwort auf iranische Angriffe auf US-Personal und -Einrichtungen. Die iranische Agentur IRNA meldet unter Berufung auf einen Regionalvertreter keine schweren Schäden. Stunden zuvor hatte Iran zum dritten Mal seit Freitag mit Drohnen ein US-Radar auf dem Stützpunkt Sheikh Isa in Bahrain angegriffen; Bahrain erklärte, die Angriffe abgefangen zu haben. Die Revolutionsgarden gaben zudem an, südlich von Qeschm eine US-Drohne abgefangen zu haben. Präsident Trump sagte, er nehme Berichte über iranische Pläne für eine „schmutzige Bombe“ sehr ernst; Außenminister Abbas Araghtschi wies den CNN-Bericht als Propaganda zurück. Mit der USS Theodore Roosevelt sind nun drei US-Flugzeugträgergruppen in der Region.",
+          "source": "The Daily Star/AFP, 18.11.",
+          "url": "https://www.thedailystar.net/news/world/news/us-strikes-iranian-island-hormuz-after-guards-target-bahrain-4326856"
         },
         {
-          "tag": "Iran",
-          "title": "Iran greift erneut US-Radar in Bahrain an – USA melden keine Schäden, Trump hält neue Angriffe für unwahrscheinlich",
-          "text": "Iran hat am Dienstag mit Drohnen eine US-Radaranlage in Bahrain angegriffen, zum dritten Mal seit Freitag und nach rund zwei Monaten Pause. Bahrain erklärte, die Luftabwehr habe die Angriffe abgefangen; das US-Militär meldet weder Schäden noch Verletzte. Teheran spricht von Vergeltung für US-Angriffe auf Kommunikationstürme. Ägypten, Katar, Saudi-Arabien und die Emirate verurteilten den Angriff. Die britische Seefahrtsbehörde UKMTO berichtete von einem Tanker, der nördlich von Oman zweimal getroffen wurde und brannte. Präsident Trump nannte neue US-Angriffe sehr unwahrscheinlich, entsandte aber mit der USS Theodore Roosevelt einen dritten Flugzeugträger. Die Gespräche stocken trotz katarischer Vermittlung; die Huthi kontrollieren nach dem Rückzug einer von Saudi-Arabien gestützten Gruppe die Meerenge Bab al-Mandab.",
-          "source": "PBS News/AP, 17.11.",
-          "url": "https://www.pbs.org/newshour/world/iran-fires-at-u-s-facility-in-bahrain-as-tehran-resumes-strikes-on-arab-neighbors"
+          "tag": "Ukraine",
+          "title": "Krim-Brücke: Bogen und Feld der Straßenbrücke eingestürzt – Kreml kündigt Wiederaufbau an",
+          "text": "Nach ukrainischen Angriffen mit Drohnen und Flamingo-Marschflugkörpern am zweiten Tag in Folge sind laut ukrainischem Generalstab der Bogen und ein Feld der Straßenbrücke eingestürzt; die Eisenbahnbrücke steht noch, ihr Bogen ist beschädigt. Präsident Wolodymyr Selenskyj sprach vom Abschluss einer Operation in sieben Phasen und von Vergeltung für russische Angriffe auf die Infrastruktur. Der Verkehr ist laut dem von Moskau eingesetzten Verwaltungschef Sergej Aksjonow unterbrochen, er meldete zwei Tote. Kremlsprecher Dmitri Peskow sagte, Präsident Putin sei informiert, die Brücke werde stärker als zuvor wiederaufgebaut. Russland beschoss in Kiew die Nord- und die Südbrücke über den Dnipro; im Bezirk Obolon wurden laut ukrainischen Angaben zwei Menschen getötet, Metro, Strom und Wasser fielen teilweise aus. Russland meldet 1.441 abgefangene Drohnen in 22 Regionen.",
+          "source": "ABC News Australia, 18.11.",
+          "url": "https://www.abc.net.au/news/2026-11-18/ukraine-damages-crimean-bridge-in-major-strike/107396824"
         },
         {
           "tag": "USA · Asien",
-          "title": "Trump trifft in Manila die Quad-Partner – Thailand will Zölle auf US-Waren streichen",
-          "text": "US-Präsident Donald Trump hat zum Auftakt seiner dreitägigen Asienreise in Manila die Regierungschefs von Indien, Japan und Australien getroffen; es war das erste Quad-Treffen seit zwei Jahren. Er kündigte einen gemeinsamen KI-Accelerator der vier Staaten an. Thailand werde alle Zölle auf US-Exporte abschaffen, sagte Trump; das Abkommen soll bald unterzeichnet werden. In Manila demonstrierten den fünften Tag in Folge Menschen gegen den Besuch. Am Mittwoch trifft Trump den philippinischen Präsidenten Ferdinand Marcos Jr. und reist dann zum Apec-Gipfel nach Shenzhen, wo er am Donnerstag mit Xi Jinping und Wladimir Putin zusammenkommt.",
-          "source": "The Star/Reuters, 17.11.",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/17/trump-meets-regional-allies-in-manila-ahead-of-china-visit-thailand-will-eliminate-tariffs-on-us-exports-under-deal-to-be-signed-soon"
+          "title": "Trump trifft heute Marcos und reist nach Shenzhen – Putin in China eingetroffen",
+          "text": "US-Präsident Donald Trump trifft am Mittwoch im Präsidentenpalast in Manila den philippinischen Präsidenten Ferdinand Marcos Jr. und reist dann zum Apec-Gipfel nach Shenzhen. Wladimir Putin ist laut AFP bereits in China eingetroffen. Trump sagte, er erwäge dort Einzelgespräche mit Putin und mit Nordkoreas Machthaber Kim Jong Un; Peking erklärte, über ein Treffen mit Kim keine Informationen zu haben. Am Dienstag hatte Trump in Manila die Regierungschefs von Indien, Japan und Australien getroffen und angekündigt, die USA würden China bei Seltenen Erden binnen zehn Monaten einholen. Washington macht Lieferungen fortgeschrittener KI-Chips nach Singapur, Malaysia, Thailand und Indonesien genehmigungspflichtig. In Manila protestierten rund 2.000 Menschen gegen den Besuch.",
+          "source": "Free Malaysia Today/AFP, 18.11.",
+          "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/18/trump-seeks-diplomatic-gains-on-asia-tour-as-putin-arrives-in-china"
         },
         {
           "tag": "Israel",
           "title": "Israel: Opposition will Parlamentspräsidenten ablösen – Eisenkot fordert Netanjahus Rückzug",
-          "text": "Die israelische Opposition will den Parlamentspräsidenten aus dem Likud durch einen Abgeordneten der Mitte-Partei Jaschar ersetzen, wie das ZDF am Dienstag meldet. Deren Vorsitzender Gadi Eisenkot hatte am Montag erklärt, Benjamin Netanjahu dürfe nicht länger an der Spitze der Regierung bleiben, und Ermittlungen verlangt: Laut Channel 12 hatte Netanjahus Stabschef am Vorabend der Wahl vom 27. Oktober Anzeige gegen Mitglieder der arabischen Partei Ra'am erstattet, drei wurden vorübergehend festgenommen. Keines der beiden Lager erreicht die nötigen 61 Mandate.",
+          "text": "Die israelische Opposition will den Parlamentspräsidenten aus dem Likud durch einen Abgeordneten der Mitte-Partei Jaschar ersetzen, wie das ZDF am Dienstag meldete. Deren Vorsitzender Gadi Eisenkot hatte am Montag erklärt, Benjamin Netanjahu dürfe nicht länger an der Spitze der Regierung bleiben, und Ermittlungen verlangt: Laut Channel 12 hatte Netanjahus Stabschef am Vorabend der Wahl vom 27. Oktober Anzeige gegen Mitglieder der arabischen Partei Ra'am erstattet, drei wurden vorübergehend festgenommen. Keines der beiden Lager erreicht die nötigen 61 Mandate.",
           "source": "ZDFheute-Ticker, 17.11.",
           "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         },
         {
           "tag": "Europa",
           "title": "Prag: Dutzende Verletzte bei Zusammenstoß zweier Personenzüge",
-          "text": "In Prag sind zwei Personenzüge zusammengestoßen. Dabei wurden nach einer ZDF-Meldung vom Mittag Dutzende Menschen verletzt, vier von ihnen schwer. In den Niederlanden hat die Koalition von Ministerpräsident Rob Jetten einen Bruch im Streit über eine Steuerreform abgewendet.",
+          "text": "In Prag sind am Dienstag zwei Personenzüge zusammengestoßen. Dabei wurden nach einer ZDF-Meldung vom Mittag Dutzende Menschen verletzt, vier von ihnen schwer. In den Niederlanden hat die Koalition von Ministerpräsident Rob Jetten einen Bruch im Streit über eine Steuerreform abgewendet.",
           "source": "ZDFheute-Ticker, 17.11.",
           "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         }
@@ -148,55 +148,48 @@
       "title": "Krypto & Finanzen",
       "items": [
         {
-          "tag": "Markt",
-          "title": "Bitcoin fällt unter 64.000 $ – Ether bei rund 1.800 $",
-          "text": "Am Abend notierte Bitcoin laut CoinLore bei 63.985 $ und damit 1,5 % tiefer als 24 Stunden zuvor; Ether stand um 21:37 Uhr bei 1.799 $ (minus 1,1 %). Am Nachmittag hatte Bitcoin noch bei rund 64.700 $ gelegen. Das Tief vom Wochenende lag bei rund 62.000 $, der gleitende 200-Wochen-Durchschnitt verläuft laut Crypto Briefing nahe 68.000 $ und damit über dem Kurs. Yahoo Finance zufolge steht Bitcoin bei etwa der Hälfte des Hochs vom Oktober 2025 und hat seit dem 9. September rund 17 % verloren. Das Handelshaus Wintermute warnte am Montag vor einem Rückgang in den Bereich von 50.000 $.",
-          "source": "CoinLore, 17.11.",
-          "url": "https://www.coinlore.com/coin/bitcoin",
-          "impact": "Der Kurs gibt zusammen mit den US-Aktien nach, bleibt aber über dem Wochenendtief von rund 62.000 $. Die Nvidia-Zahlen am späten Abend dürften die nächste Richtung der Risikostimmung vorgeben."
-        },
-        {
-          "tag": "Fed · Dollar",
-          "title": "Musalem: Weitere Zinserhöhung bald nötig – Dollar auf dem höchsten Stand seit April 2025",
-          "text": "Der Präsident der Fed von St. Louis, Alberto Musalem, hält bald eine weitere Zinserhöhung und zusätzliche Schritte bis zum Frühjahr 2027 für nötig; der Leitzins könne 4,75 bis 5 % erreichen, die Inflation sei zu hoch und breit angelegt. Die US-Einzelhandelsumsätze stiegen im Oktober um 0,2 %, erwartet worden waren 0,1 %. Der Dollar-Index schloss am Montag laut Yahoo Finance auf dem höchsten Stand seit dem 2. April 2025, die zehnjährige US-Rendite lag am Dienstag bei rund 5,09 %. Auf Polymarket wird eine Erhöhung am 9. Dezember mit rund 96 % gehandelt; die Ökonomen der Bank of America erwarten Schritte im Dezember, Januar und März. Gold kostet weniger als 4.000 $ je Unze.",
-          "source": "Yahoo Finance, 17.11.",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html",
-          "impact": "Die Aussicht auf mehrere Zinserhöhungen stärkt den Dollar und hält die Renditen hoch. Das gilt als Gegenwind für zinslose Anlagen wie Bitcoin und Gold, die beide seit September deutlich verloren haben."
-        },
-        {
           "tag": "Tech · Aktien",
-          "title": "Wall Street weitet Verluste vor den Nvidia-Zahlen aus – Dow rund 1,5 % im Minus",
-          "text": "Rund drei Stunden vor Handelsschluss lagen der Dow Jones 1,5 % (50.839 Punkte), der S&P 500 1,2 % (7.331 Punkte) und der Nasdaq Composite 1,1 % (24.234 Punkte) im Minus; der Volatilitätsindex VIX stieg über 26 Punkte. Am Montag hatten der Nasdaq 2,49 % und der S&P 500 1,92 % verloren. Belastet wird der Markt auch von einer neuen US-Regel, die Lieferungen fortgeschrittener KI-Chips an Rechenzentren in fünf Ländern, darunter Singapur und Malaysia, genehmigungspflichtig macht. Nvidia legt gegen 22:20 Uhr MEZ Zahlen vor, die ersten seit dem Rücktritt von Jensen Huang; erwartet werden 2,47 $ Gewinn je Aktie bei rund 109 Mrd. $ Umsatz. Der Preis der Anthropic-Aktie soll am Mittwoch in einer Spanne von 70 bis 78 $ festgelegt werden.",
+          "title": "Nvidia übertrifft die Erwartungen – Aktie nachbörslich rund 4 % im Plus, Wall Street zuvor schwach",
+          "text": "Nvidia hat im dritten Geschäftsquartal 115,8 Mrd. $ umgesetzt, 103 % mehr als im Vorjahr; erwartet worden waren rund 109 Mrd. $. Der Gewinn je Aktie lag bei 2,68 $ (erwartet: 2,47 $). Für das laufende Quartal stellt der Konzern 127,4 bis 132,6 Mrd. $ Umsatz in Aussicht und kündigte Aktienrückkäufe über 150 Mrd. $ an. Die Aktie schloss bei 155,46 $ (minus 0,4 %) und stieg nachbörslich um rund 4 % auf 161,79 $. Der Verwaltungsrat will Jensen Huang nicht wieder als Chef einsetzen; Finanzchefin Colette Kress führt den Konzern übergangsweise. TheStreet verweist auf gestiegene Lagerbestände (39,7 Mrd. $) und einen Bericht des Wall Street Journal über eine Untersuchung der Börsenaufsicht SEC. Im regulären Handel hatten der Dow 1,64 % auf 50.759 Punkte, der S&P 500 1,03 % auf 7.341 Punkte und der Nasdaq Composite 0,74 % auf 24.328 Punkte verloren; der VIX stieg auf 25,5.",
+          "source": "Yahoo Finance, 17.11.",
+          "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+          "impact": "Der Kryptomarkt folgte zuletzt eng der Stimmung bei KI- und Technologieaktien. Die starken Zahlen nehmen kurzfristig Druck von riskanten Anlagen; ob das trägt, zeigt sich im US-Handel am Mittwoch."
+        },
+        {
+          "tag": "Markt",
+          "title": "Bitcoin erholt sich auf rund 64.900 $ – Tagestief bei etwa 63.300 $",
+          "text": "Bitcoin notierte in der Nacht laut CoinGecko bei 64.899 $ und damit praktisch auf dem Stand von vor 24 Stunden; die 24-Stunden-Spanne reichte von 63.361 bis 65.268 $. Am Dienstag war der Kurs laut Bitcoin Magazine zeitweise auf rund 63.300 $ gefallen. Für Ether liegt kein neuerer belegter Kurs vor als 1.799 $ vom Dienstagabend (21:37 Uhr, CoinLore). Die Strategy-Aktie fiel um mehr als 5 % auf rund 97 $ und damit unter 100 $. Das Tief vom Wochenende lag bei rund 62.000 $, der gleitende 200-Wochen-Durchschnitt verläuft nahe 68.000 $ und damit über dem Kurs. Der Fear-and-Greed-Index von CoinMarketCap steht laut CoinDesk bei 13 („extreme Angst“); das Handelshaus Wintermute hält einen Rückgang in den Bereich von 50.000 $ für möglich.",
+          "source": "CoinGecko, 18.11.",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "impact": "Der Kurs hat das Tagestief wieder verlassen, bleibt aber in der Spanne der vergangenen Tage und unter dem 200-Wochen-Durchschnitt. Die Stimmungsindikatoren zeigen weiter große Vorsicht."
+        },
+        {
+          "tag": "Fed · Zinsen",
+          "title": "Fed: Musalem will bald erhöhen, Williams sieht keinen Bedarf für großen Schritt – Protokoll am Abend",
+          "text": "Der Präsident der Fed von St. Louis, Alberto Musalem, hält bald eine weitere Zinserhöhung für nötig; bis zum Frühjahr 2027 brauche es einen realen Leitzins von rund 2 bis 2,5 %, was 100 bis 150 Basispunkte zusätzlich bedeutet. New-York-Fed-Präsident John Williams sagte Berichten zufolge, die Fed brauche keinen übergroßen Zinsschritt. Die US-Importpreise stiegen im Oktober um 1,1 %, die Einzelhandelsumsätze um 0,2 %; laut ADP schufen private Arbeitgeber in den vier Wochen bis 31. Oktober 95.000 Stellen. Die zehnjährige US-Rendite schloss bei rund 5,10 %, Gold bei 3.855 $ je Unze. Eine Erhöhung am 9. Dezember ist am Markt laut CoinDesk zu rund 92 % eingepreist. Am Mittwoch um 20 Uhr MEZ erscheint das Protokoll der Oktober-Sitzung.",
           "source": "Yahoo Finance, 17.11.",
           "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html",
-          "impact": "Der Kryptomarkt folgte zuletzt der Stimmung bei Technologieaktien. Fallen die Nvidia-Zahlen oder der Ausblick schwach aus, kann sich der Druck auf riskante Anlagen in der Nacht fortsetzen."
+          "impact": "Hohe Renditen und die Aussicht auf weitere Zinserhöhungen gelten als Gegenwind für zinslose Anlagen wie Bitcoin. Das Protokoll am Abend kann zeigen, wie breit die Unterstützung für den Schritt im Dezember ist."
         },
         {
           "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs: Kleiner Zufluss am Montag beendet Abflussserie – seit Jahresbeginn rund 1,9 Mrd. $ abgezogen",
-          "text": "Die US-Spot-Bitcoin-ETFs verbuchten am Montag, 16. November, einen Nettozufluss von 7,9 Mio. $ und beendeten damit eine Serie von sieben Handelstagen mit Abflüssen von zusammen rund 1,91 Mrd. $. BlackRocks IBIT nahm 76,5 Mio. $ ein, sieben andere Fonds gaben zusammen 68,6 Mio. $ ab. Seit Jahresbeginn summieren sich die Nettoabflüsse laut Crypto Briefing auf etwa 1,9 Mrd. $, nach Zuflüssen von rund 21 Mrd. $ im Jahr 2025. FXStreet nennt für Montag abweichend Abflüsse von 69 Mio. $. Strategy kaufte in der vergangenen Woche 485 BTC und hält nun 850.849 BTC.",
-          "source": "Crypto Briefing, 17.11.",
-          "url": "https://cryptonews.net/news/bitcoin/33767030/",
-          "impact": "Ein einzelner Tag mit kleinem Zufluss ist noch keine Trendwende; getragen wurde er von einem einzigen Fonds. Die Jahresbilanz der ETFs ist negativ."
-        },
-        {
-          "tag": "Termin",
-          "title": "Di 17.11.: Nvidia-Quartalszahlen",
-          "text": "Nach US-Börsenschluss gegen 22:20 Uhr MEZ, Telefonkonferenz 23:00 Uhr. Dazu Koalitionsausschuss zur Stromsteuer im Kanzleramt und Nachtsperrung der A100 Richtung Wedding ab 22 Uhr.",
-          "source": "",
-          "url": ""
+          "title": "Bitcoin-ETFs: Kleiner Zufluss am Montag beendet Abflussserie – Zahlen für Dienstag stehen noch aus",
+          "text": "Die US-Spot-Bitcoin-ETFs verbuchten am Montag, 16. November, laut Farside einen Nettozufluss von 7,9 Mio. $ und beendeten damit eine Serie von sieben Handelstagen mit Abflüssen. BlackRocks IBIT nahm 76,5 Mio. $ ein, die übrigen Fonds gaben zusammen 68,6 Mio. $ ab, davon Grayscales GBTC 34,6 Mio. $. Ether-ETFs verloren nach vorläufigen Zahlen 8,4 Mio. $, Solana-Fonds nahmen 11,7 Mio. $ ein. Andere Datenanbieter nennen für Montag abweichend Abflüsse von rund 204 Mio. $ aus Bitcoin-ETFs. Zahlen für Dienstag lagen in der Nacht noch nicht vor.",
+          "source": "CoinDesk, 17.11.",
+          "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+          "impact": "Ein einzelner Tag mit kleinem Zufluss ist noch keine Trendwende; getragen wurde er von einem einzigen Fonds. Die Daten für Dienstag zeigen, ob die Anleger nach dem erneuten Kursrückgang wieder Geld abgezogen haben."
         },
         {
           "tag": "Termin",
           "title": "Mi 18.11.: Protokoll der Fed-Sitzung vom Oktober",
-          "text": "Hinweise auf den Zinsschritt im Dezember, 20:00 Uhr MEZ. Dazu Kabinettsentscheidung über den deutschen Vorschlag für den EZB-Chefvolkswirt, Vorschlag der EU-Kommission für einen Ukraine-Kredit über 45 Mrd. Euro und Preisfestlegung beim Anthropic-Börsengang.",
+          "text": "Hinweise auf den Zinsschritt im Dezember, 20:00 Uhr MEZ. Dazu Trump bei Präsident Marcos in Manila, Kabinettsentscheidung über den deutschen Vorschlag für den EZB-Chefvolkswirt, Vorschlag der EU-Kommission für einen Ukraine-Kredit über 45 Mrd. Euro und Preisfestlegung beim Anthropic-Börsengang (Spanne 70 bis 78 $).",
           "source": "",
           "url": ""
         },
         {
           "tag": "Termin",
           "title": "Do 19.11.: Treffen von Trump, Putin und Xi",
-          "text": "Am Rande des Apec-Gipfels in Shenzhen. Dazu Koalition der Willigen mit Kanzler Merz in Berlin und erster Handelstag der Anthropic-Aktie.",
+          "text": "Am Rande des Apec-Gipfels in Shenzhen. Dazu Koalition der Willigen mit Kanzler Merz in Berlin und geplanter erster Handelstag der Anthropic-Aktie unter dem Kürzel ANT.",
           "source": "",
           "url": ""
         },

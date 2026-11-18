@@ -1,18 +1,18 @@
 {
   "date": "Mittwoch, 18. November 2026",
-  "stand": "11:43",
+  "stand": "16:39",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "64.619 $",
-      "change": "−0,4 % zum Vortag",
+      "value": "64.131 $",
+      "change": "−1,1 % zum Vortag",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.809 $",
-      "change": "−0,7 % zum Vortag",
+      "value": "1.796 $",
+      "change": "−1,4 % zum Vortag",
       "dir": "down"
     },
     {
@@ -23,15 +23,15 @@
     },
     {
       "label": "US-Rendite 10 Jahre",
-      "value": "5,11 %",
+      "value": "5,09 %",
       "change": "kaum verändert",
       "dir": "warn"
     }
   ],
   "brief": [
-    "Bund: Die Koalition hat sich geeinigt: Die Stromsteuer sinkt laut Cash-Online zum 1. Januar 2027 von 2,05 auf 0,1 Cent je Kilowattstunde, finanziert ist das aber nur für 2027 aus Rücklagen des EEG-Kontos. Ein Spritpreisdeckel soll ab Januar zunächst drei Monate gelten, Rentenreform und kalte Progression wurden vertagt. Das Bundesverfassungsgericht hat die Wahlprüfungsbeschwerde des BSW einstimmig als unzulässig verworfen; es gibt keine Neuauszählung, die Mehrheit von Schwarz-Rot bleibt bestehen.",
-    "Märkte: Der Dax stabilisiert sich nach dem Minus von 2,1 % am Dienstag bei rund 26.070 bis 26.090 Punkten, die Deutsche Bank verliert weitere rund 2 %. Bitcoin steht bei 64.619 $ (minus 0,4 % zum Vortag), Ether bei 1.809 $ (minus 0,7 %). Aus den US-Bitcoin-ETFs flossen am Dienstag 239,9 Mio. $ ab, eine Fed-Erhöhung im Dezember ist laut CME FedWatch zu 95,7 % eingepreist. Um 20 Uhr MEZ kommt das Fed-Protokoll, außerdem wird heute der Ausgabepreis der Anthropic-Aktie erwartet.",
-    "Welt und Berlin: Iran hat nach eigenen Angaben US-Stellungen auf dem Stützpunkt Ali Al Salem in Kuwait angegriffen, Bahrain fing zum dritten Mal in dieser Woche iranische Angriffe ab. Trump ist in Shenzhen gelandet und wurde von Xi am Flughafen empfangen; am Donnerstag folgt das erste Dreiertreffen mit Putin. In Berlin gab es am Morgen Störungen bei S8, S85 und S42; ab Donnerstag drohen Sperrungen, weil mehr als 20 Staats- und Regierungschefs zur „Koalition der Willigen“ erwartet werden."
+    "Bund: Nach der Einigung im Koalitionsausschuss sinkt die Stromsteuer zum 1. Januar 2027 auf den EU-Mindestsatz, finanziert ist das nur für 2027; die Wirtschaftsweisen Schnitzer und Grimm bemängeln fehlende Planungssicherheit und halten den Spritpreisdeckel für riskant. Das Kabinett hat zudem eine Arbeitsrechtsreform beschlossen: Befristungen ohne Sachgrund sollen bis zu vier Jahre möglich sein, der Kündigungsschutz für Spitzenverdiener wird gelockert. Karlsruhe hat die BSW-Wahlbeschwerde verworfen, es gibt keine Neuauszählung.",
+    "Märkte: Der Dax ist am Nachmittag unter 26.000 Punkte gerutscht (rund 25.950, minus 0,4 %), die Deutsche Bank verliert rund 2,5 %. Bitcoin stand mittags bei 64.131 $ (minus 1,1 %), Ether bei 1.796 $ (minus 1,4 %); danach fiel Bitcoin laut Finwire zeitweise auf rund 63.200 $. Um 20 Uhr MEZ kommt das Fed-Protokoll, nach US-Börsenschluss der Ausgabepreis der Anthropic-Aktie, der laut Wall Street Journal über 80 $ liegen könnte.",
+    "Welt und Berlin: Iran hat US-Stellungen in Kuwait angegriffen und Bahrain erneut beschossen, Opfer wurden nicht gemeldet; die saudisch geführte Koalition traf 60 Huthi-Ziele im Jemen. Trump wurde in Shenzhen von Xi empfangen, am Donnerstag folgt das Dreiertreffen mit Putin. In Berlin rechnet die Polizei ab Donnerstagfrüh wegen des Ukraine-Gipfels mit Einschränkungen im ganzen Stadtgebiet, am BER schon von Mittwoch bis Freitag; mehrere S-Bahn-Linien sind wegen Reparaturen weiter gestört."
   ],
   "sections": [
     {
@@ -40,10 +40,17 @@
       "items": [
         {
           "tag": "Politik",
-          "title": "Koalition einigt sich: Stromsteuer sinkt ab 2027 auf den EU-Mindestsatz – Finanzierung nur für ein Jahr gesichert",
-          "text": "Nach rund acht Stunden im Kanzleramt haben CDU, CSU und SPD laut Cash-Online beschlossen, die Stromsteuer zum 1. Januar 2027 für alle von 2,05 auf 0,1 Cent je Kilowattstunde zu senken. Die Ausfälle von rund 5,4 Milliarden Euro im Jahr sind bisher nur für 2027 gedeckt, und zwar aus Rücklagen des EEG-Kontos; für die Zeit danach verlangt das Koalitionspapier eine dauerhafte Gegenfinanzierung im Haushalt 2028. Ein Spritpreisdeckel soll den Ende Dezember auslaufenden Tankrabatt ab Januar für zunächst drei Monate ersetzen, das Kabinett soll am 2. Dezember darüber entscheiden. Keine Einigung gab es bei der kalten Progression und der Rentenreform; für die Rente wird ein Kabinettsbeschluss am 9. oder 16. Dezember angestrebt.",
+          "title": "Stromsteuer sinkt ab 2027 auf den EU-Mindestsatz – Wirtschaftsweise kritisieren Befristung und Spritpreisdeckel",
+          "text": "CDU, CSU und SPD haben nach rund acht Stunden im Kanzleramt beschlossen, die Stromsteuer zum 1. Januar 2027 für alle von 2,05 auf 0,1 Cent je Kilowattstunde zu senken; gedeckt ist das laut Cash-Online nur für 2027 aus Rücklagen des EEG-Kontos. Ein Spritpreisdeckel soll ab Januar zunächst drei Monate gelten, kalte Progression und Rentenreform wurden vertagt. Die Vorsitzende der Wirtschaftsweisen, Monika Schnitzer, nennt die Steuersenkung grundsätzlich sinnvoll, wegen der Befristung aber eine teure Kurzfristmaßnahme ohne Planungssicherheit; Veronika Grimm warnt beim Preisdeckel vor Folgen für Versorgungssicherheit oder Staatskasse. Auch in der Koalition gibt es Streit: Die CDU hält der SPD vor, Steuererhöhungen Ausgabenkürzungen vorzuziehen, die SPD vermisst eine dauerhafte Finanzierung.",
           "source": "Cash-Online, 18.11.",
           "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
+        },
+        {
+          "tag": "Arbeitsrecht · Unternehmer",
+          "title": "Kabinett beschließt Arbeitsrechtsreform: Befristungen bis zu vier Jahre, weniger Kündigungsschutz für Spitzenverdiener",
+          "text": "Das Bundeskabinett hat den Gesetzentwurf von Arbeitsminister Alexander Schweitzer (SPD) früher als geplant gebilligt. Befristungen ohne Sachgrund sollen für Einstellungen bis Ende 2030 bis zu vier Jahre möglich sein und sich in dieser Zeit bis zu sechsmal verlängern lassen, auch beim früheren Arbeitgeber. Für Beschäftigte ab rund 180.000 Euro Jahresgehalt können Firmen künftig ohne Begründung eine Abfindung anbieten; das gilt zwölf Monate nach Inkrafttreten. Dazu kommen gelockerte Sonntagsarbeit etwa in Bäckereien und strengere Regeln gegen das Umgehen der Mitbestimmung über die Rechtsform SE. Das Gesetz soll Anfang 2027 in Kraft treten und braucht keine Zustimmung des Bundesrats.",
+          "source": "ariva/dpa-AFX, 18.11.",
+          "url": "https://www.ariva.de/news/roundup-regierung-erleichtert-befristungen-von-jobs-12211870"
         },
         {
           "tag": "Justiz · Bundestag",
@@ -54,17 +61,10 @@
         },
         {
           "tag": "Wirtschaft · Börse",
-          "title": "Dax stabilisiert sich nur zögerlich – Deutsche Bank verliert nach dem Datenleck weitere 2 %",
-          "text": "Der Dax lag am Morgen 0,2 % im Plus bei rund 26.090 Punkten und gegen 10:10 Uhr noch knapp darüber bei etwa 26.068 Punkten, nachdem er am Dienstag 2,1 % verloren hatte. Die starken Nvidia-Zahlen sorgten laut Reuters nur kurz für Erleichterung, weil Fragen zur Zukunft des Konzerns ohne Mitgründer Jensen Huang offen bleiben. Die Aktie der Deutschen Bank fiel um rund 2 % und war erneut schwächster Dax-Wert; am Dienstag hatte sie nach Berichten über ein großes Datenleck und lasche Geldwäschekontrollen 6 % eingebüßt.",
-          "source": "onvista/Reuters, 18.11.",
-          "url": "https://www.onvista.de/news/2026/11-18-dax-stabilisiert-sich-keine-euphorie-nach-nvidia-zahlen-0-20-26577719"
-        },
-        {
-          "tag": "Wirtschaft · EZB",
-          "title": "Kabinett soll heute Markus Brunnermeier als EZB-Chefvolkswirt vorschlagen",
-          "text": "Die Bundesregierung will den 57-jährigen Princeton-Ökonomen Markus Brunnermeier als Nachfolger von EZB-Chefvolkswirt Philip Lane ins Rennen schicken; der Kabinettsbeschluss war laut Tagesspiegel für Mittwoch vorgesehen. Den Vorschlag hat Finanzminister Lars Klingbeil dem Kanzler unterbreitet. Lane scheidet Mitte 2027 aus; die Entscheidung trifft der Europäische Rat nach Anhörung von EU-Parlament und EZB-Rat, sie soll noch in diesem Jahr fallen.",
-          "source": "Tagesspiegel, 17.11.",
-          "url": "https://www.tagesspiegel.de/politik/spitzenjob-fur-deutschen-okonomen-brunnermeier-soll-chefvolkswirt-der-ezb-werden-16293219.html"
+          "title": "Dax rutscht am Nachmittag unter 26.000 Punkte – Deutsche Bank verliert weitere 2,5 %",
+          "text": "Der Dax hat seine Erholung vom Morgen abgegeben und lag um 14:41 Uhr laut dpa-AFX rund 0,4 % im Minus bei etwa 25.950 Punkten; er fiel damit erstmals seit Ende Oktober unter seine 21-Tage-Linie. Der Schub durch die Nvidia-Zahlen ließ nach, zudem warten Anleger auf den Anthropic-Börsengang und das Dreiertreffen in China. Die Aktie der Deutschen Bank gab am Nachmittag rund 2,5 % auf 30,17 Euro nach, nachdem sie am Dienstag nach Berichten über ein Datenleck 6 % verloren hatte. Siemens Energy führte den Dax mit plus 3,5 % an; Deutz brach nach dem Bericht eines Leerverkäufers zeitweise um 18,5 % ein.",
+          "source": "ariva/dpa-AFX, 18.11.",
+          "url": "https://www.ariva.de/news/aktien-frankfurt-dax-rutscht-unter-26-000-punkte-12212009"
         }
       ]
     },
@@ -74,31 +74,31 @@
       "items": [
         {
           "tag": "Verkehr · Polizei",
-          "title": "Ukraine-Gipfel ab Donnerstag: Mehr als 20 Staats- und Regierungschefs erwartet, Sperrungen bis ins Wochenende",
-          "text": "Zum Treffen der „Koalition der Willigen“ am Donnerstag werden laut Tagesspiegel mehr als 20 Staats- und Regierungschefs erwartet, darunter Emmanuel Macron und Andy Burnham; einige reisen schon am Mittwochabend an. Der Berliner Morgenpost zufolge soll auch der ukrainische Präsident Selenskyj kommen, für den die höchste Gefährdungsstufe gilt. Die Verkehrsinformationszentrale kündigt Sperrungen für Donnerstag, Freitag und das Wochenende an, konkrete Straßen und Zeiten nennt die Polizei weiterhin nicht. Am Freitag folgen das Deutsch-Ukrainische Wirtschaftsforum an der Mühlendammbrücke und bis Montag die Nato-Parlamentarierversammlung im Hotel Intercontinental. Die Gewerkschaft der Polizei rechnet mit rund 3.000 Einsatzkräften.",
+          "title": "Ukraine-Gipfel: Polizei rechnet ab Donnerstagfrüh mit Einschränkungen im ganzen Stadtgebiet – am BER schon ab heute",
+          "text": "Zum Treffen der „Koalition der Willigen“ am Donnerstag erwartet die Bundesregierung mehr als 20 Staats- und Regierungschefs, darunter Emmanuel Macron und Andy Burnham; einige reisen schon am Mittwochabend an. Laut Tagesspiegel rechnet die Polizei ab Donnerstagfrüh mit Einschränkungen im gesamten Stadtgebiet, vor allem im Regierungsviertel; konkrete Straßen und Zeiten nennt sie aus Sicherheitsgründen nicht. Die Brandenburger Polizei warnt von Mittwoch bis Freitag vor teils erheblichen Behinderungen rund um den Flughafen BER, Fluggäste sollen mehr Zeit einplanen. Wolodymyr Selenskyj soll am Donnerstag kommen, laut Politico werden auch die US-Gesandten Steve Witkoff und Jared Kushner erwartet. Die Gewerkschaft der Polizei rechnet mit rund 3.000 Einsatzkräften.",
           "source": "Tagesspiegel, 18.11.",
-          "url": "https://www.tagesspiegel.de/berlin/ukraine-gipfel-und-gen-z-regelt-tausende-polizeikrafte-und-massive-sperrungen-in-berlin-erwartet-16297102.html"
+          "url": "https://www.tagesspiegel.de/berlin/selenskyj-besuch-und-gen-z-regelt-massive-sperrungen-in-berlin-erwartet--reisende-mussen-am-ber-mehr-zeit-einplanen-16297102.html"
         },
         {
           "tag": "S-Bahn · Verkehr",
-          "title": "S-Bahn am Morgen gestört: S8 und S85 nach Vandalismus verkürzt, S42 wird umgeleitet",
-          "text": "Wegen eines Vandalismusschadens am Bahnhof Schönhauser Allee fuhr die S8 am Mittwochmorgen nur zwischen Wildau und Grünau, die S85 endete am Nordbahnhof statt in Pankow oder Frohnau. Die Ringbahnlinie S42 wurde wegen einer Weichenreparatur in Neukölln zwischen Neukölln und Treptower Park über Baumschulenweg und Schöneweide umgeleitet; zur Sonnenallee fährt ersatzweise der Bus M41. Wie lange die Einschränkungen dauern, war am Morgen offen. Am Abend zieht von 18 bis 20 Uhr eine Demonstration vom S-Bahnhof Humboldthain zur Gustav-Meyer-Allee, ab 19:30 Uhr sorgt ein Konzert in der Uber Arena für mehr Verkehr; im Tunnel Britz der A100 ist nachts von 21 bis 5 Uhr je Richtung nur ein Fahrstreifen frei.",
-          "source": "t-online, 18.11.",
-          "url": "https://berlin.t-online.de/region/berlin/id_101534024/s-bahn-berlin-aktuell-stoerung-auf-linien-s8-s85-und-s42-alternativen.html"
+          "title": "S-Bahn: Reparaturen in Neukölln und Johannisthal bremsen sieben Linien – Vandalismus-Störung behoben",
+          "text": "Wegen Reparaturen an einer Weiche in Neukölln und einem Signal in Johannisthal kommt es laut dpa (Stand 14:52 Uhr) auf S41, S42, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen. Die S42 wird zwischen Neukölln und Treptower Park über Baumschulenweg und Schöneweide umgeleitet, zur Sonnenallee fährt der Bus M41; die S46 fährt nur alle 20 Minuten, die S8 nur zwischen Wildau und Grünau. Die Störung nach dem Vandalismusschaden vom Morgen ist dem Bericht zufolge behoben; wie lange die Reparaturen dauern, ist offen. Am Abend zieht von 18 bis 20 Uhr eine Demonstration vom S-Bahnhof Humboldthain zur Gustav-Meyer-Allee, ab 19:30 Uhr sorgt ein Konzert in der Uber Arena für mehr Verkehr; im Tunnel Britz der A100 ist nachts von 21 bis 5 Uhr je Richtung nur ein Fahrstreifen frei.",
+          "source": "Tagesspiegel/dpa, 18.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-zahlreiche-berliner-s-bahn-linien-beeintrachtigt--auch-ringbahn-betroffen-16296974.html"
         },
         {
           "tag": "Landespolitik",
-          "title": "Rot-Grün-Rot: Parteispitzen tagen zum dritten Mal – Ergebnisse für den Nachmittag angekündigt",
-          "text": "Die Spitzen von Linken, Grünen und SPD sind am Mittwoch im Abgeordnetenhaus zur dritten Runde ihrer sogenannten Dachgruppe zusammengekommen. Auf der Tagesordnung stehen die Präambel des Koalitionsvertrags und die Regeln der Zusammenarbeit; am Nachmittag wollen die Parteien über Ergebnisse berichten. Die 14 Fachgruppen sollen ab Ende November liefern, der Vertrag soll Anfang Januar 2027 stehen, danach sind Mitgliederbefragungen geplant. Über den Ausschluss der Abgeordneten Vanessa Emde stimmt die Linksfraktion voraussichtlich am 24. November ab.",
-          "source": "ariva/dpa-AFX, 18.11.",
-          "url": "https://www.ariva.de/news/berlin-parteispitzen-setzen-rot-gruen-rote-12211623"
+          "title": "Rot-Grün-Rot: Dritte Spitzenrunde berät Präambel und Regeln der Zusammenarbeit – Ergebnisse stehen noch aus",
+          "text": "Die Spitzen von Linken, Grünen und SPD sind am Mittwoch im Abgeordnetenhaus zur dritten Runde ihrer sogenannten Dachgruppe zusammengekommen. Auf der Tagesordnung stehen die Präambel des Koalitionsvertrags und die Regeln der Zusammenarbeit; die Parteien wollten am Nachmittag über Ergebnisse berichten, bis zu diesem Stand lagen dazu noch keine Meldungen vor. Die Fachgruppen sollen ab Ende November erste Entwürfe liefern, der Vertrag soll Anfang Januar 2027 stehen, danach sind Mitgliederbefragungen geplant. Über den Ausschluss der Abgeordneten Vanessa Emde stimmt die Linksfraktion voraussichtlich am 24. November ab.",
+          "source": "Tagesspiegel/dpa, 18.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-regierungsbildung-in-berlin-parteispitzen-setzen-rot-grun-rote-koalitionsgesprache-fort-16296819.html"
         },
         {
           "tag": "Demos · Freitag",
           "title": "„Gen Z regelt“: Großdemo abgesagt, am Freitag zwei Proteste mit je 5.000 erwarteten Teilnehmern",
-          "text": "Die für Freitag angemeldete Großdemonstration mit 15.000 Teilnehmern findet laut Tagesspiegel nicht statt. Stattdessen zieht um 11:30 Uhr ein Schulstreik gegen die Wehrpflicht vom Alexanderplatz zum Mariannenplatz, um 14:30 Uhr folgt eine Kundgebung der Bundesschülerkonferenz am Brandenburger Tor; erwartet werden jeweils 5.000 Menschen. Die Proteste fallen mit dem Deutsch-Ukrainischen Wirtschaftsforum und dem Beginn der Nato-Parlamentarierversammlung zusammen. Außerdem durchsuchte die Polizei am Dienstag eine Wohnung in Tiergarten wegen des Verdachts auf illegal beschaffte Kriegswaffen; Waffen wurden nicht gefunden, ein Telefon wurde sichergestellt.",
+          "text": "Die für Freitag angemeldete Großdemonstration mit 15.000 Teilnehmern findet laut Tagesspiegel nicht statt. Stattdessen zieht um 11:30 Uhr ein Schulstreik gegen die Wehrpflicht vom Alexanderplatz zum Mariannenplatz, dazu sind vier Zubringer-Demos geplant; um 14:30 Uhr folgt eine Kundgebung der Bundesschülerkonferenz am Brandenburger Tor. Erwartet werden jeweils 5.000 Menschen. Die Proteste fallen mit dem Deutsch-Ukrainischen Wirtschaftsforum und dem Beginn der Nato-Parlamentarierversammlung im Hotel Intercontinental zusammen, rund um das Hotel an der Budapester Straße gibt es bis Montag Einschränkungen.",
           "source": "Tagesspiegel, 18.11.",
-          "url": "https://www.tagesspiegel.de/berlin/ukraine-gipfel-und-gen-z-regelt-tausende-polizeikrafte-und-massive-sperrungen-in-berlin-erwartet-16297102.html"
+          "url": "https://www.tagesspiegel.de/berlin/selenskyj-besuch-und-gen-z-regelt-massive-sperrungen-in-berlin-erwartet--reisende-mussen-am-ber-mehr-zeit-einplanen-16297102.html"
         }
       ]
     },
@@ -108,17 +108,17 @@
       "items": [
         {
           "tag": "Iran · Golf",
-          "title": "Iran weitet Angriffe aus: US-Stützpunkt in Kuwait beschossen, Bahrain fängt erneut Geschosse ab",
-          "text": "Irans Armee erklärte, sie habe Drohnen- und Raketenstellungen der USA auf dem kuwaitischen Stützpunkt Ali Al Salem angegriffen; es ist der erste iranische Angriff auf Kuwait seit September. Bahrain meldete am Mittwoch zum dritten Mal in dieser Woche abgefangene iranische Angriffe, die saudisch geführte Koalition den Abschuss eines Marschflugkörpers der Huthi mit Ziel Riad. Vorausgegangen war am Dienstagabend ein US-Luftangriff auf eine Raketenstellung der Revolutionsgarden auf der Insel Qeschm. Nach dem Angriff auf ein Schiff der emiratischen ADNOC in der Straße von Hormus wird ein Besatzungsmitglied vermisst, elf wurden verletzt. US-Außenminister Marco Rubio sieht keine unmittelbare Bedrohung für Washington, nachdem CNN über einen möglichen iranischen Anschlagsplan berichtet hatte; Teheran nennt die Vorwürfe haltlos.",
-          "source": "RTÉ/Reuters, 18.11.",
-          "url": "https://www.rte.ie/news/middle-east/2026/1118/1599631-iran-us/"
+          "title": "Iran greift US-Stellungen in Kuwait an und beschießt Bahrain – Koalition trifft 60 Huthi-Ziele im Jemen",
+          "text": "Irans Armee erklärte, ihre Drohnen hätten Patriot-Flugabwehrsysteme und Abschussrampen der USA auf dem kuwaitischen Stützpunkt Ali Al Salem getroffen; Kuwait sprach von abgefangenen Angriffen und einer eklatanten Verletzung seiner Souveränität. Bahrain fing vor Tagesanbruch mehrere iranische Angriffe ab, Opfer wurden aus beiden Ländern nicht gemeldet. Die saudisch geführte Koalition griff am frühen Mittwoch 60 militärische Ziele der Huthi in Sanaa, Amran, Saada und Hodeida an. Vorausgegangen war am Dienstag ein US-Angriff auf eine Raketenstellung der Revolutionsgarden auf der Insel Qeschm. In der Straße von Hormus wurden ein Schiff der emiratischen ADNOC (ein Vermisster, elf Verletzte) und der Gastanker Tara Gas getroffen; Irans Armeechef Amir Hatami drohte bei weiteren Angriffen mit einer Antwort „ohne geografische Grenzen“.",
+          "source": "The National, 18.11.",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/11/18/iran-attacks-kuwait-in-widening-escalation/"
         },
         {
           "tag": "USA · China",
-          "title": "Trump in Shenzhen gelandet – Xi empfängt ihn am Flughafen, Dreiertreffen mit Putin am Donnerstag",
-          "text": "US-Präsident Donald Trump ist nach seinem Besuch in Manila zum Apec-Gipfel im chinesischen Shenzhen gereist und wurde dort von Staatschef Xi Jinping auf dem Rollfeld begrüßt. Wladimir Putin war bereits zuvor eingetroffen und traf Xi zu einem Gespräch. Am Donnerstag kommen die drei erstmals zu einem Dreiertreffen zusammen; Trump will über die Begrenzung von Atomwaffen und ein Ende des Ukraine-Kriegs sprechen, Beobachter erwarten laut NPR keine Durchbrüche. In Manila hatte Trump ein Handelsabkommen mit den Philippinen verkündet, Einzelheiten wurden nicht veröffentlicht.",
-          "source": "NPR/WFSU, 18.11.",
-          "url": "https://news.wfsu.org/npr-news/2026-11-18/trump-lands-in-china-with-key-meetings-with-xi-and-putin-on-the-agenda"
+          "title": "Trump in Shenzhen: Xi empfängt ihn mit Umarmung am Flughafen – Dreiertreffen mit Putin am Donnerstag",
+          "text": "US-Präsident Donald Trump ist zum Apec-Gipfel im chinesischen Shenzhen eingetroffen und wurde von Staatschef Xi Jinping persönlich am Flughafen begrüßt; den zuvor angereisten Wladimir Putin hatte Xi dort nicht abgeholt. Am Donnerstag kommen die drei erstmals zu einem Dreiertreffen hinter verschlossenen Türen zusammen. Trump will über ein Ende des Ukraine-Kriegs sprechen, das er für „sehr nah“ hält, und deutete eine Verlängerung der Handelspause mit China an; Taiwan will er nicht von sich aus ansprechen. Xi warb für offenen Handel und kündigte Zollsenkungen an, Putin kritisierte Sanktionen und Exportbeschränkungen.",
+          "source": "Euronews/Yahoo, 18.11.",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-arrives-china-unprecedented-trilateral-123139275.html"
         },
         {
           "tag": "Ukraine",
@@ -149,47 +149,47 @@
       "items": [
         {
           "tag": "Tech · Aktien",
-          "title": "Nvidia-Erleichterung hält nicht lange – heute Preisfestlegung beim Anthropic-Börsengang",
-          "text": "Nvidia hat im dritten Geschäftsquartal 115,8 Mrd. $ umgesetzt (plus 103 %) und stellt rund 130 Mrd. $ für das laufende Quartal in Aussicht. Die Futures auf den Nasdaq 100 lagen am Vormittag laut FinanceFeeds 0,8 % im Plus, die auf den S&P 500 0,5 %; in Asien und Europa verpuffte der Schub aber weitgehend, der Dax hält nur ein kleines Plus. Der Verwaltungsrat bekräftigte, Jensen Huang nicht zurückzuholen. Anthropic will heute den Ausgabepreis nennen: Die Spanne liegt bei 70 bis 78 $ je Aktie, der erste Handelstag an der Nasdaq unter dem Kürzel ANT ist Berichten zufolge für Donnerstag geplant.",
-          "source": "FinanceFeeds, 18.11.",
-          "url": "https://financefeeds.com/bitcoin-price-nvidia-fed-minutes/",
-          "impact": "Krypto folgt weiter der Stimmung bei KI- und Technologiewerten, hat vom Nvidia-Bericht aber kaum profitiert. Einige Analysten bringen die jüngsten Verkäufe laut Aktiencheck mit Liquidität in Verbindung, die für den Anthropic-Börsengang gebunden wird."
+          "title": "Wall Street startet uneinheitlich – Anthropic-Ausgabepreis könnte laut WSJ über 80 $ liegen",
+          "text": "Zum Handelsstart legte der S&P 500 laut Reuters 0,21 % auf 7.355,69 Punkte zu, der Nasdaq Composite 0,65 %, während der Dow Jones 0,26 % nachgab; kurz darauf drehte der S&P 500 leicht ins Minus, und Nvidia gab einen Teil der Gewinne nach den Quartalszahlen (Umsatz 115,8 Mrd. $, plus 103 %) wieder ab. Anthropic legt den Ausgabepreis nach US-Börsenschluss fest: Die Spanne lag bisher bei 70 bis 78 $ für 825 Millionen Aktien, laut Wall Street Journal könnte der Preis wegen der hohen Nachfrage über 80 $ liegen. Reuters hatte zuvor von einer rund sechsfachen Überzeichnung berichtet; der erste Handelstag an der Nasdaq unter dem Kürzel ANT ist für Donnerstag geplant.",
+          "source": "MarketScreener/Reuters, 18.11.",
+          "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-open-higher-as-nvidia-forecast-eases-ai-jitters-ce785eddda8bf223",
+          "impact": "Krypto hat vom Nvidia-Bericht kaum profitiert. Ob der Börsengang Geld aus Bitcoin abzieht, ist umstritten: Von CoinDesk befragte Analysten sehen dafür keine Belege und verweisen auf Zinserwartungen und schwindende Liquidität, VanEck-Analyst Matthew Sigel nennt eine Kreditverknappung als Ursache."
         },
         {
           "tag": "Markt",
-          "title": "Bitcoin bei rund 64.600 $ seitwärts – Ether bei 1.809 $, Stimmung weiter „extreme Angst“",
-          "text": "Bitcoin notierte um 09:41 Uhr MEZ laut finanzen.net bei 64.619 $ und damit 0,4 % unter dem Vortageswert, Ether bei 1.809 $ (minus 0,7 %). Der Fear-and-Greed-Index steht bei 11 und damit den sechsten Tag in Folge im Bereich „extreme Angst“. In den 24 Stunden bis zum Vormittag wurden laut CoinGlass Positionen über 402,8 Mio. $ zwangsweise aufgelöst, 65 % davon Wetten auf steigende Kurse. Als Marken gelten das Dienstagstief bei 63.284 $ und das Wochentief bei 62.018 $, nach oben rund 65.300 $; auf Wochensicht liegt Bitcoin gut 12 % im Minus.",
+          "title": "Bitcoin gibt weiter nach: mittags 64.131 $, danach zeitweise rund 63.200 $ – Ether unter 1.800 $",
+          "text": "Bitcoin notierte um 12:31 Uhr MEZ laut finanzen.net bei 64.131 $ und damit 1,1 % unter dem Vortageswert, Ether bei 1.796 $ (minus 1,4 %). Danach fiel Bitcoin laut Finwire zeitweise auf rund 63.200 $ und erholte sich wieder in Richtung 64.000 $; die aufgelösten Derivatepositionen näherten sich laut CoinGlass 500 Mio. $, davon mehr als 100 Mio. $ binnen einer Stunde, überwiegend Wetten auf steigende Kurse. Der Fear-and-Greed-Index steht bei 11 („extreme Angst“). Das offene Volumen an Bitcoin-Derivaten sank laut CryptoQuant am Dienstag auf 20,5 Mrd. $, den tiefsten Stand seit Ende 2024.",
           "source": "finanzen.net, 18.11.",
-          "url": "https://www.finanzen.at/nachrichten/devisen/kryptokurse-am-mittwochvormittag-1036778070",
-          "impact": "Der Kurs bleibt in der engen Spanne zwischen rund 62.000 und 65.300 $, in der Glassnode zugleich eine Zone mit vielen Käufern sieht. Ein Impuls in die eine oder andere Richtung kann vom Fed-Protokoll am Abend kommen."
+          "url": "https://www.finanzen.at/nachrichten/devisen/so-entwickeln-sich-bitcoin-ripple-&-co-am-mittag-am-kryptomarkt-1036778595",
+          "impact": "Der Kurs testet erneut den Bereich um das Dienstagstief von rund 63.300 $; darunter liegt das Wochentief bei rund 62.000 $. Weniger Hebel im Markt senkt das Risiko von Kettenverkäufen, nimmt einer schnellen Erholung aber auch den Schwung."
         },
         {
           "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs verlieren am Dienstag 239,9 Mio. $ – auch Ether-Fonds mit Abflüssen",
-          "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Dienstag laut SoSoValue Nettoabflüsse von 239,9 Mio. $, davon 209,5 Mio. $ bei BlackRocks IBIT; am Montag hatte es einen kleinen Zufluss von 8,0 Mio. $ gegeben. Das verwaltete Vermögen der Fonds liegt bei 79,65 Mrd. $. Glassnode zählt für die zehn Handelstage bis zum 13. November Abflüsse von 2,6 Mrd. $. Aus den Ether-ETFs flossen am Dienstag 29,1 Mio. $ ab, davon 27,6 Mio. $ aus dem ETHA, nach 8,4 Mio. $ am Montag.",
+          "title": "Bitcoin-ETFs verlieren am Dienstag 239,9 Mio. $ – dritte Abflusswoche in Folge, Krypto-Aktien schwach",
+          "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Dienstag laut SoSoValue Nettoabflüsse von 239,9 Mio. $, davon 209,5 Mio. $ bei BlackRocks IBIT; am Montag hatte es einen kleinen Zufluss von rund 8 Mio. $ gegeben. In der Woche bis 13. November flossen 1,07 Mrd. $ ab, die dritte Abflusswoche in Folge. Aus den Ether-ETFs wurden am Dienstag 29,1 Mio. $ abgezogen, der dritte Tag mit Abflüssen. Die Aktie von Strategy schloss am Dienstag 6,3 % tiefer bei 96,50 $, Coinbase fiel um 4,0 % auf 115,02 $.",
           "source": "FinanceFeeds, 18.11.",
           "url": "https://financefeeds.com/bitcoin-price-nvidia-fed-minutes/",
-          "impact": "Der Zufluss vom Montag blieb eine Ausnahme: Institutionelle Anleger ziehen weiter Geld ab, bei Bitcoin wie bei Ether. Solange das anhält, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage."
+          "impact": "Institutionelle Anleger ziehen weiter Geld ab, bei Bitcoin wie bei Ether. Solange das anhält, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage."
         },
         {
-          "tag": "Fed · Dollar · Gold",
-          "title": "Vor dem Fed-Protokoll: Zinserhöhung im Dezember fast vollständig eingepreist, Gold unter 3.800 $",
-          "text": "Um 20 Uhr MEZ erscheint das Protokoll der Fed-Sitzung vom 27./28. Oktober, bei der der Leitzins bei 3,75 bis 4,00 % blieb und Lisa Cook und Beth Hammack für eine Erhöhung stimmten. Für die Sitzung am 8./9. Dezember ist ein Viertelpunkt-Schritt laut CME FedWatch zu 95,7 % eingepreist; bis September 2027 rechnen Händler laut Bloomberg mit mehr als 0,8 Prozentpunkten Straffung. Die zehnjährige US-Rendite liegt bei 5,11 %, der Dollar-Index laut Aktiencheck auf dem höchsten Stand seit April 2025. Gold fiel auf 3.792 $ je Unze und damit auf den tiefsten Stand seit über einem Jahr, Silber gab 2,6 % auf 46,12 $ nach.",
-          "source": "FinanceFeeds, 18.11.",
-          "url": "https://financefeeds.com/bitcoin-price-nvidia-fed-minutes/",
+          "tag": "Fed · Renditen · Gold",
+          "title": "Vor dem Fed-Protokoll um 20 Uhr: Zinserhöhung im Dezember fast vollständig eingepreist, US-Rendite bei 5,09 %",
+          "text": "Um 20 Uhr MEZ erscheint das Protokoll der Fed-Sitzung vom 27./28. Oktober, bei der der Leitzins mit zehn zu zwei Stimmen bei 3,75 bis 4,00 % blieb; Lisa Cook und Beth Hammack stimmten für eine Erhöhung. Für den 9. Dezember ist ein Viertelpunkt-Schritt laut CME FedWatch je nach Bericht zu rund 91 bis 96 % eingepreist. Die zehnjährige US-Rendite lag am Mittag bei 5,09 %, die zweijährige bei 4,79 %. Gold fiel laut Anadolu auf 3.792 $ je Unze und damit auf den tiefsten Stand seit über einem Jahr.",
+          "source": "CoinDesk, 18.11.",
+          "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
           "impact": "Hohe Renditen und ein starker Dollar ziehen Liquidität aus riskanten und zinslosen Anlagen ab. Zeigt das Protokoll, dass über Cook und Hammack hinaus weitere Fed-Mitglieder eine Erhöhung befürworten, könnte das den Druck auf Bitcoin erhöhen."
         },
         {
           "tag": "Termin",
           "title": "Mi 18.11.: Protokoll der Fed-Sitzung vom Oktober",
-          "text": "Hinweise auf den Zinsschritt im Dezember, 20:00 Uhr MEZ. Dazu die Preisfestlegung beim Anthropic-Börsengang und am Nachmittag Ergebnisse der rot-grün-roten Spitzenrunde in Berlin.",
+          "text": "Hinweise auf den Zinsschritt im Dezember, 20:00 Uhr MEZ. Nach US-Börsenschluss legt Anthropic den Ausgabepreis fest.",
           "source": "",
           "url": ""
         },
         {
           "tag": "Termin",
           "title": "Do 19.11.: Treffen von Trump, Putin und Xi",
-          "text": "Erstes Dreiertreffen am Rande des Apec-Gipfels in Shenzhen. Dazu „Koalition der Willigen“ mit mehr als 20 Staats- und Regierungschefs in Berlin (Sperrungen) und geplanter erster Handelstag der Anthropic-Aktie unter dem Kürzel ANT.",
+          "text": "Erstes Dreiertreffen am Rande des Apec-Gipfels in Shenzhen. Dazu „Koalition der Willigen“ mit mehr als 20 Staats- und Regierungschefs in Berlin (Einschränkungen im ganzen Stadtgebiet) und geplanter erster Handelstag der Anthropic-Aktie unter dem Kürzel ANT.",
           "source": "",
           "url": ""
         },

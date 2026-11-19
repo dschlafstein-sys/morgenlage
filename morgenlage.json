@@ -1,18 +1,18 @@
 {
-  "date": "Mittwoch, 18. November 2026",
-  "stand": "21:39",
+  "date": "Donnerstag, 19. November 2026",
+  "stand": "01:43",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "62.571 $",
-      "change": "−2,1 % in 24 h",
+      "value": "63.066 $",
+      "change": "−2,6 % in 24 h",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.749 $",
-      "change": "−2,8 % in 24 h",
+      "value": "1.781 $",
+      "change": "−2,1 % in 24 h",
       "dir": "down"
     },
     {
@@ -23,15 +23,15 @@
     },
     {
       "label": "US-Rendite 10 Jahre",
-      "value": "5,09 %",
-      "change": "letzter belegter Wert",
+      "value": "5,10 %",
+      "change": "rund 2 Basispunkte tiefer",
       "dir": "warn"
     }
   ],
   "brief": [
-    "Bund: Nach der Einigung im Koalitionsausschuss sinkt die Stromsteuer zum 1. Januar 2027 auf den EU-Mindestsatz, finanziert ist das nur für 2027. Das Kabinett hat die Arbeitsrechtsreform beschlossen (Befristungen ohne Sachgrund bis zu vier Jahre), Karlsruhe hat die BSW-Wahlbeschwerde verworfen. Der Dax schloss 1,19 % tiefer bei 25.736 Punkten und damit wieder unter 26.000.",
-    "Märkte: Das Fed-Protokoll zeigt, dass fast alle Notenbanker weitere Zinserhöhungen für angemessen halten, zwei brachten einen halben Prozentpunkt ins Spiel; Fed-Gouverneur Waller sprach sich offen für 0,5 Punkte im Dezember aus. Bitcoin fiel auf 62.571 $ (minus 2,1 % in 24 Stunden, Stand 21:34 Uhr MEZ), Ether auf 1.749 $ (minus 2,8 %). Der Ausgabepreis der Anthropic-Aktie wird nach US-Börsenschluss erwartet.",
-    "Welt und Berlin: Trump trifft Putin am Donnerstag in Shenzhen zusätzlich zum Dreiertreffen mit Xi zu einem Zweiergespräch; die EU-Kommission schlägt der Ukraine ein weiteres Darlehen von bis zu 45 Mrd. Euro vor. In Berlin rechnet die Polizei ab Donnerstagfrüh wegen des Ukraine-Gipfels mit Vertretern aus 37 Ländern mit Einschränkungen im ganzen Stadtgebiet. Linke, Grüne und SPD haben sich in ihrer dritten Spitzenrunde auf Grundsätze des Regierens und das Ziel „Vision Zero“ im Straßenverkehr verständigt."
+    "Märkte: Anthropic hat den Ausgabepreis auf 83 $ je Aktie festgelegt, über der Spanne, und nimmt 81,3 Mrd. $ ein – der größte Börsengang der Geschichte, Handelsstart heute an der Nasdaq. Der Dow schloss 1,11 % tiefer, der S&P 500 fiel den fünften Tag in Folge, der Nasdaq legte 0,42 % zu. Bitcoin steht bei 63.066 $ (minus 2,6 % in 24 Stunden, Stand 01:39 Uhr MEZ), Ether bei 1.781 $ (minus 2,1 %); das Fed-Protokoll stützt die Erwartung einer Zinserhöhung im Dezember.",
+    "Welt und Berlin heute: In Shenzhen kommen Trump, Xi und Putin erstmals zu dritt zusammen, eine gemeinsame Erklärung ist offen. In Berlin tagt im Kanzleramt die „Koalition der Willigen“ mit Vertretern aus 37 Ländern: Die Verkehrsinformationszentrale kündigt Sperrungen und kurzfristige Einschränkungen im ganzen Stadtgebiet an. In Schöneberg wurden am Mittwochabend eine Frau und ein Mann durch Schüsse vor einer Bar verletzt.",
+    "Bund: Die Stromsteuer sinkt zum 1. Januar 2027 auf den EU-Mindestsatz, finanziert ist das nur für 2027. Das Kabinett hat die Arbeitsrechtsreform beschlossen (Befristungen ohne Sachgrund bis zu vier Jahre), Karlsruhe hat die BSW-Wahlbeschwerde verworfen. Der Dax schloss am Mittwoch 1,19 % tiefer bei 25.736 Punkten."
   ],
   "sections": [
     {
@@ -41,14 +41,14 @@
         {
           "tag": "Politik",
           "title": "Stromsteuer sinkt ab 2027 auf den EU-Mindestsatz – Wirtschaftsweise kritisieren Befristung und Spritpreisdeckel",
-          "text": "CDU, CSU und SPD haben nach rund acht Stunden im Kanzleramt beschlossen, die Stromsteuer zum 1. Januar 2027 für alle von 2,05 auf 0,1 Cent je Kilowattstunde zu senken; gedeckt ist das laut Cash-Online nur für 2027 aus Rücklagen des EEG-Kontos, dpa-AFX nennt die Finanzierung auch für dieses Jahr unsicher. Ein Spritpreisdeckel soll ab Januar zunächst drei Monate gelten, kalte Progression und Rentenreform wurden vertagt. Die Vorsitzende der Wirtschaftsweisen, Monika Schnitzer, nennt die Steuersenkung grundsätzlich sinnvoll, wegen der Befristung aber eine teure Kurzfristmaßnahme ohne Planungssicherheit; Veronika Grimm warnt beim Preisdeckel vor Folgen für Versorgungssicherheit oder Staatskasse. Auch in der Koalition gibt es Streit über die dauerhafte Finanzierung.",
+          "text": "CDU, CSU und SPD haben nach rund acht Stunden im Kanzleramt beschlossen, die Stromsteuer zum 1. Januar 2027 für alle von 2,05 auf 0,1 Cent je Kilowattstunde zu senken; gedeckt ist das laut Cash-Online nur für 2027 aus Rücklagen des EEG-Kontos, dpa-AFX nennt die Finanzierung auch für dieses Jahr unsicher. Ein Spritpreisdeckel soll ab Januar zunächst drei Monate gelten, kalte Progression und Rentenreform wurden vertagt. Die Vorsitzende der Wirtschaftsweisen, Monika Schnitzer, nennt die Steuersenkung grundsätzlich sinnvoll, wegen der Befristung aber eine teure Kurzfristmaßnahme ohne Planungssicherheit; Veronika Grimm warnt beim Preisdeckel vor Folgen für Versorgungssicherheit oder Staatskasse. Auch in der Koalition gibt es Streit über die dauerhafte Finanzierung. Nach einem „Bild“-Bericht, der sich auf Teilnehmer beruft, soll Kanzler Merz die Runde gegen Mitternacht zeitweise verlassen haben; Unionsfraktionschef Thorsten Frei wies zurück, dass Merz mit einem Abbruch gedroht habe.",
           "source": "Cash-Online, 18.11.",
           "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
         },
         {
           "tag": "Arbeitsrecht · Unternehmer",
           "title": "Kabinett beschließt Arbeitsrechtsreform: Befristungen bis zu vier Jahre – Kritik von Böckler-Stiftung und Führungskräften",
-          "text": "Das Bundeskabinett hat den Gesetzentwurf von Arbeitsminister Alexander Schweitzer (SPD) früher als geplant gebilligt. Befristungen ohne Sachgrund sollen für Einstellungen bis Ende 2030 bis zu vier statt zwei Jahre möglich sein und sich bis zu sechsmal verlängern lassen, auch beim früheren Arbeitgeber. Für Beschäftigte ab rund 180.000 Euro Jahresgehalt können Firmen künftig ohne Begründung eine Abfindung anbieten; das betrifft laut Experten etwa 0,27 % der Beschäftigten. Die gewerkschaftsnahe Hans-Böckler-Stiftung warnt vor Kettenbefristungen, der Führungskräfteverband sieht einen möglichen Präzedenzfall für weitere Beschäftigtengruppen. Das Gesetz soll Anfang 2027 in Kraft treten und braucht keine Zustimmung des Bundesrats.",
+          "text": "Das Bundeskabinett hat den Gesetzentwurf von Arbeitsminister Alexander Schweitzer (SPD) früher als geplant gebilligt. Befristungen ohne Sachgrund sollen für Einstellungen bis Ende 2030 bis zu vier statt zwei Jahre möglich sein und sich bis zu sechsmal verlängern lassen, auch beim früheren Arbeitgeber. Für Beschäftigte ab rund 180.000 Euro Jahresgehalt können Firmen künftig ohne Begründung eine Abfindung anbieten; das betrifft laut Experten etwa 0,27 % der Beschäftigten. Die gewerkschaftsnahe Hans-Böckler-Stiftung warnt vor Kettenbefristungen, der Führungskräfteverband sieht einen möglichen Präzedenzfall für weitere Beschäftigtengruppen. Das Gesetz soll Anfang 2027 in Kraft treten und braucht keine Zustimmung des Bundesrats. Das Kabinett beschloss am Mittwoch laut ZDFheute außerdem, Alleinerziehenden mit mehr als 4.500 Euro Bruttoeinkommen ab 2029 den Unterhaltsvorschuss zu streichen und Bibliotheken die Sonntagsöffnung zu ermöglichen.",
           "source": "ariva/dpa-AFX, 18.11.",
           "url": "https://www.ariva.de/news/roundup-2-regierung-erleichtert-befristungen-von-jobs-12212304"
         },
@@ -61,8 +61,8 @@
         },
         {
           "tag": "Wirtschaft · Börse",
-          "title": "Dax schließt 1,19 % im Minus bei 25.736 Punkten – Deutz bricht um fast 17 % ein",
-          "text": "Der Dax ist am Mittwoch um 1,19 % auf 25.736,24 Punkte gefallen und hat damit die Marke von 26.000 Punkten und erstmals seit Ende Oktober seine 21-Tage-Linie unterschritten; der MDax verlor 0,89 % auf 29.878,63 Punkte. Laut dpa-AFX folgte der Markt der schwachen Wall Street, der Schub durch die Nvidia-Zahlen hielt nicht an, und Anleger blieben vor dem Dreiergipfel in China und dem Anthropic-Börsengang vorsichtig. Deutz verlor nach dem Bericht eines Leerverkäufers fast 17 % und will die Vorwürfe prüfen; Zalando stieg nach einem Aktienkauf des Großaktionärs um 2,8 %, Drägerwerk nach neuen Zielen um 6,6 %. Die Inflation im Euroraum lag im Oktober bestätigt bei 4,0 %, dem höchsten Stand seit September 2023.",
+          "title": "Dax schloss am Mittwoch 1,19 % im Minus bei 25.736 Punkten – GLS und DPD planen Gemeinschaftsunternehmen",
+          "text": "Der Dax ist am Mittwoch um 1,19 % auf 25.736,24 Punkte gefallen und hat damit die Marke von 26.000 Punkten und erstmals seit Ende Oktober seine 21-Tage-Linie unterschritten; der MDax verlor 0,89 % auf 29.878,63 Punkte. Laut dpa-AFX folgte der Markt der schwachen Wall Street, der Schub durch die Nvidia-Zahlen hielt nicht an, und Anleger blieben vor dem Dreiergipfel in China und dem Anthropic-Börsengang vorsichtig. Deutz verlor nach dem Bericht eines Leerverkäufers fast 17 % und will die Vorwürfe prüfen; Zalando stieg nach einem Aktienkauf des Großaktionärs um 2,8 %, Drägerwerk nach neuen Zielen um 6,6 %. Die Inflation im Euroraum lag im Oktober bestätigt bei 4,0 %, dem höchsten Stand seit September 2023. Aus den Unternehmen: GLS und DPD planen laut ZDFheute ein Gemeinschaftsunternehmen für ihr deutsches Paketgeschäft, an dem GLS 80 % halten soll; VW-Chef Oliver Blume will für die vier bedrohten Werke spätestens im Sommer Klarheit.",
           "source": "ariva/dpa-AFX, 18.11.",
           "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-rutscht-wieder-unter-12212378"
         }
@@ -73,11 +73,18 @@
       "title": "Berlin",
       "items": [
         {
-          "tag": "Verkehr · Polizei",
-          "title": "Ukraine-Gipfel am Donnerstag: Vertreter aus 37 Ländern erwartet – Einschränkungen im ganzen Stadtgebiet ab dem frühen Morgen",
-          "text": "Zum Treffen der „Koalition der Willigen“ auf Einladung von Kanzler Friedrich Merz werden laut ZDFheute Vertreter aus 37 Ländern erwartet, überwiegend Staats- und Regierungschefs, darunter Wolodymyr Selenskyj, Emmanuel Macron, Andy Burnham sowie die US-Gesandten Steve Witkoff und Jared Kushner; für den Nachmittag ist eine Pressekonferenz geplant. Laut Tagesspiegel rechnet die Polizei ab Donnerstagfrüh mit Einschränkungen im gesamten Stadtgebiet, vor allem im Regierungsviertel; konkrete Straßen und Zeiten nennt sie aus Sicherheitsgründen nicht. Die Brandenburger Polizei warnt von Mittwoch bis Freitag vor teils erheblichen Behinderungen rund um den Flughafen BER, Fluggäste sollen mehr Zeit einplanen. Die Gewerkschaft der Polizei rechnet mit bis zu 3.000 Einsatzkräften.",
-          "source": "Tagesspiegel, 18.11.",
-          "url": "https://www.tagesspiegel.de/berlin/selenskyj-besuch-und-gen-z-regelt-massive-sperrungen-in-berlin-erwartet--reisende-mussen-am-ber-mehr-zeit-einplanen-16297102.html"
+          "tag": "Verkehr · Polizei · heute",
+          "title": "Ukraine-Gipfel heute im Kanzleramt: Sperrungen und kurzfristige Einschränkungen im ganzen Stadtgebiet",
+          "text": "Zum Treffen der „Koalition der Willigen“ auf Einladung von Kanzler Friedrich Merz werden laut ZDFheute Vertreter aus 37 Ländern erwartet, darunter Wolodymyr Selenskyj, Emmanuel Macron, Andy Burnham sowie die US-Gesandten Steve Witkoff und Jared Kushner; für den Nachmittag ist eine Pressekonferenz geplant. Die Verkehrsinformationszentrale kündigt für heute umfangreiche Sperrungen und kurzzeitige Einschränkungen im gesamten Stadtgebiet an, konkrete Straßen und Zeiten werden aus Sicherheitsgründen nicht genannt. Fest stehen zwei weitere Einschränkungen: Die Dorotheenstraße ist wegen einer Kundgebung von 12 bis 15 Uhr zwischen Neustädtischer Kirchstraße und Friedrichstraße gesperrt, und von 18 bis 21 Uhr zieht eine Demonstration vom Mariannenplatz über Kottbusser Damm und Sonnenallee zur Karl-Marx-Straße. BVG und S-Bahn melden laut Verkehrsvorschau keine neuen baubedingten Einschränkungen; rund um den Flughafen BER warnt die Brandenburger Polizei bis Freitag vor Behinderungen. Die Gewerkschaft der Polizei rechnet mit mindestens 3.000 Einsatzkräften.",
+          "source": "Verkehrsinformationszentrale Berlin (Vorschau), 18.11.",
+          "url": "https://viz.berlin.de/aktuelle-meldungen/vizverkehrsvorschau/"
+        },
+        {
+          "tag": "Polizei",
+          "title": "Schüsse vor einer Bar in Schöneberg: Frau und Mann verletzt, SEK im Einsatz",
+          "text": "Am Mittwochabend gegen 19:30 Uhr sind vor einem Lokal in der Dominicusstraße Schüsse gefallen. Eine Frau und ein Mann kamen verletzt ins Krankenhaus, Lebensgefahr besteht nach ersten Erkenntnissen der Polizei nicht. Schwer bewaffnete Beamte und das Spezialeinsatzkommando rückten an und betraten die Bar, in der es laut dpa zuletzt wiederholt Messerangriffe gegeben haben soll. Ob es Festnahmen gab, war zunächst nicht bekannt; zwei der vier Fahrspuren wurden für die Tatortarbeit gesperrt, Teile der Straße blieben laut t-online über Nacht zu.",
+          "source": "Tagesspiegel/dpa, 18.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-schusse-in-berlin-schoneberg--zwei-verletzte-im-krankenhaus-16300616.html"
         },
         {
           "tag": "Landespolitik",
@@ -87,14 +94,7 @@
           "url": "https://de.headtopics.com/news/nach-todlichem-unfall-rot-grun-rot-will-berlins-stra-en-89969991"
         },
         {
-          "tag": "S-Bahn · Verkehr",
-          "title": "S-Bahn: Reparaturen im Südosten bremsen mehrere Linien – am frühen Abend zusätzlich Feuerwehreinsatz an der Yorckstraße",
-          "text": "Wegen Reparaturen an einer Weiche in Neukölln und einem Signal in Johannisthal kam es laut dpa auf S41, S42, S46, S47, S85 und S9 zu Verspätungen und Ausfällen; die S42 wurde zwischen Neukölln und Treptower Park umgeleitet, die S46 fuhr nur alle 20 Minuten, die S8 nur zwischen Wildau und Grünau. Am frühen Abend waren zudem S2, S25 und S26 zwischen Potsdamer Platz und Südkreuz unterbrochen, weil die Feuerwehr brennenden Abfall von den Gleisen an der Yorckstraße entfernen musste. Wie lange die Reparaturen dauern, ließ der Bericht offen. Die Bauarbeiten auf der Stadtbahn liegen laut Deutscher Bahn im Zeitplan: Fern- und Regionalzüge fahren ab dem Fahrplanwechsel am 13. Dezember wieder durch die Innenstadt.",
-          "source": "Tagesspiegel/dpa, 18.11.",
-          "url": "https://tagesspiegel.de/berlin/dpa-zahlreiche-berliner-s-bahn-linien-beeintrachtigt--auch-ringbahn-betroffen-16296974.html"
-        },
-        {
-          "tag": "Demos · Freitag",
+          "tag": "Demos · morgen",
           "title": "„Gen Z regelt“: Großdemo abgesagt, am Freitag zwei Proteste mit je 5.000 erwarteten Teilnehmern",
           "text": "Die für Freitag angemeldete Großdemonstration mit 15.000 Teilnehmern findet laut Tagesspiegel nicht statt. Stattdessen zieht um 11:30 Uhr ein Schulstreik gegen die Wehrpflicht vom Alexanderplatz zum Mariannenplatz, dazu sind vier Zubringer-Demos geplant; um 14:30 Uhr folgt eine Kundgebung der Bundesschülerkonferenz am Brandenburger Tor. Erwartet werden jeweils 5.000 Menschen. Die Proteste fallen mit dem Deutsch-Ukrainischen Wirtschaftsforum und dem Beginn der Nato-Parlamentarierversammlung im Hotel Intercontinental zusammen, die bis Montag dauert.",
           "source": "Tagesspiegel, 18.11.",
@@ -108,38 +108,38 @@
       "items": [
         {
           "tag": "USA · China · Russland",
-          "title": "Shenzhen: Trump trifft Putin am Donnerstag auch zu zweit – Xi empfing ihn mit Umarmung am Flughafen",
-          "text": "US-Präsident Donald Trump ist am Mittwoch zum Apec-Gipfel im chinesischen Shenzhen eingetroffen und wurde von Staatschef Xi Jinping persönlich am Flughafen begrüßt; Wladimir Putin hatte Xi dort nicht abgeholt. Trump und Putin gaben sich vor dem Bankett der Gipfelteilnehmer die Hand. Am Donnerstag kommen die drei erstmals zu einem Dreiertreffen zusammen; nach Angaben eines US-Beamten, auf den sich dpa beruft, führen Trump und Putin zusätzlich ein Gespräch unter vier Augen. Trump will über ein Ende des Ukraine-Kriegs sprechen und hatte eine Verlängerung der Handelspause mit China angedeutet.",
-          "source": "Tagesspiegel, 18.11.",
-          "url": "https://www.tagesspiegel.de/internationales/gipfeltreffen-in-china-trump-und-putin-treffen-sich-am-donnerstag-fur-ein-zweiergesprach-ohne-xi-16297571.html"
+          "title": "Shenzhen: Heute erstes Dreiertreffen von Trump, Xi und Putin – gemeinsame Erklärung noch offen",
+          "text": "Die Staatschefs der USA, Chinas und Russlands kommen heute am Rande des Apec-Gipfels in Shenzhen erstmals zu dritt zusammen; es soll um nukleare Abrüstung sowie die Kriege in der Ukraine und im Iran gehen. Laut der Nachrichtenagentur Yonhap ist vorher ein Zweiergespräch von Donald Trump und Xi Jinping über Zölle, Seltene Erden und Chip-Beschränkungen angesetzt; nach Angaben eines US-Beamten spricht Trump zudem unter vier Augen mit Wladimir Putin. Über den Entwurf einer gemeinsamen Erklärung wurde bis zuletzt verhandelt, ob sie zustande kommt, ist offen. Ebenfalls unbestätigt ist ein mögliches Treffen Trumps mit Nordkoreas Machthaber Kim Jong Un. Ergebnisse lagen in der Nacht (MEZ) noch nicht vor.",
+          "source": "Korea Times/Yonhap, 19.11.",
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/others/20261119/trump-xi-putin-set-to-hold-historic-trilateral-summit-us-n-korea-meeting-uncertain"
         },
         {
           "tag": "Iran · Golf",
           "title": "Iran greift US-Stellungen in Kuwait und Bahrain an – dritter US-Flugzeugträger in der Region",
-          "text": "Irans Armee erklärte, ihre Drohnen hätten Patriot-Flugabwehrsysteme der USA auf dem kuwaitischen Stützpunkt Ali Al Salem getroffen; Kuwait sprach von abgefangenen Angriffen, auch Bahrain wehrte Angriffe ab, Opfer wurden nicht gemeldet. Die saudisch geführte Koalition griff 60 militärische Ziele der Huthi im Jemen an. Vorausgegangen war am Dienstag ein US-Angriff auf eine Raketenstellung der Revolutionsgarden auf der Insel Qeschm, der erste dort seit fast zwei Wochen. Laut dpa ist mit der „USS Theodore Roosevelt“ ein dritter US-Flugzeugträger in der Region eingetroffen; die Vermittler Katar, Oman und Pakistan äußern sich vorsichtig optimistisch, einen Durchbruch gibt es nicht.",
+          "text": "Irans Armee erklärte, ihre Drohnen hätten Patriot-Flugabwehrsysteme der USA auf dem kuwaitischen Stützpunkt Ali Al Salem getroffen; Kuwait sprach von abgefangenen Angriffen, auch Bahrain wehrte Angriffe ab, Opfer wurden nicht gemeldet. Die saudisch geführte Koalition griff 60 militärische Ziele der Huthi im Jemen an. Vorausgegangen war am Dienstag ein US-Angriff auf eine Raketenstellung der Revolutionsgarden auf der Insel Qeschm, der erste dort seit fast zwei Wochen. Laut dpa ist mit der „USS Theodore Roosevelt“ ein dritter US-Flugzeugträger in der Region eingetroffen; die Vermittler Katar, Oman und Pakistan äußern sich vorsichtig optimistisch, einen Durchbruch gibt es nicht. Das US-Militär äußerte sich laut AP zunächst nicht zu den jüngsten Angriffen; Bahrain löste zweimal Schutzalarm aus und gab danach Entwarnung.",
           "source": "t-online/dpa, 18.11.",
           "url": "https://t-online.de/nachrichten/ausland/id_101534954/neue-angriffe-schueren-sorge-vor-eskalation-im-iran-krieg.html"
         },
         {
           "tag": "Ukraine · EU",
           "title": "EU-Kommission schlägt weiteres Ukraine-Darlehen von bis zu 45 Mrd. Euro vor – vier Länder machen nicht mit",
-          "text": "Das Darlehen soll rund zwei Drittel des zusätzlichen Finanzbedarfs der Ukraine für 2027 decken und den bestehenden Kredit über 90 Mrd. Euro ergänzen; bis zu 25 Mrd. Euro sind für Militärhilfe, bis zu 20 Mrd. Euro für den Haushalt vorgesehen. Die EU würde das Geld am Kapitalmarkt aufnehmen, zurückzahlen müsste Kiew erst nach russischen Reparationen. Tschechien, die Slowakei, Ungarn und Bulgarien wollen sich laut Handelsblatt nicht beteiligen. Die Straßenbrücke zur Krim bleibt nach dem Einsturz eines Bogens gesperrt, russische Behörden meldeten zwei Tote; bei russischen Angriffen auf Odessa und Saporischschja starben mindestens vier Menschen.",
+          "text": "Das Darlehen soll rund zwei Drittel des zusätzlichen Finanzbedarfs der Ukraine für 2027 decken und den bestehenden Kredit über 90 Mrd. Euro ergänzen; bis zu 25 Mrd. Euro sind für Militärhilfe, bis zu 20 Mrd. Euro für den Haushalt vorgesehen. Die EU würde das Geld am Kapitalmarkt aufnehmen, zurückzahlen müsste Kiew erst nach russischen Reparationen. Tschechien, die Slowakei, Ungarn und Bulgarien wollen sich laut Handelsblatt nicht beteiligen. Die Straßenbrücke zur Krim bleibt nach dem Einsturz eines Bogens gesperrt, russische Behörden meldeten zwei Tote; bei russischen Angriffen auf Odessa und Saporischschja starben mindestens vier Menschen. Außenminister Johann Wadephul hält laut ZDFheute eine Beteiligung der USA an Sicherheitsgarantien für die Ukraine für notwendig.",
           "source": "Handelsblatt, 18.11.",
           "url": "https://www.handelsblatt.com/politik/international/ukraine-von-der-leyen-praesentiert-plan-fuer-neuen-ukraine-kredit/27982126.html"
         },
         {
           "tag": "USA",
           "title": "Rubio: Kein Hinweis auf Cyberangriff hinter den US-Störungen – Demokraten nach Alaska-Sieg bei 56 Senatssitzen",
-          "text": "Außenminister Marco Rubio sieht nach eigenen Worten keinerlei Belege dafür, dass die Ausfälle bei Microsoft, der Flugaufsicht FAA, Großbanken und im Netz des Geheimdienstes NSA auf rivalisierende Staaten oder Hacker zurückgehen; er führt sie auf kurzfristige Störungen durch Sicherheitsupdates zurück. In Alaska hat die Demokratin Mary Peltola den republikanischen Senator Dan Sullivan geschlagen, womit die Demokraten ab Januar 56 der 100 Senatoren stellen.",
+          "text": "Außenminister Marco Rubio sieht nach eigenen Worten keinerlei Belege dafür, dass die Ausfälle bei Microsoft, der Flugaufsicht FAA, Großbanken und im Netz des Geheimdienstes NSA auf rivalisierende Staaten oder Hacker zurückgehen; er führt sie auf kurzfristige Störungen durch Sicherheitsupdates zurück. In Alaska hat die Demokratin Mary Peltola den republikanischen Senator Dan Sullivan geschlagen, womit die Demokraten ab Januar 56 der 100 Senatoren stellen. Im Repräsentantenhaus haben die Demokraten Hakeem Jeffries für den Vorsitz nominiert, die formelle Wahl folgt am 3. Januar.",
           "source": "NPR/WFSU, 18.11.",
           "url": "https://news.wfsu.org/npr-news/2026-11-18/trump-lands-in-china-with-key-meetings-with-xi-and-putin-on-the-agenda"
         },
         {
           "tag": "Kurz gemeldet",
-          "title": "Zugunglück in Prag mit 46 Verletzten – Militärflugzeug in Sibirien abgestürzt",
-          "text": "Nahe dem Prager Hauptbahnhof sind zwei Züge zusammengestoßen, 46 Menschen wurden verletzt. Beim Absturz eines Militärflugzeugs in der sibirischen Region Kemerowo kamen alle 19 Insassen ums Leben. Der mongolische Präsident Uchnaagiin Chürelsüch hat inmitten von Korruptionsvorwürfen seinen Rücktritt angekündigt, und Großbritannien verhängte Sanktionen gegen acht Bau- und Immobilienfirmen wegen des Siedlungsausbaus im Westjordanland.",
-          "source": "Anadolu, 18.11.",
-          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-18-2026/4128568"
+          "title": "Hegseth schließt Militärabkommen in Venezuela – IAEA: Nordkorea baut Uran-Anreicherung aus",
+          "text": "US-Verteidigungsminister Pete Hegseth hat Venezuela besucht und nach eigenen Angaben eine Vereinbarung zur militärischen Zusammenarbeit unterzeichnet. Die Internationale Atomenergiebehörde meldet, dass Nordkorea eine Anlage zur Uran-Anreicherung in Yongbyon ausbaut. Im zentralen Gazastreifen sind israelische Panzer trotz der Waffenruhe westlich der sogenannten Gelben Linie vorgerückt. Bereits am Mittwoch gemeldet: ein Zugunglück in Prag mit 46 Verletzten und der Absturz eines Militärflugzeugs in Sibirien mit 19 Toten.",
+          "source": "ZDFheute-Ticker, 18.11.",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         }
       ]
     },
@@ -150,46 +150,39 @@
         {
           "tag": "Fed · Zinsen",
           "title": "Fed-Protokoll: Fast alle Notenbanker halten weitere Zinserhöhungen für angemessen – Waller fordert einen halben Punkt",
-          "text": "Das am Abend veröffentlichte Protokoll der Sitzung vom 27./28. Oktober zeigt laut Berichten, dass nahezu alle Fed-Vertreter weitere Zinserhöhungen für angemessen halten; zwei brachten für Dezember einen Schritt um einen halben Prozentpunkt ins Spiel, und einige, die für die Pause stimmten, nannten die Entscheidung knapp. Im Oktober war der Leitzins mit zehn zu zwei Stimmen bei 3,75 bis 4,00 % geblieben. Fed-Gouverneur Christopher Waller sagte dem Sender CNBC, er befürworte am 8./9. Dezember einen halben Punkt und verwies auf drei Monate in Folge mit 0,3 % Kerninflation. Der Markt preist laut CME FedWatch weiter zu rund 95 % einen Viertelpunkt ein; die zweijährige US-Rendite stieg nach Wallers Äußerungen auf 4,83 %.",
+          "text": "Das am Mittwochabend veröffentlichte Protokoll der Sitzung vom 27./28. Oktober zeigt laut Berichten, dass nahezu alle Fed-Vertreter weitere Zinserhöhungen für angemessen halten; zwei brachten für Dezember einen Schritt um einen halben Prozentpunkt ins Spiel, und einige, die für die Pause stimmten, nannten die Entscheidung knapp. Im Oktober war der Leitzins mit zehn zu zwei Stimmen bei 3,75 bis 4,00 % geblieben. Fed-Gouverneur Christopher Waller sagte dem Sender CNBC, er befürworte am 8./9. Dezember einen halben Punkt und verwies auf drei Monate in Folge mit 0,3 % Kerninflation. Der Markt preist laut CME FedWatch weiter zu rund 95 % einen Viertelpunkt ein; die zweijährige US-Rendite stieg nach Wallers Äußerungen auf 4,83 %. Der Dollar stieg nach dem Protokoll laut Yahoo Finance auf den höchsten Stand seit 19 Monaten, die zehnjährige Rendite blieb mit rund 5,10 % nahe ihren jüngsten Hochs.",
           "source": "Federal Reserve, 18.11.",
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
           "impact": "Ein größerer Zinsschritt als erwartet würde Renditen und Dollar stützen und Liquidität aus riskanten, zinslosen Anlagen abziehen. Auf das Protokoll selbst reagierte der Markt verhalten: Bitcoin und Ether gaben laut Phemex binnen zehn Minuten rund 0,6 bis 0,7 % nach."
         },
         {
           "tag": "Markt",
-          "title": "Bitcoin fällt unter 63.000 $: abends 62.571 $, Ether bei 1.749 $ – Stimmungsindex bei 11",
-          "text": "Bitcoin notierte um 21:34 Uhr MEZ laut CoinDesk bei 62.571 $ und damit 2,1 % unter dem Stand vor 24 Stunden, Ether um 21:36 Uhr bei 1.749 $ (minus 2,8 %). Das Tagestief lag laut CoinGlass bei rund 62.250 $ und damit knapp über dem Tief vom 15. November bei rund 62.000 $. Der Fear-and-Greed-Index steht bei 11 („extreme Angst“). Binnen 24 Stunden wurden laut CoinGlass Derivatepositionen über rund 150 Mio. $ aufgelöst, zu 74 % Wetten auf steigende Kurse. XRP und Solana hielten sich am Nachmittag besser als Bitcoin.",
-          "source": "CoinDesk (Bitcoin), 18.11.",
+          "title": "Bitcoin in der Nacht bei 63.066 $, Ether bei 1.781 $ – leichte Erholung vom Tagestief",
+          "text": "Bitcoin notierte um 01:39 Uhr MEZ laut CoinDesk bei 63.066 $ und damit 2,6 % unter dem Stand vor 24 Stunden; die Spanne der vergangenen 24 Stunden reicht von 62.109 $ bis 64.827 $. Ether stand bei 1.781 $ (minus 2,1 %, Spanne 1.736 $ bis 1.819 $). Das 24-Stunden-Tief von Bitcoin liegt damit nur knapp über dem Tief vom 15. November bei rund 62.000 $. Der Fear-and-Greed-Index stand am Mittwoch bei 11 („extreme Angst“); laut CoinGlass wurden binnen 24 Stunden Derivatepositionen über rund 150 Mio. $ aufgelöst, zu 74 % Wetten auf steigende Kurse.",
+          "source": "CoinDesk (Bitcoin), 19.11.",
           "url": "https://www.coindesk.com/price/bitcoin",
-          "impact": "Der Kurs steht nahe am Tief vom Wochenende; ein Bruch darunter wäre ein neues Mehrmonatstief. Die im Vergleich zu früheren Abverkäufen geringen Zwangsauflösungen deuten darauf hin, dass wenig Hebel im Markt ist, was Kettenverkäufe unwahrscheinlicher macht, aber auch wenig Schwung für eine Erholung liefert."
+          "impact": "Der Kurs hält sich bislang über dem Tief vom Wochenende; ein Bruch darunter wäre ein neues Mehrmonatstief. Die im Vergleich zu früheren Abverkäufen geringen Zwangsauflösungen deuten auf wenig Hebel im Markt hin, was Kettenverkäufe unwahrscheinlicher macht, aber auch wenig Schwung für eine Erholung liefert."
         },
         {
           "tag": "ETF-Flüsse",
           "title": "Bitcoin-ETFs: 239,9 Mio. $ Abfluss am Dienstag, dritte Abflusswoche in Folge – Strategy-Papiere auf Tief seit August",
-          "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Dienstag Nettoabflüsse von 239,9 Mio. $, davon 209,5 Mio. $ bei BlackRocks IBIT; nach einem kleinen Zufluss am Montag summiert sich das Minus der laufenden Woche auf knapp 232 Mio. $. Aus den Ether-ETFs wurden am Dienstag 29,1 Mio. $ abgezogen. Die Zahlen für Mittwoch lagen am Abend noch nicht vor. Die Vorzugsaktie STRC von Strategy fiel am Mittwoch um 3 % auf 95,75 $ und damit auf den tiefsten Stand seit August, die Stammaktie lag im Handelsverlauf rund 4 % im Minus.",
-          "source": "CoinReporter, 18.11.",
-          "url": "https://www.coinreporter.io/2026/11/crypto-market-analysis-bitcoin-below-63000-fear-waller-50-point-hike/",
+          "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Dienstag Nettoabflüsse von 239,9 Mio. $, davon 209,5 Mio. $ bei BlackRocks IBIT; nach einem kleinen Zufluss am Montag summiert sich das Minus der laufenden Woche auf knapp 232 Mio. $. Aus den Ether-ETFs wurden am Dienstag 29,1 Mio. $ abgezogen. Die Zahlen für Mittwoch lagen in der Nacht noch nicht vor. Die Vorzugsaktie STRC von Strategy fiel am Mittwoch um 3 % auf 95,75 $ und damit auf den tiefsten Stand seit August, die Stammaktie lag im Handelsverlauf rund 4 % im Minus.",
+          "source": "TFTC (Tagesdaten), 17.11.",
+          "url": "https://www.tftc.io/bitcoin-etf-flows/november-2026",
           "impact": "Institutionelle Anleger ziehen weiter Geld ab, bei Bitcoin wie bei Ether. Solange das anhält, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage; der Kursdruck auf Strategy zeigt, dass auch die großen Bitcoin-Halter an der Börse unter Beobachtung stehen."
         },
         {
           "tag": "Tech · Aktien",
-          "title": "Wall Street uneinheitlich: Dow rund 1 % im Minus, Nvidia dreht ins Minus – Anthropic-Ausgabepreis noch offen",
-          "text": "Rund drei Stunden vor Handelsschluss (19:00 Uhr MEZ) lag der Dow Jones laut Yahoo Finance 1,03 % im Minus bei 50.237 Punkten, der S&P 500 gab 0,31 % auf 7.317,63 Punkte nach, der Nasdaq Composite legte 0,20 % zu. Nvidia drehte nach den Quartalszahlen ins Minus (minus 2,4 % um 19:01 Uhr MEZ), Energiewerte litten unter einem Ölpreis, der um mehr als 4 % auf 82,19 $ je Barrel WTI fiel. Anthropic will den Ausgabepreis nach US-Börsenschluss festlegen: Die Spanne liegt bei 70 bis 78 $ für 825 Millionen Aktien, laut Wall Street Journal sind auch rund 80 $ möglich; der erste Handelstag an der Nasdaq unter dem Kürzel ANT ist für Donnerstag geplant. Die US-Schlusskurse lagen bei Redaktionsschluss noch nicht vor.",
-          "source": "Yahoo Finance, 18.11.",
-          "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-set-to-price-stock-between-70-and-78-as-trading-starts-thursday-174130523.html",
-          "impact": "Die Zinsangst trifft Aktien und Krypto gleichzeitig, Bitcoin fällt aber stärker als die Tech-Indizes. Ob der Börsengang Geld aus Bitcoin abzieht, ist umstritten; der erste Handelstag am Donnerstag wird zum Test für die Risikobereitschaft der Anleger."
+          "title": "Anthropic legt Ausgabepreis auf 83 $ fest: größter Börsengang der Geschichte – Dow schließt 1,1 % tiefer",
+          "text": "Anthropic hat den Ausgabepreis laut CNBC auf 83 $ je Aktie festgelegt und damit über der Spanne von 70 bis 78 $; mit rund 980 Millionen Aktien nimmt das Unternehmen 81,3 Mrd. $ ein, mehr als SpaceX bei seinem Börsengang im Juni zunächst erlöst hatte (75 Mrd. $). Fortune beziffert die Bewertung auf 1,5 Billionen $; Tech-Konzerne wie Google, Microsoft, Nvidia und AMD steigen zusätzlich mit zusammen 26 Mrd. $ zum Ausgabepreis ein. Der Handel an der Nasdaq unter dem Kürzel ANT beginnt heute. An der Wall Street schloss der Dow Jones am Mittwoch 1,11 % tiefer bei 50.198,17 Punkten, belastet von Krankenversicherern (UnitedHealth rund minus 10 %, Humana rund minus 13 %); der S&P 500 verlor 0,23 % auf 7.323,63 Punkte, sein fünfter Verlusttag in Folge und ein Schluss unter der 200-Tage-Linie, der Nasdaq Composite stieg um 0,42 % auf 24.429,89 Punkte. Nvidia schloss 2,89 % im Minus. Die US-Futures eröffneten am Abend kaum verändert, die auf den Nasdaq 100 zogen laut CNBC später deutlich an.",
+          "source": "CNBC (Anthropic), 18.11.",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+          "impact": "Ein Preis über der Spanne und eine aufgestockte Platzierung zeigen, dass für Tech-Risiko weiter viel Kapital bereitsteht, während Bitcoin stärker fällt als die Tech-Indizes. Ob der Börsengang Geld aus Krypto abzieht, ist umstritten; der erste Handelstag heute wird zum Test für die Risikobereitschaft der Anleger."
         },
         {
           "tag": "Termin",
-          "title": "Mi 18.11.: Anthropic legt den Ausgabepreis fest",
-          "text": "Erwartet nach US-Börsenschluss (22:00 Uhr MEZ); Spanne 70 bis 78 $.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Do 19.11.: Treffen von Trump, Putin und Xi",
-          "text": "Erstes Dreiertreffen am Rande des Apec-Gipfels in Shenzhen, dazu ein Zweiergespräch Trump–Putin. In Berlin „Koalition der Willigen“ mit Vertretern aus 37 Ländern (Einschränkungen im ganzen Stadtgebiet, Pressekonferenz am Nachmittag) und geplanter erster Handelstag der Anthropic-Aktie unter dem Kürzel ANT.",
+          "title": "Do 19.11.: Dreiertreffen in Shenzhen, Ukraine-Gipfel in Berlin, Anthropic-Handelsstart",
+          "text": "Heute: erstes Treffen von Trump, Putin und Xi am Rande des Apec-Gipfels, dazu Zweiergespräche. In Berlin „Koalition der Willigen“ mit Vertretern aus 37 Ländern (Einschränkungen im ganzen Stadtgebiet, Pressekonferenz am Nachmittag). An der Nasdaq erster Handelstag der Anthropic-Aktie unter dem Kürzel ANT (US-Handelsbeginn 15:30 Uhr MEZ).",
           "source": "",
           "url": ""
         },

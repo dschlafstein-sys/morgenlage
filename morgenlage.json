@@ -1,241 +1,234 @@
 {
-  "date": "Donnerstag, 19. November 2026",
-  "stand": "16:50",
-  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
-  "tiles": [
+ "date": "Donnerstag, 19. November 2026",
+ "stand": "21:38",
+ "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
+ "tiles": [
+  {
+   "label": "Bitcoin",
+   "value": "61.929 $",
+   "change": "−1,00 % in 24 h",
+   "dir": "down"
+  },
+  {
+   "label": "Ether",
+   "value": "1.756 $",
+   "change": "+0,21 % in 24 h",
+   "dir": "up"
+  },
+  {
+   "label": "US-Leitzins (Fed)",
+   "value": "3,75–4,00 %",
+   "change": "Erhöhung erwartet",
+   "dir": "warn"
+  },
+  {
+   "label": "US-Rendite 10 Jahre",
+   "value": "5,05 %",
+   "change": "Tageshoch 5,11 %",
+   "dir": "warn"
+  }
+ ],
+ "brief": [
+  "Welt: Der Ukraine-Gipfel in Berlin ist beendet: Europa will Kiew 2027 mit zusätzlich 45 Mrd. Euro stützen, Kanzler Merz stellt Russland eine an Bedingungen geknüpfte Aussetzung von Sanktionen in Aussicht, und US-Unterhändler Kushner sieht Moskau offen für Sicherheitsgarantien nach dem Vorbild von Nato-Artikel 5. Trump, Putin und Xi hatten in Shenzhen zuvor eine „Erklärung zum Frieden“ ohne ein Wort zur Ukraine veröffentlicht.",
+  "Berlin: Der Gipfel verlief laut Polizei ohne Zwischenfälle, die Staatsgäste haben das Regierungsviertel verlassen. Bei Kolonnenfahrten sind weiter kurze Sperrungen möglich, rund um den BER bis Freitag. Am Freitag folgen zwei Schülerproteste mit je 5.000 erwarteten Teilnehmern (11:30 Uhr Alexanderplatz, 14:30 Uhr Brandenburger Tor).",
+  "Märkte: Die Anthropic-Aktie startete bei 111,50 $ (34 % über dem Ausgabepreis) und fiel bis 21:35 Uhr MEZ auf rund 95 $; Nasdaq und S&P 500 lagen am Abend bis zu 1,75 % im Minus, der Dax schloss 1,06 % tiefer bei 25.464 Punkten. Bitcoin steht bei 61.929 $ (minus 1,00 % in 24 Stunden), Ether bei 1.756 $ (plus 0,21 %)."
+ ],
+ "sections": [
+  {
+   "id": "deutschland",
+   "title": "Deutschland",
+   "items": [
     {
-      "label": "Bitcoin",
-      "value": "62.813 $",
-      "change": "−0,43 % in 24 h",
-      "dir": "down"
+     "tag": "Wirtschaft · Tarife · Unternehmer",
+     "title": "VW verlangt Nullrunden für 2027 und 2028 – IG Metall spricht von einem „Messer in den Rücken“ und startet ganztägige Warnstreiks",
+     "text": "Volkswagen geht mit einem harten Forderungskatalog in die Haustarifrunde: keine Entgelterhöhungen 2027 und 2028, dazu sollen die tarifliche Zusatzvergütung von 27,5 % eines durchschnittlichen Monatsverdienstes und die Zulage von 167 Euro im Monat entfallen. IG-Metall-Bezirksleiter Thorsten Gröger warf dem Vorstand am Nachmittag vor, den Beschäftigten in den Rücken zu fallen, und sprach von einer Zerreißprobe für den Konzern. Verhandelt wird ab Dienstag in Emden, die Friedenspflicht endet am 31. Dezember. In der Metall- und Elektroindustrie laufen nach drei ergebnislosen Runden ganztägige Warnstreiks, unter anderem bei ZF, im Audi-Werk Ingolstadt und im BMW-Werk München-Milbertshofen; die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit.",
+     "source": "ZDFheute (VW), 19.11.",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-nullrunde-100.html"
     },
     {
-      "label": "Ether",
-      "value": "1.774 $",
-      "change": "+0,31 % in 24 h",
-      "dir": "up"
+     "tag": "Börse · Unternehmen · Preise",
+     "title": "Dax schließt 1,06 % tiefer auf Dreiwochentief – BASF bricht Übernahme von Evonik ab, Bundesbank erwartet Teuerungsschub",
+     "text": "Der Dax drehte mit den nachgebenden US-Börsen ins Minus und schloss bei 25.463,81 Punkten, dem tiefsten Stand seit mehr als drei Wochen; seit dem Rekordhoch von 27.001 Punkten vor einer Woche hat er fast 5 % verloren. Der MDax gab 1,25 % auf 29.505,24 Punkte nach. BASF stellt die Bemühungen um Evonik ein, nachdem zwei unverbindliche Barangebote abgelehnt wurden; zuletzt waren 24 Euro je Aktie geboten, was Evonik mit mehr als 11 Mrd. Euro bewertet. Die Evonik-Aktie verlor zeitweise bis zu 23 %. Die Bundesbank rechnet in ihrem Monatsbericht zum Jahreswechsel mit einem kräftigen Anstieg der Inflation: Der auslaufende Tankrabatt und andere staatliche Maßnahmen könnten die Rate um 0,5 Prozentpunkte erhöhen.",
+     "source": "ZDFheute-Ticker (Dax, BASF, Bundesbank), 19.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     },
     {
-      "label": "US-Leitzins (Fed)",
-      "value": "3,75–4,00 %",
-      "change": "Erhöhung erwartet",
-      "dir": "warn"
+     "tag": "Arbeitsrecht · Unternehmer",
+     "title": "Arbeitsrechtsreform: DGB und Linke lehnen längere Befristungen ab – Wirtschaftsministerin Reiche drängt auf Tempo bei Rente und Arbeitsmarkt",
+     "text": "Der am Mittwoch vom Kabinett gebilligte Entwurf von Arbeitsminister Alexander Schweitzer (SPD) erlaubt Befristungen ohne Sachgrund bis zu 48 Monate. DGB-Chefin Yasmin Fahimi nannte das im Deutschlandfunk ein fatales Zeichen für die Beschäftigten und bezweifelte einen wirtschaftlichen Impuls; Linken-Chef Luigi Pantisano forderte, die Pläne zu verwerfen. Wirtschaftsministerin Katherina Reiche (CDU) verlangte auf dem Handelskongress in Berlin dagegen mehr Tempo bei Reformen und sagte mit Blick auf das Arbeitsministerium, bei der Rente müsse geliefert werden. Die EU-Kommission hat zudem ein Verfahren gegen Deutschland wegen der Steuerregeln für Pensionsfonds und Lebensversicherer eingeleitet; Berlin hat zwei Monate Zeit für eine Antwort.",
+     "source": "onvista/dpa-AFX (DGB, Reiche), 19.11.",
+     "url": "https://www.onvista.de/news/2026/11-19-dpa-afx-ueberblick-konjunktur-vom-19-11-2026-17-00-uhr-0-10-26578445"
     },
     {
-      "label": "US-Rendite 10 Jahre",
-      "value": "5,05 %",
-      "change": "vier Tage in Folge gefallen",
-      "dir": "warn"
+     "tag": "Politik · Sicherheit · Justiz",
+     "title": "Sachsen-Anhalt: AfD-Politiker Siegmund will sich schon am 8. Dezember zum Ministerpräsidenten wählen lassen – BSI nennt Cyberlage „angespannt bis kritisch“",
+     "text": "Ulrich Siegmund (AfD) kündigte in einem Video an, die Wahl im Landtag finde eine Woche früher statt als geplant; die Sondierungen seien schneller vorangekommen, außerdem wolle er die Medienstaatsverträge noch in diesem Jahr rechtssicher kündigen. Das Bundesamt für Sicherheit in der Informationstechnik stuft die Gefahrenlage in seinem neuen Bericht erstmals als angespannt bis kritisch ein, weil Künstliche Intelligenz Cyberangriffe erleichtert. Das Heer hat acht neue Bataillone in Dienst gestellt. Der Leiter des Tesla-Werks Grünheide, Andre Thierig, hat nach einem Abhörvorwurf einen Strafbefehl über 80 Tagessätze erhalten; Tesla will Einspruch einlegen.",
+     "source": "ZDFheute-Ticker (Siegmund, Heer, Tesla), 19.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     }
-  ],
-  "brief": [
-    "Welt: Trump, Putin und Xi haben in Shenzhen doch eine gemeinsame „Erklärung zum Frieden“ veröffentlicht: Dialog über atomare Risiken, UN-Reform und mehr Ölproduktion – ohne Abrüstungszusagen und ohne ein Wort zur Ukraine. Putin drohte Kiew nach den Angriffen auf die Krim-Brücke mit einer „sehr viel schmerzhafteren“ Antwort und lud die Europäer zu Sondierungen nach Moskau ein.",
-    "Berlin heute: Der Ukraine-Gipfel im Kanzleramt läuft, laut Polizei sind alle Staatsgäste ohne Zwischenfälle eingetroffen; die Pressekonferenz ist für etwa 17:15 Uhr geplant. Das Regierungsviertel bleibt gesperrt, die U5 hält zeitweise nicht am Bundestag, der Bus 100 wird umgeleitet. Am Freitag folgen zwei Proteste mit je 5.000 erwarteten Teilnehmern.",
-    "Märkte: Bitcoin steht bei 62.813 $ (minus 0,43 % in 24 Stunden, Stand 16:40 Uhr MEZ) und damit rund 1.000 $ tiefer als am Vormittag, Ether bei 1.774 $ (plus 0,31 %). Die US-Erstanträge stiegen auf 203.000, der Philadelphia-Fed-Index fiel auf 6,3. Der Dax ist ins Minus gedreht; der erste Kurs der Anthropic-Aktie wird zwischen 17 und 19 Uhr MEZ erwartet."
-  ],
-  "sections": [
+   ]
+  },
+  {
+   "id": "berlin",
+   "title": "Berlin",
+   "items": [
     {
-      "id": "deutschland",
-      "title": "Deutschland",
-      "items": [
-        {
-          "tag": "Wirtschaft · Tarife · Unternehmer",
-          "title": "VW verlangt Nullrunden für 2027 und 2028 – IG Metall startet ganztägige Warnstreiks in der Metallindustrie",
-          "text": "Volkswagen geht laut ZDFheute mit einem Forderungskatalog in die Haustarifrunde: keine Entgelterhöhungen 2027 und 2028, eine an die Auslastung angepasste Wochenarbeitszeit ohne Lohnausgleich statt fester 35 Stunden, Wegfall von Zusatzvergütung und Zulagen sowie rund 12.000 weitere Stellen weniger, zusätzlich zu den bereits vereinbarten 35.000. Betroffen sind rund 130.000 Beschäftigte an neun Standorten. Die IG Metall spricht von einem „Katalog des Grauens“, fordert 5 % mehr Geld und kündigt einen langen Konflikt an; verhandelt wird ab Dienstag in Emden, die Friedenspflicht endet am 31. Dezember. In der Metall- und Elektroindustrie hat die Gewerkschaft nach drei ergebnislosen Runden ganztägige Warnstreiks begonnen, unter anderem bei ZF, im Audi-Werk Ingolstadt und im BMW-Werk München-Milbertshofen.",
-          "source": "ZDFheute (VW), 19.11.",
-          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-nullrunde-100.html"
-        },
-        {
-          "tag": "Politik · Energie · Preise",
-          "title": "Stromsteuer sinkt ab 2027 auf den EU-Mindestsatz – Bundesbank erwartet zum Jahreswechsel einen Teuerungsschub",
-          "text": "CDU, CSU und SPD haben beschlossen, die Stromsteuer zum 1. Januar 2027 für alle von 2,05 auf 0,1 Cent je Kilowattstunde zu senken; gedeckt ist das laut Cash-Online nur für 2027 aus Rücklagen des EEG-Kontos. Ein Spritpreisdeckel soll ab Januar zunächst drei Monate gelten, kalte Progression und Rentenreform wurden vertagt. Die Bundesbank rechnet in ihrem heute veröffentlichten Monatsbericht zum Jahreswechsel mit einem kräftigen Anstieg der Inflationsrate: Der auslaufende Tankrabatt und andere staatliche Maßnahmen könnten sie um 0,5 Prozentpunkte erhöhen, dazu kämen nach und nach höhere Energie- und Vorleistungskosten in den Preisen anderer Waren und Dienstleistungen.",
-          "source": "Cash-Online, 18.11.",
-          "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
-        },
-        {
-          "tag": "Arbeitsrecht · Unternehmer",
-          "title": "Arbeitsrechtsreform: Befristungen bis zu vier Jahre – DGB-Chefin Fahimi spricht von einem „fatalen Zeichen“",
-          "text": "Das Bundeskabinett hat am Mittwoch den Gesetzentwurf von Arbeitsminister Alexander Schweitzer (SPD) gebilligt. Befristungen ohne Sachgrund sollen für Einstellungen bis Ende 2030 bis zu vier statt zwei Jahre möglich sein und sich bis zu sechsmal verlängern lassen; für Beschäftigte ab rund 180.000 Euro Jahresgehalt können Firmen künftig ohne Begründung eine Abfindung anbieten. Das Gesetz soll Anfang 2027 in Kraft treten und braucht keine Zustimmung des Bundesrats. DGB-Chefin Yasmin Fahimi kritisierte die Pläne am Donnerstag im Deutschlandfunk als fatales Zeichen für die Beschäftigten und bezweifelte einen wirtschaftlichen Impuls. Außerdem hat die EU-Kommission ein Verfahren gegen Deutschland eingeleitet, weil sie Steuervorschriften für Pensionsfonds und Lebensversicherer für unvereinbar mit dem freien Kapitalverkehr hält; Berlin hat zwei Monate Zeit für eine Antwort.",
-          "source": "ariva/dpa-AFX, 18.11.",
-          "url": "https://www.ariva.de/news/roundup-2-regierung-erleichtert-befristungen-von-jobs-12212304"
-        },
-        {
-          "tag": "Börse · Justiz",
-          "title": "Dax dreht am Nachmittag ins Minus, SAP verliert mehr als 3 % – BGH verkündet Urteil zu Impfschäden am 30. November",
-          "text": "Nach dem festen Start und einem Tageshoch von 25.942 Punkten ist der Dax ins Minus gerutscht: Um 15:56 Uhr stand er laut finanzen.ch bei 25.693 Punkten (minus 0,19 %), die Kursübersicht dort zeigte gegen 16:35 Uhr 25.581 Punkte (minus 0,63 %). Vorn lagen Siemens Energy (plus 2,45 %) und Infineon (plus 2,33 %), am Ende SAP (minus 3,25 %) und Henkel (minus 2,82 %). Der Bundesgerichtshof hat am Vormittag über die Klage eines Mannes verhandelt, der nach seiner dritten Corona-Impfung beim Hausarzt im Januar 2022 Schadenersatz vom Bund verlangt; strittig ist, ob Bund oder Länder haften. Eine Tendenz ließ der Senat laut dpa nicht erkennen, das Urteil folgt am 30. November. Der Leiter des Tesla-Werks Grünheide, Andre Thierig, hat nach einem Abhörvorwurf der IG Metall einen Strafbefehl über 80 Tagessätze erhalten; Tesla will Einspruch einlegen.",
-          "source": "finanzen.ch (Dax), 19.11.",
-          "url": "https://finanzen.ch/nachrichten/aktien/donnerstagshandel-in-frankfurt-lus-dax-legt-den-rueckwaertsgang-ein-1036783985"
-        }
-      ]
+     "tag": "Verkehr · Polizei · heute",
+     "title": "Ukraine-Gipfel beendet: Staatsgäste verlassen das Regierungsviertel – Polizei meldet keine Zwischenfälle, weiter kurze Sperrungen möglich",
+     "text": "Das Treffen im Kanzleramt ist am frühen Abend zu Ende gegangen. Nach Angaben der Polizei gab es weder bei der An- und Abreise noch rund um den Gipfel Zwischenfälle; rund 2.500 Einsatzkräfte waren am Donnerstag im Dienst. Solange Kolonnen zu ihren Zielen begleitet werden, kann es im Stadtgebiet weiter zu kurzzeitigen Verkehrseinschränkungen kommen. Am Morgen war die Ausfahrt Schönefeld-Nord der A113 für die Ankunft der Gäste gesperrt; rund um den BER und seine Zubringer sind laut Polizei bis Freitag teils erhebliche Behinderungen möglich. Tagsüber hielt die U5 zeitweise nicht am Bundestag, die Buslinie 100 wurde umgeleitet.",
+     "source": "Tagesspiegel, 19.11.",
+     "url": "https://www.tagesspiegel.de/berlin/ukraine-gipfel-in-berlin-staatsgaste-ohne-zwischenfalle-angekommen--polizei-riegelt-regierungsviertel-ab-16297102.html"
     },
     {
-      "id": "berlin",
-      "title": "Berlin",
-      "items": [
-        {
-          "tag": "Verkehr · Polizei · heute",
-          "title": "Ukraine-Gipfel: Alle Staatsgäste ohne Zwischenfälle eingetroffen – Regierungsviertel bleibt gesperrt, Bus 100 umgeleitet",
-          "text": "Laut Polizei sind am Nachmittag alle Staats- und Regierungschefs ohne Zwischenfälle im Kanzleramt angekommen; Wolodymyr Selenskyj war gegen Mittag gelandet. Die Pressekonferenz ist für etwa 17:15 Uhr geplant. Die Sperrungen beschränken sich nach Angaben der Polizei auf das Regierungsviertel, im übrigen Stadtgebiet sind kurzfristige Einschränkungen möglich. Die U5 hält zeitweise nicht am Bahnhof Bundestag, die Buslinie 100 wird zwischen Brandenburger Tor und Zoologischem Garten umgeleitet, bei der S-Bahn ist vor allem am Brandenburger Tor mit Einschränkungen zu rechnen; Schiffsverkehr im Regierungsviertel ist nicht möglich. Rund 2.500 Polizeikräfte sind im Einsatz. Von 18 bis 21 Uhr zieht laut Verkehrsinformationszentrale eine Demonstration vom Mariannenplatz über Kottbusser Damm und Sonnenallee zur Karl-Marx-Straße. Weil viele Gäste über Nacht bleiben, rechnet die Polizei auch am Freitag und am Wochenende mit großen Einsätzen; rund um den BER sollen Reisende bis Freitag mehr Zeit einplanen.",
-          "source": "Tagesspiegel, 19.11.",
-          "url": "https://www.tagesspiegel.de/berlin/ukraine-gipfel-in-berlin-staatsgaste-ohne-zwischenfalle-angekommen--polizei-riegelt-regierungsviertel-ab-16297102.html"
-        },
-        {
-          "tag": "Polizei",
-          "title": "Hubschrauber-Suche: Polizei fasst Reifen- und Kabeldiebe – Klebeprotest in Wedding, zwei Verletzte nach Schüssen in Schöneberg",
-          "text": "Im Blaulicht-Blog der Berliner Morgenpost meldet die Polizei am Donnerstag Festnahmen nach Suchen mit Hubschraubern: Gefasst wurden Reifendiebe in Marzahn und Kabeldiebe in Brandenburg. In Wedding mussten Einsatzkräfte am Morgen Protestierende von der Fahrbahn lösen, die sich an Kreuzungen festgeklebt hatten; der Blog berichtet außerdem von einem gefährlichen Angriff in Mariendorf. In Schöneberg waren am Mittwochabend gegen 19:30 Uhr vor einem Lokal in der Dominicusstraße Schüsse gefallen: Eine Frau und ein Mann kamen verletzt ins Krankenhaus, Lebensgefahr besteht laut Polizei nicht. Spezialkräfte betraten die Bar; laut Tagesspiegel sind viele Fragen noch offen.",
-          "source": "Berliner Morgenpost (Blaulicht-Blog), 19.11.",
-          "url": "https://www.morgenpost.de/berlin/article413687781/berlin-brandenburg-polizei-blaulicht-news-aktuell-19-november-diebe-hubschrauber.html"
-        },
-        {
-          "tag": "Landespolitik",
-          "title": "Rot-Grün-Rot: Eralp sieht Verhandlungen auf gutem Weg – in Mitte paktieren die Grünen jetzt mit Volt",
-          "text": "Nach der dritten Runde der Chefverhandler sprach Elif Eralp (Linke) von einer gemeinsamen Vision für die Stadt; Werner Graf (Grüne) nannte „Vision Zero“, also keine Verkehrstoten, ein vorrangiges Ziel, Steffen Krach (SPD) unterstützt sichere Radwege und Schulstraßen nach Pariser Vorbild. Über eine Expo in Buchholz Nord ist noch nichts entschieden. Der Koalitionsvertrag soll bis zum Jahreswechsel stehen und Anfang Januar vorgestellt werden, danach stimmen die Mitglieder ab; laut Tagesspiegel kursiert in der SPD bereits eine Broschüre mit Argumenten gegen den Vertrag. Im Bezirk Mitte arbeiten die Grünen nach dem Abbruch der Gespräche mit der Linken nun mit der Kleinpartei Volt zusammen.",
-          "source": "Tagesspiegel (Liveblog), 18.11.",
-          "url": "https://www.tagesspiegel.de/berlin/liveblog/nach-treffen-der-chefverhandler-eralp-sieht-rot-grun-rot-in-berlin-auf-einem-gutem-weg-16053722.html"
-        },
-        {
-          "tag": "Demos · Gesundheit · Schule",
-          "title": "Freitag zwei „Gen Z regelt“-Proteste mit je 5.000 Erwarteten – Charité-Pflegestreik verschiebt Behandlungen, IT-Warnung für Schulen aufgehoben",
-          "text": "Am Freitag zieht um 11:30 Uhr ein Schulstreik gegen die Wehrpflicht vom Alexanderplatz zum Mariannenplatz, dazu sind vier Zubringer-Demos geplant; um 14:30 Uhr folgt eine Kundgebung der Bundesschülerkonferenz am Brandenburger Tor. Erwartet werden jeweils rund 5.000 Menschen, die Großdemo mit 15.000 Angemeldeten ist abgesagt. Im Tarifstreit an der Charité haben Pflegekräfte die Arbeit niedergelegt; laut Tagesspiegel werden bis zu 30 % der Behandlungen verschoben, was auch Patienten anderer Kliniken trifft. Für die Berliner Schulen gab es am Donnerstag Entwarnung: Die am Mittwoch verschickte IT-Sicherheitswarnung wegen der bundesweit gemeldeten Lücke „Java4Shell“ ist aufgehoben.",
-          "source": "Tagesspiegel (Proteste), 19.11.",
-          "url": "https://www.tagesspiegel.de/berlin/ukraine-gipfel-in-berlin-staatsgaste-ohne-zwischenfalle-angekommen--polizei-riegelt-regierungsviertel-ab-16297102.html"
-        }
-      ]
+     "tag": "Polizei · Justiz",
+     "title": "Hubschrauber-Suche: Polizei fasst Reifen- und Kabeldiebe – Prozess um Messerangriff am Holocaust-Mahnmal beginnt am Dienstag",
+     "text": "Im Blaulicht-Blog der Berliner Morgenpost meldet die Polizei Festnahmen nach Suchen mit Hubschraubern: Gefasst wurden Reifendiebe in Marzahn und Kabeldiebe in Brandenburg. In Wedding mussten Einsatzkräfte am Morgen Protestierende von der Fahrbahn lösen, die sich an Kreuzungen festgeklebt hatten. In Schöneberg waren am Mittwochabend vor einem Lokal in der Dominicusstraße Schüsse gefallen, eine Frau und ein Mann kamen verletzt ins Krankenhaus; Lebensgefahr besteht laut Polizei nicht. Rund 21 Monate nach der Messerattacke auf einen spanischen Touristen am Holocaust-Mahnmal muss sich ab 24. November ein mutmaßlicher Gehilfe vor dem Kammergericht verantworten; die Bundesanwaltschaft wirft dem Syrer Beihilfe zum versuchten Mord vor.",
+     "source": "Berliner Morgenpost (Blaulicht-Blog), 19.11.",
+     "url": "https://www.morgenpost.de/berlin/article413687781/berlin-brandenburg-polizei-blaulicht-news-aktuell-19-november-diebe-hubschrauber.html"
     },
     {
-      "id": "welt",
-      "title": "Welt",
-      "items": [
-        {
-          "tag": "USA · China · Russland",
-          "title": "Shenzhen: Trump, Putin und Xi veröffentlichen „Erklärung zum Frieden“ – Putin droht Kiew und lädt Europäer nach Moskau ein",
-          "text": "Nach dem rund 80-minütigen Dreiertreffen haben chinesische Staatsmedien eine gemeinsame Erklärung der drei Staatschefs veröffentlicht: Ein Atomkrieg könne nicht gewonnen und dürfe nicht geführt werden, angekündigt wird ein Dialog über nukleare Risiken und gegen die Weiterverbreitung von Atomwaffen, aber keine konkrete Abrüstung. Weitere Punkte sind eine Reform der Vereinten Nationen, eine höhere Produktion von Ölprodukten und die Forderung, internationale Gerichte dürften ihre Befugnisse nicht missbrauchen. Der Ukraine-Krieg kommt in dem Text nicht vor. Putin nannte den Gipfel sehr nützlich, kündigte nach den ukrainischen Angriffen auf die Krim-Brücke eine „sehr viel schmerzhaftere“ Antwort an und erklärte, er habe die Europäer zu Sondierungsgesprächen nach Moskau eingeladen. Nato-Generalsekretär Mark Rutte begrüßte, dass die drei Mächte über Atomwaffen sprechen. Trump ist auf dem Rückweg in die USA; China schloss laut taz eine Bloomberg-Reporterin vom Gipfel aus.",
-          "source": "ORF, 19.11.",
-          "url": "https://orf.at/stories/3448675/"
-        },
-        {
-          "tag": "Ukraine · Europa",
-          "title": "Berlin: 26 Staats- und Regierungschefs beraten über Ukraine-Hilfe – Selenskyj warnt vor einem „zweiten Jalta“",
-          "text": "Im Kanzleramt läuft das bisher größte Treffen der „Koalition der Willigen“, der rund 40 Länder angehören; neben Gastgeber Friedrich Merz und Wolodymyr Selenskyj nehmen 26 Staats- und Regierungschefs sowie die US-Unterhändler Steve Witkoff und Jared Kushner teil. Mit Blick auf Shenzhen warnte Selenskyj vor einem „zweiten Jalta“, also einer Neuordnung Europas über die Köpfe der Betroffenen hinweg. Auf der Tagesordnung stehen die Finanzierung für 2027 (die EU-Kommission schlägt ein Darlehen von bis zu 45 Mrd. Euro vor, vier Länder wollen sich bisher nicht beteiligen), ein Platz der Europäer am Verhandlungstisch und Sicherheitsgarantien über die geplante multinationale Truppe. Ergebnisse lagen bis zum späten Nachmittag nicht vor; laut taz gilt das Treffen als Vorbereitung eines EU-Sondergipfels in der kommenden Woche. Nach russischen Angaben ist der Bahnverkehr über die Krim-Brücke nach einem weiteren ukrainischen Angriff eingestellt.",
-          "source": "t-online/dpa, 19.11.",
-          "url": "https://www.t-online.de/nachrichten/deutschland/id_101536764/koalition-der-willigen-40-verbuendete-staerken-ukraine.html"
-        },
-        {
-          "tag": "Iran · Golf",
-          "title": "Straße von Hormus: Revolutionsgarden melden Explosionen an zwei Supertankern – Saudi-Arabien wehrt Huthi-Angriff auf Riad ab",
-          "text": "Irans Revolutionsgarden berichten über die ihnen nahestehende Agentur Tasnim, zwei mit zusammen mehr als vier Millionen Barrel Rohöl beladene Supertanker seien in der Meerenge auf Seeminen gefahren; sie hätten versucht, die gesperrte Route mit Unterstützung amerikanischer Kampfjets heimlich zu passieren. Unabhängig bestätigt ist das nicht. Saudi-Arabien wehrte nach eigenen Angaben erneut Raketen der Huthi auf Riad ab, Trümmer gingen nieder. Centcom-Chef Brad Cooper sprach in Saudi-Arabien mit Kronprinz Mohammed bin Salman, zuvor war er in Tel Aviv. Trump sagte zu Berichten über mögliche Anschlagspläne in Washington, es gebe Hinweise, dass Iran sich mit Gasen und biologischen Waffen befasse. Am Mittwochabend war laut der britischen Seefahrtsbehörde UKMTO ein Tanker nahe Khasab (Oman) von einem Geschoss getroffen worden.",
-          "source": "ZDFheute (Liveblog), 19.11.",
-          "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html"
-        },
-        {
-          "tag": "Völkerrecht",
-          "title": "UN-Gericht: Myanmar hat Völkermord an den Rohingya begangen",
-          "text": "Der Internationale Gerichtshof in Den Haag hat im von Gambia angestrengten Verfahren entschieden, dass Myanmar an der muslimischen Minderheit der Rohingya einen Völkermord begangen hat. Das Gericht sah die Absicht als erwiesen an, die Gruppe auszulöschen; Myanmar war seit 2016 mit massiver Gewalt gegen sie vorgegangen. Das Urteil ist bindend und gilt als Testfall für andere Verfahren, etwa die Klage gegen Israel wegen des Vorgehens im Gazastreifen.",
-          "source": "ZDFheute-Ticker, 19.11.",
-          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-        },
-        {
-          "tag": "Kurz gemeldet",
-          "title": "KI-gestützter Cyberangriff auf die EU-Kommission – Klimakonferenz: neuer Entwurf ohne Ausstieg aus Öl, Gas und Kohle, russische Bomber vor Taiwan",
-          "text": "Die EU-Kommission ist Ziel eines mithilfe Künstlicher Intelligenz verübten Cyberangriffs geworden und hat mehrere Anwendungen vorübergehend abgeschaltet; zu Ausmaß und Urhebern äußerte sich ein Sprecher nicht. Auf der UN-Klimakonferenz in Antalya, die offiziell am Freitag endet, liegt ein neuer Entwurf für die Abschlusserklärung vor: Er erwähnt den Ausstieg aus fossilen Energien nicht mehr und erkennt an, dass das 1,5-Grad-Ziel überschritten wird. Taiwan meldete zwei russische Langstreckenbomber vom Typ Tu-95 in seiner Luftverteidigungszone. Estland will laut taz nach einem vereitelten, Russland zugeschriebenen Sabotageakt gegen einen Drohnenhersteller seine Grenze zu Russland schließen. In der EU bekommen Fluggäste ab 23. Oktober 2027 mehr Rechte, etwa volle Erstattung bei Annullierungen.",
-          "source": "ZDFheute-Ticker, 19.11.",
-          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-        }
-      ]
+     "tag": "Landespolitik · Wohnen",
+     "title": "Rot-Grün-Rot: Eralp sieht Verhandlungen auf gutem Weg – Vonovia-Chef hält Vergesellschaftung für juristisch nicht haltbar",
+     "text": "Nach der dritten Runde der Chefverhandler sprach Elif Eralp (Linke) von einer gemeinsamen Vision für die Stadt; der Koalitionsvertrag soll bis zum Jahreswechsel stehen und Anfang Januar vorgestellt werden, danach stimmen die Mitglieder ab. In der SPD kursiert laut Tagesspiegel bereits eine Broschüre mit Argumenten gegen den Vertrag. Vonovia-Chef Luka Mucic schlug in der „Zeit“ vor, große Vermieter zu verpflichten, ein Drittel ihrer frei finanzierten Wohnungen an Menschen mit Wohnberechtigungsschein zu vergeben; die von einer möglichen rot-grün-roten Regierung geplante Vergesellschaftung werde vor Gericht keinen Bestand haben. Im Bezirk Mitte arbeiten die Grünen nach dem Abbruch der Gespräche mit der Linken nun mit Volt zusammen.",
+     "source": "Tagesspiegel (Liveblog), 18.11.",
+     "url": "https://www.tagesspiegel.de/berlin/liveblog/nach-treffen-der-chefverhandler-eralp-sieht-rot-grun-rot-in-berlin-auf-einem-gutem-weg-16053722.html"
     },
     {
-      "id": "krypto",
-      "title": "Krypto & Finanzen",
-      "items": [
-        {
-          "tag": "Fed · US-Daten",
-          "title": "US-Erstanträge steigen auf 203.000, Philadelphia-Fed-Index bricht auf 6,3 ein – Preisdruck in der Umfrage nimmt deutlich zu",
-          "text": "In der Woche bis 14. November wurden in den USA 203.000 Erstanträge auf Arbeitslosenhilfe gestellt, erwartet waren 196.000. Der Philadelphia-Fed-Index fiel im November von 20,9 auf 6,3 Punkte, während der Teilindex für gezahlte Preise von 43,2 auf 58,2 sprang. Der Dollar-Index blieb nach den Daten nahe seinem 19-Monats-Hoch, die zehnjährige US-Rendite lag vor Handelsbeginn bei rund 5,05 % und damit unter dem Vortag; Gold notierte bei 3.714,80 $ (minus 0,25 %). Laut CME FedWatch sind für den 9. Dezember 90,7 % für eine Erhöhung um einen Viertelpunkt eingepreist, 9,3 % für einen halben Punkt (Vortag: 6,5 %). Das Fed-Protokoll vom Mittwoch hatte gezeigt, dass fast alle Notenbanker weitere Erhöhungen für angemessen halten; Gouverneur Christopher Waller wirbt für einen halben Punkt.",
-          "impact": "Etwas schwächere Arbeitsmarkt- und Konjunkturdaten nehmen für sich genommen Druck von den Zinserwartungen, der kräftige Anstieg der Preiskomponente spricht aber gegen eine Entwarnung. Ein starker Dollar und Renditen um 5 % bleiben Gegenwind für zinslose Anlagen.",
-          "source": "1trader (US-Daten), 19.11.",
-          "url": "https://1trader.com/en/us-claims-2026-11-19/"
-        },
-        {
-          "tag": "Markt",
-          "title": "Bitcoin fällt am Nachmittag auf 62.813 $ und nähert sich dem Tagestief – Ether bei 1.774 $",
-          "text": "Bitcoin notierte um 16:40 Uhr MEZ laut CoinDesk bei 62.813 $ und damit 0,43 % unter dem Stand vor 24 Stunden; um 11:40 Uhr MEZ waren es noch 63.786 $. Die 24-Stunden-Spanne reicht von 62.109 $ bis 64.000 $. Ether stand bei 1.774 $ (plus 0,31 %; Spanne 1.736 bis 1.812 $) und damit wieder unter 1.800 $. Auf Wochensicht liegt Bitcoin laut Decrypt rund 13 % im Minus und etwa 26 % unter dem Hoch von Ende September nahe 87.000 $. Nach Daten von Glassnode konzentrieren sich Käufer zwischen 62.000 und 66.000 $; Capital.com nennt 62.000 $ als Unterstützung und 60.000 $ als psychologische Marke.",
-          "impact": "Der Kurs testet erneut den unteren Rand der Spanne der vergangenen Tage. Ein Tagesschluss unter rund 62.000 $ wäre laut Glassnode ein Bruch der Zone, in der zuletzt die meisten Käufe lagen; darunter nennen die Analysten das Juni-Tief bei 58.500 $.",
-          "source": "CoinDesk (Bitcoin), 19.11.",
-          "url": "https://www.coindesk.com/price/bitcoin"
-        },
-        {
-          "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs: 306 Mio. $ Abfluss am Mittwoch, im November bereits rund 2,9 Mrd. $ – nur ein Tag mit Zuflüssen in zwei Wochen",
-          "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Mittwoch laut SoSoValue Nettoabflüsse von 306,4 Mio. $ nach 239,9 Mio. $ am Dienstag; der Montag war mit plus 8 Mio. $ der einzige Tag mit Zuflüssen in den vergangenen zehn Handelstagen. Im November summieren sich die Abflüsse auf rund 2,9 Mrd. $, das verwaltete Vermögen der Fonds liegt bei 77,7 Mrd. $. Aus den Ether-ETFs wurden am Mittwoch laut SoSoValue 39,83 Mio. $ abgezogen. Der Datendienst Lookonchain kommt in seiner am Donnerstag veröffentlichten Zählung auf 4.658 BTC (rund 296,7 Mio. $) und 9.904 ETH (rund 17,85 Mio. $).",
-          "impact": "Institutionelle Anleger ziehen weiter Geld ab, und die Abflüsse halten seit zwei Wochen fast ohne Unterbrechung an. Solange sich das nicht dreht, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage.",
-          "source": "KuCoin/NS3 (SoSoValue), 19.11.",
-          "url": "https://www.kucoin.com/news/flash/bitcoin-struggles-at-64-000-amid-2-9-billion-november-etf-outflows"
-        },
-        {
-          "tag": "Tech · Aktien",
-          "title": "Anthropic-Börsengang: Erster Kurs zwischen 17 und 19 Uhr MEZ erwartet – Graumarkt deutet auf mehr als 20 % Aufschlag",
-          "text": "Die zu 83 $ ausgegebene Anthropic-Aktie (Kürzel ANT, Erlös 81,3 Mrd. $, Bewertung rund 1,5 Billionen $) war bis zum Nachmittag MEZ noch nicht im Handel; Kiplinger rechnet mit dem ersten Kurs an der Nasdaq zwischen 11 und 13 Uhr US-Ostküstenzeit, also 17 bis 19 Uhr MEZ. Bloomberg berichtete laut Forbes von Indikationen 20 bis 26 % über dem Ausgabepreis, betont aber, dass solche Werte den Eröffnungskurs nicht vorwegnehmen. Vor Handelsbeginn lagen die Futures auf den Nasdaq 100 rund 2 % im Plus, auf den S&P 500 gut 1,2 %. Palo Alto Networks legte nach Zahlen und höherer Prognose zu; die Handelsgespräche zwischen den USA und China endeten laut Yahoo Finance ohne Fortschritt bei Chips und Zöllen. In Frankfurt drehte der Dax trotz der Vorfreude ins Minus.",
-          "impact": "Der erste Handelstag ist ein Test für die Risikobereitschaft: Tech-Futures steigen deutlich, während Bitcoin zeitgleich nachgibt. Ob der Börsengang Kapital aus Krypto abzieht, ist umstritten und aus den vorliegenden Daten nicht zu belegen.",
-          "source": "Forbes (Liveblog), 19.11.",
-          "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-2-ahead-of-record-stock-debut/"
-        },
-        {
-          "tag": "Termin",
-          "title": "Do 19.11.: Pressekonferenz zum Ukraine-Gipfel, Anthropic-Handelsstart",
-          "text": "Heute: Pressekonferenz im Kanzleramt gegen 17:15 Uhr, Regierungsviertel weiter gesperrt. Erster Kurs der Anthropic-Aktie (ANT) an der Nasdaq zwischen 17 und 19 Uhr MEZ erwartet. 18 bis 21 Uhr Demonstration vom Mariannenplatz zur Karl-Marx-Straße.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Fr 20.11.: Verfall von Bitcoin-Optionen auf Deribit",
-          "text": "9:00 Uhr MEZ; Berichte nennen ein Volumen zwischen rund 28.300 und 34.000 BTC. Dazu US-Verbraucherstimmung der Universität Michigan (16:00 Uhr MEZ), geplantes Ende der Klimakonferenz in Antalya, Deutsch-Ukrainisches Wirtschaftsforum, Beginn der Nato-Parlamentarierversammlung und zwei Proteste von „Gen Z regelt“ in Berlin (11:30 Uhr Alexanderplatz, 14:30 Uhr Brandenburger Tor); die A10 ist vom 20. bis 23. November zwischen Falkensee und Dreieck Havelland gesperrt.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Di 24.11.: VW-Tarifrunde beginnt, Abstimmung über Emde-Ausschluss",
-          "text": "Auftakt der VW-Haustarifverhandlungen in Emden. In der Berliner Linksfraktion frühestmöglicher Termin für die Abstimmung, nötig ist eine Zweidrittelmehrheit.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Mi 25.11.: US-PCE-Inflation für Oktober",
-          "text": "Das bevorzugte Inflationsmaß der Fed, 14:30 Uhr MEZ; erwartet wird bei der Kernrate plus 0,3 % zum Vormonat. Dazu die zweite Schätzung des US-Wachstums im dritten Quartal.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Fr 27.11.: Bundestag stimmt über den Haushalt 2027 ab",
-          "text": "Die Koalition hat eine Mehrheit von zwölf Stimmen.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Mo 30.11.: BGH-Urteil zu Impfschäden, Strategy verlässt die MSCI-Indizes",
-          "text": "Der Bundesgerichtshof entscheidet, ob Bund oder Länder für mögliche Fehler bei Corona-Impfungen haften. Der Index-Ausschluss von Strategy wird nach US-Börsenschluss wirksam.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "Mi 2.12.: Kabinett berät den Spritpreisdeckel",
-          "text": "Er soll ab 1. Januar 2027 den Tankrabatt für zunächst drei Monate ersetzen.",
-          "source": "",
-          "url": ""
-        },
-        {
-          "tag": "Termin",
-          "title": "8./9.12.: Zinsentscheid der Fed",
-          "text": "Entscheidung am 9. Dezember; offen ist, ob es ein Viertel- oder ein halber Prozentpunkt wird.",
-          "source": "",
-          "url": ""
-        }
-      ]
+     "tag": "Demos · Gesundheit · Schule",
+     "title": "Freitag zwei Schülerproteste mit je 5.000 Erwarteten – Charité-Pflegestreik verschiebt Behandlungen, IT-Warnung für Schulen aufgehoben",
+     "text": "Am Freitag zieht um 11:30 Uhr ein Schulstreik gegen die Wehrpflicht vom Alexanderplatz zum Mariannenplatz, dazu sind vier Zubringer-Demos aus allen Himmelsrichtungen geplant; um 14:30 Uhr folgt ein Bildungsprotest am Brandenburger Tor. Erwartet werden jeweils rund 5.000 Menschen, die Großdemo mit 15.000 Angemeldeten ist abgesagt. Im Tarifstreit an der Charité haben Pflegekräfte die Arbeit niedergelegt; laut Tagesspiegel werden bis zu 30 % der Behandlungen verschoben, was auch Patienten anderer Kliniken trifft. Für die Berliner Schulen gab es Entwarnung: Die am Mittwoch verschickte IT-Sicherheitswarnung wegen der Lücke „Java4Shell“ ist aufgehoben.",
+     "source": "Tagesspiegel (Proteste), 19.11.",
+     "url": "https://www.tagesspiegel.de/berlin/ukraine-gipfel-in-berlin-staatsgaste-ohne-zwischenfalle-angekommen--polizei-riegelt-regierungsviertel-ab-16297102.html"
     }
-  ]
+   ]
+  },
+  {
+   "id": "welt",
+   "title": "Welt",
+   "items": [
+    {
+     "tag": "Ukraine · Europa",
+     "title": "Berliner Gipfel: 45 Mrd. Euro für Kiew, Merz bietet Moskau Aussetzung von Sanktionen an – Kushner sieht Russland offen für Artikel-5-Schutz",
+     "text": "Beim bisher größten Treffen der „Koalition der Willigen“ sagte Kanzler Friedrich Merz der Ukraine Unterstützung zu, solange sie nötig sei; für 2027 sollen aus Europa zusätzlich 45 Mrd. Euro kommen. Für die Europäer sollen in Verhandlungen Deutschland, Frankreich, Großbritannien, Polen und Italien sprechen. Merz stellte Russland eine an Bedingungen geknüpfte Aufhebung von Sanktionen in Aussicht, falls Moskau zu Friedensgesprächen und Zugeständnissen bereit ist; Ausgangspunkt für Gebietsfragen sei die Kontaktlinie. US-Unterhändler Jared Kushner sagte, Russland sei offen für Sicherheitsgarantien nach dem Vorbild von Artikel 5 des Nato-Vertrags und für ein Format mit den Europäern; Einzelheiten blieben offen. Donald Trump ließ sich aus der Air Force One zuschalten und äußerte sich laut „Politico“ skeptisch über weitere Milliardenhilfen. Wolodymyr Selenskyj forderte ein Vierertreffen von Ukraine, Europa, USA und Russland; Außenminister Johann Wadephul erwartet weitere Gespräche noch vor Weihnachten.",
+     "source": "Tagesspiegel (Liveblog), 19.11.",
+     "url": "https://www.tagesspiegel.de/internationales/liveblog/gesprache-uber-kriegsende-kushner-sieht-russen-offen-fur-artikel-5-schutz-fur-die-ukraine-16206302.html"
+    },
+    {
+     "tag": "USA · China · Russland",
+     "title": "Shenzhen: „Erklärung zum Frieden“ ohne Ukraine – Putin nennt Kompromisse möglich, droht Kiew aber wegen der Krim-Brücke",
+     "text": "Trump, Putin und Xi haben nach ihrem Dreiertreffen einen Dialog über nukleare Risiken und gegen die Weiterverbreitung von Atomwaffen angekündigt, dazu eine Reform der Vereinten Nationen und eine höhere Ölproduktion; der Ukraine-Krieg kommt in dem Text nicht vor. Putin sagte in China, Kompromisse seien aus seiner Sicht möglich, und erkannte ein Recht der Ukraine auf Sicherheit an, warf Kiew aber fehlendes Interesse an einer friedlichen Lösung vor. Nach den Angriffen auf die Krim-Brücke kündigte er eine „weitaus schmerzhaftere“ Antwort an. Die Europäer lud er zu Sondierungen nach Moskau ein, lehnte eine militärische Zusammenarbeit zwischen der Ukraine und Europa als Teil eines Abkommens jedoch ab. Nato-Generalsekretär Mark Rutte nannte das Treffen wichtig. Putin erwägt laut Tagesspiegel, im Dezember zum G-20-Gipfel nach Miami zu reisen.",
+     "source": "ZDFheute (Bilanz), 19.11.",
+     "url": "https://www.zdfheute.de/politik/ausland/trump-xi-putin-shenzen-ergebnis-100.html"
+    },
+    {
+     "tag": "Iran · Golf",
+     "title": "Huthi-Angriff beschädigt höchstes Gebäude in Riad – Pentagon beziffert Kosten des Iran-Kriegs auf 48,3 Mrd. $",
+     "text": "Bei einem Angriff der jemenitischen Huthi auf die saudische Hauptstadt wurde ein 80-stöckiger Wolkenkratzer des Staatsfonds getroffen; die Fassade wurde beschädigt, Scheiben gingen zu Bruch, verletzt wurde niemand. Das US-Verteidigungsministerium gibt die bisherigen Kosten des Iran-Kriegs für die USA mit 48,3 Mrd. $ an (Stand 13. November), ohne Reparaturen an angegriffenen Einrichtungen. Irans Revolutionsgarden hatten am Morgen Explosionen an zwei mit mehr als vier Millionen Barrel Rohöl beladenen Supertankern in der Straße von Hormus gemeldet, die auf Seeminen gefahren seien; unabhängig bestätigt ist das nicht. Centcom-Chef Brad Cooper sprach in Saudi-Arabien mit Kronprinz Mohammed bin Salman. Israels Armee beendete einen eintägigen Bodeneinsatz im Zentrum des Gazastreifens.",
+     "source": "ZDFheute (Liveblog), 19.11.",
+     "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html"
+    },
+    {
+     "tag": "Völkerrecht",
+     "title": "UN-Gericht: Myanmar hat Völkermord an den Rohingya begangen",
+     "text": "Der Internationale Gerichtshof in Den Haag hat entschieden, dass Myanmar an der muslimischen Minderheit der Rohingya einen Völkermord begangen hat. Das Gericht sah die Absicht als erwiesen an, die Gruppe auszulöschen; Myanmar war seit 2016 mit massiver Gewalt gegen sie vorgegangen. Das Urteil ist bindend und gilt als Testfall für andere Verfahren, etwa die Klage gegen Israel wegen des Vorgehens im Gazastreifen.",
+     "source": "ZDFheute-Ticker, 19.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+    },
+    {
+     "tag": "Kurz gemeldet",
+     "title": "Dänemark billigt Grönland-Abkommen mit den USA – KI-gestützter Cyberangriff auf die EU-Kommission, Klimakonferenz ringt um Abschlusstext",
+     "text": "Das dänische Parlament hat dem neuen Sicherheits- und Verteidigungsabkommen mit den USA zugestimmt; es lässt die Souveränität Grönlands und des Königreichs unangetastet, räumt den USA aber großen militärischen Spielraum auf der Insel ein. Die EU-Kommission ist Ziel eines mithilfe Künstlicher Intelligenz verübten Cyberangriffs geworden und hat mehrere Anwendungen vorübergehend abgeschaltet. Auf der UN-Klimakonferenz in Antalya, die offiziell am Freitag endet, erwähnt der neue Entwurf der Abschlusserklärung den Ausstieg aus Öl, Gas und Kohle nicht mehr; erwartet werden harte nächtliche Verhandlungen. Taiwan meldete zwei russische Langstreckenbomber vom Typ Tu-95 in seiner Luftverteidigungszone.",
+     "source": "ZDFheute-Ticker, 19.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+    }
+   ]
+  },
+  {
+   "id": "krypto",
+   "title": "Krypto & Finanzen",
+   "items": [
+    {
+     "tag": "Tech · Aktien",
+     "title": "Anthropic startet bei 111,50 $ und gibt auf rund 95 $ nach – US-Börsen trotz Rekord-Börsengang deutlich im Minus",
+     "text": "Die zu 83 $ ausgegebene Anthropic-Aktie (Kürzel ANT) eröffnete an der Nasdaq bei 111,50 $, also 34 % über dem Ausgabepreis; der Börsenwert lag damit bei rund 2 Billionen $. Um 21:35 Uhr MEZ notierte sie laut CNBC bei 95,32 $, noch 14,84 % über dem Ausgabepreis. Den Erlös gibt Decrypt mit 81,34 Mrd. $ an, ZDFheute nennt 107,3 Mrd. $. Der Gesamtmarkt zog nicht mit: Der Nasdaq, am Morgen noch 2 % im Plus, lag laut CoinDesk nahe den Tagestiefs rund 1,75 % im Minus, ebenso der S&P 500, dem der sechste Verlusttag in Folge droht. Der Dax schloss 1,06 % tiefer. Die Schlusskurse der US-Börsen lagen zum Stand dieser Übersicht noch nicht vor.",
+     "source": "CNBC (Liveblog), 19.11.",
+     "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+     "impact": "Der Börsengang hat die Risikobereitschaft nicht belebt: Tech-Aktien und Bitcoin geben gemeinsam nach. Laut Block Scholes ist die 30-Tage-Korrelation von Bitcoin mit Nvidia von 0,20 auf 0,56 gestiegen; dass der Börsengang Kapital aus Krypto abzieht, bleibt nach Einschätzung von Decrypt unbelegt."
+    },
+    {
+     "tag": "Markt",
+     "title": "Bitcoin rutscht unter 62.000 $ auf 61.929 $ – Ether bei 1.756 $, Tagestief bei 61.874 $",
+     "text": "Bitcoin notierte um 21:35 Uhr MEZ laut CoinDesk bei 61.929 $ und damit 1,00 % unter dem Stand vor 24 Stunden; um 16:40 Uhr MEZ waren es noch 62.813 $. Die 24-Stunden-Spanne reicht von 61.874 $ bis 64.000 $. Ether stand bei 1.756 $ (plus 0,21 %; Spanne 1.748 bis 1.812 $). Laut Decrypt liegt Bitcoin rund 28 % unter dem Hoch von Ende September nahe 87.000 $; der 50-Tage-Durchschnitt (EMA) liegt nun unter dem 200-Tage-Durchschnitt, der RSI steht bei 21,3. Als Unterstützung nennt Decrypt 62.019 $, darunter 60.000 $ und rund 56.841 $; für eine Erholung müsste zunächst der Widerstand bei 66.512 $ fallen.",
+     "source": "CoinDesk (Bitcoin), 19.11.",
+     "url": "https://www.coindesk.com/price/bitcoin",
+     "impact": "Der Kurs liegt knapp unter der zuletzt verteidigten Zone um 62.000 $. Ein Tagesschluss darunter wäre laut Glassnode ein Bruch des Bereichs, in dem zuletzt die meisten Käufe lagen; darunter nennen die Analysten das Juni-Tief bei 58.500 $. Ein RSI um 21 gilt als überverkauft, was eine Gegenbewegung ermöglichen, aber nicht garantieren kann."
+    },
+    {
+     "tag": "Fed · US-Daten",
+     "title": "Fed-Vertreter Goolsbee: KI-Boom darf die Wirtschaft nicht überhitzen – US-Erstanträge steigen auf 203.000, Zehnjahresrendite bei 5,05 %",
+     "text": "Der Chef der Chicago Fed, Austan Goolsbee, sagte laut Reuters, Künstliche Intelligenz könne künftig einen Produktivitätsschub bringen, bis dahin müsse die Notenbank aber angesichts starker Investitionen und Nachfrage die Inflation in Schach halten. Die Erstanträge auf Arbeitslosenhilfe stiegen auf 203.000, erwartet war laut dpa-AFX ein Rückgang auf 198.000; der Philadelphia-Fed-Index fiel im November von 20,9 auf 6,3 Punkte. Die zehnjährige US-Rendite ging laut CoinDesk von bis zu 5,11 % auf 5,05 % zurück, die zweijährige von 4,843 % auf 4,77 %. Laut CME FedWatch sind für den 9. Dezember 90,7 % für eine Erhöhung um einen Viertelpunkt eingepreist, 9,3 % für einen halben Punkt. Die onvista-Kursleiste zeigte am Abend Gold bei 3.670 $ (minus 1,87 %) und Brent bei 92,27 $.",
+     "source": "Reuters/Investing.com (Goolsbee), 19.11.",
+     "url": "https://www.investing.com/news/economy-news/goolsbee-says-the-feds-job-right-now-is-to-keep-ai-surge-from-overheating-the-economy-5039743",
+     "impact": "Die Fed bleibt auf Straffungskurs, und Goolsbees Aussagen stützen die Erwartung einer Zinserhöhung im Dezember. Leicht sinkende Renditen entlasten etwas, Werte um 5 % bleiben aber Gegenwind für zinslose Anlagen."
+    },
+    {
+     "tag": "ETF-Flüsse",
+     "title": "Bitcoin-ETFs: 306 Mio. $ Abfluss am Mittwoch, im November bereits rund 2,9 Mrd. $ – Miner verkaufen Bestände für KI-Ausbau",
+     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Mittwoch laut SoSoValue Nettoabflüsse von 306,4 Mio. $ nach 239,9 Mio. $ am Dienstag; an neun der vergangenen zehn Handelstage floss Geld ab. Im November summieren sich die Abflüsse auf rund 2,9 Mrd. $, das Vermögen der Fonds ist auf 77,7 Mrd. $ gesunken. Nach Einschätzung von HashKey haben Hedgefonds ihre Arbitragegeschäfte weitgehend aufgelöst, sodass die Abflüsse nun vor allem von Anlegern stammen, die ihr Bitcoin-Engagement aktiv verringern. Zusätzlich verkaufen große Miner: MARA hat laut Decrypt nach Ende September 13.597 BTC für rund 1,1 Mrd. $ abgegeben, um den Einstieg in KI-Infrastruktur zu finanzieren. Die Zahlen für Donnerstag liegen noch nicht vor.",
+     "source": "Decrypt (SoSoValue, HashKey), 19.11.",
+     "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+     "impact": "Institutionelle Anleger ziehen seit zwei Wochen fast ohne Unterbrechung Geld ab, dazu kommt Angebot von Minern. Solange sich die ETF-Flüsse nicht drehen, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage."
+    },
+    {
+     "tag": "Termin",
+     "title": "Fr 20.11.: Verfall von Bitcoin-Optionen auf Deribit",
+     "text": "9:00 Uhr MEZ; Berichte nennen ein Volumen zwischen rund 28.300 und 34.000 BTC. Dazu US-Verbraucherstimmung der Universität Michigan (16:00 Uhr MEZ), geplantes Ende der Klimakonferenz in Antalya und zwei Schülerproteste in Berlin (11:30 Uhr Alexanderplatz, 14:30 Uhr Brandenburger Tor); die A10 ist vom 20. bis 23. November zwischen Falkensee und Dreieck Havelland gesperrt.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Di 24.11.: VW-Tarifrunde beginnt, Prozess zum Angriff am Holocaust-Mahnmal",
+     "text": "Auftakt der VW-Haustarifverhandlungen in Emden. Vor dem Kammergericht Berlin beginnt der Prozess gegen einen mutmaßlichen Gehilfen der Messerattacke. In der Berliner Linksfraktion frühestmöglicher Termin für die Abstimmung über den Emde-Ausschluss.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Mi 25.11.: US-PCE-Inflation für Oktober",
+     "text": "Das bevorzugte Inflationsmaß der Fed, 14:30 Uhr MEZ; erwartet wird bei der Kernrate plus 0,3 % zum Vormonat. Dazu die zweite Schätzung des US-Wachstums im dritten Quartal.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Fr 27.11.: Bundestag stimmt über den Haushalt 2027 ab",
+     "text": "Die Koalition hat eine Mehrheit von zwölf Stimmen.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Mo 30.11.: BGH-Urteil zu Impfschäden, Strategy verlässt die MSCI-Indizes",
+     "text": "Der Bundesgerichtshof entscheidet, ob Bund oder Länder für mögliche Fehler bei Corona-Impfungen haften. Der Index-Ausschluss von Strategy wird nach US-Börsenschluss wirksam.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "Mi 2.12.: Kabinett berät den Spritpreisdeckel",
+     "text": "Er soll ab 1. Januar 2027 den Tankrabatt für zunächst drei Monate ersetzen.",
+     "source": "",
+     "url": ""
+    },
+    {
+     "tag": "Termin",
+     "title": "8./9.12.: Zinsentscheid der Fed, Ministerpräsidentenwahl in Sachsen-Anhalt",
+     "text": "Fed-Entscheidung am 9. Dezember; offen ist, ob es ein Viertel- oder ein halber Prozentpunkt wird. Am 8. Dezember will sich Ulrich Siegmund (AfD) im Magdeburger Landtag zur Wahl stellen.",
+     "source": "",
+     "url": ""
+    }
+   ]
+  }
+ ]
 }

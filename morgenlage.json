@@ -1,18 +1,18 @@
 {
  "date": "Freitag, 20. November 2026",
- "stand": "16:38",
+ "stand": "21:44",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "60.146 $",
-   "change": "−4,61 % in 24 h",
+   "value": "58.545 $",
+   "change": "−5,68 % in 24 h",
    "dir": "down"
   },
   {
    "label": "Ether",
-   "value": "1.676 $",
-   "change": "−5,89 % in 24 h",
+   "value": "1.598 $",
+   "change": "−9,19 % in 24 h",
    "dir": "down"
   },
   {
@@ -23,15 +23,15 @@
   },
   {
    "label": "US-Rendite 10 Jahre",
-   "value": "5,04 %",
-   "change": "−0,01 Punkte zum Vortag",
+   "value": "4,94 %",
+   "change": "−0,12 Punkte zum Vortag",
    "dir": "down"
   }
  ],
  "brief": [
-  "Welt: Bei den russischen Raketenangriffen auf Kiew sind laut Militärverwaltung sechs Menschen getötet und 17 verletzt worden, drei Dnipro-Brücken sind beschädigt; in Lwiw starben zwei Menschen. In Polen stürzten nach Regierungsangaben zwei russische Marschflugkörper und eine Drohne ab, verletzt wurde niemand. Moskau lehnt Sicherheitsgarantien nach Nato-Vorbild für die Ukraine ab, arbeitet laut Vizeaußenminister Rjabkow aber an einem Besuch von Vertretern Deutschlands, Frankreichs und Großbritanniens.",
-  "Berlin heute: Der „Schulstreik gegen die Wehrpflicht“ zog mit zwei Stunden Verspätung vom Alexanderplatz zum Mariannenplatz; die Polizei zählte rund 4.000 Teilnehmer, die Veranstalter sprechen von 10.000 bis 12.000, die Lage blieb friedlich. Der Bildungsprotest am Brandenburger Tor läuft bis 20 Uhr, um 19:30 Uhr folgt eine Demo am Kottbusser Tor. Alt-Moabit ist von 18 bis etwa 19:30 Uhr gesperrt, die A10 ab 20 Uhr Richtung Dreieck Havelland nur bis Falkensee befahrbar, die S5 ab 21:45 Uhr zwischen Kaulsdorf und Strausberg unterbrochen.",
-  "Märkte: Bitcoin ist am Nachmittag auf 60.146 $ gefallen (minus 4,61 % in 24 Stunden, Tagestief 60.128 $), Ether auf 1.676 $ (minus 5,89 %). Der Dax rutschte unter 25.000 Punkte und lag am Nachmittag 2,2 % im Minus bei 24.899 Punkten; an der Wall Street startete der Dow Jones im Plus, während die Technologiewerte weiter nachgaben. Die US-Verbraucherstimmung stieg im November wie erwartet auf 51,5 Punkte."
+  "Welt: Russland hat die Ukraine laut Präsident Selenskyj mit mehr als 110 Raketen und über 400 Drohnen angegriffen; acht Menschen wurden getötet, fast 30 verletzt, in Kiew sind drei Dnipro-Brücken beschädigt. In Polen stürzten nach Regierungsangaben zwei Marschflugkörper und eine Drohne ab, verletzt wurde niemand. Moskau wartet auf eine Antwort auf seine Einladung an Deutschland, Frankreich und Großbritannien; EU und Großbritannien schlossen in Brüssel Abkommen zu Handel und Jugendmobilität.",
+  "Berlin heute: Die Jugendproteste blieben friedlich. Beim Zug von „Gen Z regelt“ zählte die Polizei rund 4.000 Teilnehmer, die Initiative spricht von bis zu 15.000; am Abend kamen laut Polizei rund 300 Menschen zum Kottbusser Tor. Seit 20 Uhr ist die A10 Richtung Dreieck Havelland ab Falkensee bis Montag früh gesperrt, auf der S5 fahren seit 21:45 Uhr zwischen Kaulsdorf und Strausberg Busse.",
+  "Märkte: Bitcoin ist erstmals seit Anfang Juli unter 60.000 $ gefallen und stand um 21:40 Uhr bei 58.545 $ (minus 5,68 % in 24 Stunden), Ether bei 1.598 $ (minus 9,19 %). Der Dax schloss 2,6 % tiefer bei 24.802,78 Punkten und verlor auf Wochensicht mehr als 7 %. An der Wall Street lag der Nasdaq Composite gegen Mittag Ortszeit 3,6 % im Minus und damit für 2026 im Minus."
  ],
  "sections": [
   {
@@ -40,30 +40,30 @@
    "items": [
     {
      "tag": "Börse · Preise · Unternehmen",
-     "title": "Dax fällt am sechsten Verlusttag unter 25.000 Punkte – Erzeugerpreise steigen um 8,1 %, Galeria schließt drei Häuser",
-     "text": "Der Dax lag am Freitagnachmittag laut dpa-AFX 2,2 % im Minus bei 24.899 Punkten und damit unter seiner einfachen 200-Tage-Linie; in der Vorwoche hatte er noch einen Rekord von 27.001 Punkten erreicht, das Jahresplus ist auf weniger als 2 % geschmolzen. Der EuroStoxx 50 verlor 2,3 %. Als Gründe gelten der Druck auf Technologiewerte nach dem Börsengang von Anthropic, Zinssorgen und der starke Dollar; unter Druck standen Infineon, Siemens Energy, Aixtron und Suss, Scout24 litt unter einer gestrichenen Empfehlung von JPMorgan, gefragt waren Deutz, Freenet und Auto1. Die Erzeugerpreise stiegen im Oktober laut Statistischem Bundesamt um 8,1 % zum Vorjahr, so stark wie seit Februar 2023 nicht mehr; Mineralölerzeugnisse waren 51,9 % teurer, Erdgas 21,9 %, Strom 12,6 %. Die insolvente Warenhauskette Galeria schließt die Filialen Berlin Kurfürstendamm, Köln Hohe Straße und München Rotkreuzplatz; rund 400 Beschäftigte sind betroffen.",
-     "source": "ariva/dpa-AFX (Dax am Nachmittag), 20.11.",
-     "url": "https://www.ariva.de/news/aktien-frankfurt-sechster-verlusttag-wirft-den-dax-unter-12215220"
+     "title": "Dax schließt mit minus 2,6 % unter 25.000 Punkten und verliert in der Woche mehr als 7 % – Erzeugerpreise steigen um 8,1 %",
+     "text": "Der Dax beendete den Freitag laut dpa-AFX praktisch auf Tagestief bei 24.802,78 Punkten (minus 2,60 %); es war der sechste Verlusttag in Folge, der Index fiel unter seine 200-Tage-Linie. In der Vorwoche hatte er noch einen Rekord bei rund 27.002 Punkten erreicht. Der MDax gab 2,59 % auf 28.740,31 Punkte nach. Als Gründe nennt der Bericht Zweifel am Tempo des Ausbaus von US-Rechenzentren, mögliche Folgen der Probleme bei Nvidia, anhaltende Zinssorgen und den starken Dollar; die Landesbank LBBW nannte die Stimmung stark angeknackst. Die Erzeugerpreise stiegen im Oktober laut Statistischem Bundesamt um 8,1 % zum Vorjahr, so stark wie seit Februar 2023 nicht mehr; Mineralölerzeugnisse waren 51,9 % teurer, Erdgas 21,9 %, Strom 12,6 %.",
+     "source": "ariva/dpa-AFX (Dax-Schluss), 20.11.",
+     "url": "https://www.ariva.de/news/aktien-frankfurt-schluss-dax-faellt-unter-25-000-punkte-12215520"
+    },
+    {
+     "tag": "Post · Tarife · Unternehmer",
+     "title": "Briefporto soll 2027 auf 1,15 Euro steigen – IG Metall bestreikt Betriebe ganztägig, VW verlangt Nullrunden",
+     "text": "Die Bundesnetzagentur hat den Spielraum für die Portoerhöhung der Deutschen Post für die Jahre 2027 und 2028 endgültig festgelegt; er fällt deutlich größer aus als vor zwei Jahren. Laut WDR soll der Standardbrief künftig 1,15 Euro statt 95 Cent kosten, der Kompaktbrief 1,25 Euro, der Großbrief 2,35 Euro und der Maxibrief 5 Euro. Die Post begründet das mit sinkenden Briefmengen (2005: 16,9 Milliarden, 2025: knapp 9,4 Milliarden) und steigenden Personal-, Energie- und Sachkosten. Die IG Metall hatte am Freitag tausende Beschäftigte der Metall- und Elektroindustrie zu ganztägigen Warnstreiks aufgerufen, unter anderem auf den Kieler Werften TKMS und German Naval Yards; sie fordert 5 % mehr Geld bei zwölf Monaten Laufzeit. Volkswagen verlangt in der Haustarifrunde Nullrunden für 2027 und 2028, verhandelt wird ab Dienstag in Emden.",
+     "source": "WDR (Porto), 20.11.",
+     "url": "https://www1.wdr.de/wirtschaft/briefporto-teuer-post-100.html"
     },
     {
      "tag": "Bundesrat · Gesetze",
      "title": "Bundesrat billigt Frühstartrente, digitale Brieftasche, Notfallreform und aktive Cyberabwehr – Kita-Sprachtests gehen in den Vermittlungsausschuss",
-     "text": "Die Länderkammer hat am Freitag mehrere Gesetze gebilligt. Mit der Frühstartrente zahlt der Bund für jedes Kind vom sechsten bis zum 18. Lebensjahr monatlich zehn Euro in ein Altersvorsorgedepot ein; ab Januar 2027 erhalten zunächst die Jahrgänge 2020 und 2021 das Geld. Ab Anfang 2027 soll die App „d-you“ als digitale Brieftasche den Personalausweis aufnehmen, die Nutzung ist freiwillig. Die Reform der Notfallversorgung sieht neue Anlaufstellen an Kliniken und eine Ersteinschätzung über die 116 117 vor; die Sicherheitsbehörden erhalten den Auftrag zu einer aktiven Cyberabwehr. Gestoppt ist vorerst das Startchancen-Gesetz mit Sprachtests für Vierjährige, für das der Bund bis 2034 rund 9,25 Mrd. Euro in Aussicht stellt: Die Länder riefen wegen der Finanzierung den Vermittlungsausschuss an. Außerdem fordern sie Tempo 60 statt 45 für Mopeds. Neuer Bundesratspräsident ist für ein Jahr Nordrhein-Westfalens Ministerpräsident Hendrik Wüst (CDU).",
+     "text": "Die Länderkammer hat am Freitag mehrere Gesetze gebilligt. Mit der Frühstartrente zahlt der Bund für jedes Kind vom sechsten bis zum 18. Lebensjahr monatlich zehn Euro in ein Altersvorsorgedepot ein; ab Januar 2027 erhalten zunächst die Jahrgänge 2020 und 2021 das Geld. Ab Anfang 2027 soll die App „d-you“ als digitale Brieftasche den Personalausweis aufnehmen, die Nutzung ist freiwillig. Die Reform der Notfallversorgung sieht neue Anlaufstellen an Kliniken und eine Ersteinschätzung über die 116 117 vor; die Sicherheitsbehörden erhalten den Auftrag zu einer aktiven Cyberabwehr. Gestoppt ist vorerst das Startchancen-Gesetz mit Sprachtests für Vierjährige: Die Länder riefen wegen der Finanzierung den Vermittlungsausschuss an. Neuer Bundesratspräsident ist für ein Jahr Nordrhein-Westfalens Ministerpräsident Hendrik Wüst (CDU).",
      "source": "ZDFheute-Ticker (Bundesrat), 20.11.",
      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     },
     {
-     "tag": "Tarife · Unternehmer",
-     "title": "IG Metall bestreikt ganztägig Werften und Betriebe im fast gesamten Bundesgebiet – VW verlangt Nullrunden für 2027 und 2028",
-     "text": "Die IG Metall hat am Freitag tausende Beschäftigte der Metall- und Elektroindustrie zu ganztägigen Warnstreiks aufgerufen. Seit Mitternacht ruht die Arbeit auf den Kieler Werften TKMS und German Naval Yards, in Sachsen-Anhalt werden Thyssenkrupp in Schönebeck und Elcowire Rail in Mansfeld bestreikt. Die Gewerkschaft fordert nach drei ergebnislosen Runden 5 % mehr Geld bei zwölf Monaten Laufzeit. Volkswagen geht mit der Forderung nach Nullrunden 2027 und 2028 sowie dem Wegfall der tariflichen Zusatzvergütung und einer Zulage von 167 Euro im Monat in die Haustarifrunde; verhandelt wird ab Dienstag in Emden, die Friedenspflicht endet am 31. Dezember.",
-     "source": "ZDFheute-Ticker (Warnstreiks), 20.11.",
-     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-    },
-    {
      "tag": "Politik · Protest · Parteien",
-     "title": "„Gen Z regelt“ protestiert in 73 Städten, BKA sieht keine Hinweise auf geplante Gewalt – Schwan unterstützt Heil im Rennen um den SPD-Vorsitz",
-     "text": "Die Jugendbewegung „Gen Z regelt“ hatte für Freitag nach eigenen Angaben knapp 21.000 Anmeldungen für Aktionen in 73 Städten; gefordert werden unter anderem mehr Geld für Schulen, bezahlbares Wohnen und ein Verzicht auf die Wehrpflicht. Dem Bundeskriminalamt lagen vorab keine Erkenntnisse zu Gewaltaufrufen vor; bei der ersten Protestwelle Ende Oktober war es unter anderem in Frankfurt am Main und Köln zu Krawallen gekommen. Das Deutsche Studierendenwerk stellte sich hinter die Ziele der Proteste, Grünen-Chef Felix Banaszak sagte den Demonstrierenden in Berlin Unterstützung zu. Im Rennen um den SPD-Vorsitz sprach sich Gesine Schwan für Hubertus Heil aus und plädierte für eine Trennung von Parteivorsitz und Ministeramt. Verteidigungsminister Boris Pistorius (SPD) begrüßte in Warschau Putins Einladung an die Europäer zu Gesprächen in Moskau, verlangte aber sichtbaren Willen zu einer Waffenruhe.",
-     "source": "ZDFheute-Ticker (BKA, Studierendenwerk, SPD, Pistorius), 20.11.",
+     "title": "„Gen Z regelt“ protestiert bundesweit gegen die Wehrpflicht, BKA sah keine Hinweise auf geplante Gewalt – Pistorius begrüßt Moskaus Einladung",
+     "text": "Die Jugendbewegung „Gen Z regelt“ hatte für Freitag nach eigenen Angaben knapp 21.000 Anmeldungen für Aktionen in 73 Städten; gefordert werden unter anderem mehr Geld für Schulen, bezahlbares Wohnen und ein Verzicht auf die Wehrpflicht. Dem Bundeskriminalamt lagen vorab keine Erkenntnisse zu Gewaltaufrufen vor; in Berlin blieb es nach Polizeiangaben friedlich. Verteidigungsminister Boris Pistorius (SPD) begrüßte die russische Einladung an Deutschland, Frankreich und Großbritannien zu Gesprächen in Moskau und nannte eine Absage das völlig falsche Signal. Im Rennen um den SPD-Vorsitz sprach sich Gesine Schwan für Hubertus Heil aus.",
+     "source": "ZDFheute-Ticker (BKA, SPD), 20.11.",
      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     }
    ]
@@ -73,32 +73,32 @@
    "title": "Berlin",
    "items": [
     {
-     "tag": "Demos · Verkehr · heute",
-     "title": "Schulstreik gegen die Wehrpflicht: Polizei zählt 4.000 Teilnehmer, Veranstalter bis zu 12.000 – Lage friedlich, am Abend weitere Demos und Sperrungen",
-     "text": "Der Protestzug von „Gen Z regelt“ setzte sich gegen 13:30 Uhr und damit zwei Stunden später als geplant vom Alexanderplatz in Bewegung und endete mit einer Kundgebung am Mariannenplatz in Kreuzberg. Die Polizei schätzte die Teilnehmerzahl am Nachmittag auf 4.000, ein Sprecher der Initiative sprach von 10.000 bis 12.000; angemeldet waren 5.000. Laut Polizeisprecher Florian Nath verlief der Zug ohne Zwischenfälle; die Polizei ist den ganzen Tag und in der Nacht mit bis zu 1.600 Kräften im Einsatz. Am Brandenburger Tor demonstriert seit 14:30 Uhr die Bundesschülerkonferenz für bessere Bildung (angemeldet: 5.000 Teilnehmer, bis 20 Uhr), um 19:30 Uhr beginnt am Kottbusser Tor eine Demo unter dem Motto „Merz muss weg!“. Alt-Moabit ist von 18 bis etwa 19:30 Uhr zwischen Lüneburger Straße und Moltkebrücke gesperrt; bis Montag tagt zudem die Parlamentarische Versammlung der Nato im Hotel InterContinental an der Budapester Straße.",
+     "tag": "Demos · Polizei · heute",
+     "title": "Jugendproteste bleiben friedlich: 4.000 Teilnehmer laut Polizei, bis zu 15.000 laut Veranstaltern – am Abend rund 300 Menschen am Kottbusser Tor",
+     "text": "Der Protestzug von „Gen Z regelt“ gegen die Wehrpflicht erreichte den Mariannenplatz in Kreuzberg nach Angaben der Polizei ohne besondere Vorkommnisse. Die Polizei zählte rund 4.000 junge Menschen, ein Sprecher der Initiative sprach von bis zu 15.000. Die Demo der Bundesschülerkonferenz am Brandenburger Tor blieb dagegen klein: Angemeldet waren 5.000 Teilnehmer, laut Polizei kamen etwa 60 bis 80. Am Abend versammelten sich unter dem Titel „Merz muss weg!“ nach Polizeiangaben rund 300 Menschen am Kottbusser Tor; auch diese Kundgebung verlief laut einer Polizeisprecherin zunächst friedlich. Die Polizei war am Freitag mit bis zu 1.600 zusätzlichen Kräften im Einsatz.",
      "source": "Tagesspiegel (Teilnehmerzahlen, Polizei), 20.11.",
      "url": "https://www.tagesspiegel.de/berlin/tausende-bei-demos-von-gen-z-regelt-und-bundesschulerkonferenz-16305132.html"
     },
     {
      "tag": "Verkehr · BVG · S-Bahn",
-     "title": "E-Scooter-Fahrer stirbt nach Zusammenstoß mit Tram auf der Landsberger Allee – S5 ab heute Abend unterbrochen, A10 ab 20 Uhr gesperrt",
-     "text": "Auf der Landsberger Allee ist am Morgen kurz nach 7 Uhr ein 30-jähriger E-Scooter-Fahrer von einer Straßenbahn erfasst worden; er starb eine Stunde später im Krankenhaus. Die Polizei sperrte den Unfallort ab, Autoverkehr und mehrere Tramlinien waren unterbrochen. Auf der S5 fahren von Freitag, 21:45 Uhr, bis Montag gegen 1:30 Uhr zwischen Kaulsdorf und Strausberg Busse; der RE1 fällt von 20:30 Uhr bis Samstag gegen 5 Uhr zwischen Ostbahnhof und Fürstenwalde aus. Die A10 ist ab 20 Uhr Richtung Dreieck Havelland nur bis Falkensee befahrbar, voraussichtlich bis Montag gegen 5 Uhr. Die BVG meldet dank neu eingestellter Fahrer weniger Ausfälle bei Bussen und U-Bahnen; die Deutsche Bahn will zum Fahrplanwechsel die Fahrzeit nach Wolfsburg während der Sanierung der Strecke Berlin–Hannover verkürzen.",
-     "source": "Tagesspiegel/dpa (Unfall), 20.11.",
-     "url": "https://www.tagesspiegel.de/berlin/dpa-e-scooter-fahrer-stirbt-nach-zusammenstoss-mit-strassenbahn-16305549.html"
+     "title": "A10 seit 20 Uhr Richtung Dreieck Havelland gesperrt, S5 bis Montag früh unterbrochen – E-Scooter-Fahrer stirbt nach Zusammenstoß mit Tram",
+     "text": "Die A10 ist seit Freitag, 20 Uhr, ab der Anschlussstelle Falkensee Richtung Dreieck Havelland gesperrt, voraussichtlich bis Montag gegen 5 Uhr. Auf der S5 fahren seit 21:45 Uhr bis Montag gegen 1:30 Uhr zwischen Kaulsdorf und Strausberg Busse; der RE1 fällt bis Samstag gegen 5 Uhr zwischen Ostbahnhof und Fürstenwalde aus, mehrere Züge des RE7 werden zwischen 22 und 4:30 Uhr umgeleitet. Auf der Landsberger Allee war am Morgen ein 30-jähriger E-Scooter-Fahrer von einer Straßenbahn erfasst worden; er starb wenig später im Krankenhaus. Die BVG meldet dank neu eingestellter Fahrer weniger Ausfälle bei Bussen und U-Bahnen; die Deutsche Bahn will zum Fahrplanwechsel die Fahrzeit nach Wolfsburg während der Sanierung der Strecke Berlin–Hannover verkürzen.",
+     "source": "Berliner Kurier (A10, S5, RE1, RE7), 19.11.",
+     "url": "https://www.berliner-kurier.de/article/berlin-verkehr-demo-staatsbesuch-autobahnsperrung-10615927"
     },
     {
      "tag": "Senat · Landespolitik · Bezirke",
-     "title": "Datenleck der Berliner Verwaltung: Tagesspiegel-Auswertung kommt auf mehr als 540.000 Betroffene – Linke und Grüne teilen Ämter in Friedrichshain-Kreuzberg auf",
-     "text": "Während der Senat das Ausmaß des Hackerangriffs auf die Verwaltung nach Angaben des Tagesspiegels nicht beziffern kann, kommt die Zeitung in einer eigenen Datenanalyse auf mehr als 540.000 betroffene Menschen, auch weit über Berlin hinaus. In Friedrichshain-Kreuzberg haben Linke und Grüne eine Allianz beschlossen; das Bauamt von Florian Schmidt soll ein Architekt übernehmen, das Schulamt geht an eine Linken-Politikerin aus Pankow. In Mitte hatten sich die Grünen nach dem Gesprächsabbruch mit der Linken mit Volt verbündet. Wirtschaftssenatorin Franziska Giffey (SPD) kritisierte den Kurs ihrer Partei und sieht auch die Koalitionsverhandlungen mit Linken und Grünen skeptisch. In Treptow hat der Bezirk den Kungerkiez an der A100 mit Pollern für den Durchgangsverkehr gesperrt, die CDU protestiert.",
+     "title": "Datenleck der Berliner Verwaltung: Tagesspiegel-Auswertung kommt auf mehr als 540.000 Betroffene – Koalitionsbildung zieht sich hin",
+     "text": "Während der Senat das Ausmaß des Hackerangriffs auf die Verwaltung nach Angaben des Tagesspiegels nicht beziffern kann, kommt die Zeitung in einer eigenen Datenanalyse auf mehr als 540.000 betroffene Menschen, auch weit über Berlin hinaus. Die Bildung einer Koalition aus Linken, SPD und Grünen dauert an; ein Streitpunkt bleibt der Fall der Linken-Abgeordneten Vanessa Emde. In Friedrichshain-Kreuzberg haben Linke und Grüne eine Allianz beschlossen: Das Bauamt von Florian Schmidt soll ein Architekt übernehmen, das Schulamt geht an eine Linken-Politikerin aus Pankow. Wirtschaftssenatorin Franziska Giffey (SPD) kritisierte den Kurs ihrer eigenen Partei.",
      "source": "Tagesspiegel (Datenleck), 20.11.",
      "url": "https://interaktiv.tagesspiegel.de/lab/hackerangriff-auf-berliner-verwaltung-mehr-als-540000-menschen-im-datenleck-die-datenanalyse/"
     },
     {
-     "tag": "Wirtschaft · Polizei · Stadt",
-     "title": "Galeria gibt das Haus am Kurfürstendamm auf – Wahlkreisbüro von CDU-Politiker Luczak attackiert, Salon der Amerika-Gedenkbibliothek geschlossen",
-     "text": "Die insolvente Warenhauskette Galeria schließt 2027 drei Filialen, darunter das Haus am Kurfürstendamm; bundesweit sind rund 400 Beschäftigte betroffen, am Freitag blieb das Berliner Haus laut Tagesspiegel ohne Verkauf. Unbekannte haben das Wahlkreisbüro des CDU-Bundestagsabgeordneten Jan-Marco Luczak in Schöneberg angegriffen und die Scheibe mit dem Schriftzug „Kriegstreiber“ versehen. In der Amerika-Gedenkbibliothek in Kreuzberg sind sämtliche Aufzüge ausgefallen, der Salon bleibt bis auf Weiteres geschlossen; die Leitung fordert einen Neubau am Alexanderplatz. Vor Gericht sagte im Prozess gegen einen bereits verurteilten Serienvergewaltiger eine Frau zu einer mutmaßlichen Tat vor zwölf Jahren aus.",
-     "source": "Tagesspiegel (Galeria), 20.11.",
-     "url": "https://www.tagesspiegel.de/berlin/bezirke/charlottenburg-wilmersdorf/einzelhandel-galeria-schliesst-drei-filialen--400-beschaftigte-betroffen-16306006.html"
+     "tag": "Polizei · Wirtschaft · Stadt",
+     "title": "41-Jährige in drei Fällen einer Brandserie in Marienfelde verdächtig – Polizei setzt in Staaken Taser ein, Galeria am Kurfürstendamm bleibt zu",
+     "text": "Bei drei Fällen einer mutmaßlichen Serie von 16 Bränden in Marienfelde soll eine 41-jährige Berlinerin die Täterin sein; ihr wird unter anderem vorgeworfen, Abfälle in einem Aufzug angezündet und einen Kellerverschlag in Brand gesetzt zu haben. In Staaken soll ein 49-Jähriger seine frühere Schwiegermutter mit einem Messer bedroht haben; bei der Festnahme setzte die Polizei einen Taser ein, zwei Beamte wurden verletzt. Das Galeria-Haus am Kurfürstendamm, das die insolvente Kette 2027 aufgibt, blieb bereits am Freitag geschlossen; bundesweit sind von drei Schließungen rund 400 Beschäftigte betroffen. Unbekannte haben das Wahlkreisbüro des CDU-Bundestagsabgeordneten Jan-Marco Luczak in Schöneberg angegriffen. In der Amerika-Gedenkbibliothek sind alle Aufzüge ausgefallen, der Salon ist bis auf Weiteres geschlossen.",
+     "source": "Tagesspiegel/dpa (Brandserie), 20.11.",
+     "url": "https://www.tagesspiegel.de/berlin/dpa-berlinerin-in-drei-fallen-von-brandstiftung-verdachtig-16309239.html"
     }
    ]
   },
@@ -108,38 +108,38 @@
    "items": [
     {
      "tag": "Ukraine · Russland",
-     "title": "Raketenangriff auf Kiew: sechs Tote und 17 Verletzte, drei Brücken beschädigt – Moskau bestätigt gezielte Angriffe, zwei Tote in Lwiw",
-     "text": "Russland hat Kiew mit ballistischen Raketen angegriffen und dabei drei Brücken über den Dnipro beschädigt, darunter erneut die Südbrücke. Die Militärverwaltung meldete sechs Tote und 17 Verletzte; in der Hälfte der Stadtbezirke fielen Strom, Wasser und Fernheizung aus. Bürgermeister Vitali Klitschko bat die Einwohner, von zu Hause zu arbeiten und die Stadt nicht mit dem Auto zu verlassen. In Lwiw wurden laut Behörden zwei Menschen getötet, dort wurde ein Bahnhof getroffen. Das russische Verteidigungsministerium bestätigte die Angriffe auf die Brücken und nannte als weitere Ziele Rüstungsbetriebe. Nach Angaben des Vize-Energieministers mussten ukrainische Atomkraftwerke ihre Leistung drosseln, Stromausfälle gab es in Kiew und zehn Regionen. Präsident Wladimir Putin hatte nach den ukrainischen Treffern auf die Krim-Brücke eine „weitaus schmerzhaftere“ Antwort angekündigt.",
-     "source": "ariva/dpa-AFX (Kiew, Lwiw), 20.11.",
-     "url": "https://www.ariva.de/news/roundup-2-kiew-tote-nach-moskaus-angriffen-drei-bruecken-12215012"
+     "title": "Selenskyj: Mehr als 110 Raketen und über 400 Drohnen, acht Tote und fast 30 Verletzte – drei Dnipro-Brücken in Kiew beschädigt",
+     "text": "Russland hat die Ukraine nach Angaben von Präsident Wolodymyr Selenskyj mit mehr als 110 Raketen, darunter 27 ballistischen, und über 400 Drohnen angegriffen; die meisten Marschflugkörper und Drohnen seien abgefangen worden. Acht Menschen wurden getötet, fast 30 verletzt. In Kiew wurden drei Brücken über den Dnipro beschädigt, in der Hälfte der Stadtbezirke fielen Strom, Wasser und Fernheizung aus; in Lwiw wurde nach offiziellen Angaben ein Bahnhof getroffen. Das russische Verteidigungsministerium bestätigte die Angriffe auf die Brücken und begründete sie mit Waffentransporten für die ukrainische Armee. Präsident Wladimir Putin hatte nach ukrainischen Treffern auf die Krim-Brücke Vergeltung angekündigt.",
+     "source": "Handelsblatt/dpa (Angriffe), 20.11.",
+     "url": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-schwere-angriffe-auf-ukraine-moskau-laedt-europaeer-ein/100271558.html"
     },
     {
      "tag": "Polen · Diplomatie",
-     "title": "Polen meldet abgestürzte russische Marschflugkörper – Moskau lehnt Sicherheitsgarantien nach Nato-Vorbild ab, arbeitet aber an Besuch der Europäer",
-     "text": "Während der Angriffe auf die Ukraine sind nach Angaben der polnischen Regierung mehrere russische Flugobjekte in den polnischen Luftraum eingedrungen und abgestürzt; an drei Orten wurden Trümmer gefunden, wahrscheinlich von zwei Marschflugkörpern und einer Drohne. Verletzt wurde niemand, Verteidigungsminister Wladyslaw Kosiniak-Kamysz sprach von einer weiteren Provokation. Russlands Vizeaußenminister Sergej Rjabkow nannte Sicherheitsgarantien für die Ukraine nach Nato-Vorbild inakzeptabel, bestätigte aber, dass an einem möglichen Besuch von Vertretern Deutschlands, Frankreichs und Großbritanniens in Moskau gearbeitet werde. Außenminister Johann Wadephul knüpfte direkte Gespräche an die Bedingung, dass Russland den Krieg wirklich beenden wolle. Kanzler Friedrich Merz sagte beim Deutsch-Ukrainischen Wirtschaftsforum in Berlin, Investitionen in der Ukraine zahlten sich mehrfach aus; keine deutsche Firma habe ihr Engagement dort aufgegeben.",
-     "source": "ZDFheute (Liveblog Ukraine), 20.11.",
-     "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
+     "title": "Polen meldet abgestürzte russische Marschflugkörper, EU-Spitze und London verurteilen den Vorfall – Moskau wartet auf Antwort der Europäer",
+     "text": "Während der Angriffe sind nach Angaben der polnischen Regierung mehrere russische Flugobjekte in den polnischen Luftraum eingedrungen und abgestürzt; an drei Orten wurden Trümmer gefunden, wahrscheinlich von zwei Marschflugkörpern und einer Drohne. Verletzt wurde niemand. Verteidigungsminister Wladyslaw Kosiniak-Kamysz sprach von einer weiteren Provokation, der britische Premier Andy Burnham nannte den Vorfall in Brüssel absolut inakzeptabel, auch Ursula von der Leyen und António Costa verurteilten ihn. Russland hat Deutschland, Frankreich und Großbritannien zu Gesprächen nach Moskau eingeladen; man warte auf eine Antwort, sagte Vizeaußenminister Sergej Rjabkow laut Interfax. Eine Nato-Mitgliedschaft der Ukraine und Sicherheitsgarantien nach Nato-Vorbild lehnte er ab.",
+     "source": "Handelsblatt/dpa (Polen, Rjabkow), 20.11.",
+     "url": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-schwere-angriffe-auf-ukraine-moskau-laedt-europaeer-ein/100271558.html"
     },
     {
      "tag": "Europa",
-     "title": "EU und Großbritannien einigen sich vor Gipfel auf Wiederannäherung: weniger Kontrollen im Lebensmittelhandel, begrenzte Freizügigkeit für junge Menschen",
-     "text": "Knapp sieben Jahre nach dem Brexit haben sich die EU und Großbritannien vor ihrem zweiten Gipfeltreffen in Brüssel nach dpa-Informationen auf Projekte zur Wiederannäherung verständigt. Kontrollen im Lebensmittelhandel sollen abgebaut und eine begrenzte Freizügigkeit für junge Menschen geregelt werden. Umgesetzt wird das allerdings erst nach einer Einigung über die Angleichung der Studiengebühren; derzeit zahlen EU-Studierende in Großbritannien deutlich mehr als einheimische. Auf der Tagesordnung stehen außerdem die Rückkehr des Landes in das Austauschprogramm Erasmus+ und eine engere Zusammenarbeit bei Verteidigung und Sicherheit.",
-     "source": "ZDFheute-Ticker (Einigung), 20.11.",
-     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+     "title": "EU und Großbritannien schließen auf Gipfel in Brüssel Abkommen zu Handel und Jugendmobilität – Streit um Studiengebühren noch offen",
+     "text": "Beim zweiten Gipfeltreffen seit dem Brexit haben die EU-Spitzen und der britische Premier Andy Burnham in Brüssel Vereinbarungen zu Handel und Reisen sowie zur Mobilität junger Menschen verkündet. Burnham sprach von einem wegweisenden Abkommen, Kommissionspräsidentin Ursula von der Leyen von einem Wendepunkt in den Beziehungen; sie verwies auch auf eine Einigung zum CO2-Markt. Nach Burnhams Angaben könnten die Abkommen die britische Wirtschaftsleistung um 0,5 % erhöhen. Bei den Studiengebühren für EU-Studierende steht eine Lösung noch aus; daran solle im kommenden Monat gearbeitet werden, sagte von der Leyen.",
+     "source": "AP (Gipfel), 20.11.",
+     "url": "https://apnews.com/article/eu-britain-uk-brexit-summit-brussels-burnham-f265e5e01b5076b9489f7a6c89f831f4"
+    },
+    {
+     "tag": "Klima",
+     "title": "Weltklimakonferenz in Antalya geht in die Verlängerung – EU lehnt Textentwurf ohne Erwähnung fossiler Brennstoffe ab",
+     "text": "Die COP31 hat ihr offizielles Ende am Freitag um 16 Uhr MEZ überschritten; die Verhandlungen der fast 200 Staaten können sich laut ORF in die Nacht und das Wochenende ziehen. Der jüngste Entwurf erwähnt fossile Brennstoffe nicht. Die EU beschwerte sich schriftlich bei der türkischen Präsidentschaft und dem australischen Verhandlungsleiter Chris Bowen; aus EU-Kreisen hieß es, lieber wolle man kein Dokument als ein schlechtes. Frankreich und elf weitere Staaten fordern einen klaren Ausstieg aus Kohle, Öl und Gas, die afrikanische Gruppe vermisst eine Verdreifachung der Anpassungsfinanzierung. Die Präsidentschaft schlägt vor, den Stromanteil am weltweiten Endenergieverbrauch von 23 auf 35 % zu erhöhen.",
+     "source": "ORF (COP31), 20.11.",
+     "url": "https://orf.at/stories/3448795/"
     },
     {
      "tag": "Iran · Irak · USA",
      "title": "Irakische Truppen rücken in Hochburg proiranischer Miliz ein – US-Senat hatte Resolution zum Ende des Iran-Kriegs mit 51 zu 48 abgelehnt",
-     "text": "Irakische Sicherheits- und Streitkräfte haben einen Einsatz im Bezirk Dscharf al-Sachr südlich von Bagdad begonnen, der seit rund zwölf Jahren unter dem Einfluss der proiranischen Miliz Kataib Hisbollah steht. Laut AP ging dem ein Kompromiss zwischen Regierung und Miliz voraus; noch am Freitag soll dort ein Hauptquartier eingerichtet werden. In Washington hatte der Senat am Donnerstag eine Resolution verworfen, die Präsident Donald Trump gezwungen hätte, den Iran-Krieg zu beenden oder die Zustimmung des Kongresses einzuholen. Trump will über neue Großangriffe erst nach dem Jahreswechsel entscheiden; das Pentagon beziffert die bisherigen Kriegskosten auf 48,3 Mrd. $.",
+     "text": "Irakische Sicherheits- und Streitkräfte haben einen Einsatz im Bezirk Dscharf al-Sachr südlich von Bagdad begonnen, der seit rund zwölf Jahren unter dem Einfluss der proiranischen Miliz Kataib Hisbollah steht. Laut AP ging dem ein Kompromiss zwischen Regierung und Miliz voraus. In Washington hatte der Senat am Donnerstag eine Resolution verworfen, die Präsident Donald Trump gezwungen hätte, den Iran-Krieg zu beenden oder die Zustimmung des Kongresses einzuholen. Trump will über neue Großangriffe erst nach dem Jahreswechsel entscheiden; das Pentagon beziffert die bisherigen Kriegskosten auf 48,3 Mrd. $.",
      "source": "ZDFheute (Liveblog Iran), 20.11.",
      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html"
-    },
-    {
-     "tag": "Kurz gemeldet",
-     "title": "Klimagipfel in Antalya geht in die Verlängerung – Generalstreik in Italien, Vietnam schränkt Todesstrafe ein, Testabstimmung zur Guterres-Nachfolge",
-     "text": "Die Weltklimakonferenz hat ihr offizielles Ende um 16 Uhr MEZ überschritten, die Verhandlungen dauern an; rund 25 Staaten dringen auf den Ausstieg aus Kohle, Öl und Gas, im jüngsten Textentwurf werden fossile Brennstoffe nicht als Haupttreiber der Klimakrise genannt. In Italien hat der Gewerkschaftsbund CGIL zu einem Großstreik gegen die Regierung Meloni mit rund 100 Kundgebungen aufgerufen. Vietnams Nationalversammlung hat die Todesstrafe für sechs Straftaten abgeschafft, darunter Drogenhandel; die Regelung gilt ab 1. März 2027. Im UN-Sicherheitsrat soll eine neue Testabstimmung klären, ob sich die Blockade bei der Nachfolge von Generalsekretär António Guterres löst, dessen Amtszeit in sechs Wochen endet. Das US-Justizministerium ficht die Wahl der Demokratin Mary Peltola in Alaska nicht weiter an.",
-     "source": "ZDFheute-Ticker (Klimagipfel, Italien, Vietnam, UN, Alaska), 20.11.",
-     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     }
    ]
   },
@@ -149,40 +149,40 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin fällt auf 60.146 $ und testet die Marke von 60.000 $ – Ether verliert 5,9 % auf 1.676 $",
-     "text": "Bitcoin notierte um 16:34 Uhr MEZ laut CoinDesk bei 60.146 $ und damit 4,61 % unter dem Stand vor 24 Stunden; die 24-Stunden-Spanne reicht von 60.128 $ bis 63.267 $. Am Vormittag hatte der Kurs noch bei rund 62.200 $ gelegen. Ether stand bei 1.676 $ (minus 5,89 %; Spanne 1.673 bis 1.789 $). The Block bezifferte das Minus bei Bitcoin schon am Mittag auf 13,5 % in einer Woche und rund 25,6 % in einem Monat. Analysten von Glassnode nennen laut Coinpaper 58.500 $ und 53.700 $ als nächste mögliche Ziele eines beschleunigten Rückgangs; Decrypt hatte als Unterstützungen 60.000 $ und rund 56.841 $ genannt.",
+     "title": "Bitcoin fällt erstmals seit Anfang Juli unter 60.000 $ und steht bei 58.545 $ – Ether verliert 9,2 % auf 1.598 $",
+     "text": "Bitcoin notierte um 21:40 Uhr MEZ laut CoinDesk bei 58.545 $ und damit 5,68 % unter dem Stand vor 24 Stunden; die 24-Stunden-Spanne reicht von 57.981 $ bis 62.447 $. Am Nachmittag war der Kurs erstmals seit Anfang Juli unter 60.000 $ gefallen und hat laut Invezz auch das Tief vom 2. Juli bei 59.520 $ unterschritten. Ether stand bei 1.598 $ (minus 9,19 %; Spanne 1.589 bis 1.765 $). Laut Pluang wurden dabei Positionen im Wert von mehr als 1,33 Mrd. $ zwangsweise aufgelöst, überwiegend Wetten auf steigende Kurse. Yahoo Finance zufolge steuert Bitcoin auf den schwächsten Monat seit Juni 2022 zu; der Datendienst Santiment sieht die Stimmung im Bereich „extremer Angst“.",
      "source": "CoinDesk (Bitcoin), 20.11.",
      "url": "https://www.coindesk.com/price/bitcoin",
-     "impact": "Der Kurs liegt am Tagestief und unmittelbar an der psychologisch wichtigen Marke von 60.000 $. Ether fällt stärker als Bitcoin, was auf breite Risikoscheu im Kryptomarkt hindeutet; eine Richtungsaussage lässt sich daraus nicht ableiten."
+     "impact": "Mit dem Bruch von 60.000 $ ist eine viel beachtete Marke gefallen, und Zwangsauflösungen gehebelter Positionen haben den Rückgang verstärkt. Ether fällt deutlich stärker als Bitcoin, was auf breite Risikoscheu im Kryptomarkt hindeutet; eine Richtungsaussage lässt sich daraus nicht ableiten."
     },
     {
      "tag": "ETF-Flüsse",
-     "title": "Bitcoin-ETFs: 582 Mio. $ Abfluss am Donnerstag, im November bereits rund 3,47 Mrd. $ – nur zwei Tage mit Zuflüssen",
-     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Donnerstag laut The Block (Daten von SoSoValue) den dritten Tag in Folge Nettoabflüsse, diesmal 582,2 Mio. $. Auf BlackRocks IBIT entfielen 541,1 Mio. $, auf Fidelitys FBTC 45,9 Mio. $, auf ARKB 31,3 Mio. $ und auf Grayscales GBTC 13,9 Mio. $; der Fonds von Morgan Stanley erhielt 49,6 Mio. $. Im November gab es bisher nur zwei Tage mit Zuflüssen, unter dem Strich summieren sich die Abflüsse auf rund 3,47 Mrd. $. Die Fonds verwalteten am Donnerstag 76,6 Mrd. $, das entspricht 6,1 % der Marktkapitalisierung von Bitcoin. Die Ether-ETFs verloren 131,2 Mio. $ und damit am vierten Tag in Folge. Das Spot-Handelsvolumen an zentralen Börsen fiel laut The Block von 1,69 Bio. $ im September auf 1,02 Bio. $ im Oktober.",
-     "source": "The Block (ETF-Flüsse), 20.11.",
-     "url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
-     "impact": "Die Abflüsse kommen überwiegend aus dem größten Fonds und halten den dritten Tag an. Solange sich die ETF-Flüsse nicht drehen und die Handelsvolumina sinken, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage."
+     "title": "Bitcoin-ETFs: 582 Mio. $ Abfluss am Donnerstag, Rekordabfluss bei BlackRocks IBIT – im November bereits rund 3,47 Mrd. $",
+     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Donnerstag laut Farside Investors den dritten Tag in Folge Nettoabflüsse: 582,3 Mio. $ nach 306,5 Mio. $ am Mittwoch und 239,9 Mio. $ am Dienstag. Auf BlackRocks IBIT entfielen 541,1 Mio. $, laut Invezz der größte Tagesabfluss in der Geschichte des Fonds; Fidelitys FBTC verlor 45,9 Mio. $, der Fonds von Morgan Stanley erhielt 49,6 Mio. $. Im November summieren sich die Abflüsse auf rund 3,47 Mrd. $. Nach einer Schätzung von Bitfinex notierte Bitcoin zuletzt fast 25 % unter dem durchschnittlichen Einstiegspreis der ETF-Anleger. Die Ether-ETFs verloren am Donnerstag laut The Block 131,2 Mio. $ und damit am vierten Tag in Folge. Zahlen für Freitag liegen noch nicht vor.",
+     "source": "crypto.news (Farside, Bitfinex), 20.11.",
+     "url": "https://crypto.news/bitcoin-below-60000-ai-stock-selloff/",
+     "impact": "Die Abflüsse haben sich drei Tage in Folge vergrößert und kommen überwiegend aus dem größten Fonds. Solange sich die ETF-Flüsse nicht drehen, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage."
     },
     {
      "tag": "Tech · Aktien",
-     "title": "Tech-Ausverkauf geht weiter: Dax minus 2,2 %, Nikkei minus 5,1 %, Kospi minus 5,2 % – Wall Street startet uneinheitlich, Nvidia verliert erneut",
-     "text": "Der Dax lag am Nachmittag 2,2 % im Minus bei 24.899 Punkten, der EuroStoxx 50 verlor 2,3 %. In Asien schloss der Nikkei laut AP rund 5,1 % tiefer bei 56.436,65 Punkten, der Kospi gab 5,2 % auf 4.869,96 Punkte nach. An der Wall Street stieg der Dow Jones kurz vor 16 Uhr MEZ um 0,80 % auf 49.491 Punkte, getragen von defensiven Werten wie UnitedHealth, Walmart und Procter & Gamble; Nvidia verlor dagegen 4,47 % auf 139,46 $. Laut Bloomingbit eröffnete die Nasdaq 1,46 % schwächer. Die zu 83 $ ausgegebene Anthropic-Aktie hatte am Donnerstag nach einem Hoch von 115 $ bei rund 97 $ geschlossen und näherte sich außerbörslich dem Ausgabepreis.",
-     "source": "ariva/dpa-AFX (Dax, EuroStoxx), 20.11.",
-     "url": "https://www.ariva.de/news/aktien-frankfurt-sechster-verlusttag-wirft-den-dax-unter-12215220",
-     "impact": "Die Kursverluste konzentrieren sich auf Technologie- und Chipwerte, während defensive Aktien zulegen. Bitcoin lief zuletzt eng mit dem Tech-Sektor; laut Block Scholes war die 30-Tage-Korrelation mit Nvidia von 0,20 auf 0,56 gestiegen."
+     "title": "Nasdaq rutscht für 2026 ins Minus: Composite gegen Mittag minus 3,6 %, Chipindex minus 8,7 % – Dax schließt 2,6 % tiefer",
+     "text": "An der Wall Street lag der Nasdaq Composite gegen 18:42 Uhr MEZ laut Dow Jones Newswires 3,6 % im Minus bei 23.025 Punkten und damit unter seinem Stand vom Jahresbeginn; der S&P 500 verlor 2,2 % auf 7.020 Punkte, der Dow Jones 0,7 % auf 48.751 Punkte. Schlusskurse lagen bei Redaktionsschluss noch nicht vor. Der Halbleiterindex SOX fiel laut cryptoticker um 8,7 %, Nvidia um 7,3 %, AMD um gut 11 %; die Anthropic-Aktie verlor rund 13 % und näherte sich ihrem Ausgabepreis von 83 $. Als Belastungen nennen die Berichte Zweifel an den KI-Investitionen, den Abgang von Nvidia-Chef Jensen Huang und Zinssorgen. In Asien hatten Nikkei und Kospi jeweils gut 5 % verloren, der Dax schloss 2,6 % tiefer bei 24.802,78 Punkten.",
+     "source": "finanzen.at/Dow Jones Newswires (US-Börsen), 20.11.",
+     "url": "https://www.finanzen.at/nachrichten/aktien/maerkte-usa-boersen-erneut-auf-talfahrt-nasdaq-dreht-2026-ins-minus-1036788673",
+     "impact": "Der Ausverkauf konzentriert sich auf Technologie- und Chipwerte und hat sich im US-Handel verschärft; der Bruch der 60.000 $ bei Bitcoin fiel zeitlich mit diesem Rutsch zusammen. Bitcoin lief zuletzt eng mit dem Tech-Sektor."
     },
     {
-     "tag": "Fed · US-Daten",
-     "title": "US-Verbraucherstimmung steigt auf 51,5 Punkte, Inflationserwartungen sinken auf 3,7 % – Zinserhöhung im Dezember bleibt eingepreist",
-     "text": "Der Index der Universität Michigan stieg im November in der endgültigen Auswertung auf 51,5 Punkte nach 48 im Oktober und traf damit die Erwartungen. Die Inflationserwartungen auf Sicht eines Jahres fielen laut Kitco von 4,7 auf 3,7 %, die langfristigen von 3,5 auf 3,3 %. Für die Fed-Sitzung am 9. Dezember hatte CME FedWatch am Donnerstag nach Reuters-Angaben eine Wahrscheinlichkeit von 96,4 % für eine Erhöhung um einen Viertelpunkt angezeigt; der Leitzins liegt bei 3,75 bis 4,00 %. Zum US-Handelsschluss am Donnerstag rentierten zehnjährige Staatsanleihen mit 5,04 %. Am Mittwoch folgt der PCE-Bericht, das bevorzugte Inflationsmaß der Fed (erwartete Kernrate: 3,2 %).",
-     "source": "Kitco (Verbraucherstimmung), 20.11.",
-     "url": "https://www.kitco.com/news/article/2026-11-20/gold-price-trades-near-3568oz-after-final-consumer-sentiment-rises-515",
-     "impact": "Sinkende Inflationserwartungen der Verbraucher nehmen etwas Druck aus der Zinsdebatte, ändern an der Markterwartung einer Erhöhung im Dezember aber bislang nichts. Renditen um 5 % und ein starker Dollar bleiben Gegenwind für zinslose Anlagen wie Bitcoin."
+     "tag": "Fed · Zinsen",
+     "title": "Fed-Gouverneurin Cook warnt vor zu spätem Handeln, Markt erwartet Zinserhöhung im Dezember – Zehnjahresrendite fällt auf 4,94 %",
+     "text": "Fed-Gouverneurin Lisa Cook sagte in einer Rede in Chile, längeres Warten mit Zinserhöhungen berge das Risiko, hinter die Entwicklung zurückzufallen. Laut Dow Jones Newswires werden inzwischen zunehmend drei Erhöhungen bis März erwartet; für die Sitzung am 9. Dezember hatte CME FedWatch am Donnerstag nach Reuters-Angaben 96,4 % Wahrscheinlichkeit für einen Viertelpunkt angezeigt. Der Leitzins liegt bei 3,75 bis 4,00 %. Die Rendite zehnjähriger US-Staatsanleihen fiel am Freitag um 0,12 Punkte auf 4,94 %, den tiefsten Stand seit Anfang November; Gold verlor 2,6 % auf 3.527 $. Der Index der Verbraucherstimmung der Universität Michigan lag im November bei 51,5 Punkten nach 48 im Oktober. Am Mittwoch folgt der PCE-Bericht, das bevorzugte Inflationsmaß der Fed.",
+     "source": "finanzen.at/Dow Jones Newswires (Renditen, Gold), 20.11.",
+     "url": "https://www.finanzen.at/nachrichten/aktien/maerkte-usa-boersen-erneut-auf-talfahrt-nasdaq-dreht-2026-ins-minus-1036788673",
+     "impact": "Die Aussicht auf weitere Zinserhöhungen bleibt Gegenwind für zinslose Anlagen wie Bitcoin. Dass am Freitag Renditen, Gold, Aktien und Krypto gleichzeitig fielen, spricht für einen breiten Rückzug aus Risikopositionen und nicht für eine Flucht in einzelne Anlageklassen."
     },
     {
      "tag": "Termin",
-     "title": "Fr 20.11.: Heute Abend: Demos und Sperrungen in Berlin, Klimagipfel in der Verlängerung",
-     "text": "Bildungsprotest am Brandenburger Tor bis 20 Uhr, ab 19:30 Uhr Demo am Kottbusser Tor. Alt-Moabit 18 bis 19:30 Uhr gesperrt, A10 ab 20 Uhr Richtung Dreieck Havelland dicht, S5 ab 21:45 Uhr unterbrochen. Die Nato-Parlamentarierversammlung tagt bis Montag im Hotel InterContinental.",
+     "title": "Sa/So 21./22.11.: Sperrungen in Berlin, Klimagipfel in der Verlängerung",
+     "text": "Die A10 bleibt Richtung Dreieck Havelland ab Falkensee bis Montag gegen 5 Uhr gesperrt, auf der S5 fahren bis Montag gegen 1:30 Uhr Busse zwischen Kaulsdorf und Strausberg. Die Nato-Parlamentarierversammlung tagt bis Montag in Berlin. In Antalya wird weiter über den Abschlusstext der Weltklimakonferenz verhandelt.",
      "source": "",
      "url": ""
     },
@@ -224,7 +224,7 @@
     {
      "tag": "Termin",
      "title": "8./9.12.: Zinsentscheid der Fed, Ministerpräsidentenwahl in Sachsen-Anhalt",
-     "text": "Fed-Entscheidung am 9. Dezember; der Markt rechnet fest mit einer Erhöhung um einen Viertelpunkt. Am 8. Dezember will sich Ulrich Siegmund (AfD) im Magdeburger Landtag zur Wahl stellen.",
+     "text": "Fed-Entscheidung am 9. Dezember; der Markt rechnet mit einer Erhöhung um einen Viertelpunkt. Am 8. Dezember will sich Ulrich Siegmund (AfD) im Magdeburger Landtag zur Wahl stellen.",
      "source": "",
      "url": ""
     }

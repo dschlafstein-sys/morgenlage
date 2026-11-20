@@ -1,18 +1,18 @@
 {
  "date": "Freitag, 20. November 2026",
- "stand": "06:47",
+ "stand": "11:44",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "61.673 $",
-   "change": "−2,59 % in 24 h",
+   "value": "62.202 $",
+   "change": "−2,42 % in 24 h",
    "dir": "down"
   },
   {
    "label": "Ether",
-   "value": "1.729 $",
-   "change": "−3,88 % in 24 h",
+   "value": "1.758 $",
+   "change": "−2,45 % in 24 h",
    "dir": "down"
   },
   {
@@ -29,15 +29,22 @@
   }
  ],
  "brief": [
-  "Welt: Putin lehnt nach den Angriffen auf die Krim-Brücke Verhandlungen über eine Waffenruhe ab; Deutschland, Frankreich, Großbritannien und die Ukraine fordern von Moskau dagegen eine Energie-Waffenruhe über den Winter. Nach dem Berliner Gipfel (45 Mrd. Euro zusätzlich für Kiew 2027) beginnt heute in Berlin das Deutsch-Ukrainische Wirtschaftsforum mit Kanzler Merz und Wirtschaftsministerin Reiche.",
-  "Berlin heute: Jugendproteste gegen die Wehrpflicht und für Bildung legen Teile von Mitte und Kreuzberg lahm: Zubringer ab etwa 9 Uhr, Hauptzug ab 11:30 Uhr von der Karl-Marx-Allee zum Mariannenplatz, ab 14:30 Uhr Protest am Platz des 18. März. Alt-Moabit ist von 18 bis etwa 19:30 Uhr wegen eines Staatsbesuchs aus Katar gesperrt, die A10 ab 20 Uhr Richtung Dreieck Havelland nur bis Falkensee befahrbar, die S5 ab 21:45 Uhr zwischen Kaulsdorf und Strausberg unterbrochen.",
-  "Märkte: Der Ausverkauf an der Wall Street (Dow, S&P 500 und Nasdaq je mehr als 2 % im Minus) hat Asien erfasst: Der Nikkei fiel zeitweise um 4,5 % unter 57.000 Punkte, der Kospi um mehr als 4 %. Bitcoin steht bei 61.673 $ (minus 2,59 % in 24 Stunden) und damit nahe dem tiefsten Stand seit Anfang Juli, Ether bei 1.729 $ (minus 3,88 %)."
+  "Welt: Russland hat Kiew in der Nacht mit ballistischen Raketen angegriffen: Laut Bürgermeister Klitschko wurden drei Brücken beschädigt, mindestens drei Menschen getötet und 15 verletzt – die Antwort auf die ukrainischen Angriffe auf die Krim-Brücke. Deutschland, Frankreich, Großbritannien und die Ukraine fordern von Moskau eine Energie-Waffenruhe über den Winter; heute tagt in Berlin das Deutsch-Ukrainische Wirtschaftsforum mit Kanzler Merz.",
+  "Berlin heute: Der „Schulstreik gegen die Wehrpflicht“ zieht seit 11:30 Uhr vom Alexanderplatz über die Karl-Marx-Allee zum Mariannenplatz (bis etwa 18 Uhr), ab 14:30 Uhr folgt der Bildungsprotest der Bundesschülerkonferenz am Brandenburger Tor; die Polizei rechnet mit je rund 5.000 Teilnehmern und hat Hunderte zusätzliche Kräfte im Einsatz. Alt-Moabit ist von 18 bis etwa 19:30 Uhr wegen eines Staatsbesuchs gesperrt, die A10 ab 20 Uhr Richtung Dreieck Havelland nur bis Falkensee befahrbar, die S5 ab 21:45 Uhr zwischen Kaulsdorf und Strausberg unterbrochen.",
+  "Märkte: Der Dax steuert auf den sechsten Verlusttag in Folge zu: In der ersten Handelsstunde fiel er um 1,5 % auf 25.085 Punkte und unter die 200-Tage-Linie. Bitcoin steht bei 62.202 $ (minus 2,42 % in 24 Stunden) nach einem Tief nahe 61.300 $ in der Nacht, Ether bei 1.758 $ (minus 2,45 %); die US-Bitcoin-ETFs verloren am Donnerstag laut Farside 582,3 Mio. $."
  ],
  "sections": [
   {
    "id": "deutschland",
    "title": "Deutschland",
    "items": [
+    {
+     "tag": "Börse · Unternehmen · Preise",
+     "title": "Sechster Verlusttag für den Dax: minus 1,5 % auf 25.085 Punkte, 200-Tage-Linie unterschritten – Lufthansa will laut Berichten 1.000 Stellen streichen, BASF gibt Evonik auf",
+     "text": "Der Dax verlor in der ersten Handelsstunde am Freitag weitere 1,5 % auf 25.085 Punkte und rutschte unter seine exponentielle 200-Tage-Linie; vom Rekord bei 27.001 Punkten in der Vorwoche ist er scharf abgedreht, das Jahresplus von zwischenzeitlich 10 % ist auf 2,5 % geschmolzen. MDax (29.075 Punkte) und EuroStoxx 50 gaben ebenfalls je 1,5 % nach. Als Gründe nennt dpa-AFX den Druck auf Tech-Werte nach dem enttäuschenden Anthropic-Börsengang, Zinssorgen und den starken Dollar; die LBBW nennt die Stimmung „stark angeknackst“. Unter Druck standen Infineon, Siemens Energy, Aixtron und Suss Microtec, gefragt waren Deutz und Freenet. Am Donnerstag hatte der Dax 1,06 % tiefer bei 25.463,81 Punkten geschlossen. Die Lufthansa will laut dpa und Handelsblatt in Frankfurt und München 1.000 Stellen streichen; Zeitraum und Form des Abbaus sind offen. BASF stellt die Bemühungen um Evonik ein, nachdem zwei unverbindliche Barangebote abgelehnt wurden; zuletzt waren 24 Euro je Aktie geboten. Die Bundesbank erwartet zum Jahreswechsel einen Teuerungsschub: Der auslaufende Tankrabatt und andere staatliche Maßnahmen könnten die Inflationsrate um 0,5 Prozentpunkte erhöhen.",
+     "source": "finanzen.net/dpa-AFX (Dax-Eröffnung), 20.11.",
+     "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-eroeffnung-sechster-verlusttag-fuer-den-dax-16078093"
+    },
     {
      "tag": "Wirtschaft · Tarife · Unternehmer",
      "title": "Ganztägige Warnstreiks heute auf Werften, bei Zulieferern sowie bei BMW und Audi – VW verlangt Nullrunden für 2027 und 2028",
@@ -46,11 +53,11 @@
      "url": "https://news.de/panorama/860203969/20-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-20-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1"
     },
     {
-     "tag": "Börse · Unternehmen · Preise",
-     "title": "Schwache Vorgaben für den Dax: Asiens Börsen brechen nach dem Wall-Street-Minus ein – Lufthansa will laut Berichten 1.000 Stellen streichen, BASF gibt Evonik auf",
-     "text": "Der Dax schloss am Donnerstag 1,06 % tiefer bei 25.463,81 Punkten, dem niedrigsten Stand seit mehr als drei Wochen; der MDax verlor 1,25 % auf 29.505,24 Punkte. Danach gaben Dow Jones, S&P 500 und Nasdaq jeweils mehr als 2 % ab, und am Freitagmorgen fiel der Nikkei in Tokio zeitweise um 4,5 %, der Kospi in Seoul um mehr als 4 %. Um 8:00 Uhr kommen die deutschen Erzeugerpreise für Oktober, um 9:00 Uhr spricht EZB-Präsidentin Christine Lagarde auf dem European Banking Congress in Frankfurt. Die Lufthansa will laut dpa und Handelsblatt in Frankfurt und München 1.000 Stellen streichen und die Kapazität auf Kurz- und Mittelstrecken weiter verringern; Zeitraum und Form des Abbaus sind offen. BASF stellt die Bemühungen um Evonik ein, nachdem zwei unverbindliche Barangebote abgelehnt wurden; zuletzt waren 24 Euro je Aktie geboten. Die Bundesbank erwartet zum Jahreswechsel einen Teuerungsschub: Der auslaufende Tankrabatt und andere staatliche Maßnahmen könnten die Inflationsrate um 0,5 Prozentpunkte erhöhen.",
-     "source": "finanzen.net/dpa-AFX (Termine heute), 20.11.",
-     "url": "https://finanzen.net/nachricht/aktien/tagesvorschau-termine-am-20-november-2026-16077500"
+     "tag": "Politik · Parteien · Protest",
+     "title": "„Gen Z regelt“ protestiert heute in 73 Städten, Bildungsministerin Prien zeigt Verständnis – Gesine Schwan unterstützt Heil im Rennen um den SPD-Vorsitz",
+     "text": "Die Jugendbewegung „Gen Z regelt“ hat für Freitag zu Aktionen in 73 Städten aufgerufen und meldet fast 21.000 Anmeldungen; gefordert werden unter anderem mehr Geld für Schulen, Suchthilfe und Psychotherapie, bezahlbares Wohnen und ein Verzicht auf die Wehrpflicht. Bundesbildungsministerin Karin Prien (CDU) äußerte Verständnis für die Proteste. Im Rennen um den SPD-Vorsitz hat sich Gesine Schwan für den früheren Arbeitsminister Hubertus Heil ausgesprochen, der beim Parteitag der Ruhr-SPD in Essen das Thema Arbeit in den Mittelpunkt stellte; SPD-Vize Petra Köpping unterstützt dagegen Mecklenburg-Vorpommerns Ministerpräsidentin Manuela Schwesig. In Sachsen-Anhalt will sich Ulrich Siegmund (AfD) bereits am 8. Dezember im Landtag zum Ministerpräsidenten wählen lassen. Karl Lauterbach (SPD) warnt nach Masernausbrüchen vor einem Rückschlag: Deutschland sei nicht masernfrei, die Impfquoten zur Einschulung lägen nur knapp über 90 %.",
+     "source": "ZDFheute-Ticker (Prien, Schwan, Lauterbach), 20.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     },
     {
      "tag": "Arbeitsrecht · Unternehmer",
@@ -58,13 +65,6 @@
      "text": "Der am Mittwoch vom Kabinett gebilligte Entwurf von Arbeitsminister Alexander Schweitzer (SPD) erlaubt Befristungen ohne Sachgrund bis zu 48 Monate. DGB-Chefin Yasmin Fahimi nannte das im Deutschlandfunk ein fatales Zeichen für die Beschäftigten und bezweifelte einen wirtschaftlichen Impuls; Linken-Chef Luigi Pantisano forderte, die Pläne zu verwerfen. Wirtschaftsministerin Katherina Reiche (CDU) verlangte auf dem Handelskongress in Berlin dagegen mehr Tempo bei Reformen und sagte mit Blick auf das Arbeitsministerium, bei der Rente müsse geliefert werden. Die EU-Kommission hat zudem ein Verfahren gegen Deutschland wegen der Steuerregeln für Pensionsfonds und Lebensversicherer eingeleitet; Berlin hat zwei Monate Zeit für eine Antwort.",
      "source": "onvista/dpa-AFX (DGB, Reiche), 19.11.",
      "url": "https://www.onvista.de/news/2026/11-19-dpa-afx-ueberblick-konjunktur-vom-19-11-2026-17-00-uhr-0-10-26578445"
-    },
-    {
-     "tag": "Politik · Parteien · Protest",
-     "title": "„Gen Z regelt“ ruft heute in 73 Städten zu Protesten auf – Heil und Schwesig im Rennen um den SPD-Vorsitz, Siegmund will sich am 8. Dezember wählen lassen",
-     "text": "Die Jugendbewegung „Gen Z regelt“ hat für Freitag zu Aktionen in 73 Städten aufgerufen, laut dpa liegen rund 20.000 Anmeldungen vor; gefordert werden unter anderem mehr Geld für Schulen und ein Verzicht auf die Wehrpflicht. Der frühere Arbeitsminister Hubertus Heil stellte bei seiner Bewerbung um den SPD-Vorsitz auf dem Parteitag der Ruhr-SPD in Essen Industriearbeitsplätze und Ausbildung in den Mittelpunkt; SPD-Vize Petra Köpping sprach sich dagegen für Mecklenburg-Vorpommerns Ministerpräsidentin Manuela Schwesig aus. In Sachsen-Anhalt will sich Ulrich Siegmund (AfD) bereits am 8. Dezember im Landtag zum Ministerpräsidenten wählen lassen, früher als geplant; einen Koalitionspartner hat er bisher nicht genannt. Das Bundesamt für Sicherheit in der Informationstechnik stuft die Cyberlage in seinem neuen Bericht erstmals als angespannt bis kritisch ein.",
-     "source": "news.de/dpa (Proteste, Siegmund), 20.11.",
-     "url": "https://news.de/panorama/860203969/20-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-20-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1"
     }
    ]
   },
@@ -74,10 +74,10 @@
    "items": [
     {
      "tag": "Demos · Verkehr · heute",
-     "title": "Jugendproteste ab dem Vormittag in Mitte und Kreuzberg – Alt-Moabit am Abend wegen Staatsbesuchs aus Katar gesperrt, A10 ab 20 Uhr dicht",
-     "text": "Gegen die Wehrpflicht ziehen ab etwa 9 Uhr Zubringer-Demos aus Mitte (Luisenstraße, Wallstraße), Kreuzberg (U Gneisenaustraße) und Wilmersdorf (Blissestraße) los, von 10 bis 11:30 Uhr eine weitere von der Greifswalder Straße zur Alexanderstraße. Der Hauptzug startet um 11:30 Uhr an der Karl-Marx-Allee und läuft bis etwa 18 Uhr zum Mariannenplatz; betroffen sind unter anderem Singerstraße, Straße der Pariser Kommune, Stralauer Platz, Schillingbrücke und Bethaniendamm. Von 14:30 bis 20 Uhr folgt ein Bildungsprotest ab Platz des 18. März über Ebertstraße, Potsdamer Platz, Leipziger Straße und Unter den Linden, von 15 bis 17:30 Uhr eine Demo vom Bebelplatz zum Platz der Republik. Alt-Moabit ist von 18 bis etwa 19:30 Uhr zwischen Lüneburger Straße und Moltkebrücke in beiden Richtungen gesperrt. Auf der A10 geht es ab 20 Uhr Richtung Dreieck Havelland nur noch bis Falkensee, voraussichtlich bis Montag gegen 5 Uhr. Der ADFC startet um 16:45 Uhr an der Möckernstraße eine Fahrraddemo und stellt um 17:30 Uhr an der Potsdamer Straße/Lützowstraße ein Geisterrad für ein achtjähriges Mädchen auf, das dort am 14. November von einem BVG-Bus überfahren wurde.",
-     "source": "Berliner Kurier (Verkehr heute), 19.11.",
-     "url": "https://www.berliner-kurier.de/article/berlin-verkehr-demo-staatsbesuch-autobahnsperrung-10615927"
+     "title": "Schulstreik gegen die Wehrpflicht läuft seit 11:30 Uhr vom Alexanderplatz zum Mariannenplatz – Polizei erwartet je 5.000 Teilnehmer bei zwei Jugenddemos, Alt-Moabit am Abend gesperrt",
+     "text": "Der Zug „Schulstreik gegen die Wehrpflicht“ von „Gen Z regelt“ ist für 11:30 bis etwa 18 Uhr angemeldet und führt vom Alexanderplatz über Karl-Marx-Allee, Singerstraße, Koppenstraße, Straße der Pariser Kommune, Stralauer Platz, Schillingbrücke und Bethaniendamm zum Mariannenplatz; vier Zubringer-Demos starteten ab 9 Uhr. Die Polizei rechnet hier mit rund 5.000 Teilnehmern, ebenso beim Bildungsprotest der Bundesschülerkonferenz, der von 14:30 bis 20 Uhr vom Platz des 18. März über Ebertstraße, Potsdamer Platz, Leipziger Straße, Unter den Linden und Wilhelmstraße zurück zum Brandenburger Tor führt; die Schülervertretung grenzt sich von „Gen Z regelt“ ab. Laut Verkehrsinformationszentrale sind Hunderte zusätzliche Polizisten im Einsatz. Alt-Moabit ist von 18 bis etwa 19:30 Uhr zwischen Lüneburger Straße und Moltkebrücke in beiden Richtungen gesperrt. Das Deutsch-Ukrainische Wirtschaftsforum tagt im Haus der Deutschen Wirtschaft in Mitte, bis Montag (23.11.) läuft im Hotel InterContinental an der Budapester Straße die Jahrestagung der Parlamentarischen Versammlung der Nato; dort und rund um den BER sind Behinderungen möglich. Auf der A10 geht es ab 20 Uhr Richtung Dreieck Havelland nur noch bis Falkensee, voraussichtlich bis Montag gegen 5 Uhr. Der ADFC startet um 16:45 Uhr an der Möckernstraße eine Fahrraddemo und stellt um 17:30 Uhr an der Potsdamer Straße/Lützowstraße ein Geisterrad für ein achtjähriges Mädchen auf, das dort am 14. November von einem BVG-Bus überfahren wurde.",
+     "source": "Berliner Zeitung (Sperrungen, Routen), 20.11.",
+     "url": "https://www.berliner-zeitung.de/article/staatsbesuche-proteste-und-sperrungen-in-berlin-10616803"
     },
     {
      "tag": "S-Bahn · Regionalverkehr · Baustellen",
@@ -107,39 +107,39 @@
    "title": "Welt",
    "items": [
     {
-     "tag": "Ukraine · Europa",
-     "title": "Nach dem Berliner Gipfel: Europäer fordern Energie-Waffenruhe über den Winter – heute Deutsch-Ukrainisches Wirtschaftsforum mit Merz",
-     "text": "Die Staats- und Regierungschefs Deutschlands, Frankreichs, Großbritanniens und der Ukraine haben Russland aufgerufen, einer Waffenruhe für Energieanlagen über den Winter zuzustimmen. Kanzler Friedrich Merz sagte, Gespräche zwischen den USA und Russland ohne Kiew und die Europäer könnten keinen Erfolg haben. Beim bisher größten Treffen der „Koalition der Willigen“ am Donnerstag waren der Ukraine für 2027 zusätzlich 45 Mrd. Euro aus Europa zugesagt worden; Merz stellte Moskau eine an Bedingungen geknüpfte Aufhebung von Sanktionen in Aussicht, US-Unterhändler Jared Kushner sprach von russischer Offenheit für Sicherheitsgarantien nach dem Vorbild von Artikel 5. Frankreichs Präsident Emmanuel Macron will die Frage eines Nato-Beitritts der Ukraine wieder öffnen. Am Freitag folgt in Berlin das Deutsch-Ukrainische Wirtschaftsforum mit Merz und Wirtschaftsministerin Reiche; im Mittelpunkt stehen Rüstung und Energie.",
-     "source": "Anadolu (Morgenüberblick), 20.11.",
-     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"
+     "tag": "Ukraine · Russland",
+     "title": "Russischer Raketenangriff auf Kiew: drei Brücken beschädigt, mindestens drei Tote und 15 Verletzte – Vergeltung für die Angriffe auf die Krim-Brücke",
+     "text": "Russland hat die ukrainische Hauptstadt mit ballistischen Raketen angegriffen. Nach Angaben von Bürgermeister Vitali Klitschko wurden drei Brücken beschädigt, darunter die Podilsko-Woskresenskyj-Brücke und die Südbrücke; mindestens drei Menschen wurden getötet, 15 verletzt. Das Ausmaß der Schäden könne erst nach Ende des Luftalarms geprüft werden. Die Ukraine hatte die für Russland strategisch wichtige Krim-Brücke in dieser Woche dreimal getroffen und dabei ein Stück der Autotrasse weggesprengt; Präsident Wladimir Putin hatte daraufhin Verhandlungen über eine Waffenruhe abgelehnt und eine „weitaus schmerzhaftere“ Antwort angekündigt. Schon am Donnerstag waren bei Angriffen auf Kiew laut EU-Außenbeauftragter Kaja Kallas mehrere Botschaften beschädigt worden, darunter die Österreichs und der Niederlande; die EU bestellt den russischen Vertreter in Brüssel ein.",
+     "source": "tagesschau.de (Kiew), 20.11.",
+     "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html"
     },
     {
-     "tag": "USA · China · Russland",
-     "title": "Putin: Keine Verhandlungen über eine Waffenruhe nach den Angriffen auf die Krim-Brücke – Dreiertreffen in Shenzhen endet mit „Erklärung zum Frieden“ ohne Ukraine",
-     "text": "Russlands Präsident Wladimir Putin sagte laut Anadolu, Moskau werde nach den „schweren Angriffen“ auf die Krim-Brücke nicht über eine Waffenruhe verhandeln; zuvor hatte er laut Reuters ein Moratorium für Angriffe auf Energieanlagen und Schifffahrt verworfen und eine „weitaus schmerzhaftere“ Antwort angekündigt. Die Europäer lud er dennoch zu Sondierungen nach Moskau ein. Trump, Putin und Xi hatten bei ihrem ersten Dreiertreffen einen Dialog über nukleare Risiken vereinbart, dazu eine Reform der Vereinten Nationen und eine höhere Ölproduktion; der Ukraine-Krieg kommt in dem Text nicht vor. Putin erwägt laut Tagesspiegel, im Dezember zum G-20-Gipfel nach Miami zu reisen. Russland hat zudem sieben Tochterfirmen von Japan Tobacco per Dekret unter vorläufige Verwaltung gestellt; der Konzern rechnet mit einem Verlust von rund 8,6 Mrd. $.",
-     "source": "Anadolu (Morgenüberblick), 20.11.",
-     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"
+     "tag": "Ukraine · Europa · Diplomatie",
+     "title": "Europäer fordern Energie-Waffenruhe über den Winter und Feuerpause im Schwarzen Meer – Wadephul erwartet neue Gespräche vor Weihnachten, heute Wirtschaftsforum mit Merz",
+     "text": "Deutschland, Frankreich, Großbritannien und die Ukraine haben Russland nach dem Berliner Gipfel der „Koalition der Willigen“ aufgerufen, Angriffe auf Energieanlagen über den Winter einzustellen und einer gesonderten Waffenruhe im Schwarzen Meer zum Schutz von Schifffahrt und Getreideexporten zuzustimmen; Moskau hat keines von beiden akzeptiert. Die Erklärung sagt schnellere Lieferungen von Flugabwehr zu, bekräftigt den Plan einer europäisch geführten Truppe nach Ende der Kämpfe und kündigt schärfere Maßnahmen gegen russische Energieeinnahmen, Kryptoflüsse und die Schattenflotte an; der EU-Kredit über 90 Mrd. Euro soll bis Ende 2027 laufen. Außenminister Johann Wadephul erwartet eine Wiederaufnahme der Gespräche vor Weihnachten mit sieben europäischen Vertretern; Kanzler Friedrich Merz schlug die Vereinigten Arabischen Emirate als Ort vor. Putin lud die Europäer zu Sondierungen nach Moskau ein, Frankreichs Präsident Emmanuel Macron will die Frage eines Nato-Beitritts der Ukraine wieder öffnen. Am Freitag folgt in Berlin das Deutsch-Ukrainische Wirtschaftsforum mit Merz und Wirtschaftsministerin Reiche.",
+     "source": "Kyiv Post (Erklärung), 20.11.",
+     "url": "https://www.kyivpost.com/post/90658"
     },
     {
-     "tag": "Iran · Golf",
-     "title": "Huthi-Angriff trifft Hochhaus im Finanzviertel von Riad – IEA spricht vom größten Energie-Angebotsschock der Geschichte",
-     "text": "Bei einem Angriff der jemenitischen Huthi auf die saudische Hauptstadt wurde ein Hochhaus im Finanzviertel getroffen; mehrere Stockwerke wurden beschädigt, verletzt wurde niemand. Die Internationale Energieagentur bezeichnet die Störung in der Straße von Hormus als den größten je verzeichneten Angebotsschock am Energiemarkt. Das US-Verteidigungsministerium gibt die bisherigen Kosten des Iran-Kriegs für die USA mit 48,3 Mrd. $ an (Stand 13. November). Irans Revolutionsgarden hatten Explosionen an Tankern in der Meerenge gemeldet, die auf Seeminen gefahren seien; unabhängig bestätigt ist das nicht. Teheran weist zudem Vorwürfe von US-Präsident Trump zu Biowaffen zurück.",
-     "source": "Anadolu (Morgenüberblick), 20.11.",
-     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"
+     "tag": "Iran · Golf · USA",
+     "title": "US-Senat lehnt Resolution zum Ende des Iran-Kriegs mit 51 zu 48 ab – Trump will über neue Großangriffe erst nach dem Jahreswechsel entscheiden",
+     "text": "Der US-Senat hat eine vom Repräsentantenhaus bereits gebilligte Resolution verworfen, die Präsident Donald Trump gezwungen hätte, den Iran-Krieg zu beenden oder die Zustimmung des Kongresses einzuholen. Trump sagte Reuters, eine Entscheidung über erneute großangelegte Angriffe falle erst nach dem Jahreswechsel. Das Pentagon beziffert die bisherigen Kriegskosten auf 48,3 Mrd. $ (Stand 13. November), ohne Reparaturen an US-Einrichtungen. Bei einem Huthi-Angriff auf Riad wurde ein 80-stöckiges Hochhaus im Finanzviertel beschädigt, verletzt wurde niemand. Irans Revolutionsgarden meldeten Explosionen an zwei Supertankern in der Straße von Hormus, die auf Minen gefahren seien; unabhängig bestätigt ist das nicht. Die Internationale Energieagentur spricht vom größten je verzeichneten Angebotsschock am Energiemarkt.",
+     "source": "ZDFheute (Liveblog Iran), 19.11.",
+     "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html"
     },
     {
      "tag": "Völkerrecht",
      "title": "UN-Gericht: Myanmar hat Völkermord an den Rohingya begangen – Großbritannien weist Militärattaché aus",
-     "text": "Der Internationale Gerichtshof in Den Haag hat mit neun zu sechs Stimmen entschieden, dass Myanmar 2017 an der muslimischen Minderheit der Rohingya einen Völkermord begangen hat. Das Urteil ist bindend und gilt als Testfall für andere Verfahren, etwa die Klage gegen Israel wegen des Vorgehens im Gazastreifen. Großbritannien kündigte an, den Verteidigungsattaché Myanmars auszuweisen. Bangladesch, wo Hunderttausende Rohingya in Flüchtlingslagern leben, nannte die Entscheidung wegweisend.",
+     "text": "Der Internationale Gerichtshof in Den Haag hat mit neun zu sechs Stimmen entschieden, dass Myanmar 2017 an der muslimischen Minderheit der Rohingya einen Völkermord begangen hat. Das Urteil ist bindend und gilt als Testfall für andere Verfahren, etwa die Klage gegen Israel wegen des Vorgehens im Gazastreifen. Großbritannien kündigte an, den Verteidigungsattaché Myanmars auszuweisen. Bangladesch, wo Hunderttausende Rohingya in Flüchtlingslagern leben, begrüßte die Entscheidung.",
      "source": "Anadolu (Morgenüberblick), 20.11.",
      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"
     },
     {
      "tag": "Kurz gemeldet",
-     "title": "Klimakonferenz in Antalya geht in den letzten geplanten Tag – EU-Großbritannien-Gipfel in Brüssel, Somalia weist Botschafter der Emirate aus",
-     "text": "Die UN-Klimakonferenz soll am Freitag um 16 Uhr MEZ enden, eine Verlängerung gilt als wahrscheinlich; inzwischen liegt ein zweiter Entwurf der „Antalya-Erklärung“ vor, für den Anpassungsfonds wurden laut Anadolu nur 50,2 Mio. $ zugesagt. In Brüssel beginnt um 10:30 Uhr der zweite Gipfel der EU mit Großbritannien. Somalia hat den Botschafter der Vereinigten Arabischen Emirate aufgefordert, das Land binnen 72 Stunden zu verlassen. Die EU verschiebt nach einer vorläufigen Einigung die Methan-Regeln für Importeure fossiler Energie auf den 1. Januar 2029. Das dänische Parlament hat dem Verteidigungsabkommen mit den USA zu Grönland zugestimmt. Die US-Regierung hat nach Angaben des Auswärtigen Ausschusses des Repräsentantenhauses von Dezember 2025 bis Mai 2026 die Lieferung von fast 900.000 KI-Chips von Nvidia und AMD an chinesische Firmen genehmigt.",
-     "source": "Anadolu (Morgenüberblick), 20.11.",
-     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"
+     "title": "Klimagipfel in Antalya vor der Verlängerung – Sicherheitsrat blockiert bei der Guterres-Nachfolge, EU und Großbritannien verhandeln in Brüssel",
+     "text": "Bei der UN-Klimakonferenz, die planmäßig am Freitag enden soll, zeichnet sich eine Verlängerung ab; gestritten wird über ein weltweites Elektrifizierungsziel. Im UN-Sicherheitsrat hat keiner der acht Kandidaten für die Nachfolge von Generalsekretär António Guterres die nötigen Stimmen, dessen Amtszeit in sechs Wochen endet. In Brüssel verhandeln die EU und Großbritannien bei ihrem zweiten Gipfel unter anderem über eine Teilnahme an Erasmus+. Kaliforniens Generalstaatsanwalt Rob Bonta verlangt Aufklärung über Nvidia-Lieferungen nach China; die US-Regierung hatte laut einem Kongressausschuss von Dezember 2025 bis Mai 2026 die Lieferung von fast 900.000 KI-Chips an chinesische Firmen genehmigt. Trumps Cyberbeauftragter Sean Cairncross gibt seinen Posten nach Technik-Pannen ab, Nachfolgerin wird Kirsten Davies. Somalia hat den Botschafter der Vereinigten Arabischen Emirate aufgefordert, das Land binnen 72 Stunden zu verlassen.",
+     "source": "ZDFheute-Ticker (Klimagipfel, UN, Brüssel), 20.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     }
    ]
   },
@@ -148,41 +148,41 @@
    "title": "Krypto & Finanzen",
    "items": [
     {
-     "tag": "Tech · Aktien · Asien",
-     "title": "Ausverkauf greift auf Asien über: Nikkei zeitweise 4,5 % im Minus, Kospi mehr als 4 % – Wall Street hatte trotz Anthropic-Börsengang über 2 % verloren",
-     "text": "In Tokio fiel der Nikkei am Freitagmorgen zeitweise um 4,5 % unter 57.000 Punkte, der Topix um 2,7 %; in Seoul verlor der Kospi mehr als 4 %, SK Hynix und Samsung gaben jeweils über 5 % ab. Auslöser war die Kehrtwende an der Wall Street: Der Nasdaq Composite drehte am Donnerstag von mehr als 2 % Plus auf 2,25 % Minus (23.879,20 Punkte), der Dow Jones fiel um 2,19 % auf 49.097,06 Punkte, der S&P 500 um 2,02 % auf 7.175,83 Punkte und damit den sechsten Tag in Folge. Die zu 83 $ ausgegebene Anthropic-Aktie schloss nach einem Hoch von 115 $ bei 97,17 $ (plus 17,07 %). AMD brach nach einem Bericht über eine Leerverkaufsposition von Hunterbrook um 7,7 % ein, Nvidia verlor 3,3 %; der Volatilitätsindex VIX stieg auf 28,44 Punkte.",
-     "source": "investingLive (Asien), 20.11.",
-     "url": "https://investinglive.com/stock-market-update/nikkei-slides-4-5-and-kospi-tumbles-as-wall-street-s-ai-reversal-hits-asian-chipmakers/",
-     "impact": "Die Risikoscheu hat sich über Nacht von den USA nach Asien ausgebreitet, und Bitcoin gab mit den Tech-Werten weiter nach. Laut Block Scholes ist die 30-Tage-Korrelation von Bitcoin mit Nvidia zuletzt von 0,20 auf 0,56 gestiegen; wie die US-Futures durch den europäischen Vormittag laufen, dürfte damit auch für Krypto die Richtung vorgeben."
-    },
-    {
      "tag": "Markt",
-     "title": "Bitcoin fällt auf 61.673 $, tiefster Stand seit Anfang Juli – Ether bei 1.729 $, siebter Wochenverlust in Folge droht",
-     "text": "Bitcoin notierte um 06:45 Uhr MEZ laut CoinDesk bei 61.673 $ und damit 2,59 % unter dem Stand vor 24 Stunden; die 24-Stunden-Spanne reicht von 61.335 $ bis 64.000 $. Ether stand bei 1.729 $ (minus 3,88 %; Spanne 1.719 bis 1.812 $). Laut investingLive ist das für Bitcoin das niedrigste Niveau seit Anfang Juli; die Währung steuert auf den siebten Wochenverlust in Folge zu, Anfang Oktober hatte sie noch bei rund 87.500 $ gelegen. Der Fear-and-Greed-Index lag am Donnerstag bei 10 von 100 Punkten („extreme Angst“). Laut Decrypt liegt der 50-Tage-Durchschnitt (EMA) nun unter dem 200-Tage-Durchschnitt; als Unterstützungen nennt das Portal 60.000 $ und rund 56.841 $, als ersten Widerstand 66.512 $.",
+     "title": "Bitcoin erholt sich leicht auf 62.202 $ nach Viermonatstief bei rund 61.300 $ – Ether bei 1.758 $, mehr als 500 Mio. $ an Positionen liquidiert",
+     "text": "Bitcoin notierte um 11:40 Uhr MEZ laut CoinDesk bei 62.202 $ und damit 2,42 % unter dem Stand vor 24 Stunden; die 24-Stunden-Spanne reicht von 61.335 $ bis 64.000 $. Ether stand bei 1.758 $ (minus 2,45 %; Spanne 1.719 bis 1.812 $). Am späten Donnerstag war Bitcoin nach dem Anthropic-Börsengang auf knapp 61.300 $ gefallen, laut CoinDesk der tiefste Stand seit Anfang Juli. Binnen 24 Stunden wurden laut CoinDesk Terminpositionen im Wert von mehr als 600 Mio. $ zwangsweise aufgelöst; CoinAlertNews nennt unter Berufung auf CoinGlass 528 Mio. $, davon rund 80 % Long-Positionen. Paul Howard vom Market Maker Wincent rechnet laut CoinDesk eher mit einer geordneten Erholung über die Wintermonate als mit einer schnellen Gegenbewegung. Bitfinex sieht die Spanne von 61.300 bis 67.000 $ als entscheidend; als Unterstützungen nennt Decrypt 60.000 $ und rund 56.841 $.",
      "source": "CoinDesk (Bitcoin), 20.11.",
      "url": "https://www.coindesk.com/price/bitcoin",
-     "impact": "Der Kurs ist unter 62.000 $ gerutscht und hat in der Nacht ein neues Tief markiert. Die Marke von 60.000 $ gilt als nächste psychologisch wichtige Schwelle; darunter nennt Glassnode das Juni-Tief bei 58.500 $. Extreme Angstwerte gingen früher sowohl Erholungen als auch weiteren Abschlägen voraus und sind allein kein verlässliches Signal."
-    },
-    {
-     "tag": "Fed · US-Daten",
-     "title": "Markt preist Zinserhöhung im Dezember zu 96,4 % ein – US-Renditen halten sich über 5 %, JPMorgan rechnet mit drei Erhöhungen in Folge",
-     "text": "Laut CME FedWatch liegt die Wahrscheinlichkeit für eine Erhöhung um einen Viertelpunkt am 9. Dezember nach Reuters-Angaben bei 96,4 %. Das Protokoll der Oktober-Sitzung hatte am Mittwoch gezeigt, dass die meisten Notenbanker weitere Erhöhungen befürworten; die Fed hatte den Leitzins im Oktober bei 3,75 bis 4,00 % belassen, zwei Mitglieder stimmten bereits für einen Viertelpunkt mehr. J.P. Morgan erwartet laut investingLive drei Zinserhöhungen in Folge. Die Erstanträge auf Arbeitslosenhilfe stiegen auf 203.000 (erwartet: 198.000), der Philadelphia-Fed-Index fiel von 20,9 auf 6,3 Punkte. Zum US-Handelsschluss lag die zehnjährige Rendite bei 5,04 %, der Dollar-Index bei 103,88, Gold bei 3.623,50 $ (minus 1,68 %) und Brent bei 92,60 $; im asiatischen Handel blieben die Renditen über 5 %. Heute um 16 Uhr MEZ folgt die Verbraucherstimmung der Universität Michigan, am Mittwoch der PCE-Bericht (erwartete Kernrate: 3,2 %).",
-     "source": "Reuters/Investing.com (FedWatch, Kurse), 19.11.",
-     "url": "https://www.investing.com/news/stock-market-news/wall-street-ends-sharply-lower-asanthropics-debut-fails-to-revive-ai-fervor-5040108",
-     "impact": "Die Fed bleibt auf Straffungskurs, eine Zinserhöhung im Dezember ist praktisch eingepreist. Dass am Donnerstag neben Aktien auch Gold und Silber fielen, spricht für einen breiten Abbau von Risiko- und Edelmetallpositionen; Renditen um 5 % bleiben Gegenwind für zinslose Anlagen wie Bitcoin."
+     "impact": "Der Kurs hat sich am Vormittag knapp über 62.000 $ stabilisiert, bleibt aber in Reichweite des Nachttiefs. Die Marke von 60.000 $ gilt als nächste psychologisch wichtige Schwelle; der hohe Anteil liquidierter Long-Positionen zeigt, dass gehebelte Käufer aus dem Markt gedrängt wurden, sagt aber nichts über die weitere Richtung."
     },
     {
      "tag": "ETF-Flüsse",
-     "title": "Bitcoin-ETFs: 306 Mio. $ Abfluss am Mittwoch, im November je nach Quelle 2,6 bis 2,9 Mrd. $ – Zahlen für Donnerstag stehen noch aus",
-     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Mittwoch laut SoSoValue Nettoabflüsse von 306,4 Mio. $ nach 239,9 Mio. $ am Dienstag; an neun der vergangenen zehn Handelstage floss Geld ab. Für den November nennt Decrypt Abflüsse von rund 2,9 Mrd. $, investingLive etwa 2,6 Mrd. $; das Vermögen der Fonds ist auf 77,7 Mrd. $ und damit laut CoinDesk auf ein Dreimonatstief gesunken, die Jahresbilanz 2026 liegt mit mehr als 2,5 Mrd. $ im Minus. Am Donnerstag gaben die Anteile von BlackRocks IBIT 0,79 % und Fidelitys FBTC 0,83 % nach; die Flusszahlen für den Tag liegen noch nicht vor. Zusätzlich verkaufen Miner: MARA hat laut Decrypt seit Ende September 13.597 BTC für rund 1,1 Mrd. $ abgegeben, um den Einstieg in KI-Infrastruktur zu finanzieren.",
-     "source": "Decrypt (SoSoValue), 19.11.",
-     "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-     "impact": "Institutionelle Anleger ziehen seit zwei Wochen fast ohne Unterbrechung Geld ab, dazu kommt Angebot von Minern. Solange sich die ETF-Flüsse nicht drehen, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage."
+     "title": "Bitcoin-ETFs: 582,3 Mio. $ Abfluss am Donnerstag, fast alles aus BlackRocks IBIT – in vier Handelstagen dieser Woche rund 1,12 Mrd. $",
+     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Donnerstag laut Farside Investors Nettoabflüsse von 582,3 Mio. $ nach 306,5 Mio. $ am Mittwoch. Auf BlackRocks IBIT entfielen 541,1 Mio. $, auf Fidelitys FBTC 45,9 Mio. $, auf ARKB 31,3 Mio. $ und auf Grayscales GBTC 13,9 Mio. $; der Fonds von Morgan Stanley erhielt 49,6 Mio. $. In den ersten vier Handelstagen der Woche summieren sich die Abflüsse laut FinanceFeeds auf rund 1,12 Mrd. $. Für den November hatten Decrypt und investingLive bis Mittwoch 2,6 bis 2,9 Mrd. $ genannt. Die Aktie des Bitcoin-Halters Strategy fiel nachbörslich um etwa 5 % auf 85,72 $ und wird laut CoinAlertNews mit dem 0,97-Fachen ihres Bitcoin-Bestands bewertet.",
+     "source": "FinanceFeeds (Farside), 20.11.",
+     "url": "https://financefeeds.com/bitcoin-falls-below-62000-as-etf-outflows-and-fed-rate-concerns-deepen-crypto-market-selloff/",
+     "impact": "Der Abfluss vom Donnerstag ist fast doppelt so hoch wie am Vortag und kommt überwiegend aus dem größten Fonds. Solange sich die ETF-Flüsse nicht drehen, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage."
+    },
+    {
+     "tag": "Tech · Aktien · Europa",
+     "title": "Ausverkauf erreicht Europa: Dax minus 1,5 %, Kospi auf tiefstem Stand seit Januar – Anthropic-Aktie nähert sich nachbörslich dem Ausgabepreis",
+     "text": "Nach den Verlusten an der Wall Street (Nasdaq Composite minus 2,25 % auf 23.879,20 Punkte, S&P 500 minus 2,02 % und damit der sechste Verlusttag in Folge, Dow Jones minus 2,19 %) gaben am Freitag auch die europäischen Börsen nach: Dax, MDax und EuroStoxx 50 verloren in der ersten Handelsstunde je 1,5 %. In Asien war der Nikkei zeitweise um 4,5 % gefallen, der Kospi sackte laut dpa-AFX auf das tiefste Niveau seit Januar; der Nasdaq 100 steht auf dem tiefsten Stand seit April. Die Nasdaq-Futures lagen laut CoinDesk in der Nacht weitere 0,7 % im Minus. Die zu 83 $ ausgegebene Anthropic-Aktie schloss am ersten Handelstag nach einem Hoch von 115 $ bei 97,17 $ und wurde nachbörslich mit 91,81 $ gehandelt. Der Volatilitätsindex VIX war am Donnerstag auf 28,44 Punkte gestiegen.",
+     "source": "finanzen.net/dpa-AFX (Europa), 20.11.",
+     "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-eroeffnung-sechster-verlusttag-fuer-den-dax-16078093",
+     "impact": "Die Risikoscheu hat nach den USA und Asien auch Europa erfasst. Laut Block Scholes ist die 30-Tage-Korrelation von Bitcoin mit Nvidia zuletzt von 0,20 auf 0,56 gestiegen; der US-Handelsstart am Nachmittag dürfte damit auch für Krypto die Richtung vorgeben."
+    },
+    {
+     "tag": "Fed · US-Daten",
+     "title": "Markt preist Zinserhöhung im Dezember zu 96,4 % ein – US-Renditen über 5 %, JPMorgan rechnet mit drei Erhöhungen in Folge",
+     "text": "Laut CME FedWatch liegt die Wahrscheinlichkeit für eine Erhöhung um einen Viertelpunkt am 9. Dezember nach Reuters-Angaben bei 96,4 %. Das Protokoll der Oktober-Sitzung hatte am Mittwoch gezeigt, dass die meisten Notenbanker weitere Erhöhungen befürworten; die Fed hatte den Leitzins im Oktober bei 3,75 bis 4,00 % belassen. Die UBS verweist laut dpa-AFX darauf, dass fast alle Notenbanker weitere Schritte für nötig halten, falls die US-Wirtschaft nicht positiv überrascht; J.P. Morgan erwartet laut investingLive drei Zinserhöhungen in Folge. Die Erstanträge auf Arbeitslosenhilfe stiegen auf 203.000 (erwartet: 198.000), der Philadelphia-Fed-Index fiel von 20,9 auf 6,3 Punkte. Zum US-Handelsschluss am Donnerstag lag die zehnjährige Rendite bei 5,04 %, der Dollar-Index bei 103,88. Heute um 16 Uhr MEZ folgt die Verbraucherstimmung der Universität Michigan, am Mittwoch der PCE-Bericht (erwartete Kernrate: 3,2 %).",
+     "source": "Reuters/Investing.com (FedWatch, Kurse), 19.11.",
+     "url": "https://www.investing.com/news/stock-market-news/wall-street-ends-sharply-lower-asanthropics-debut-fails-to-revive-ai-fervor-5040108",
+     "impact": "Die Fed bleibt auf Straffungskurs, eine Zinserhöhung im Dezember ist praktisch eingepreist. Renditen um 5 % und ein starker Dollar bleiben Gegenwind für zinslose Anlagen wie Bitcoin."
     },
     {
      "tag": "Termin",
-     "title": "Fr 20.11.: Heute: Optionsverfall auf Deribit, Lagarde-Rede, Jugendproteste in Berlin",
-     "text": "8:00 Uhr deutsche Erzeugerpreise; 9:00 Uhr Rede von EZB-Präsidentin Lagarde in Frankfurt und Verfall von laut cryptoticker 34.511 Bitcoin-Optionen im Wert von rund 2,2 Mrd. $ auf Deribit; 10:30 Uhr EU-Großbritannien-Gipfel in Brüssel; 16:00 Uhr US-Verbraucherstimmung der Universität Michigan und geplantes Ende der Klimakonferenz. In Berlin Proteste ab 9 Uhr (Hauptzug 11:30 Uhr Karl-Marx-Allee, 14:30 Uhr Platz des 18. März); A10 ab 20 Uhr Richtung Dreieck Havelland gesperrt, S5 ab 21:45 Uhr unterbrochen.",
+     "title": "Fr 20.11.: Heute: US-Verbraucherstimmung, Ende der Klimakonferenz, Jugendproteste in Berlin",
+     "text": "16:00 Uhr MEZ Verbraucherstimmung der Universität Michigan und geplantes Ende der Klimakonferenz in Antalya. In Berlin Schulstreik bis etwa 18 Uhr (Alexanderplatz – Mariannenplatz), ab 14:30 Uhr Bildungsprotest am Brandenburger Tor; Alt-Moabit 18 bis 19:30 Uhr gesperrt, A10 ab 20 Uhr Richtung Dreieck Havelland dicht, S5 ab 21:45 Uhr unterbrochen. Die Nato-Parlamentarierversammlung tagt bis Montag im Hotel InterContinental.",
      "source": "",
      "url": ""
     },

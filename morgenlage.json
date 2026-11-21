@@ -1,18 +1,18 @@
 {
  "date": "Samstag, 21. November 2026",
- "stand": "01:43",
+ "stand": "06:35",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "59.025 $",
-   "change": "−4,92 % in 24 h",
+   "value": "55.975 $",
+   "change": "−9,54 % in 24 h",
    "dir": "down"
   },
   {
    "label": "Ether",
-   "value": "1.626 $",
-   "change": "−7,40 % in 24 h",
+   "value": "1.565 $",
+   "change": "−10,07 % in 24 h",
    "dir": "down"
   },
   {
@@ -29,9 +29,9 @@
   }
  ],
  "brief": [
-  "Märkte: Die Wall Street hat tiefrot geschlossen: Der Nasdaq Composite verlor 5,28 % und liegt für 2026 im Minus, der S&P 500 fiel um 3,70 % (Woche: minus 8,6 %) und ist wie der Dow in der Korrektur; Nvidia büßte knapp 14 % ein. Bitcoin hält sich nach dem Sturz unter 60.000 $ bei 59.025 $ (01:41 Uhr, minus 4,92 % in 24 Stunden), Ether bei 1.626 $ (minus 7,40 %). Der Dax hatte 2,6 % tiefer bei 24.802,78 Punkten geschlossen.",
-  "Welt: Russland hat die Ukraine laut Präsident Selenskyj mit mehr als 110 Raketen und über 400 Drohnen angegriffen; acht Menschen wurden getötet, fast 30 verletzt, in Kiew sind drei Dnipro-Brücken beschädigt. In Polen stürzten nach Regierungsangaben zwei Marschflugkörper und eine Drohne ab. Die Weltklimakonferenz in Antalya ist weiter ohne Abschlusstext, ein neuer Entwurf wird frühestens am Samstag erwartet; EU und Großbritannien schlossen in Brüssel Abkommen zu Handel und Jugendmobilität.",
-  "Berlin und Bund: Die Jugendproteste vom Freitag blieben friedlich; „Gen Z regelt“ spricht bundesweit von rund 87.000 Teilnehmern, in Berlin zählte die Polizei rund 4.000. Die A10 ist Richtung Dreieck Havelland ab Falkensee bis Montag früh gesperrt, auf der S5 fahren zwischen Kaulsdorf und Strausberg bis Montag Busse. Das Briefporto darf 2027 um rund 20,4 % steigen, der Standardbrief soll 1,15 Euro kosten."
+  "Märkte: Bitcoin ist in der Nacht auf den tiefsten Stand seit September 2024 gefallen und notierte um 06:35 Uhr bei 55.975 $ (minus 9,54 % in 24 Stunden, Tagestief 55.763 $); Ether stand bei 1.565 $ (minus 10,07 %). Laut CoinDesk wurden binnen 24 Stunden gehebelte Positionen im Wert von 2,40 Mrd. $ zwangsweise aufgelöst. Die Wall Street hatte am Freitag tiefrot geschlossen: Nasdaq Composite minus 5,28 %, S&P 500 minus 3,70 % (Woche: minus 8,6 %), Nvidia knapp 14 % im Minus; der Dax schloss 2,6 % tiefer bei 24.802,78 Punkten.",
+  "Welt: US-Präsident Trump hat Iran wegen eines angeblichen Plans für eine „schmutzige Bombe“ gegen Washington mit militärischem Vorgehen gedroht und will der Ukraine vorerst keine Sicherheitsgarantien geben. In der Ukraine starben bei einem weiteren Raketenangriff auf Krywyj Rih mindestens zwei Menschen, 21 wurden verletzt; Frankreichs Präsident Macron warf Russland nach den Einschlägen in Polen ein aggressives Vorgehen auf europäischem Boden vor. Dänemark weist den russischen Verteidigungsattaché aus. Die Weltklimakonferenz in Antalya ist nach den vorliegenden Berichten weiter ohne Abschlusstext.",
+  "Berlin und Bund: Die Jugendproteste vom Freitag blieben friedlich; „Gen Z regelt“ spricht bundesweit von rund 87.000 Teilnehmern, in Berlin zählte die Polizei rund 4.000. Die A10 ist Richtung Dreieck Havelland ab Falkensee bis Montag früh gesperrt, auf der S5 fahren zwischen Kaulsdorf und Strausberg bis Montag Busse. Lufthansa will laut Anadolu 1.000 Vollzeitstellen in Frankfurt und München streichen; das Briefporto darf 2027 um rund 20,4 % steigen."
  ],
  "sections": [
   {
@@ -40,8 +40,8 @@
    "items": [
     {
      "tag": "Börse · Preise · Unternehmen",
-     "title": "Dax schließt mit minus 2,6 % unter 25.000 Punkten und verliert in der Woche mehr als 7 % – Erzeugerpreise steigen um 8,1 %",
-     "text": "Der Dax beendete den Freitag laut dpa-AFX praktisch auf Tagestief bei 24.802,78 Punkten (minus 2,60 %); es war der sechste Verlusttag in Folge, der Index fiel unter seine 200-Tage-Linie. In der Vorwoche hatte er noch einen Rekord bei rund 27.002 Punkten erreicht. Der MDax gab 2,59 % auf 28.740,31 Punkte nach. Als Gründe nennt der Bericht Zweifel am Tempo des Ausbaus von US-Rechenzentren, mögliche Folgen der Probleme bei Nvidia, anhaltende Zinssorgen und den starken Dollar; die Landesbank LBBW nannte die Stimmung stark angeknackst. Die Erzeugerpreise stiegen im Oktober laut Statistischem Bundesamt um 8,1 % zum Vorjahr, so stark wie seit Februar 2023 nicht mehr; Mineralölerzeugnisse waren 51,9 % teurer, Erdgas 21,9 %, Strom 12,6 %.",
+     "title": "Dax schließt mit minus 2,6 % unter 25.000 Punkten und verliert in der Woche mehr als 7 % – Erzeugerpreise steigen um 8,1 %, Lufthansa will 1.000 Stellen streichen",
+     "text": "Der Dax beendete den Freitag laut dpa-AFX praktisch auf Tagestief bei 24.802,78 Punkten (minus 2,60 %); es war der sechste Verlusttag in Folge, der Index fiel unter seine 200-Tage-Linie. In der Vorwoche hatte er noch einen Rekord bei rund 27.002 Punkten erreicht. Der MDax gab 2,59 % auf 28.740,31 Punkte nach. Als Gründe nennt der Bericht Zweifel am Tempo des Ausbaus von US-Rechenzentren, mögliche Folgen der Probleme bei Nvidia, anhaltende Zinssorgen und den starken Dollar; die Landesbank LBBW nannte die Stimmung stark angeknackst. Die Erzeugerpreise stiegen im Oktober laut Statistischem Bundesamt um 8,1 % zum Vorjahr, so stark wie seit Februar 2023 nicht mehr; Mineralölerzeugnisse waren 51,9 % teurer, Erdgas 21,9 %, Strom 12,6 %. Lufthansa will nach einem Bericht der Nachrichtenagentur Anadolu 1.000 Vollzeitstellen an den Drehkreuzen Frankfurt und München streichen und Kapazitäten auf Kurz- und Mittelstrecken kürzen; in den ersten neun Monaten 2026 fiel ein operativer Verlust von 180 Mio. Euro an.",
      "source": "ariva/dpa-AFX (Dax-Schluss), 20.11.",
      "url": "https://www.ariva.de/news/aktien-frankfurt-schluss-dax-faellt-unter-25-000-punkte-12215520"
     },
@@ -82,21 +82,21 @@
     {
      "tag": "Verkehr · BVG · S-Bahn",
      "title": "A10 Richtung Dreieck Havelland bis Montag früh gesperrt, S5 bis Montag unterbrochen – E-Scooter-Fahrer stirbt nach Zusammenstoß mit Tram",
-     "text": "Die A10 ist seit Freitag, 20 Uhr, ab der Anschlussstelle Falkensee Richtung Dreieck Havelland gesperrt, voraussichtlich bis Montag gegen 5 Uhr. Auf der S5 fahren seit Freitag, 21:45 Uhr, bis Montag gegen 1:30 Uhr zwischen Kaulsdorf und Strausberg Busse; der RE1 fällt bis Samstag gegen 5 Uhr zwischen Ostbahnhof und Fürstenwalde aus, mehrere Züge des RE7 werden zwischen 22 und 4:30 Uhr umgeleitet. Auf der Landsberger Allee war am Freitagmorgen ein 30-jähriger E-Scooter-Fahrer von einer Straßenbahn erfasst worden; er starb wenig später im Krankenhaus. Die BVG meldet dank neu eingestellter Fahrer weniger Ausfälle bei Bussen und U-Bahnen; die Deutsche Bahn will zum Fahrplanwechsel die Fahrzeit nach Wolfsburg während der Sanierung der Strecke Berlin–Hannover verkürzen.",
+     "text": "Die A10 ist seit Freitag, 20 Uhr, ab der Anschlussstelle Falkensee Richtung Dreieck Havelland gesperrt, voraussichtlich bis Montag gegen 5 Uhr. Auf der S5 fahren seit Freitag, 21:45 Uhr, bis Montag gegen 1:30 Uhr zwischen Kaulsdorf und Strausberg Busse; die nächtlichen Einschränkungen auf RE1 und RE7 waren bis Samstag gegen 5 Uhr befristet. Auf der Landsberger Allee war am Freitagmorgen ein 30-jähriger E-Scooter-Fahrer von einer Straßenbahn erfasst worden; er starb wenig später im Krankenhaus. Die BVG meldet dank neu eingestellter Fahrer weniger Ausfälle bei Bussen und U-Bahnen; die Deutsche Bahn will zum Fahrplanwechsel die Fahrzeit nach Wolfsburg während der Sanierung der Strecke Berlin–Hannover verkürzen.",
      "source": "Berliner Kurier (A10, S5, RE1, RE7), 19.11.",
      "url": "https://www.berliner-kurier.de/article/berlin-verkehr-demo-staatsbesuch-autobahnsperrung-10615927"
     },
     {
      "tag": "Senat · Landespolitik · Bezirke",
      "title": "Datenleck der Berliner Verwaltung: Tagesspiegel-Auswertung kommt auf mehr als 540.000 Betroffene – Koalitionsbildung zieht sich hin",
-     "text": "Während der Senat das Ausmaß des Hackerangriffs auf die Verwaltung nach Angaben des Tagesspiegels nicht beziffern kann, kommt die Zeitung in einer eigenen Datenanalyse auf mehr als 540.000 betroffene Menschen, auch weit über Berlin hinaus. Die Bildung einer Koalition aus Linken, SPD und Grünen dauert an; ein Streitpunkt bleibt der Fall der Linken-Abgeordneten Vanessa Emde. In Friedrichshain-Kreuzberg haben Linke und Grüne eine Allianz beschlossen: Das Bauamt von Florian Schmidt soll ein Architekt übernehmen, das Schulamt geht an eine Linken-Politikerin aus Pankow. Wirtschaftssenatorin Franziska Giffey (SPD) kritisierte den Kurs ihrer eigenen Partei.",
+     "text": "Während der Senat das Ausmaß des Hackerangriffs auf die Verwaltung nach Angaben des Tagesspiegels nicht beziffern kann, kommt die Zeitung in einer eigenen Datenanalyse auf mehr als 540.000 betroffene Menschen, auch weit über Berlin hinaus. Die Bildung einer Koalition aus Linken, SPD und Grünen dauert an; ein Streitpunkt bleibt der Fall der Linken-Abgeordneten Vanessa Emde. In Friedrichshain-Kreuzberg haben Linke und Grüne eine Allianz beschlossen: Das Bauamt von Florian Schmidt soll ein Architekt übernehmen, das Schulamt geht an eine Linken-Politikerin aus Pankow. Wirtschaftssenatorin Franziska Giffey (SPD) kritisierte den Kurs ihrer eigenen Partei. Bei den Grünen sorgt der Vorschlag, Merieme Benali-Jockers zur Co-Landesvorsitzenden zu machen, laut Tagesspiegel für Streit zwischen den Parteiflügeln.",
      "source": "Tagesspiegel (Datenleck), 20.11.",
      "url": "https://interaktiv.tagesspiegel.de/lab/hackerangriff-auf-berliner-verwaltung-mehr-als-540000-menschen-im-datenleck-die-datenanalyse/"
     },
     {
      "tag": "Polizei · Wirtschaft · Stadt",
      "title": "41-Jährige in drei Fällen einer Brandserie in Marienfelde verdächtig – Polizei setzt in Staaken Taser ein, Galeria am Kurfürstendamm bleibt zu",
-     "text": "Bei drei Fällen einer mutmaßlichen Serie von 16 Bränden in Marienfelde soll eine 41-jährige Berlinerin die Täterin sein; ihr wird unter anderem vorgeworfen, Abfälle in einem Aufzug angezündet und einen Kellerverschlag in Brand gesetzt zu haben. In Staaken soll ein 49-Jähriger seine frühere Schwiegermutter mit einem Messer bedroht haben; bei der Festnahme setzte die Polizei einen Taser ein, zwei Beamte wurden verletzt. Das Galeria-Haus am Kurfürstendamm, das die insolvente Kette 2027 aufgibt, ist seit Freitag geschlossen; bundesweit sind von drei Schließungen rund 400 Beschäftigte betroffen. Unbekannte haben das Wahlkreisbüro des CDU-Bundestagsabgeordneten Jan-Marco Luczak in Schöneberg angegriffen. In der Amerika-Gedenkbibliothek sind alle Aufzüge ausgefallen, der Salon ist bis auf Weiteres geschlossen.",
+     "text": "Bei drei Fällen einer mutmaßlichen Serie von 16 Bränden in Marienfelde soll eine 41-jährige Berlinerin die Täterin sein; ihr wird unter anderem vorgeworfen, Abfälle in einem Aufzug angezündet und einen Kellerverschlag in Brand gesetzt zu haben. In Staaken soll ein 49-Jähriger seine frühere Schwiegermutter mit einem Messer bedroht haben; bei der Festnahme setzte die Polizei einen Taser ein, zwei Beamte wurden verletzt. Das Galeria-Haus am Kurfürstendamm, das die insolvente Kette 2027 aufgibt, ist seit Freitag geschlossen; bundesweit sind von drei Schließungen rund 400 Beschäftigte betroffen. Unbekannte haben das Wahlkreisbüro des CDU-Bundestagsabgeordneten Jan-Marco Luczak in Schöneberg angegriffen. In der Amerika-Gedenkbibliothek sind alle Aufzüge ausgefallen, der Salon ist bis auf Weiteres geschlossen. Am Nordbahnhof in Mitte öffnet an diesem Wochenende ein „Winterstrand“ mit Adventure-Golf und Eisbahn.",
      "source": "Tagesspiegel/dpa (Brandserie), 20.11.",
      "url": "https://www.tagesspiegel.de/berlin/dpa-berlinerin-in-drei-fallen-von-brandstiftung-verdachtig-16309239.html"
     }
@@ -108,15 +108,15 @@
    "items": [
     {
      "tag": "Ukraine · Russland",
-     "title": "Selenskyj: Mehr als 110 Raketen und über 400 Drohnen, acht Tote und fast 30 Verletzte – drei Dnipro-Brücken in Kiew beschädigt",
-     "text": "Russland hat die Ukraine nach Angaben von Präsident Wolodymyr Selenskyj mit mehr als 110 Raketen, darunter 27 ballistischen, und über 400 Drohnen angegriffen; die meisten Marschflugkörper und Drohnen seien abgefangen worden. Acht Menschen wurden getötet, fast 30 verletzt. In Kiew wurden drei Brücken über den Dnipro beschädigt, in der Hälfte der Stadtbezirke fielen Strom, Wasser und Fernheizung aus; in Lwiw wurde nach offiziellen Angaben ein Bahnhof getroffen. Das russische Verteidigungsministerium bestätigte die Angriffe auf die Brücken und begründete sie mit Waffentransporten für die ukrainische Armee. Präsident Wladimir Putin hatte nach ukrainischen Treffern auf die Krim-Brücke Vergeltung angekündigt.",
+     "title": "Selenskyj: Mehr als 110 Raketen und über 400 Drohnen, acht Tote und fast 30 Verletzte – am Abend zwei Tote bei weiterem Angriff auf Krywyj Rih",
+     "text": "Russland hat die Ukraine nach Angaben von Präsident Wolodymyr Selenskyj mit mehr als 110 Raketen, darunter 27 ballistischen, und über 400 Drohnen angegriffen; die meisten Marschflugkörper und Drohnen seien abgefangen worden. Acht Menschen wurden getötet, fast 30 verletzt. In Kiew wurden drei Brücken über den Dnipro beschädigt, in der Hälfte der Stadtbezirke fielen Strom, Wasser und Fernheizung aus; in Lwiw wurde nach offiziellen Angaben ein Bahnhof getroffen. Das russische Verteidigungsministerium bestätigte die Angriffe auf die Brücken und begründete sie mit Waffentransporten für die ukrainische Armee. Präsident Wladimir Putin hatte nach ukrainischen Treffern auf die Krim-Brücke Vergeltung angekündigt. Am Freitagabend beschoss Russland nach ukrainischen Angaben Krywyj Rih mit ballistischen Raketen; mindestens zwei Menschen starben, darunter ein siebenjähriger Junge, 21 wurden verletzt. US-Präsident Donald Trump sagte, er wolle der Ukraine vorerst keine Sicherheitsgarantien geben und darüber nicht ohne ein Abkommen sprechen.",
      "source": "Handelsblatt/dpa (Angriffe), 20.11.",
      "url": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-schwere-angriffe-auf-ukraine-moskau-laedt-europaeer-ein/100271558.html"
     },
     {
      "tag": "Polen · Diplomatie",
-     "title": "Polen meldet abgestürzte russische Marschflugkörper, Auswärtiges Amt, EU-Spitze und London verurteilen den Vorfall – Moskau wartet auf Antwort der Europäer",
-     "text": "Während der Angriffe sind nach Angaben der polnischen Regierung mehrere russische Flugobjekte in den polnischen Luftraum eingedrungen und abgestürzt; an drei Orten wurden Trümmer gefunden, wahrscheinlich von zwei Marschflugkörpern und einer Drohne. Verletzt wurde niemand. Verteidigungsminister Wladyslaw Kosiniak-Kamysz sprach von einer weiteren Provokation, das Auswärtige Amt in Berlin von einer erneuten Verletzung des polnischen Luftraums durch russische Flugkörper; der britische Premier Andy Burnham nannte den Vorfall in Brüssel absolut inakzeptabel, auch Ursula von der Leyen und António Costa verurteilten ihn. Russland hat Deutschland, Frankreich und Großbritannien zu Gesprächen nach Moskau eingeladen; man warte auf eine Antwort, sagte Vizeaußenminister Sergej Rjabkow laut Interfax. Eine Nato-Mitgliedschaft der Ukraine und Sicherheitsgarantien nach Nato-Vorbild lehnte er ab.",
+     "title": "Polen meldet abgestürzte russische Marschflugkörper, Macron wirft Moskau aggressives Vorgehen vor – Dänemark weist russischen Verteidigungsattaché aus",
+     "text": "Während der Angriffe sind nach Angaben der polnischen Regierung mehrere russische Flugobjekte in den polnischen Luftraum eingedrungen und abgestürzt; an drei Orten wurden Trümmer gefunden, wahrscheinlich von zwei Marschflugkörpern und einer Drohne. Verletzt wurde niemand. Verteidigungsminister Wladyslaw Kosiniak-Kamysz sprach von einer weiteren Provokation, das Auswärtige Amt in Berlin von einer erneuten Verletzung des polnischen Luftraums durch russische Flugkörper; der britische Premier Andy Burnham nannte den Vorfall in Brüssel absolut inakzeptabel, auch Ursula von der Leyen und António Costa verurteilten ihn. Russland hat Deutschland, Frankreich und Großbritannien zu Gesprächen nach Moskau eingeladen; man warte auf eine Antwort, sagte Vizeaußenminister Sergej Rjabkow laut Interfax. Eine Nato-Mitgliedschaft der Ukraine und Sicherheitsgarantien nach Nato-Vorbild lehnte er ab. Frankreichs Präsident Emmanuel Macron warf Russland in der Nacht ein aggressives Vorgehen auf europäischem Boden vor und bekundete Solidarität mit Polen. Dänemark weist den russischen Verteidigungsattaché binnen sieben Tagen aus und stoppt nicht notwendige Visa für russische Staatsbürger; die Regierung macht russische Geheimdienste für ein vereiteltes Attentat auf einen ukrainisch-amerikanischen Musiker verantwortlich.",
      "source": "Handelsblatt/dpa (Polen, Rjabkow), 20.11.",
      "url": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-schwere-angriffe-auf-ukraine-moskau-laedt-europaeer-ein/100271558.html"
     },
@@ -130,15 +130,15 @@
     {
      "tag": "Klima",
      "title": "Weltklimakonferenz in Antalya weiter ohne Abschlusstext – EU lehnt Entwurf ohne fossile Brennstoffe ab, Panama kündigt Einspruch an",
-     "text": "Die COP31 hat ihr offizielles Ende am Freitag um 16 Uhr MEZ überschritten; ein beschlossener Abschlusstext lag nach den jüngsten Berichten vom Freitagabend nicht vor, ein überarbeiteter Entwurf wird frühestens im Lauf des Samstags erwartet. Der Entwurf vom Donnerstag erwähnt fossile Brennstoffe nicht. Die EU nannte ihn nicht akzeptabel und beschwerte sich schriftlich bei der türkischen Präsidentschaft und dem australischen Verhandlungsleiter Chris Bowen; Panama kündigte laut UN News einen formellen Einspruch gegen einen Text ohne fossile Energien an, Beschlüsse brauchen Konsens. Bundesumweltminister Carsten Schneider (SPD) warb mit rund 25 Staaten für einen schrittweisen Ausstieg. Die afrikanische Gruppe vermisst eine Verdreifachung der Anpassungsfinanzierung; die Präsidentschaft schlägt vor, den Stromanteil am weltweiten Endenergieverbrauch von 23 auf 35 % zu erhöhen.",
+     "text": "Die COP31 hat ihr offizielles Ende am Freitag um 16 Uhr MEZ überschritten; ein beschlossener Abschlusstext lag nach den jüngsten Berichten vom Freitagabend nicht vor, ein überarbeiteter Entwurf wird frühestens im Lauf des Samstags erwartet. Der Entwurf vom Donnerstag erwähnt fossile Brennstoffe nicht. Die EU nannte ihn nicht akzeptabel und beschwerte sich schriftlich bei der türkischen Präsidentschaft und dem australischen Verhandlungsleiter Chris Bowen; Panama kündigte laut UN News einen formellen Einspruch gegen einen Text ohne fossile Energien an, Beschlüsse brauchen Konsens. Bundesumweltminister Carsten Schneider (SPD) warb mit rund 25 Staaten für einen schrittweisen Ausstieg. Die afrikanische Gruppe vermisst eine Verdreifachung der Anpassungsfinanzierung; die Präsidentschaft schlägt vor, den Stromanteil am weltweiten Endenergieverbrauch von 23 auf 35 % zu erhöhen. Portugals Umweltministerin Maria da Graça Carvalho rechnet laut Anadolu mit einem Konsens, der Text könne aber erst spät kommen.",
      "source": "ZDFheute/dpa (Verlängerung, Schneider), 20.11.",
      "url": "https://www.zdfheute.de/politik/ausland/klimakonferenz-antalya-cop-31-verlaengerung-unzufriedenheit-100.html"
     },
     {
      "tag": "Iran · Irak · Jemen",
-     "title": "Irakische Truppen rücken in Hochburg proiranischer Miliz ein, saudisch geführte Koalition greift Huthi im Jemen an – US-Senat lehnte Resolution zum Iran-Krieg ab",
-     "text": "Irakische Sicherheits- und Streitkräfte haben einen Einsatz im Bezirk Dscharf al-Sachr südlich von Bagdad begonnen, der seit rund zwölf Jahren unter dem Einfluss der proiranischen Miliz Kataib Hisbollah steht. Laut AP ging dem ein Kompromiss zwischen Regierung und Miliz voraus. Im Jemen griff das von Saudi-Arabien angeführte Militärbündnis nach eigenen Angaben erneut die von Iran unterstützte Huthi-Miliz an, unter anderem in der Hafenstadt Hudaida. In Washington hatte der Senat am Donnerstag mit 51 zu 48 Stimmen eine Resolution verworfen, die Präsident Donald Trump gezwungen hätte, den Iran-Krieg zu beenden oder die Zustimmung des Kongresses einzuholen. Trump will über neue Großangriffe erst nach dem Jahreswechsel entscheiden; das Pentagon beziffert die bisherigen Kriegskosten auf 48,3 Mrd. $.",
-     "source": "ZDFheute (Liveblog Iran), 20.11.",
+     "title": "Trump droht Iran wegen angeblichen Plans für „schmutzige Bombe“ – Warnungen in Riad, irakische Truppen rücken in Hochburg proiranischer Miliz ein",
+     "text": "US-Präsident Donald Trump hat Iran laut Anadolu mit militärischem Vorgehen gedroht, sollte das Land einen Berichten zufolge geplanten Anschlag mit einer „schmutzigen Bombe“ auf Washington verüben; man beobachte Teheran genau. Irans Behörden wiesen Berichte über einen Raketenangriff auf die Insel Keschm zurück, die Explosionen stammten von der Beseitigung von Blindgängern. In Riad warnte der Zivilschutz in der Nacht zweimal vor möglicher Gefahr und gab später Entwarnung. Irakische Sicherheits- und Streitkräfte haben einen Einsatz im Bezirk Dscharf al-Sachr südlich von Bagdad begonnen, der seit rund zwölf Jahren unter dem Einfluss der proiranischen Miliz Kataib Hisbollah steht. Laut AP ging dem ein Kompromiss zwischen Regierung und Miliz voraus. Im Jemen griff das von Saudi-Arabien angeführte Militärbündnis nach eigenen Angaben erneut die von Iran unterstützte Huthi-Miliz an, unter anderem in der Hafenstadt Hudaida. In Washington hatte der Senat am Donnerstag mit 51 zu 48 Stimmen eine Resolution verworfen, die Präsident Donald Trump gezwungen hätte, den Iran-Krieg zu beenden oder die Zustimmung des Kongresses einzuholen. Trump will über neue Großangriffe erst nach dem Jahreswechsel entscheiden; das Pentagon beziffert die bisherigen Kriegskosten auf 48,3 Mrd. $.",
+     "source": "ZDFheute (Liveblog Iran), 21.11.",
      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html"
     }
    ]
@@ -149,11 +149,11 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin hält sich nach dem Sturz unter 60.000 $ bei rund 59.000 $ – Ether 7,4 % im Minus bei 1.626 $",
-     "text": "Bitcoin notierte um 01:41 Uhr MEZ laut CoinDesk bei 59.025 $ und damit 4,92 % unter dem Stand vor 24 Stunden; die 24-Stunden-Spanne reicht von 57.981 $ bis 62.447 $. Am Freitagnachmittag war der Kurs erstmals seit Anfang Juli unter 60.000 $ gefallen und hat laut Invezz auch das Tief vom 2. Juli bei 59.520 $ unterschritten. Ether stand bei 1.626 $ (minus 7,40 %; Spanne 1.589 bis 1.765 $). Nach Daten von BTC-ECHO hat Bitcoin binnen sieben Tagen gut 13 % und binnen eines Monats gut 28 % verloren. Laut Pluang wurden beim Rutsch Positionen im Wert von mehr als 1,33 Mrd. $ zwangsweise aufgelöst, überwiegend Wetten auf steigende Kurse. Yahoo Finance zufolge steuert Bitcoin auf den schwächsten Monat seit Juni 2022 zu; der Datendienst Santiment sieht die Stimmung im Bereich „extremer Angst“.",
-     "source": "CoinDesk (Bitcoin), 21.11.",
-     "url": "https://www.coindesk.com/price/bitcoin",
-     "impact": "Mit dem Bruch von 60.000 $ ist eine viel beachtete Marke gefallen, und Zwangsauflösungen gehebelter Positionen haben den Rückgang verstärkt. In der Nacht hat sich der Kurs knapp unter dieser Marke gehalten, ohne sie zurückzuerobern; Ether liegt weiter deutlich stärker im Minus als Bitcoin. Eine Richtungsaussage lässt sich daraus nicht ableiten."
+     "title": "Bitcoin fällt unter 57.000 $ auf den tiefsten Stand seit September 2024 – Ether verliert 10 % auf 1.565 $",
+     "text": "Bitcoin notierte um 06:35 Uhr MEZ laut CoinDesk bei 55.975 $ und damit 9,54 % unter dem Stand vor 24 Stunden; die 24-Stunden-Spanne reicht von 55.763 $ bis 62.232 $. Der Kurs hat in der Nacht zum Samstag die Tiefs vom Sommer unterschritten und liegt laut CoinDesk so tief wie seit September 2024 nicht mehr; das Rekordhoch vom Oktober 2025 lag bei über 126.000 $. Ether stand bei 1.565 $ (minus 10,07 %; Spanne 1.545 bis 1.760 $), auch XRP und Solana verloren mehr als 9 %. An den Terminmärkten wurden binnen 24 Stunden Positionen im Wert von 2,40 Mrd. $ zwangsweise aufgelöst, davon mehr als 1 Mrd. $ bei Bitcoin und 545 Mio. $ bei Ether. Als Gründe nennt CoinDesk steigende reale US-Renditen und die Erwartung einer strafferen Geldpolitik der Fed. Yahoo Finance zufolge steuert Bitcoin auf den schwächsten Monat seit Juni 2022 zu.",
+     "source": "CoinDesk (Zwei-Jahres-Tief, Liquidationen), 21.11.",
+     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+     "impact": "Nach der Marke von 60.000 $ sind in der Nacht auch die Tiefs vom Sommer gefallen; Zwangsauflösungen gehebelter Positionen haben den Rückgang verstärkt. Am Wochenende sind die US-Börsen geschlossen und die Umsätze meist dünner, was Ausschläge in beide Richtungen vergrößern kann. Eine Richtungsaussage lässt sich daraus nicht ableiten."
     },
     {
      "tag": "ETF-Flüsse",

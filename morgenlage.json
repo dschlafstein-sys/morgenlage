@@ -1,19 +1,19 @@
 {
  "date": "Samstag, 21. November 2026",
- "stand": "11:37",
+ "stand": "16:44",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "57.954 $",
-   "change": "−6,53 % in 24 h",
-   "dir": "down"
+   "value": "59.787 $",
+   "change": "+0,58 % in 24 h",
+   "dir": "up"
   },
   {
    "label": "Ether",
-   "value": "1.640 $",
-   "change": "−6,57 % in 24 h",
-   "dir": "down"
+   "value": "1.679 $",
+   "change": "+1,51 % in 24 h",
+   "dir": "up"
   },
   {
    "label": "US-Leitzins (Fed)",
@@ -29,9 +29,9 @@
   }
  ],
  "brief": [
-  "Märkte: Bitcoin hat sich vom Nachttief bei 55.733 $ erholt und notierte um 11:35 Uhr bei 57.954 $ (minus 6,53 % in 24 Stunden); Ether stand bei 1.640 $ (minus 6,57 %). Binnen 24 Stunden wurden laut CoinGlass gehebelte Positionen im Wert von mehr als 2,4 Mrd. $ zwangsweise aufgelöst. Die Wall Street hatte am Freitag tiefrot geschlossen (Nasdaq Composite minus 5,28 %, S&P 500 minus 3,70 %), der Dax 2,6 % tiefer bei 24.802,78 Punkten.",
-  "Welt: In der Straße von Hormus sind am Samstag zwei Tanker angegriffen worden; Saudi-Arabien fing drei Huthi-Raketen über Riad ab. Russland meldet neue Angriffe auf Energieanlagen in der Ukraine. Auf der Weltklimakonferenz in Antalya fehlt der Abschlusstext weiter, die EU schließt ein Scheitern nicht aus.",
-  "Berlin und Bund: Die Stadtbahn ist von Samstag, 15:45 Uhr, bis Montag früh zwischen Friedrichstraße und Tiergarten unterbrochen; A10 und S5 bleiben bis Montag früh gesperrt. Nach den Jugendprotesten gab es am Freitagabend Zwischenfälle in Hamburg und Leipzig, in Berlin blieb es friedlich. Die Pflegekassen warnen vor einem Liquiditätsengpass Anfang 2027; Strom und Gas werden in der Grundversorgung vielerorts teurer."
+  "Märkte: Bitcoin notierte um 16:35 Uhr bei 59.787 $ (plus 0,58 % in 24 Stunden) und damit rund 4.000 $ über dem Nachttief von 55.733 $; Ether stand bei 1.679 $ (plus 1,51 %). Die US-Spot-Bitcoin-ETFs haben laut Farside in der Woche 1,25 Mrd. $ verloren, im November bislang 3,59 Mrd. $. Die Wall Street hatte am Freitag tiefrot geschlossen (Nasdaq Composite minus 5,28 %, S&P 500 minus 3,70 %), der Dax 2,6 % tiefer bei 24.802,78 Punkten.",
+  "Welt: Im Finnischen Meerbusen brennt nach russischen Angaben ein Frachtschiff nach einem Drohnenangriff; in der Straße von Hormus wurden am Samstag zwei Tanker angegriffen. Die Weltklimakonferenz in Antalya ist ohne neuen Textentwurf in den Zusatztag gegangen, die EU schließt ein Scheitern nicht aus. EU und Indonesien haben ein Freihandelsabkommen unterzeichnet.",
+  "Berlin und Bund: EU-Ratspräsident Costa will den EU-Haushalt 2028 bis 2034 um rund 204 Mrd. Euro kürzen, Kanzler Merz hält das Volumen weiter für zu hoch; Wirtschaftsministerin Reiche will Autobahntankstellen vom Spritpreisdeckel ausnehmen. Im Metall-Tarifkonflikt wird am Mittwoch neu verhandelt, die Warnstreiks laufen bis Dienstag. In Berlin ist die Stadtbahn bis Montag früh zwischen Friedrichstraße und Tiergarten unterbrochen; die Polizei zählte am Protestfreitag 26 Strafanzeigen und meldete am Samstag einen Ausfall ihrer Internetwache."
  ],
  "sections": [
   {
@@ -39,31 +39,31 @@
    "title": "Deutschland",
    "items": [
     {
-     "tag": "Börse · Preise · Unternehmen",
-     "title": "Dax schließt mit minus 2,6 % unter 25.000 Punkten und verliert in der Woche mehr als 7 % – Erzeugerpreise steigen um 8,1 %, Lufthansa will 1.000 Stellen streichen",
-     "text": "Der Dax beendete den Freitag laut dpa-AFX praktisch auf Tagestief bei 24.802,78 Punkten (minus 2,60 %); es war der sechste Verlusttag in Folge, der Index fiel unter seine 200-Tage-Linie. In der Vorwoche hatte er noch einen Rekord bei rund 27.002 Punkten erreicht. Der MDax gab 2,59 % auf 28.740,31 Punkte nach. Als Gründe nennt der Bericht Zweifel am Tempo des Ausbaus von US-Rechenzentren, mögliche Folgen der Probleme bei Nvidia, anhaltende Zinssorgen und den starken Dollar; die Landesbank LBBW nannte die Stimmung stark angeknackst. Die Erzeugerpreise stiegen im Oktober laut Statistischem Bundesamt um 8,1 % zum Vorjahr, so stark wie seit Februar 2023 nicht mehr; Mineralölerzeugnisse waren 51,9 % teurer, Erdgas 21,9 %, Strom 12,6 %. Lufthansa will nach einem Bericht der Nachrichtenagentur Anadolu 1.000 Vollzeitstellen an den Drehkreuzen Frankfurt und München streichen und Kapazitäten auf Kurz- und Mittelstrecken kürzen; in den ersten neun Monaten 2026 fiel ein operativer Verlust von 180 Mio. Euro an.",
-     "source": "ariva/dpa-AFX (Dax-Schluss), 20.11.",
-     "url": "https://www.ariva.de/news/aktien-frankfurt-schluss-dax-faellt-unter-25-000-punkte-12215520"
-    },
-    {
-     "tag": "Post · Tarife · Unternehmer",
-     "title": "Briefporto soll 2027 auf 1,15 Euro steigen – IG Metall bestreikt Betriebe ganztägig, VW verlangt Nullrunden",
-     "text": "Die Bundesnetzagentur hat den Spielraum für die Portoerhöhung der Deutschen Post für die Jahre 2027 und 2028 endgültig festgelegt: Der Briefversand darf insgesamt rund 20,4 % teurer werden, nach rund 10,5 % im Jahr 2025 und 4,6 % im Jahr 2022. Laut WDR soll der Standardbrief künftig 1,15 Euro statt 95 Cent kosten, der Kompaktbrief 1,25 Euro, der Großbrief 2,35 Euro und der Maxibrief 5 Euro. Die Post begründet das mit sinkenden Briefmengen (2005: 16,9 Milliarden, 2025: knapp 9,4 Milliarden) und steigenden Personal-, Energie- und Sachkosten. Die IG Metall hatte am Freitag tausende Beschäftigte der Metall- und Elektroindustrie zu ganztägigen Warnstreiks aufgerufen, unter anderem auf den Kieler Werften TKMS und German Naval Yards; sie fordert 5 % mehr Geld bei zwölf Monaten Laufzeit. Volkswagen verlangt in der Haustarifrunde Nullrunden für 2027 und 2028, verhandelt wird ab Dienstag in Emden.",
-     "source": "WDR (Porto), 20.11.",
-     "url": "https://www1.wdr.de/wirtschaft/briefporto-teuer-post-100.html"
-    },
-    {
-     "tag": "Soziales · Energie · Unternehmen",
-     "title": "Pflegekassen warnen vor Liquiditätsengpass Anfang 2027 – Strom und Gas in der Grundversorgung werden teurer, US-Richter billigt Bayer-Vergleich",
-     "text": "Der Spitzenverband der gesetzlichen Krankenversicherung nennt die Finanzlage der Pflegeversicherung in den Beratungen über das Spargesetz von Gesundheitsminister Carsten Linnemann (CDU) weiter hoch angespannt; ohne zusätzliche Maßnahmen drohe gleich zu Beginn des neuen Jahres erneut ein Liquiditätsengpass. Nach einer Auswertung von Verivox haben Grundversorger für Dezember bis Februar bislang 329 Strompreiserhöhungen um durchschnittlich 8 % und 361 Gaspreiserhöhungen um durchschnittlich rund 14 % angekündigt. Ein Richter im US-Bundesstaat Missouri hat den Glyphosat-Sammelvergleich von Bayer über 7,25 Mrd. $ abschließend gebilligt; die Zahlungen an Zehntausende Kläger laufen über bis zu 21 Jahre. Verkehrsminister Steffen Bilger (CDU) erwartet von den Autobauern im Gegenzug für die Lockerung des Verbrenner-Aus ein Bekenntnis zum Standort Deutschland. Der Bundesrat hatte am Freitag unter anderem die Frühstartrente, die digitale Brieftasche und die Notfallreform gebilligt.",
-     "source": "ZDFheute-Ticker (Pflegekassen, Verivox, Bilger, Bundesrat), 21.11.",
+     "tag": "Bundespolitik · EU · Energie",
+     "title": "EU-Haushalt: Costa will 204 Mrd. Euro weniger einplanen, Merz hält das Volumen weiter für zu hoch – Reiche will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+     "text": "EU-Ratspräsident António Costa hat im Streit um den Haushalt der Jahre 2028 bis 2034 einen Kompromiss vorgelegt, der rund 204 Mrd. Euro weniger vorsieht als der Entwurf der Kommission; um die Beiträge der Mitgliedstaaten zu begrenzen, ist zudem eine Digitalsteuer vorgesehen. Bundeskanzler Friedrich Merz (CDU) nannte den Vorschlag einen ersten Schritt, hält ihn aber nicht für zustimmungsfähig: Ein EU-Haushalt, der um mehr als 40 % wachse, passe nicht in die Zeit. Wirtschaftsministerin Katherina Reiche (CDU) will Autobahntankstellen vom geplanten Preisdeckel für Benzin und Diesel ausnehmen, weil sie wegen höherer Pachten und der Pflicht zur Öffnung rund um die Uhr im Schnitt höhere Kosten hätten; für Autohöfe soll der Deckel gelten. Der neue Entwurf ist in der Abstimmung mit Kanzleramt und Finanzministerium, das Kabinett soll Gesetz und Verordnung am 2. Dezember beschließen. Nach dem Beschluss des Koalitionsausschusses soll der Deckel zum 1. Januar aktiviert werden und den Tankrabatt ablösen; die Länder sollen bei abweichenden Beschaffungs- und Transportkosten vom bundesweiten Deckel abweichen können.",
+     "source": "ZDFheute-Ticker (EU-Haushalt, Merz), 21.11.",
      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     },
     {
-     "tag": "Politik · Protest · Investitionen",
-     "title": "Nach „Gen Z regelt“-Protesten Böller- und Flaschenwürfe in Hamburg, Auseinandersetzungen in Leipzig – Katar will 15 Mrd. Euro mehr investieren, Jusos kritisieren SPD-Personalplan",
-     "text": "An den Jugendprotesten vom Freitag haben sich nach Angaben der Initiative „Gen Z regelt“ bundesweit rund 87.000 Menschen beteiligt; sie verliefen weitgehend friedlich. Am Abend warfen in Hamburg Vermummte nach dem Ende der Demonstration Böller und Flaschen in Richtung der Polizei, auch in Leipzig kam es zu Auseinandersetzungen zwischen Demonstranten und Polizei. In Frankfurt am Main blieb es ruhig, in Berlin nach Polizeiangaben friedlich. Kanzler Friedrich Merz begrüßte nach einem Gespräch mit dem Emir von Katar in Berlin dessen Ankündigung, die Investitionen in die deutsche Wirtschaft um 15 Mrd. Euro zu erhöhen, etwa in KI, Halbleiter und Luftfahrt. Hessens Ministerpräsident Boris Rhein (CDU) sagte der „Frankfurter Allgemeinen Sonntagszeitung“, seine Geduld mit der schwarz-roten Bundesregierung sei langsam am Ende. Juso-Chef Philipp Türmer kritisierte im Redaktionsnetzwerk Deutschland den Plan des SPD-Vorstands, im Dezember einen Personalvorschlag für die Parteispitze vorzulegen, ohne dass es vorher eine echte Einigung in der Partei gebe.",
-     "source": "ZDFheute-Ticker (Zwischenfälle, Katar, Rhein, Jusos), 21.11.",
+     "tag": "Tarife · Post · Unternehmer",
+     "title": "Metall-Tarifkonflikt: Neue Verhandlungen am Mittwoch in Mannheim, Warnstreiks laufen bis Dienstag weiter – Briefporto soll 2027 auf 1,15 Euro steigen, VW verlangt Nullrunden",
+     "text": "Im Tarifkonflikt der Metall- und Elektroindustrie treffen sich die Tarifparteien am Mittwoch in Mannheim zu neuen Gesprächen; die IG Metall hat einen entsprechenden Vorschlag des Arbeitgeberverbands Südwestmetall angenommen. Die ganztägigen Warnstreiks sollen bis Dienstag fortgesetzt werden, die dritte Verhandlungsrunde hatte keine Annäherung gebracht. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit. Volkswagen verlangt in der Haustarifrunde Nullrunden für 2027 und 2028, verhandelt wird ab Dienstag in Emden. Die Bundesnetzagentur hat den Spielraum für die Portoerhöhung der Deutschen Post für 2027 und 2028 endgültig festgelegt: Der Briefversand darf insgesamt rund 20,4 % teurer werden. Laut WDR soll der Standardbrief künftig 1,15 Euro statt 95 Cent kosten, der Kompaktbrief 1,25 Euro, der Großbrief 2,35 Euro und der Maxibrief 5 Euro. Die Post begründet das mit sinkenden Briefmengen (2005: 16,9 Milliarden, 2025: knapp 9,4 Milliarden) und steigenden Personal-, Energie- und Sachkosten.",
+     "source": "ZDFheute-Ticker (Metall-Tarifkonflikt), 21.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+    },
+    {
+     "tag": "Soziales · Energie · Unternehmen",
+     "title": "Pflegekassen warnen vor Liquiditätsengpass Anfang 2027 – Strom und Gas in der Grundversorgung werden teurer, 27.446 Zwangsräumungen im Jahr 2025",
+     "text": "Der Spitzenverband der gesetzlichen Krankenversicherung nennt die Finanzlage der Pflegeversicherung in den Beratungen über das Spargesetz von Gesundheitsminister Carsten Linnemann (CDU) weiter hoch angespannt; ohne zusätzliche Maßnahmen drohe gleich zu Beginn des neuen Jahres erneut ein Liquiditätsengpass. Nach einer Auswertung von Verivox haben Grundversorger für Dezember bis Februar bislang 329 Strompreiserhöhungen um durchschnittlich 8 % und 361 Gaspreiserhöhungen um durchschnittlich rund 14 % angekündigt. In Deutschland wurden 2025 nach Angaben des Bundesjustizministeriums 27.446 Zwangsräumungen vollstreckt, überwiegend von Wohnraum; die Zahl ist wegen einer geänderten Erfassung nicht mit den Vorjahren vergleichbar. Der Hausärztinnen- und Hausärzteverband beklagt, Grippe-Impfstoff sei teils zu spät und nicht in der bestellten Menge geliefert worden; das Paul-Ehrlich-Institut bestätigte einen späteren Beginn der Chargenprüfung. Ein Richter im US-Bundesstaat Missouri hat den Glyphosat-Sammelvergleich von Bayer über 7,25 Mrd. $ abschließend gebilligt; die Zahlungen an Zehntausende Kläger laufen über bis zu 21 Jahre. Verkehrsminister Steffen Bilger (CDU) erwartet von den Autobauern im Gegenzug für die Lockerung des Verbrenner-Aus ein Bekenntnis zum Standort Deutschland.",
+     "source": "ZDFheute-Ticker (Pflegekassen, Verivox, Zwangsräumungen, Impfstoff, Bilger), 21.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+    },
+    {
+     "tag": "Parteien · Protest · Investitionen",
+     "title": "Höcke als AfD-Landeschef in Thüringen bestätigt, Trauerfeier für Hubert Aiwanger – SPD streitet über Verfahren für die neue Parteispitze, Katar will 15 Mrd. Euro mehr investieren",
+     "text": "Björn Höcke bleibt Vorsitzender der Thüringer AfD, die der Landesverfassungsschutz als gesichert rechtsextrem einstuft: Beim Landesparteitag in Pfiffelbach erhielt er 314 Ja-Stimmen bei 39 Nein-Stimmen und fünf Enthaltungen. In Rottenburg an der Laaber nahmen mehrere Hundert Menschen an der Beisetzung des am 4. November gestorbenen Freie-Wähler-Chefs Hubert Aiwanger teil. In der SPD sprach sich Niedersachsens Ministerpräsident Olaf Lies in der „Welt am Sonntag“ gegen eine Trennung von Regierungs- und Parteiämtern aus und hält auch eine Einzelperson an der Spitze für denkbar; Juso-Chef Philipp Türmer kritisierte im Redaktionsnetzwerk Deutschland, dass der Vorstand im Dezember einen Personalvorschlag vorlegen will, ohne dass es vorher eine echte Einigung in der Partei gebe. Hessens Ministerpräsident Boris Rhein (CDU) sagte der „Frankfurter Allgemeinen Sonntagszeitung“, seine Geduld mit der schwarz-roten Bundesregierung sei langsam am Ende. An den Jugendprotesten vom Freitag hatten sich nach Angaben der Initiative „Gen Z regelt“ bundesweit rund 87.000 Menschen beteiligt; am Abend warfen in Hamburg Vermummte Böller und Flaschen in Richtung der Polizei, auch in Leipzig kam es zu Auseinandersetzungen. Kanzler Merz begrüßte nach einem Gespräch mit dem Emir von Katar dessen Ankündigung, die Investitionen in die deutsche Wirtschaft um 15 Mrd. Euro zu erhöhen, etwa in KI, Halbleiter und Luftfahrt.",
+     "source": "ZDFheute-Ticker (Höcke, Aiwanger, Lies, Jusos, Rhein, Katar), 21.11.",
      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     }
    ]
@@ -73,32 +73,32 @@
    "title": "Berlin",
    "items": [
     {
-     "tag": "Demos · Polizei · Freitag",
-     "title": "Jugendproteste am Freitag blieben friedlich: 4.000 Teilnehmer laut Polizei, bis zu 15.000 laut Veranstaltern – am Abend rund 300 Menschen am Kottbusser Tor",
-     "text": "Der Protestzug von „Gen Z regelt“ gegen die Wehrpflicht erreichte den Mariannenplatz in Kreuzberg nach Angaben der Polizei ohne besondere Vorkommnisse. Die Polizei zählte rund 4.000 junge Menschen, ein Sprecher der Initiative sprach von bis zu 15.000. Die Demo der Bundesschülerkonferenz am Brandenburger Tor blieb dagegen klein: Angemeldet waren 5.000 Teilnehmer, laut Polizei kamen etwa 60 bis 80. Am Freitagabend versammelten sich unter dem Titel „Merz muss weg!“ nach Polizeiangaben rund 300 Menschen am Kottbusser Tor; auch diese Kundgebung verlief laut einer Polizeisprecherin zunächst friedlich. Die Polizei war am Freitag mit bis zu 1.600 zusätzlichen Kräften im Einsatz.",
-     "source": "Tagesspiegel (Teilnehmerzahlen, Polizei), 20.11.",
-     "url": "https://www.tagesspiegel.de/berlin/tausende-bei-demos-von-gen-z-regelt-und-bundesschulerkonferenz-16305132.html"
+     "tag": "Demos · Polizei · Bilanz",
+     "title": "Bilanz der Jugendproteste vom Freitag: 26 Strafanzeigen und 16 vorübergehende Festnahmen – Polizei spricht von einem sehr ruhigen Verlauf",
+     "text": "Die Proteste mit mehreren Tausend jungen Menschen sind nach der Bilanz der Berliner Polizei weitgehend friedlich geblieben. Über den gesamten Freitag wurden 16 Personen vorübergehend festgenommen, die Statistik verzeichnet 26 Strafanzeigen, unter anderem wegen Beleidigung, übler Nachrede, Körperverletzung und tätlichen Angriffs. Am Protestzug von „Gen Z regelt“ von Mitte nach Kreuzberg beteiligten sich laut Polizei etwa 4.500 junge Menschen, ein Sprecher der Initiative sprach von bis zu 15.000. Am Abend zogen unter dem Titel „Merz muss weg“ rund 1.100 Menschen vom Kottbusser Tor zum Schlesischen Tor und protestierten vor allem gegen eine Wehrpflicht; dabei gab es drei vorübergehende Festnahmen wegen Widerstands, tätlichen Angriffs und Landfriedensbruchs. Zur Demo der Bundesschülerkonferenz am Brandenburger Tor kamen deutlich weniger Menschen. Die Polizei war mit bis zu 1.600 zusätzlichen Kräften im Einsatz.",
+     "source": "Tagesspiegel/dpa (Polizeibilanz), 21.11.",
+     "url": "https://www.tagesspiegel.de/berlin/dpa-demonstration-von-gen-z-regelt-trotzdem-weitgehend-friedlich-16311245.html"
     },
     {
      "tag": "Verkehr · BVG · S-Bahn",
-     "title": "Stadtbahn ab Samstag, 15:45 Uhr, zwischen Friedrichstraße und Tiergarten unterbrochen – A10 und S5 bis Montag früh gesperrt, Glätte und Schauer am Wochenende",
-     "text": "Wegen Bauarbeiten fahren die S-Bahn-Linien S3, S5, S7 und S9 von Samstag, 15:45 Uhr, bis zum Betriebsbeginn am frühen Montagmorgen nicht zwischen Friedrichstraße und Tiergarten. Ersatzbusse fahren als S7A zwischen Friedrichstraße und Zoologischer Garten sowie als S7B vom Hauptbahnhof über den Potsdamer Platz zum Zoologischen Garten, die S7B an beiden Tagen nur bis 23 Uhr. Die Regionallinien RE1, RE2 und RE7 sind zwischen Ostbahnhof und Charlottenburg ebenfalls unterbrochen und bieten keine Ausweichmöglichkeit. Die A10 bleibt ab der Anschlussstelle Falkensee Richtung Dreieck Havelland voraussichtlich bis Montag gegen 5 Uhr gesperrt; auf der S5 fahren zwischen Kaulsdorf und Strausberg bis Montag gegen 1:30 Uhr Busse. Für das Wochenende sind in Berlin und Brandenburg glatte Straßen, Regen und Graupel angekündigt, zum Wochenstart rechnet der Wetterdienst mit Schnee. Auf der Landsberger Allee war am Freitagmorgen ein 30-jähriger E-Scooter-Fahrer von einer Straßenbahn erfasst worden; er starb wenig später im Krankenhaus.",
+     "title": "Stadtbahn seit Samstagnachmittag zwischen Friedrichstraße und Tiergarten unterbrochen – A10 und S5 bis Montag früh gesperrt, Glätte und Schauer am Wochenende",
+     "text": "Wegen Bauarbeiten fahren die S-Bahn-Linien S3, S5, S7 und S9 seit Samstag, 15:45 Uhr, nicht zwischen Friedrichstraße und Tiergarten; die Unterbrechung dauert bis zum Betriebsbeginn am frühen Montagmorgen. Ersatzbusse fahren als S7A zwischen Friedrichstraße und Zoologischer Garten sowie als S7B vom Hauptbahnhof über den Potsdamer Platz zum Zoologischen Garten, die S7B an beiden Tagen nur bis 23 Uhr. Die Regionallinien RE1, RE2 und RE7 sind zwischen Ostbahnhof und Charlottenburg ebenfalls unterbrochen und bieten keine Ausweichmöglichkeit. Die A10 bleibt ab der Anschlussstelle Falkensee Richtung Dreieck Havelland voraussichtlich bis Montag gegen 5 Uhr gesperrt; auf der S5 fahren zwischen Kaulsdorf und Strausberg bis Montag gegen 1:30 Uhr Busse. Für das Wochenende sind in Berlin und Brandenburg glatte Straßen, Regen und Graupel angekündigt, zum Wochenstart rechnet der Wetterdienst mit Schnee. Auf der Landsberger Allee war am Freitagmorgen ein 30-jähriger E-Scooter-Fahrer von einer Straßenbahn erfasst worden; er starb wenig später im Krankenhaus.",
      "source": "Tagesspiegel (Stadtbahn), 21.11.",
      "url": "https://www.tagesspiegel.de/berlin/ersatzverkehr-mit-bussen-berliner-stadtbahn-am-wochenende-an-zentraler-stelle-unterbrochen-16310092.html"
     },
     {
-     "tag": "Senat · Landespolitik · Bezirke",
-     "title": "Datenleck der Berliner Verwaltung: Tagesspiegel-Auswertung kommt auf mehr als 540.000 Betroffene – Koalitionsbildung zieht sich hin",
-     "text": "Während der Senat das Ausmaß des Hackerangriffs auf die Verwaltung nach Angaben des Tagesspiegels nicht beziffern kann, kommt die Zeitung in einer eigenen Datenanalyse auf mehr als 540.000 betroffene Menschen, auch weit über Berlin hinaus. Die Bildung einer Koalition aus Linken, SPD und Grünen dauert an; ein Streitpunkt bleibt der Fall der Linken-Abgeordneten Vanessa Emde. In Friedrichshain-Kreuzberg haben Linke und Grüne eine Allianz beschlossen: Das Bauamt von Florian Schmidt soll ein Architekt übernehmen, das Schulamt geht an eine Linken-Politikerin aus Pankow. Wirtschaftssenatorin Franziska Giffey (SPD) kritisierte den Kurs ihrer eigenen Partei. Bei den Grünen sorgt der Vorschlag, Merieme Benali-Jockers zur Co-Landesvorsitzenden zu machen, laut Tagesspiegel für Streit zwischen den Parteiflügeln.",
-     "source": "Tagesspiegel (Datenleck), 20.11.",
-     "url": "https://interaktiv.tagesspiegel.de/lab/hackerangriff-auf-berliner-verwaltung-mehr-als-540000-menschen-im-datenleck-die-datenanalyse/"
+     "tag": "Senat · Justiz · Landespolitik",
+     "title": "Weihnachtsgnade: 57 Gefangene kommen in Berlin vorzeitig frei – Datenleck mit mehr als 540.000 Betroffenen, Koalitionsbildung zieht sich hin",
+     "text": "Nach derzeitigem Stand werden in diesem Jahr 57 Gefangene aufgrund des Gnadenerweises zu Weihnachten vorzeitig entlassen, wie die Senatsjustizverwaltung mitteilte; 2025 waren es 66, 2024 rund 100. Infrage kommen Häftlinge, die ohnehin zwischen dem 19. November und dem 3. Januar 2027 freigekommen wären, in der Haft nicht negativ aufgefallen sind und eine Unterkunft haben. Das Berliner Behindertenparlament forderte bei seiner Sitzung im Abgeordnetenhaus von der künftigen Landesregierung mehr rollstuhlgerechte Wohnungen und barrierefreie Gehwege. Während der Senat das Ausmaß des Hackerangriffs auf die Verwaltung nach Angaben des Tagesspiegels nicht beziffern kann, kommt die Zeitung in einer eigenen Datenanalyse auf mehr als 540.000 betroffene Menschen, auch weit über Berlin hinaus. Die Bildung einer Koalition aus Linken, SPD und Grünen dauert an; ein Streitpunkt bleibt der Fall der Linken-Abgeordneten Vanessa Emde. In Friedrichshain-Kreuzberg haben Linke und Grüne eine Allianz beschlossen: Das Bauamt von Florian Schmidt soll ein Architekt übernehmen, das Schulamt geht an eine Linken-Politikerin aus Pankow. Wirtschaftssenatorin Franziska Giffey (SPD) kritisierte den Kurs ihrer eigenen Partei. Bei den Grünen sorgt der Vorschlag, Merieme Benali-Jockers zur Co-Landesvorsitzenden zu machen, laut Tagesspiegel für Streit zwischen den Parteiflügeln.",
+     "source": "Tagesspiegel/dpa (Weihnachtsgnade), 21.11.",
+     "url": "https://www.tagesspiegel.de/berlin/dpa-fast-60-haftlinge-werden-vorzeitig-entlassen-16310171.html"
     },
     {
      "tag": "Polizei · Wirtschaft · Stadt",
-     "title": "41-Jährige in drei Fällen einer Brandserie in Marienfelde verdächtig – Polizei setzt in Staaken Taser ein, Galeria am Kurfürstendamm bleibt zu",
-     "text": "Bei drei Fällen einer mutmaßlichen Serie von 16 Bränden in Marienfelde soll eine 41-jährige Berlinerin die Täterin sein; ihr wird unter anderem vorgeworfen, Abfälle in einem Aufzug angezündet und einen Kellerverschlag in Brand gesetzt zu haben. In Staaken soll ein 49-Jähriger seine frühere Schwiegermutter mit einem Messer bedroht haben; bei der Festnahme setzte die Polizei einen Taser ein, zwei Beamte wurden verletzt. Das Galeria-Haus am Kurfürstendamm, das die insolvente Kette 2027 aufgibt, ist seit Freitag geschlossen; bundesweit sind von drei Schließungen rund 400 Beschäftigte betroffen. Unbekannte haben das Wahlkreisbüro des CDU-Bundestagsabgeordneten Jan-Marco Luczak in Schöneberg angegriffen. In der Amerika-Gedenkbibliothek sind alle Aufzüge ausgefallen, der Salon ist bis auf Weiteres geschlossen. Am Nordbahnhof in Mitte öffnet an diesem Wochenende ein „Winterstrand“ mit Adventure-Golf und Eisbahn. Rund 200 Menschen erinnerten bei einer Mahnwache an die Achtjährige, die vor einer Woche in Tiergarten von einem Bus überrollt worden war. Das Kulturkaufhaus Dussmann feiert an diesem Samstag die Eröffnung seines Stores im KaDeWe; im Tierpark hat die Lichterschau „Weihnachten im Tierpark“ begonnen.",
-     "source": "Tagesspiegel/dpa (Brandserie), 20.11.",
-     "url": "https://www.tagesspiegel.de/berlin/dpa-berlinerin-in-drei-fallen-von-brandstiftung-verdachtig-16309239.html"
+     "title": "Internetwache der Berliner Polizei wegen technischer Störung ausgefallen – Galeria am Kurfürstendamm nach Schließtag wieder geöffnet, 41-Jährige in Brandserie verdächtig",
+     "text": "Die Internetwache der Berliner Polizei war am Samstag wegen einer technischen Störung nicht erreichbar, wie die Behörde am Mittag mitteilte: Online-Anzeigen, Hinweise und Versammlungsanmeldungen waren vorübergehend nicht möglich, Ursache und Dauer blieben zunächst unklar. Anzeigen können auf jedem Polizeiabschnitt erstattet werden, in Notfällen gilt der Notruf 110. Bei drei Fällen einer mutmaßlichen Serie von 16 Bränden in Marienfelde soll eine 41-jährige Berlinerin die Täterin sein; ihr wird unter anderem vorgeworfen, Abfälle in einem Aufzug angezündet und einen Kellerverschlag in Brand gesetzt zu haben. In Staaken soll ein 49-Jähriger seine frühere Schwiegermutter mit einem Messer bedroht haben; bei der Festnahme setzte die Polizei einen Taser ein, zwei Beamte wurden verletzt. Das Galeria-Haus am Kurfürstendamm, das die insolvente Kette 2027 aufgibt, blieb am Freitag geschlossen und öffnete am Samstag wieder; bundesweit sind von drei Schließungen rund 400 Beschäftigte betroffen. Unbekannte haben das Wahlkreisbüro des CDU-Bundestagsabgeordneten Jan-Marco Luczak in Schöneberg angegriffen. In der Amerika-Gedenkbibliothek sind alle Aufzüge ausgefallen, der Salon ist bis auf Weiteres geschlossen. Am Nordbahnhof in Mitte öffnet an diesem Wochenende ein „Winterstrand“ mit Adventure-Golf und Eisbahn. Rund 200 Menschen erinnerten bei einer Mahnwache an die Achtjährige, die vor einer Woche in Tiergarten von einem Bus überrollt worden war. Das Kulturkaufhaus Dussmann feiert an diesem Samstag die Eröffnung seines Stores im KaDeWe; im Tierpark hat die Lichterschau „Weihnachten im Tierpark“ begonnen.",
+     "source": "Tagesspiegel/dpa (Internetwache), 21.11.",
+     "url": "https://www.tagesspiegel.de/berlin/dpa-berliner-polizei-meldet-ausfall-der-internetwache-16310707.html"
     }
    ]
   },
@@ -107,11 +107,11 @@
    "title": "Welt",
    "items": [
     {
-     "tag": "Ukraine · Russland",
-     "title": "Russland meldet neue Angriffe auf Energieanlagen in Krywyj Rih und Riwne – Selenskyj: Krim-Brücke wird nicht stehen bleiben",
-     "text": "Russland hat nach eigenen Angaben in der Nacht zum Samstag Energieanlagen und ein Frachtschiff in der Ukraine angegriffen, darunter ein Wärmekraftwerk in Krywyj Rih und ein Umspannwerk in der Region Riwne. Präsident Wolodymyr Selenskyj sagte in einem Interview, die Krim-Brücke habe keine Zukunft; die Ukraine hat das Bauwerk in dieser Woche dreimal getroffen und einen Teil der Autotrasse zerstört. Am Freitag hatte Russland die Ukraine nach Angaben Selenskyjs mit mehr als 110 Raketen, darunter 27 ballistischen, und über 400 Drohnen angegriffen; die meisten Marschflugkörper und Drohnen seien abgefangen worden. Acht Menschen wurden getötet, fast 30 verletzt. In Kiew wurden drei Brücken über den Dnipro beschädigt, in der Hälfte der Stadtbezirke fielen Strom, Wasser und Fernheizung aus; in Lwiw wurde nach offiziellen Angaben ein Bahnhof getroffen. Das russische Verteidigungsministerium bestätigte die Angriffe auf die Brücken und begründete sie mit Waffentransporten für die ukrainische Armee. Präsident Wladimir Putin hatte nach ukrainischen Treffern auf die Krim-Brücke Vergeltung angekündigt. Am Freitagabend beschoss Russland nach ukrainischen Angaben Krywyj Rih mit ballistischen Raketen; mindestens zwei Menschen starben, darunter ein siebenjähriger Junge, 21 wurden verletzt. US-Präsident Donald Trump sagte, er wolle der Ukraine vorerst keine Sicherheitsgarantien geben und darüber nicht ohne ein Abkommen sprechen.",
-     "source": "ZDFheute (Liveblog Ukraine), 21.11.",
-     "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
+     "tag": "Ukraine · Russland · Ostsee",
+     "title": "Frachtschiff im Finnischen Meerbusen nach Drohnenangriff in Brand – Russland meldet Angriffe auf Energieanlagen in der Ukraine, Selenskyj: Krim-Brücke wird nicht stehen bleiben",
+     "text": "Im Finnischen Meerbusen ist nach russischen Angaben ein Frachtschiff auf dem Weg in die Exklave Kaliningrad von zwei Drohnen angegriffen worden; die Besatzung werde evakuiert, schrieb der Gouverneur des Leningrader Gebiets, Alexander Drosdenko. Nach Angaben des finnischen Grenzschutzes brennt das Schiff und ist aus internationalen in finnische Hoheitsgewässer getrieben. Russland hat nach eigenen Angaben in der Nacht zum Samstag Energieanlagen und ein Frachtschiff in der Ukraine angegriffen, darunter ein Wärmekraftwerk in Krywyj Rih und ein Umspannwerk in der Region Riwne. Präsident Wolodymyr Selenskyj sagte in einem Interview, die Krim-Brücke habe keine Zukunft; die Ukraine hat das Bauwerk in dieser Woche dreimal getroffen und einen Teil der Autotrasse zerstört. Am Freitag hatte Russland die Ukraine nach Angaben Selenskyjs mit mehr als 110 Raketen, darunter 27 ballistischen, und über 400 Drohnen angegriffen; die meisten Marschflugkörper und Drohnen seien abgefangen worden. Acht Menschen wurden getötet, fast 30 verletzt. In Kiew wurden drei Brücken über den Dnipro beschädigt, in der Hälfte der Stadtbezirke fielen Strom, Wasser und Fernheizung aus; in Lwiw wurde nach offiziellen Angaben ein Bahnhof getroffen. Das russische Verteidigungsministerium bestätigte die Angriffe auf die Brücken und begründete sie mit Waffentransporten für die ukrainische Armee. Präsident Wladimir Putin hatte nach ukrainischen Treffern auf die Krim-Brücke Vergeltung angekündigt. Am Freitagabend beschoss Russland nach ukrainischen Angaben Krywyj Rih mit ballistischen Raketen; mindestens zwei Menschen starben, darunter ein siebenjähriger Junge, 21 wurden verletzt. US-Präsident Donald Trump sagte, er wolle der Ukraine vorerst keine Sicherheitsgarantien geben und darüber nicht ohne ein Abkommen sprechen.",
+     "source": "ZDFheute-Ticker (Finnischer Meerbusen, Krim-Brücke), 21.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     },
     {
      "tag": "Polen · Diplomatie",
@@ -121,23 +121,23 @@
      "url": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-schwere-angriffe-auf-ukraine-moskau-laedt-europaeer-ein/100271558.html"
     },
     {
-     "tag": "Europa",
-     "title": "EU und Großbritannien schließen auf Gipfel in Brüssel Abkommen zu Handel und Jugendmobilität – Streit um Studiengebühren noch offen",
-     "text": "Beim zweiten Gipfeltreffen seit dem Brexit haben die EU-Spitzen und der britische Premier Andy Burnham in Brüssel Vereinbarungen zu Handel und Reisen sowie zur Mobilität junger Menschen verkündet. Burnham sprach von einem wegweisenden Abkommen, Kommissionspräsidentin Ursula von der Leyen von einem Wendepunkt in den Beziehungen; sie verwies auch auf eine Einigung zum CO2-Markt. Nach Burnhams Angaben könnten die Abkommen die britische Wirtschaftsleistung um 0,5 % erhöhen. Bei den Studiengebühren für EU-Studierende steht eine Lösung noch aus; daran solle im kommenden Monat gearbeitet werden, sagte von der Leyen.",
-     "source": "AP (Gipfel), 20.11.",
-     "url": "https://apnews.com/article/eu-britain-uk-brexit-summit-brussels-burnham-f265e5e01b5076b9489f7a6c89f831f4"
+     "tag": "Europa · Handel",
+     "title": "EU und Indonesien unterzeichnen Freihandelsabkommen – britischer Außenminister Miliband schließt nach dem Brüsseler Gipfel auch einen EU-Wiedereintritt nicht aus",
+     "text": "Nach fast zehn Jahren Verhandlungen haben die EU und Indonesien ein Freihandelsabkommen und ein Investitionsschutzabkommen unterzeichnet. Nach Angaben der EU sollen nach vollständiger Umsetzung die Zölle auf bis zu 98,5 % der Warenkategorien entfallen; die EU verspricht sich auch besseren Zugang zu wichtigen Rohstoffen. Der britische Außenminister Ed Miliband sagte, in den Gesprächen über das Verhältnis zur EU lägen alle Optionen auf dem Tisch, auch ein Wiedereintritt; man wolle Vorteile und Kosten der verschiedenen Optionen prüfen. Am Freitag hatten die EU-Spitzen und Premier Andy Burnham in Brüssel Vereinbarungen zu Handel und Reisen, zur Mobilität junger Menschen, zum Abbau von Kontrollen im Lebensmittelhandel und zur Verknüpfung der Emissionshandelssysteme verkündet. Nach Burnhams Angaben könnten die Abkommen die britische Wirtschaftsleistung um 0,5 % erhöhen; bei den Studiengebühren für EU-Studierende steht eine Lösung noch aus.",
+     "source": "ZDFheute-Ticker (Indonesien, Miliband), 21.11.",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     },
     {
      "tag": "Klima",
-     "title": "Weltklimakonferenz in Antalya auch am Samstag ohne Abschlusstext – EU schließt ein Scheitern nicht aus",
-     "text": "Auch am Samstagvormittag wurde in Antalya weiter um den Beschlusstext gerungen. EU-Klimakommissar Wopke Hoekstra sagte nach der Koordinierungssitzung der EU, wenn sich das für den Klimaschutz Nötige nicht erreichen lasse, gebe es keine Vereinbarung; die EU werde aber ihr Äußerstes geben. Konferenzpräsident Murat Kurum hatte am Freitagabend von großen Fortschritten gesprochen. Die COP31 hätte am Freitag um 16 Uhr MEZ enden sollen; die Delegationen warten weiter auf einen überarbeiteten Entwurf. Der Entwurf vom Donnerstag erwähnt fossile Brennstoffe nicht. Die EU nannte ihn nicht akzeptabel und beschwerte sich schriftlich bei der türkischen Präsidentschaft und dem australischen Verhandlungsleiter Chris Bowen; Panama kündigte laut UN News einen formellen Einspruch gegen einen Text ohne fossile Energien an, Beschlüsse brauchen Konsens. Bundesumweltminister Carsten Schneider (SPD) warb mit rund 25 Staaten für einen schrittweisen Ausstieg. Die afrikanische Gruppe vermisst eine Verdreifachung der Anpassungsfinanzierung; die Präsidentschaft schlägt vor, den Stromanteil am weltweiten Endenergieverbrauch von 23 auf 35 % zu erhöhen. Portugals Umweltministerin Maria da Graça Carvalho rechnet laut Anadolu mit einem Konsens, der Text könne aber erst spät kommen.",
-     "source": "ORF (Hoekstra, Kurum), 21.11.",
-     "url": "https://orf.at/stories/3448807/"
+     "title": "Weltklimakonferenz in Antalya geht ohne neuen Textentwurf in den Zusatztag – Streit um die Erwähnung fossiler Energien festgefahren, EU schließt ein Scheitern nicht aus",
+     "text": "Auch am Samstag wurde in Antalya weiter um den Beschlusstext gerungen; über Nacht ist nach einem Bericht des irischen Senders RTÉ kein neuer Entwurf erschienen, auf dem Tisch liegt weiter die Fassung vom Donnerstag, die fossile Brennstoffe nicht erwähnt. Die EU verlangt demnach zumindest die Anerkennung, dass einige Staaten mit der Abkehr von fossilen Energien begonnen haben; Saudi-Arabien und seine Verbündeten lehnen auch das ab. Bei der Elektrifizierung und beim Zugang zu Anpassungsgeldern hat die EU laut RTÉ Entgegenkommen signalisiert. EU-Klimakommissar Wopke Hoekstra sagte, wenn sich das für den Klimaschutz Nötige nicht erreichen lasse, gebe es keine Vereinbarung; die EU werde aber ihr Äußerstes geben. Verhandlungsleiter Chris Bowen hält eine Einigung weiter für möglich. Panama will keinen Text ohne fossile Energien mittragen, Beschlüsse brauchen Konsens. Die COP31 hätte am Freitag um 16 Uhr MEZ enden sollen. Bundesumweltminister Carsten Schneider (SPD) warb mit rund 25 Staaten für einen schrittweisen Ausstieg; die afrikanische Gruppe vermisst eine Verdreifachung der Anpassungsfinanzierung.",
+     "source": "RTÉ (Verhandlungsstand), 21.11.",
+     "url": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/"
     },
     {
-     "tag": "Iran · Irak · Jemen",
+     "tag": "Nahost · Iran · Jemen",
      "title": "Zwei Tanker in der Straße von Hormus angegriffen – Saudi-Arabien fängt drei Huthi-Raketen über Riad ab, Trump droht Iran",
-     "text": "In der von Iran weitgehend blockierten Straße von Hormus sind am Samstag laut ZDFheute zwei Tanker angegriffen worden; eines der Schiffe wurde nördlich der omanischen Stadt Chasab am Heck getroffen, bei dem anderen der Maschinenraum. Saudi-Arabiens Luftabwehr fing nach Angaben des von Riad geführten Bündnisses drei von der Huthi-Miliz auf die Hauptstadt abgefeuerte ballistische Raketen ab. US-Präsident Donald Trump hat Iran laut Anadolu mit militärischem Vorgehen gedroht, sollte das Land einen Berichten zufolge geplanten Anschlag mit einer „schmutzigen Bombe“ auf Washington verüben; man beobachte Teheran genau. Irans Behörden wiesen Berichte über einen Raketenangriff auf die Insel Keschm zurück, die Explosionen stammten von der Beseitigung von Blindgängern. In Riad warnte der Zivilschutz in der Nacht zweimal vor möglicher Gefahr und gab später Entwarnung. Irakische Sicherheits- und Streitkräfte haben einen Einsatz im Bezirk Dscharf al-Sachr südlich von Bagdad begonnen, der seit rund zwölf Jahren unter dem Einfluss der proiranischen Miliz Kataib Hisbollah steht. Laut AP ging dem ein Kompromiss zwischen Regierung und Miliz voraus. Im Jemen griff das von Saudi-Arabien angeführte Militärbündnis nach eigenen Angaben erneut die von Iran unterstützte Huthi-Miliz an, unter anderem in der Hafenstadt Hudaida. In Washington hatte der Senat am Donnerstag mit 51 zu 48 Stimmen eine Resolution verworfen, die Präsident Donald Trump gezwungen hätte, den Iran-Krieg zu beenden oder die Zustimmung des Kongresses einzuholen. Trump will über neue Großangriffe erst nach dem Jahreswechsel entscheiden; das Pentagon beziffert die bisherigen Kriegskosten auf 48,3 Mrd. $.",
+     "text": "In der von Iran weitgehend blockierten Straße von Hormus sind am Samstag laut ZDFheute zwei Tanker angegriffen worden; eines der Schiffe wurde nördlich der omanischen Stadt Chasab am Heck getroffen, bei dem anderen der Maschinenraum. Saudi-Arabiens Luftabwehr fing nach Angaben des von Riad geführten Bündnisses drei von der Huthi-Miliz auf die Hauptstadt abgefeuerte ballistische Raketen ab. US-Präsident Donald Trump hat Iran laut Anadolu mit militärischem Vorgehen gedroht, sollte das Land einen Berichten zufolge geplanten Anschlag mit einer „schmutzigen Bombe“ auf Washington verüben; man beobachte Teheran genau. Irans Behörden wiesen Berichte über einen Raketenangriff auf die Insel Keschm zurück, die Explosionen stammten von der Beseitigung von Blindgängern. In Riad warnte der Zivilschutz in der Nacht zweimal vor möglicher Gefahr und gab später Entwarnung. Irakische Sicherheits- und Streitkräfte haben einen Einsatz im Bezirk Dscharf al-Sachr südlich von Bagdad begonnen, der seit rund zwölf Jahren unter dem Einfluss der proiranischen Miliz Kataib Hisbollah steht. Laut AP ging dem ein Kompromiss zwischen Regierung und Miliz voraus. Im Jemen griff das von Saudi-Arabien angeführte Militärbündnis nach eigenen Angaben erneut die von Iran unterstützte Huthi-Miliz an, unter anderem in der Hafenstadt Hudaida. In Washington hatte der Senat am Donnerstag mit 51 zu 48 Stimmen eine Resolution verworfen, die Präsident Donald Trump gezwungen hätte, den Iran-Krieg zu beenden oder die Zustimmung des Kongresses einzuholen. Trump will über neue Großangriffe erst nach dem Jahreswechsel entscheiden; das Pentagon beziffert die bisherigen Kriegskosten auf 48,3 Mrd. $. In der Stadt Gaza wurden bei einem israelischen Angriff nach palästinensischen Berichten drei Menschen getötet und mehrere verletzt; Israels Militär erklärte, es habe mehrere palästinensische Kämpfer ins Visier genommen. Die Angaben lassen sich nicht unabhängig überprüfen.",
      "source": "ZDFheute (Liveblog Iran), 21.11.",
      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html"
     }
@@ -149,24 +149,24 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin erholt sich vom Zwei-Jahres-Tief auf knapp 58.000 $ – Ether bei 1.640 $, beide weiter gut 6 % im Minus",
-     "text": "Bitcoin notierte um 11:35 Uhr MEZ laut CoinDesk bei 57.954 $ und damit 6,53 % unter dem Stand vor 24 Stunden; die 24-Stunden-Spanne reicht von 55.733 $ bis 62.232 $. In der Nacht zum Samstag war der Kurs laut CoinDesk erstmals seit zwei Jahren unter 57.000 $ gefallen; das Rekordhoch vom Oktober 2025 lag bei über 126.000 $. Ether stand bei 1.640 $ (minus 6,57 %; Spanne 1.545 bis 1.760 $). XRP verlor laut CoinDesk im Ausverkauf 10 % und unterschritt seine bisherigen November-Tiefs. Nach Daten von CoinGlass wurden binnen 24 Stunden gehebelte Positionen im Wert von mehr als 2,4 Mrd. $ zwangsweise aufgelöst, rund 93 % davon Wetten auf steigende Kurse; mehr als 340.000 Händler waren betroffen. Als Gründe nennt CoinDesk steigende reale US-Renditen und die Erwartung einer strafferen Geldpolitik der Fed. Der Stimmungsindex von CoinGecko zeigte am Morgen extreme Angst an.",
-     "source": "CoinDesk (Zwei-Jahres-Tief), 21.11.",
-     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-     "impact": "Der Kurs liegt rund 2.200 $ über dem Nachttief, aber weiter unter der Marke von 60.000 $, die am Freitag gefallen ist. Am Wochenende sind die US-Börsen geschlossen und die Umsätze meist dünner, was Ausschläge in beide Richtungen vergrößern kann. Eine Richtungsaussage lässt sich daraus nicht ableiten."
+     "title": "Bitcoin stabilisiert sich bei knapp 59.800 $ und liegt rund 4.000 $ über dem Nachttief – Ether bei 1.679 $",
+     "text": "Bitcoin notierte um 16:35 Uhr MEZ laut CoinDesk bei 59.787 $ und damit 0,58 % über dem Stand vor 24 Stunden; die 24-Stunden-Spanne reicht von 55.733 $ bis 60.715 $. Ether stand bei 1.679 $ (plus 1,51 %; Spanne 1.545 bis 1.709 $), XRP bei 0,92 $, Solana bei 70,31 $. In der Nacht zum Samstag war Bitcoin laut CoinDesk erstmals seit zwei Jahren unter 57.000 $ gefallen; das Rekordhoch vom Oktober 2025 lag bei über 126.000 $. Nach Daten von CoinGlass waren bis zum Morgen binnen 24 Stunden gehebelte Positionen im Wert von mehr als 2,4 Mrd. $ zwangsweise aufgelöst worden, rund 93 % davon Wetten auf steigende Kurse. Das an der Nasdaq notierte Unternehmen BTCS, das Ether als Reserve hält, hat laut CoinDesk gegenüber der US-Börsenaufsicht gewarnt, dass sein Kredit über 54 Mio. $ beim Protokoll Aave liquidiert werden könnte; es hat seine dortigen Schulden binnen zehn Tagen um rund 10 Mio. $ verringert. Als Gründe für den Ausverkauf nennt CoinDesk steigende reale US-Renditen und die Erwartung einer strafferen Geldpolitik der Fed.",
+     "source": "CoinDesk (Bitcoin), 21.11.",
+     "url": "https://www.coindesk.com/price/bitcoin",
+     "impact": "Die 24-Stunden-Veränderung ist leicht positiv, weil der Vergleichspunkt bereits im Ausverkauf vom Freitag liegt; der Kurs bleibt unter der am Freitag gefallenen Marke von 60.000 $. Der Fall BTCS zeigt, dass fallende Kurse kreditfinanzierte Bestände unter Druck setzen können. Am Wochenende sind die US-Börsen geschlossen und die Umsätze meist dünner, was Ausschläge in beide Richtungen vergrößern kann."
     },
     {
      "tag": "ETF-Flüsse",
-     "title": "Bitcoin-ETFs: 582 Mio. $ Abfluss am Donnerstag, Rekordabfluss bei BlackRocks IBIT – im November bereits rund 3,47 Mrd. $",
-     "text": "Die US-Spot-Bitcoin-ETFs verzeichneten am Donnerstag laut Farside Investors den dritten Tag in Folge Nettoabflüsse: 582,3 Mio. $ nach 306,5 Mio. $ am Mittwoch und 239,9 Mio. $ am Dienstag. Auf BlackRocks IBIT entfielen 541,1 Mio. $, laut Invezz der größte Tagesabfluss in der Geschichte des Fonds; Fidelitys FBTC verlor 45,9 Mio. $, der Fonds von Morgan Stanley erhielt 49,6 Mio. $. Im November summieren sich die Abflüsse auf rund 3,47 Mrd. $. Nach einer Schätzung von Bitfinex notierte Bitcoin zuletzt fast 25 % unter dem durchschnittlichen Einstiegspreis der ETF-Anleger. Die Ether-ETFs verloren am Donnerstag laut The Block 131,2 Mio. $ und damit am vierten Tag in Folge. Zahlen für Freitag liegen noch nicht vor.",
-     "source": "crypto.news (Farside, Bitfinex), 20.11.",
-     "url": "https://crypto.news/bitcoin-below-60000-ai-stock-selloff/",
-     "impact": "Die Abflüsse haben sich drei Tage in Folge vergrößert und kommen überwiegend aus dem größten Fonds. Solange sich die ETF-Flüsse nicht drehen, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage."
+     "title": "Bitcoin-ETFs verlieren in der Woche 1,25 Mrd. $ – am Freitag vorläufig 124,5 Mio. $ Abfluss, der Wert für BlackRocks IBIT steht noch aus",
+     "text": "Die US-Spot-Bitcoin-ETFs haben in der Handelswoche vom 16. bis 20. November laut Farside Investors netto 1,25 Mrd. $ verloren, die Ether-ETFs 221,7 Mio. $; in der Vorwoche waren es bei Bitcoin 1,07 Mrd. $. Für Freitag weist die Tabelle bislang 124,5 Mio. $ Abfluss aus, davon 72,4 Mio. $ bei Fidelity und 32,8 Mio. $ bei Grayscales GBTC; der Eintrag für BlackRocks IBIT fehlte noch. Am Donnerstag waren 582,3 Mio. $ abgeflossen, davon 541,1 Mio. $ aus IBIT, der größte Tagesabfluss seit Auflage des Fonds. Im November summieren sich die gemeldeten Abflüsse bei Bitcoin auf 3,59 Mrd. $, bei Ether auf 985,8 Mio. $; nur zwei Handelstage waren jeweils positiv. Der Bitcoin-Fonds von Morgan Stanley erhielt in der Woche 53,3 Mio. $. Nach einer Schätzung von Bitfinex notierte Bitcoin zuletzt fast 25 % unter dem durchschnittlichen Einstiegspreis der ETF-Anleger.",
+     "source": "finwire/crypto.news (Wochenbilanz nach Farside, Stand 20.11.)",
+     "url": "https://finwire.io/news/crypto-news/bitcoin-and-ether-etfs-shed-147b-in-weekly-outflows",
+     "impact": "Die Abflüsse halten seit zwei Wochen an und kommen überwiegend aus den größten Fonds. Die Freitagszahl ist unvollständig und kann sich mit dem IBIT-Wert noch deutlich ändern. Solange sich die ETF-Flüsse nicht drehen, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage."
     },
     {
      "tag": "Tech · Aktien",
      "title": "Wall Street schließt tiefrot: Nasdaq minus 5,3 % und für 2026 im Minus, S&P 500 und Dow in der Korrektur – Nvidia verliert knapp 14 %",
-     "text": "Der Nasdaq Composite schloss am Freitag laut der Marktübersicht CappNotes 5,28 % tiefer bei 22.617,73 Punkten und liegt damit für 2026 im Minus. Der S&P 500 fiel um 3,70 % auf 6.910,39 Punkte und verlor in der Woche 8,6 %, so viel wie seit April 2025 nicht mehr; der Dow Jones gab 1,93 % auf 48.147,33 Punkte nach. S&P 500 und Dow liegen damit mehr als 10 % unter ihren Rekorden, also in einer Korrektur. Nvidia schloss laut StockTitan 13,65 % tiefer bei 126,05 $, AMD verlor gut 13 %, Broadcom gut 12 %; die Anthropic-Aktie fiel um 8,8 % auf 88,62 $ und liegt noch knapp 7 % über ihrem Ausgabepreis von 83 $. Das Angstbarometer VIX stieg auf 35,89 Punkte, den höchsten Schlussstand seit Ende März. Als Belastungen nennen die Berichte Zweifel am Ertrag der KI-Investitionen und Zinssorgen. US-Präsident Donald Trump drohte KI-Firmen mit hohen Strafen, falls sie Rechenzentren im Ausland bauen, und forderte Nvidia auf, dem zurückgetretenen Chef Jensen Huang eine zweite Chance zu geben.",
+     "text": "Der Nasdaq Composite schloss am Freitag laut der Marktübersicht CappNotes 5,28 % tiefer bei 22.617,73 Punkten und liegt damit für 2026 im Minus. Der S&P 500 fiel um 3,70 % auf 6.910,39 Punkte und verlor in der Woche 8,6 %, so viel wie seit April 2025 nicht mehr; der Dow Jones gab 1,93 % auf 48.147,33 Punkte nach. S&P 500 und Dow liegen damit mehr als 10 % unter ihren Rekorden, also in einer Korrektur. Nvidia schloss laut StockTitan 13,65 % tiefer bei 126,05 $, AMD verlor gut 13 %, Broadcom gut 12 %; die Anthropic-Aktie fiel um 8,8 % auf 88,62 $ und liegt noch knapp 7 % über ihrem Ausgabepreis von 83 $. Das Angstbarometer VIX stieg auf 35,89 Punkte, den höchsten Schlussstand seit Ende März. Als Belastungen nennen die Berichte Zweifel am Ertrag der KI-Investitionen und Zinssorgen. US-Präsident Donald Trump drohte KI-Firmen mit hohen Strafen, falls sie Rechenzentren im Ausland bauen, und forderte Nvidia auf, dem zurückgetretenen Chef Jensen Huang eine zweite Chance zu geben. Der Dax hatte den Freitag laut dpa-AFX 2,60 % tiefer bei 24.802,78 Punkten beendet, der sechste Verlusttag in Folge.",
      "source": "CappNotes (Schlussstände, VIX), 20.11.",
      "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026",
      "impact": "Der Ausverkauf konzentriert sich auf Technologie- und Chipwerte und hat sich bis zum US-Handelsschluss noch verschärft; der Bruch der 60.000 $ bei Bitcoin fiel zeitlich mit diesem Rutsch zusammen. Bitcoin lief zuletzt eng mit dem Tech-Sektor. Die US-Börsen sind bis Montag geschlossen, Krypto wird am Wochenende ohne diese Orientierung gehandelt."
@@ -182,7 +182,7 @@
     {
      "tag": "Termin",
      "title": "Sa/So 21./22.11.: Sperrungen in Berlin, Klimagipfel in der Verlängerung",
-     "text": "Die Stadtbahn ist von Samstag, 15:45 Uhr, bis Montag früh zwischen Friedrichstraße und Tiergarten unterbrochen. Die A10 bleibt Richtung Dreieck Havelland ab Falkensee bis Montag gegen 5 Uhr gesperrt, auf der S5 fahren bis Montag gegen 1:30 Uhr Busse zwischen Kaulsdorf und Strausberg. Die Nato-Parlamentarierversammlung tagt bis Montag in Berlin. In Antalya wird weiter über den Abschlusstext der Weltklimakonferenz verhandelt.",
+     "text": "Die Stadtbahn ist bis Montag früh zwischen Friedrichstraße und Tiergarten unterbrochen. Die A10 bleibt Richtung Dreieck Havelland ab Falkensee bis Montag gegen 5 Uhr gesperrt, auf der S5 fahren bis Montag gegen 1:30 Uhr Busse zwischen Kaulsdorf und Strausberg. Die Nato-Parlamentarierversammlung tagt bis Montag in Berlin. In Antalya wird weiter über den Abschlusstext der Weltklimakonferenz verhandelt.",
      "source": "",
      "url": ""
     },
@@ -196,14 +196,14 @@
     {
      "tag": "Termin",
      "title": "Di 24.11.: VW-Tarifrunde beginnt, Prozess zum Angriff am Holocaust-Mahnmal",
-     "text": "Auftakt der VW-Haustarifverhandlungen in Emden. Vor dem Kammergericht Berlin beginnt der Prozess gegen einen mutmaßlichen Gehilfen der Messerattacke. In der Berliner Linksfraktion frühestmöglicher Termin für die Abstimmung über den Emde-Ausschluss.",
+     "text": "Auftakt der VW-Haustarifverhandlungen in Emden; in der Metall- und Elektroindustrie letzter angekündigter Tag der ganztägigen Warnstreiks. Vor dem Kammergericht Berlin beginnt der Prozess gegen einen mutmaßlichen Gehilfen der Messerattacke. In der Berliner Linksfraktion frühestmöglicher Termin für die Abstimmung über den Emde-Ausschluss.",
      "source": "",
      "url": ""
     },
     {
      "tag": "Termin",
-     "title": "Mi 25.11.: US-PCE-Inflation für Oktober",
-     "text": "Das bevorzugte Inflationsmaß der Fed, 14:30 Uhr MEZ; Analysten erwarten laut Reuters eine Kernrate von 3,2 % zum Vorjahr. Dazu die zweite Schätzung des US-Wachstums im dritten Quartal.",
+     "title": "Mi 25.11.: US-PCE-Inflation für Oktober, Metall-Tarifgespräche in Mannheim",
+     "text": "Das bevorzugte Inflationsmaß der Fed, 14:30 Uhr MEZ; Analysten erwarten laut Reuters eine Kernrate von 3,2 % zum Vorjahr. Dazu die zweite Schätzung des US-Wachstums im dritten Quartal. IG Metall und Südwestmetall setzen ihre Verhandlungen in Mannheim fort.",
      "source": "",
      "url": ""
     },
@@ -230,8 +230,8 @@
     },
     {
      "tag": "Termin",
-     "title": "Mi 2.12.: Kabinett berät den Spritpreisdeckel",
-     "text": "Er soll ab 1. Januar 2027 den Tankrabatt für zunächst drei Monate ersetzen.",
+     "title": "Mi 2.12.: Kabinett soll den Spritpreisdeckel beschließen",
+     "text": "Gesetzentwurf und Rechtsverordnung zur Berechnung der Höchstpreise für Benzin und Diesel. Der Deckel soll zum 1. Januar 2027 aktiviert werden und den Tankrabatt ablösen.",
      "source": "",
      "url": ""
     },

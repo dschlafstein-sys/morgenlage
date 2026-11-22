@@ -1,18 +1,18 @@
 {
  "date": "Sonntag, 22. November 2026",
- "stand": "11:48",
+ "stand": "16:43",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "60.681 $",
-   "change": "+4,68 % in 24 Std. (11:35 MEZ)",
+   "value": "60.812 $",
+   "change": "+1,75 % in 24 Std. (Abruf 16:40 MEZ)",
    "dir": "up"
   },
   {
    "label": "Ether",
-   "value": "1.706 $",
-   "change": "+3,89 % in 24 Std. (11:35 MEZ)",
+   "value": "1.716 $",
+   "change": "+2,24 % in 24 Std. (Abruf 16:40 MEZ)",
    "dir": "up"
   },
   {
@@ -29,9 +29,9 @@
   }
  ],
  "brief": [
-  "Märkte: Bitcoin liegt am Sonntagvormittag wieder über 60.000 $ und stand um 11:35 Uhr MEZ bei 60.681 $ (plus 4,68 % in 24 Stunden; um 6:35 Uhr waren es 58.917 $); Ether lag bei 1.706 $ (plus 3,89 %). Die US-Spot-Bitcoin-ETFs haben in der Woche 1,25 Mrd. $ verloren, der Freitagswert für BlackRocks IBIT fehlt weiter. Neue ETF- und Börsendaten gibt es erst am Montag.",
-  "Welt: Die Weltklimakonferenz in Antalya droht ohne Ergebnis zu enden: Deutschland und Frankreich lehnen den Entwurf der Abschlusserklärung ab, das Schlussplenum begann kurz nach 11 Uhr MEZ, ein Beschluss lag bis etwa 11:30 Uhr nicht vor. Der russische Militärfrachter „Sparta II“ brennt vor Finnland weiter, die 16 Seeleute wurden auf ein russisches Schiff gebracht. Russland griff die Ukraine in der Nacht nach Kiewer Angaben mit 186 Drohnen an.",
-  "Berlin und Bund: Vor der Verabschiedung des Bundeshaushalts 2027 in dieser Woche verlangt CSU-Chef Markus Söder den Ausgleich der kalten Progression; die Koalition ist darüber nicht einig. Die IG Metall Küste beginnt am Sonntagabend mit weiteren 24-Stunden-Warnstreiks in 19 norddeutschen Betrieben. In Berlin ist die A100 im Britzer Tunnel wieder frei, die Stadtbahn bleibt bis Montag früh zwischen Friedrichstraße und Tiergarten unterbrochen, in der Nacht droht Glätte."
+  "Welt: Die Weltklimakonferenz in Antalya ist am Sonntagmittag ohne Abschlusserklärung zu Ende gegangen; laut Konferenzpräsident Murat Kurum wurden keine Beschlüsse gefasst, die EU hatte einen Text ohne Nennung fossiler Brennstoffe abgelehnt. Nach einem russischen Drohnenangriff auf die Region Kiew werden laut Euronews 14 Menschen vermisst. Bahrain meldet erneut abgewehrte iranische Angriffe.",
+  "Märkte: Bitcoin hält sich am Sonntagnachmittag über 60.000 $ und stand laut Bitcoin.com zuletzt bei 60.812 $ (plus 1,75 %), Ether bei 1.716 $ (plus 2,24 %); das Tief vom Samstag lag bei 55.106 $. Die US-Spot-Bitcoin-ETFs haben in der Woche mehr als 1,25 Mrd. $ verloren, der Freitagswert für BlackRocks IBIT fehlt weiter. Neue Börsen- und ETF-Daten gibt es erst am Montag.",
+  "Bund und Berlin: Die Bundesbank erwartet zum Jahreswechsel einen deutlichen Anstieg der Inflation; die Erzeugerpreise lagen im Oktober 8,1 % über dem Vorjahr. Vor der Haushaltsabstimmung am Donnerstag verlangt CSU-Chef Markus Söder den Ausgleich der kalten Progression. In Berlin sind für Montag Warnstreik-Kundgebungen der Metall- und Elektroindustrie an vier Standorten angemeldet, die Stadtbahn bleibt bis Montag früh unterbrochen, in der Nacht droht Glätte."
  ],
  "sections": [
   {
@@ -60,11 +60,11 @@
      "url": "https://www.tagesspiegel.de/politik/finanzierung-der-autobahnen-gutachten-empfiehlt-bundesregierung-offenbar-einfuhrung-einer-pkw-maut-16310355.html"
     },
     {
-     "tag": "EU-Haushalt · Digitalsteuer · Spritpreis",
-     "title": "EU-Haushalt: Costa will 204 Mrd. Euro kürzen und eine Digitalsteuer von 3 % – Merz lehnt weiter ab, Autobahntankstellen sollen vom Spritpreisdeckel ausgenommen werden",
-     "text": "Der Kompromiss von EU-Ratspräsident António Costa für die Jahre 2028 bis 2034 liegt rund 204 Mrd. Euro unter dem Entwurf der Kommission und sieht eine Digitalsteuer von 3 % auf Umsätze großer Konzerne aus Online-Werbung, Plattformdiensten und Nutzerdaten vor. Bundeskanzler Friedrich Merz (CDU) hält den Haushalt weiter nicht für zustimmungsfähig. Wirtschaftsministerin Katherina Reiche (CDU) will Autobahntankstellen vom geplanten Preisdeckel für Benzin und Diesel ausnehmen; das Kabinett soll am 2. Dezember entscheiden, der Deckel zum 1. Januar gelten.",
-     "source": "ZDFheute-Ticker (Costa, Digitalsteuer), 21.11.",
-     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+     "tag": "Inflation · Bundesbank · Energie",
+     "title": "Bundesbank rechnet zum Jahreswechsel mit deutlich höherer Inflation – Erzeugerpreise im Oktober 8,1 % über Vorjahr",
+     "text": "Die Bundesbank erwartet laut ihrem Monatsbericht, dass die Teuerung bis Jahresende etwa auf dem aktuellen Niveau bleibt und um den Jahreswechsel kräftig steigt, wenn der Tankrabatt ausläuft; weitere staatliche Maßnahmen und teureres Erdgas sollen zusammen rund 0,5 Prozentpunkte beitragen. Im Oktober lag die Inflationsrate nach europäischer Berechnung bei 2,9 % (September 3,3 %), die Erzeugerpreise stiegen um 8,1 % zum Vorjahr und damit so stark wie seit Februar 2023 nicht mehr, Energie verteuerte sich auf Erzeugerebene um 18,7 %. An den Märkten wird laut wallstreet-online für Dezember eine Zinserhöhung der EZB um 0,25 Punkte erwartet.",
+     "source": "wallstreet-online (Bundesbank-Monatsbericht), 22.11.",
+     "url": "https://www.wallstreet-online.de/nachricht/21730032-inflation-sprung-bundesbank-energiepreise-treiber"
     }
    ]
   },
@@ -94,9 +94,9 @@
      "url": "https://www.tagesspiegel.de/berlin/nach-angriff-auf-rettungskrafte-in-berlin-westend-gewerkschaft-der-feuerwehr-kritisiert-schweigen-der-polizei-16311544.html"
     },
     {
-     "tag": "Landespolitik · Demos · Fußball",
-     "title": "Koalitionsverhandlungen: Linken-Chefin Schwerdtner stützt Ausschluss von Vanessa Emde, Abstimmung am Dienstag – heute nur kleinere Kundgebungen, volle Züge wegen Cottbus gegen Hertha",
-     "text": "Die Linken-Bundesvorsitzende Ines Schwerdtner hält den beantragten Ausschluss der Abgeordneten Vanessa Emde aus der Berliner Linksfraktion für richtig; die Fraktion entscheidet am Dienstag, nötig ist eine Zweidrittelmehrheit. Linke, Grüne und SPD verhandeln weiter über eine Koalition, der Vertrag soll bis zum Jahreswechsel stehen. Für Sonntag führt die Versammlungsbehörde nur kleinere stationäre Kundgebungen, unter anderem am Pariser Platz und an der Eberswalder Straße; die Bundespolizei rechnet wegen des Zweitligaspiels Energie Cottbus gegen Hertha BSC (13:30 Uhr) mit sehr vollen Zügen.",
+     "tag": "Landespolitik · Demos · Warnstreik",
+     "title": "Linken-Chefin Schwerdtner stützt Ausschluss von Vanessa Emde, Abstimmung am Dienstag – am Montag Warnstreik-Kundgebungen an vier Standorten und Nato-Protest am Reichstag",
+     "text": "Die Linken-Bundesvorsitzende Ines Schwerdtner hält den beantragten Ausschluss der Abgeordneten Vanessa Emde aus der Berliner Linksfraktion für richtig; die Fraktion entscheidet am Dienstag, nötig ist eine Zweidrittelmehrheit. Für Montag führt die Versammlungsbehörde Warnstreik-Kundgebungen der Metall- und Elektroindustrie an der Oberlandstraße (ab 9:30 Uhr), der Culemeyerstraße, der Daimlerstraße und Am Juliusturm (13 Uhr), dazu von 8 bis 10 Uhr einen Aufzug gegen die Nato vom Reichstag zur Wilhelmstraße und um 11 Uhr eine Verdi-Kundgebung am Pariser Platz. Die FDP-Politikerin Karoline Preisler ging laut dpa bei einer propalästinensischen Kundgebung in einem Handgemenge zu Boden.",
      "source": "Tagesspiegel/dpa (Schwerdtner, Emde), 21.11.",
      "url": "https://www.tagesspiegel.de/berlin/dpa-schwerdtner-fur-ausschluss-von-vanessa-emde-aus-berliner-fraktion-16311589.html"
     }
@@ -108,17 +108,17 @@
    "items": [
     {
      "tag": "Klima",
-     "title": "Weltklimakonferenz droht zu scheitern: Deutschland und Frankreich lehnen den Abschlussentwurf ab – Schlussplenum in Antalya läuft, noch kein Beschluss",
-     "text": "Bundesumweltminister Carsten Schneider (SPD) nannte die dritte Fassung der Abschlusserklärung am Sonntagvormittag für Deutschland nicht zustimmungsfähig und sprach von einem Rückschritt; auch Frankreichs Umweltministerin Monique Barbut wies den Text zurück, der Öl, Kohle und Gas nicht ausdrücklich nennt. Das mehrfach verschobene Schlussplenum begann laut APA kurz nach 11 Uhr MEZ, ein Ergebnis lag bis etwa 11:30 Uhr nicht vor. Konferenzpräsident Murat Kurum hofft auf einen Kompromiss in letzter Minute; viele Delegationen sind bereits abgereist.",
-     "source": "t-online/dpa/AFP (Schneider, Barbut), 22.11.",
-     "url": "https://t-online.de/klima/leben-umwelt/id_101540640/cop31-deutschland-will-klima-beschlusstext-nicht-zustimmen.html"
+     "title": "Weltklimakonferenz in Antalya endet ohne Abschlusserklärung – EU lehnte Text ohne Nennung fossiler Brennstoffe ab",
+     "text": "Der bislang längste Klimagipfel ist am Sonntagmittag ohne gemeinsame Erklärung zu Ende gegangen; Konferenzpräsident Murat Kurum sagte laut dpa, es seien keine Beschlüsse gefasst worden. Die EU wies den Entwurf im Plenum zurück, weil er Öl, Kohle und Gas nicht erwähnt; nach Angaben aus Verhandlungskreisen blockierten vor allem Ölstaaten wie Saudi-Arabien eine solche Nennung. Bundesumweltminister Carsten Schneider (SPD) nannte den Text nicht zustimmungsfähig und einen Rückschritt. Bis zur nächsten Konferenz in Äthiopien soll ein Umsetzungspfad erarbeitet werden.",
+     "source": "Tagesspiegel/dpa (Stand 12:45 Uhr), 22.11.",
+     "url": "https://www.tagesspiegel.de/internationales/dpa-ol-lander-blockierten-nennung-von-fossilen-brennstoffen-langster-klimagipfel-aller-zeiten-endet-ohne-einigung-16311937.html"
     },
     {
      "tag": "Ukraine · Russland · Ostsee",
-     "title": "„Sparta II“ brennt vor Finnland weiter, alle 16 Seeleute auf russisches Schiff gebracht – Russland greift die Ukraine in der Nacht mit 186 Drohnen an",
-     "text": "Das Feuer auf dem am Samstag von Drohnen getroffenen russischen Militärfrachter brannte laut finnischer Küstenwache auch am Sonntag weiter; das Schiff liegt in finnischen Gewässern vor Anker, die 16 Besatzungsmitglieder wurden laut Reuters auf ein russisches Schiff gebracht. Finnlands Militär hält einen ukrainischen Angriff weiter für wahrscheinlich, eine Stellungnahme aus Kiew ist nicht bekannt. Russland griff die Ukraine seit Samstagabend nach Angaben der ukrainischen Luftwaffe mit 186 Drohnen an, 161 seien abgewehrt worden, Treffer gab es an 18 Orten.",
-     "source": "Reuters/Moscow Times (Sparta II), 22.11.",
-     "url": "https://www.themoscowtimes.com/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-attack-a94343"
+     "title": "Russland greift die Ukraine in der Nacht mit 186 Drohnen an, 14 Vermisste in der Region Kiew – „Sparta II“ brennt vor Finnland weiter",
+     "text": "Das Feuer auf dem am Samstag von Drohnen getroffenen russischen Militärfrachter brannte laut finnischer Küstenwache auch am Sonntag weiter; das Schiff liegt in finnischen Gewässern vor Anker, die 16 Besatzungsmitglieder wurden laut Reuters auf ein russisches Schiff gebracht. Finnlands Militär hält einen ukrainischen Angriff weiter für wahrscheinlich, eine Stellungnahme aus Kiew ist nicht bekannt. Russland griff die Ukraine seit Samstagabend nach Angaben der ukrainischen Luftwaffe mit 186 Drohnen an, 161 seien abgewehrt worden, Treffer gab es an 18 Orten. Nach einem Drohnenangriff auf die Region Kiew werden laut Euronews 14 Menschen vermisst.",
+     "source": "Euronews (Region Kiew), 22.11.",
+     "url": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region"
     },
     {
      "tag": "Polen · Nato · Dänemark",
@@ -130,14 +130,14 @@
     {
      "tag": "Nahost · Iran · Golf",
      "title": "Bahrain erneut unter iranischem Beschuss – Teheran will laut Abgeordneten mit 14 Tankern die US-Seeblockade durchbrechen",
-     "text": "Bahrains Flugabwehr wehrte in der Nacht zum Sonntag nach Angaben der Streitkräfte mehrere iranische Angriffe ab; Trümmer verursachten geringe Schäden, Verletzte wurden nicht gemeldet. Iran bereitet nach Angaben von Abgeordneten 14 Tanker vor, um die US-Seeblockade zu durchbrechen, und droht bei Angriffen mit Vergeltung gegen Ölanlagen der Region. Der Schiffsverkehr durch die Straße von Hormus lag laut Iran International in der Woche bis 18. November rund 65 % unter dem Vorkriegsniveau.",
+     "text": "Bahrains Flugabwehr wehrte in der Nacht zum Sonntag nach Angaben der Streitkräfte mehrere iranische Angriffe ab; Trümmer verursachten geringe Schäden, Verletzte wurden nicht gemeldet; iranische Medien nennen Radaranlagen auf US-Stützpunkten und die in Bahrain stationierte US-Flotte als Ziele. Iran bereitet nach Angaben von Abgeordneten 14 Tanker vor, um die US-Seeblockade zu durchbrechen, und droht bei Angriffen mit Vergeltung gegen Ölanlagen der Region. Der Schiffsverkehr durch die Straße von Hormus lag laut Iran International in der Woche bis 18. November rund 65 % unter dem Vorkriegsniveau.",
      "source": "Handelsblatt (Liveblog Iran, Bahrain), 22.11.",
      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss/100136895.html"
     },
     {
      "tag": "Mexiko · USA",
-     "title": "Mexiko: Elf Tote nach Festnahme des Drogenbosses „Chapo Isidro“ – Trump äußert sich zu FBI-Hack",
-     "text": "Nach der Festnahme von Fausto Isidro Meza am Freitag in Guasave im Nordwesten Mexikos starben laut Verteidigungsministerium sieben mutmaßliche Kriminelle und vier Soldaten; in mehreren Orten gab es Straßenblockaden und brennende Fahrzeuge. Nach Berichten über einen Hackerangriff auf eine FBI-Datenbank mit Haftbefehlen und Hintergrundüberprüfungen sagte US-Präsident Donald Trump bei Fox News, man erfahre dadurch vielleicht Dinge, die sonst nie bekannt geworden wären.",
+     "title": "Mexiko: Elf Tote nach Festnahme des Drogenbosses „Chapo Isidro“ – Trump nennt Putin seinen „Freund“ und äußert sich zu FBI-Hack",
+     "text": "Nach der Festnahme von Fausto Isidro Meza am Freitag in Guasave im Nordwesten Mexikos starben laut Verteidigungsministerium sieben mutmaßliche Kriminelle und vier Soldaten; in mehreren Orten gab es Straßenblockaden und brennende Fahrzeuge. Nach Berichten über einen Hackerangriff auf eine FBI-Datenbank mit Haftbefehlen und Hintergrundüberprüfungen sagte US-Präsident Donald Trump bei Fox News, man erfahre dadurch vielleicht Dinge, die sonst nie bekannt geworden wären. Auf Truth Social bezeichnete Trump den russischen Präsidenten Wladimir Putin als seinen „Freund“; die Senatoren Chuck Schumer und Jim Banks kritisierten das.",
      "source": "ZDFheute-Ticker (Mexiko, Trump), 22.11.",
      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     }
@@ -149,16 +149,16 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin am Sonntagvormittag wieder über 60.000 $ und bei 60.681 $, Ether bei 1.706 $ – Erholung hängt laut Analysten an den Tech-Aktien",
-     "text": "Bitcoin notierte um 11:35 Uhr MEZ laut CoinDesk bei 60.680,83 $ und damit 4,68 % über dem Stand vor 24 Stunden (Spanne 57.907 bis 61.146 $, Volumen 20,17 Mrd. $); um 6:35 Uhr waren es 58.917 $. Ether stand bei 1.705,84 $ (plus 3,89 %). Auf Sicht von sieben Tagen liegt Bitcoin 7,17 % im Minus, seit Jahresbeginn 30,68 %. QCP Capital nennt ruhigere Tech-Aktien als Voraussetzung für eine tragfähige Erholung; der Hashprice der Miner fiel laut Investing.com am Samstag auf 26,16 $ je Petahash und Tag.",
-     "impact": "Der Kurs liegt wieder über 60.000 $ und rund 5.500 $ über dem Tief vom Samstag, aber weiter mehr als die Hälfte unter dem Rekordhoch vom Oktober 2025. Am Wochenende sind die US-Börsen geschlossen und die Umsätze meist dünner; ob die Erholung trägt, zeigt sich erst mit dem US-Handel und den ETF-Daten am Montag.",
-     "source": "CoinDesk (Bitcoin, 11:35 Uhr MEZ), 22.11.",
-     "url": "https://www.coindesk.com/price/bitcoin"
+     "title": "Bitcoin hält sich am Sonntagnachmittag über 60.000 $ – nach dem Tief bei 55.106 $ wurden 2,55 Mrd. $ an Positionen liquidiert",
+     "text": "Bitcoin stand am Sonntagnachmittag laut Bitcoin.com bei rund 60.700 $; die Kursleiste der Seite zeigte beim Abruf um 16:40 Uhr MEZ 60.812 $ (plus 1,75 %) und für Ether 1.715,66 $ (plus 2,24 %), um 11:35 Uhr hatte CoinDesk 60.681 $ genannt. In der Nacht zum Samstag war der Kurs auf Coinbase bis auf 55.106 $ gefallen, den tiefsten Stand seit September 2024. Coinglass wies für die 24 Stunden danach Liquidationen von 2,55 Mrd. $ aus, rund 89 % davon Long-Positionen. Auf Sicht von sieben Tagen lag Bitcoin laut crypto.news am Vormittag 12,53 % im Minus; der gesamte Kryptomarkt war rund 2,03 Billionen $ wert.",
+     "impact": "Der Kurs liegt rund 5.700 $ über dem Tief vom Samstag, bewegt sich seit dem Vormittag aber kaum noch. Am Wochenende sind die US-Börsen geschlossen und die Umsätze meist dünner; ob die Erholung trägt, zeigt sich erst mit dem US-Handel und den ETF-Daten am Montag.",
+     "source": "Bitcoin.com (Marktbericht, 15:19 Uhr MEZ), 22.11.",
+     "url": "https://news.bitcoin.com/de/market-updates/bitcoin-erholt-sich-von-fast-55-000-auf-60-000-dollar-milliardenverluste-durch-verkaeufe"
     },
     {
      "tag": "ETF-Flüsse",
      "title": "Bitcoin-ETFs verlieren in der Woche 1,25 Mrd. $ – Freitagswert für BlackRocks IBIT fehlt weiterhin",
-     "text": "Die US-Spot-Bitcoin-ETFs haben vom 16. bis 20. November laut Farside Investors netto 1,25 Mrd. $ verloren, die Ether-ETFs 221,7 Mio. $. Für Freitag weist die Tabelle vorläufig 124,5 Mio. $ Abfluss aus, der Eintrag für BlackRocks IBIT fehlte auch am Sonntag um 11:35 Uhr MEZ noch; am Donnerstag waren 582,3 Mio. $ abgeflossen, davon 541,1 Mio. $ aus IBIT. Im November summieren sich die Abflüsse bei Bitcoin auf 3,59 Mrd. $.",
+     "text": "Die US-Spot-Bitcoin-ETFs haben vom 16. bis 20. November laut Farside Investors netto 1,25 Mrd. $ verloren, die Ether-ETFs 221,7 Mio. $. Für Freitag weist die Tabelle vorläufig 124,5 Mio. $ Abfluss aus, der Eintrag für BlackRocks IBIT fehlte laut Bitcoin.com auch am Sonntagnachmittag noch; am Donnerstag waren 582,3 Mio. $ abgeflossen, davon 541,1 Mio. $ aus IBIT. Im November summieren sich die Abflüsse bei Bitcoin auf 3,59 Mrd. $.",
      "impact": "Die Abflüsse halten seit zwei Wochen an und kommen überwiegend aus den größten Fonds. Die Freitagszahl ist unvollständig und kann sich mit dem IBIT-Wert noch deutlich ändern. Solange sich die ETF-Flüsse nicht drehen, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage.",
      "source": "Farside Investors (Tabelle, Abruf 22.11.)",
      "url": "https://farside.co.uk/btc/"
@@ -181,15 +181,15 @@
     },
     {
      "tag": "Termin",
-     "title": "So 22.11.: Klimagipfel vor dem Abschluss, Sperrungen in Berlin",
-     "text": "In Antalya läuft das Schlussplenum der Weltklimakonferenz. Die IG Metall Küste beginnt am Abend in Norddeutschland mit weiteren 24-Stunden-Warnstreiks. Die Stadtbahn ist bis Montag früh zwischen Friedrichstraße und Tiergarten unterbrochen; in der Nacht zum Montag wird in Berlin Glätte erwartet.",
+     "title": "So 22.11.: Klimagipfel ohne Beschluss beendet, Sperrungen in Berlin",
+     "text": "Die Weltklimakonferenz in Antalya ging am Mittag ohne Abschlusserklärung zu Ende. Die IG Metall Küste beginnt am Abend in Norddeutschland mit weiteren 24-Stunden-Warnstreiks. Die Stadtbahn ist bis Montag früh zwischen Friedrichstraße und Tiergarten unterbrochen; in der Nacht zum Montag wird in Berlin Glätte erwartet.",
      "source": "",
      "url": ""
     },
     {
      "tag": "Termin",
      "title": "Mo 23.11.: US-Einkaufsmanagerindizes, Rede von New-York-Fed-Chef Williams",
-     "text": "Vorläufige US-Einkaufsmanagerindizes für November um 15:45 Uhr MEZ, dazu eine Rede von John Williams und eine Auktion zweijähriger US-Staatsanleihen über 69 Mrd. $. In Belgien kann die Flugsicherung wegen eines Streiks von 7 bis 21 Uhr keinen Betrieb garantieren.",
+     "text": "Vorläufige US-Einkaufsmanagerindizes für November um 15:45 Uhr MEZ, dazu eine Rede von John Williams und eine Auktion zweijähriger US-Staatsanleihen über 69 Mrd. $. In Berlin Warnstreik-Kundgebungen der Metall- und Elektroindustrie an vier Standorten. In Belgien kann die Flugsicherung wegen eines Streiks von 7 bis 21 Uhr keinen Betrieb garantieren.",
      "source": "",
      "url": ""
     },

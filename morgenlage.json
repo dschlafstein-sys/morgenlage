@@ -1,18 +1,18 @@
 {
  "date": "Sonntag, 22. November 2026",
- "stand": "16:43",
+ "stand": "21:43",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "60.812 $",
-   "change": "+1,75 % in 24 Std. (Abruf 16:40 MEZ)",
+   "value": "59.023 $",
+   "change": "+1,8 % am Tag (Bericht 17:02 MEZ, letzter belegter Wert)",
    "dir": "up"
   },
   {
    "label": "Ether",
-   "value": "1.716 $",
-   "change": "+2,24 % in 24 Std. (Abruf 16:40 MEZ)",
+   "value": "1.680 $",
+   "change": "rund +3 % am Tag (Bericht 17:02 MEZ, letzter belegter Wert)",
    "dir": "up"
   },
   {
@@ -29,9 +29,9 @@
   }
  ],
  "brief": [
-  "Welt: Die Weltklimakonferenz in Antalya ist am Sonntagmittag ohne Abschlusserklärung zu Ende gegangen; laut Konferenzpräsident Murat Kurum wurden keine Beschlüsse gefasst, die EU hatte einen Text ohne Nennung fossiler Brennstoffe abgelehnt. Nach einem russischen Drohnenangriff auf die Region Kiew werden laut Euronews 14 Menschen vermisst. Bahrain meldet erneut abgewehrte iranische Angriffe.",
-  "Märkte: Bitcoin hält sich am Sonntagnachmittag über 60.000 $ und stand laut Bitcoin.com zuletzt bei 60.812 $ (plus 1,75 %), Ether bei 1.716 $ (plus 2,24 %); das Tief vom Samstag lag bei 55.106 $. Die US-Spot-Bitcoin-ETFs haben in der Woche mehr als 1,25 Mrd. $ verloren, der Freitagswert für BlackRocks IBIT fehlt weiter. Neue Börsen- und ETF-Daten gibt es erst am Montag.",
-  "Bund und Berlin: Die Bundesbank erwartet zum Jahreswechsel einen deutlichen Anstieg der Inflation; die Erzeugerpreise lagen im Oktober 8,1 % über dem Vorjahr. Vor der Haushaltsabstimmung am Donnerstag verlangt CSU-Chef Markus Söder den Ausgleich der kalten Progression. In Berlin sind für Montag Warnstreik-Kundgebungen der Metall- und Elektroindustrie an vier Standorten angemeldet, die Stadtbahn bleibt bis Montag früh unterbrochen, in der Nacht droht Glätte."
+  "Welt: Die Weltklimakonferenz in Antalya ist am Sonntagmittag ohne Abschlusserklärung zu Ende gegangen; die EU hatte einen Text ohne Nennung fossiler Brennstoffe abgelehnt. Nach einem russischen Drohnenangriff auf die Region Kiew werden laut Euronews 14 Menschen vermisst, Bahrain meldete erneut abgewehrte iranische Angriffe. Neue belegte Entwicklungen vom Abend lagen bei diesem Lauf nicht vor.",
+  "Märkte: Bitcoin pendelt um 60.000 $; der letzte belegte Stand sind rund 59.023 $ (plus 1,8 % am Tag) und etwa 1.680 $ für Ether aus einem CoinCentral-Bericht von 17:02 Uhr MEZ, das Tief vom Samstag lag bei 55.106 $. Der Stimmungsindex für Krypto stand am Morgen bei 11, die US-Spot-Bitcoin-ETFs haben in der Woche rund 1,25 Mrd. $ verloren. Am Markt wird für den 9. Dezember eine Zinserhöhung der Fed erwartet; neue Börsen- und ETF-Daten gibt es erst am Montag.",
+  "Bund und Berlin: CSU-Chef Markus Söder verlangt vor der Haushaltsabstimmung den Ausgleich der kalten Progression; NRW-Ministerpräsident Hendrik Wüst verwies am Abend auf den Stromsteuer-Beschluss, Rheinland-Pfalz lehnt einen Länderanteil ab. In Berlin endet die Stadtbahn-Sperrung laut Plan mit dem Betriebsbeginn am Montag; neu gesperrt sind dann die Chemnitzer Straße in Kaulsdorf und die Eichbuschallee in Plänterwald, dazu kommen Warnstreik-Kundgebungen der Metall- und Elektroindustrie an vier Standorten und in der Nacht Glätte."
  ],
  "sections": [
   {
@@ -40,10 +40,10 @@
    "items": [
     {
      "tag": "Steuern · Haushalt · Koalition",
-     "title": "Söder verlangt Ausgleich der kalten Progression – Koalition vor der Haushaltsabstimmung ohne Einigung",
-     "text": "CSU-Chef Markus Söder fordert in der „Bild am Sonntag“ einen raschen Ausgleich der kalten Progression und bietet an, dass Bayern seinen Anteil mitträgt. Union und SPD haben sich für 2027 bisher weder auf den Ausgleich noch auf dessen Finanzierung verständigt; er würde Bund, Länder und Kommunen zusammen rund 4,2 Mrd. Euro kosten, davon etwa 1,8 Mrd. Euro den Bund. Der Bundestag soll den Haushalt 2027 laut Tagesspiegel am Donnerstag verabschieden; Söder rechnet eher mit einer rückwirkenden Entlastung als mit einem Start zum 1. Januar.",
-     "source": "Tagesspiegel (Söder, Haushalt), 22.11.",
-     "url": "https://www.tagesspiegel.de/politik/kurz-vor-haushaltsabstimmung-im-bundestag-soder-pocht-auf-ausgleich-der-kalten-progression-16312136.html"
+     "title": "Söder verlangt Ausgleich der kalten Progression – Wüst verweist auf den Stromsteuer-Beschluss, Schnieder lehnt einen Länderanteil ab",
+     "text": "CSU-Chef Markus Söder fordert in der „Bild am Sonntag“ einen sofortigen Ausgleich der kalten Progression und bietet an, dass Bayern seinen Anteil mitträgt; die beschlossene Senkung der Stromsteuer nennt er richtig, aber nur einen ersten Schritt. Der Ausgleich für 2027 würde laut dpa rund 4,2 Mrd. Euro kosten, je 1,8 Mrd. Euro für Bund und Länder und 0,6 Mrd. Euro für die Kommunen. NRW-Ministerpräsident Hendrik Wüst (CDU) sagte am Abend im ZDF, man würde die kalte Progression gern ausgleichen, der Koalitionsausschuss habe sich aber für die Stromsteuer entschieden; sein rheinland-pfälzischer Kollege Gordon Schnieder (CDU) verlangt eine vollständige Finanzierung durch den Bund und stellt dafür die Mütterrente III zur Debatte. Finanzminister Lars Klingbeil (SPD) verweist auf die geplante Einkommensteuerreform für kleine und mittlere Einkommen, Unionsfraktionschef Thorsten Frei hält einen rückwirkenden Beschluss im nächsten Jahr für möglich, falls das Geld da ist. Der Haushalt 2027 soll in dieser Woche verabschiedet werden; dpa nennt Freitag, der Tagesspiegel Donnerstag.",
+     "source": "dpa-AFX/finanzen.at (Söder, Wüst, Stand 20:30 Uhr), 22.11.",
+     "url": "https://www.finanzen.at/nachrichten/aktien/roundup-3-soeder-lasst-bei-kalter-progression-nicht-locker-1036790123"
     },
     {
      "tag": "Tarife · Metall · Arbeitszeit",
@@ -81,10 +81,10 @@
     },
     {
      "tag": "Verkehr · S-Bahn · Wetter",
-     "title": "A100 im Britzer Tunnel wieder in beide Richtungen frei – Stadtbahn bleibt bis Montag früh unterbrochen, in der Nacht Glätte und Schneeschauer",
-     "text": "Nach dem Autobrand vom Samstagabend ist der Britzer Tunnel wieder freigegeben, die A100 ist in beide Richtungen befahrbar (dpa-Stand Samstag, 22:38 Uhr). Die S-Bahn-Linien S3, S5, S7 und S9 fahren bis zum Betriebsbeginn am Montagmorgen nicht zwischen Friedrichstraße und Tiergarten; es fahren Ersatzbusse, auch RE1, RE2 und RE7 sind zwischen Ostbahnhof und Charlottenburg unterbrochen. Der Wetterdienst erwartet am Sonntag Regen-, Graupel- und örtlich Schneeschauer bei 4 bis 6 Grad und in der Nacht zum Montag 0 bis minus 2 Grad mit Glätte; die BSR hält rund 2.400 Beschäftigte und 540 Räum- und Streufahrzeuge bereit.",
-     "source": "Volksstimme/dpa (Britzer Tunnel), 21.11.",
-     "url": "https://www.volksstimme.de/panorama/britzer-tunnel-nach-autobrand-wieder-frei-4360490"
+     "title": "Montagfrüh: Stadtbahn-Sperrung endet laut Plan mit Betriebsbeginn, neue Sperrungen in Kaulsdorf und Plänterwald – in der Nacht Glätte",
+     "text": "Die Unterbrechung der S-Bahn-Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Tiergarten endet laut Verkehrsinformationszentrale mit dem Betriebsbeginn am Montag; das Portal bahnstoerung.de zeigte am Sonntag um 21:35 Uhr keine akuten Störungen bei S-Bahn, U-Bahn und Tram. Die Tram M4 fährt in der Nacht zum Montag von 0:10 bis 4:10 Uhr zwischen Greifswalder Straße/Danziger Straße und Alexanderplatz als Ersatzverkehr. Ab Montag ist die Chemnitzer Straße in Kaulsdorf bis 27. November Richtung Alt-Biesdorf voll gesperrt, die Eichbuschallee in Plänterwald ab etwa 7 Uhr bis Ende November in beiden Richtungen; in Charlottenburg ist die Kaiser-Friedrich-Straße bis Freitag auf einen Fahrstreifen verengt, von 17:30 bis 19 Uhr rollt ein Fahrradkorso über die Kantstraße. Wegen der Parlamentarischen Versammlung der Nato sind bis Montag Sperrungen an der Budapester Straße und im Regierungsviertel möglich. Für die Nacht zum Montag hatte der Wetterdienst 0 bis minus 2 Grad und Glätte angekündigt.",
+     "source": "VIZ Berlin (Verkehrsvorschau Montag, Stand 20.11.)",
+     "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
     },
     {
      "tag": "Polizei · Feuerwehr",
@@ -96,7 +96,7 @@
     {
      "tag": "Landespolitik · Demos · Warnstreik",
      "title": "Linken-Chefin Schwerdtner stützt Ausschluss von Vanessa Emde, Abstimmung am Dienstag – am Montag Warnstreik-Kundgebungen an vier Standorten und Nato-Protest am Reichstag",
-     "text": "Die Linken-Bundesvorsitzende Ines Schwerdtner hält den beantragten Ausschluss der Abgeordneten Vanessa Emde aus der Berliner Linksfraktion für richtig; die Fraktion entscheidet am Dienstag, nötig ist eine Zweidrittelmehrheit. Für Montag führt die Versammlungsbehörde Warnstreik-Kundgebungen der Metall- und Elektroindustrie an der Oberlandstraße (ab 9:30 Uhr), der Culemeyerstraße, der Daimlerstraße und Am Juliusturm (13 Uhr), dazu von 8 bis 10 Uhr einen Aufzug gegen die Nato vom Reichstag zur Wilhelmstraße und um 11 Uhr eine Verdi-Kundgebung am Pariser Platz. Die FDP-Politikerin Karoline Preisler ging laut dpa bei einer propalästinensischen Kundgebung in einem Handgemenge zu Boden.",
+     "text": "Die Linken-Bundesvorsitzende Ines Schwerdtner hält den beantragten Ausschluss der Abgeordneten Vanessa Emde aus der Berliner Linksfraktion für richtig; die Fraktion entscheidet am Dienstag, nötig ist eine Zweidrittelmehrheit. Für Montag führt die Versammlungsbehörde Warnstreik-Kundgebungen der Metall- und Elektroindustrie an der Oberlandstraße (ab 9:30 Uhr), der Culemeyerstraße, der Daimlerstraße und Am Juliusturm (13 Uhr), dazu von 8 bis 10 Uhr einen Aufzug gegen die Nato vom Reichstag zur Wilhelmstraße und um 11 Uhr eine Verdi-Kundgebung am Pariser Platz. Am Dienstag ist ab 6 Uhr ein 24-Stunden-Warnstreik an der Nonnendammallee in Spandau angemeldet. Die FDP-Politikerin Karoline Preisler ging laut dpa bei einer propalästinensischen Kundgebung in einem Handgemenge zu Boden.",
      "source": "Tagesspiegel/dpa (Schwerdtner, Emde), 21.11.",
      "url": "https://www.tagesspiegel.de/berlin/dpa-schwerdtner-fur-ausschluss-von-vanessa-emde-aus-berliner-fraktion-16311589.html"
     }
@@ -149,11 +149,11 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin hält sich am Sonntagnachmittag über 60.000 $ – nach dem Tief bei 55.106 $ wurden 2,55 Mrd. $ an Positionen liquidiert",
-     "text": "Bitcoin stand am Sonntagnachmittag laut Bitcoin.com bei rund 60.700 $; die Kursleiste der Seite zeigte beim Abruf um 16:40 Uhr MEZ 60.812 $ (plus 1,75 %) und für Ether 1.715,66 $ (plus 2,24 %), um 11:35 Uhr hatte CoinDesk 60.681 $ genannt. In der Nacht zum Samstag war der Kurs auf Coinbase bis auf 55.106 $ gefallen, den tiefsten Stand seit September 2024. Coinglass wies für die 24 Stunden danach Liquidationen von 2,55 Mrd. $ aus, rund 89 % davon Long-Positionen. Auf Sicht von sieben Tagen lag Bitcoin laut crypto.news am Vormittag 12,53 % im Minus; der gesamte Kryptomarkt war rund 2,03 Billionen $ wert.",
-     "impact": "Der Kurs liegt rund 5.700 $ über dem Tief vom Samstag, bewegt sich seit dem Vormittag aber kaum noch. Am Wochenende sind die US-Börsen geschlossen und die Umsätze meist dünner; ob die Erholung trägt, zeigt sich erst mit dem US-Handel und den ETF-Daten am Montag.",
-     "source": "Bitcoin.com (Marktbericht, 15:19 Uhr MEZ), 22.11.",
-     "url": "https://news.bitcoin.com/de/market-updates/bitcoin-erholt-sich-von-fast-55-000-auf-60-000-dollar-milliardenverluste-durch-verkaeufe"
+     "title": "Bitcoin pendelt am Sonntag um 60.000 $ – zuletzt belegt rund 59.000 $, Stimmungsindex bei 11",
+     "text": "Nach 60.812 $ in der Kursleiste von Bitcoin.com um 16:40 Uhr MEZ nannte CoinCentral in einem Bericht von 17:02 Uhr rund 59.023 $ (plus 1,8 % am Tag) und für Ether etwa 1.680 $ (rund plus 3 %); ein neuerer Kurs ließ sich am Abend nicht belegen. In der Nacht zum Samstag war Bitcoin auf Coinbase bis auf 55.106 $ gefallen, den tiefsten Stand seit September 2024. CoinCentral beziffert die Liquidationen gehebelter Positionen unter Berufung auf CoinGlass auf rund 1,8 Mrd. $, davon etwa 1,3 Mrd. $ Long-Positionen; laut Glassnode ist die Häufung von Long-Liquidationen zwischen 59.000 und 62.000 $ weitgehend abgearbeitet. Der Fear-and-Greed-Index für Krypto stand laut cryptoticker am Sonntagmorgen bei 11 („extreme Angst“), der Gesamtmarkt war laut finanzen.at am Mittag rund 2,1 Billionen $ wert.",
+     "impact": "Der Kurs liegt weiter einige Tausend Dollar über dem Tief vom Samstag, hat die Marke von 60.000 $ am späten Nachmittag aber wieder knapp unterschritten. Am Wochenende sind die US-Börsen geschlossen und die Umsätze meist dünner; ob die Erholung trägt, zeigt sich erst mit dem US-Handel und den ETF-Daten am Montag.",
+     "source": "CoinCentral (Erholung, Liquidationen, 17:02 Uhr MEZ), 22.11.",
+     "url": "https://coincentral.com/bitcoin-btc-price-snaps-back-9-after-1-8-billion-liquidation-flush"
     },
     {
      "tag": "ETF-Flüsse",
@@ -174,7 +174,7 @@
     {
      "tag": "Fed · Zinsen",
      "title": "Markt rechnet mit Zinserhöhung der Fed am 9. Dezember – Zehnjahresrendite bei 4,92 %, PCE-Inflation am Mittwoch",
-     "text": "Fed-Gouverneurin Lisa Cook und die Chefin der Philadelphia-Fed, Anna Paulson, hatten sich zuletzt offen für Zinserhöhungen gezeigt; der Leitzins liegt bei 3,75 bis 4,00 %. CME FedWatch zeigte am Donnerstag laut Reuters 96,4 % Wahrscheinlichkeit für einen Viertelpunkt am 9. Dezember, am Prognosemarkt Kalshi waren es am Sonntag 90 %. Die Rendite zehnjähriger US-Staatsanleihen schloss am Freitag bei 4,92 %, Gold verlor 4,63 % auf rund 3.515 $. Am Mittwoch folgt der PCE-Bericht; erwartet wird eine Kernrate von 3,2 % zum Vorjahr.",
+     "text": "Fed-Gouverneurin Lisa Cook und die Chefin der Philadelphia-Fed, Anna Paulson, hatten sich zuletzt offen für Zinserhöhungen gezeigt; der Leitzins liegt bei 3,75 bis 4,00 %. CME FedWatch zeigte am Donnerstag laut Reuters 96,4 % Wahrscheinlichkeit für einen Viertelpunkt am 9. Dezember, am Prognosemarkt Kalshi waren es am Sonntag 90 %. Fed-Gouverneur Christopher Waller hält laut cryptoticker, das sich auf CNBC beruft, im Dezember auch einen halben Prozentpunkt für möglich; der Wochenrückblick von PalmaFutures nennt zum Freitag rund 93 % für einen Viertelpunkt und etwa 7 % für einen halben. Die Rendite zehnjähriger US-Staatsanleihen schloss am Freitag bei 4,92 %, Gold verlor 4,63 % auf rund 3.515 $. Am Mittwoch folgt der PCE-Bericht; erwartet wird eine Kernrate von 3,2 % zum Vorjahr.",
      "impact": "Die Aussicht auf weitere Zinserhöhungen bleibt Gegenwind für zinslose Anlagen wie Bitcoin. Dass am Freitag Renditen, Gold, Aktien und Krypto gleichzeitig fielen, spricht für einen breiten Rückzug aus Risikopositionen und nicht für eine Flucht in einzelne Anlageklassen.",
      "source": "CappNotes (Renditen, Gold, Paulson), 20.11.",
      "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
@@ -196,7 +196,7 @@
     {
      "tag": "Termin",
      "title": "Di 24.11.: VW-Tarifrunde beginnt, Berliner Linksfraktion entscheidet über Emde",
-     "text": "Auftakt der VW-Haustarifverhandlungen in Emden; in der Metall- und Elektroindustrie letzter angekündigter Tag der ganztägigen Warnstreiks. Die Berliner Linksfraktion stimmt über den Ausschluss von Vanessa Emde ab.",
+     "text": "Auftakt der VW-Haustarifverhandlungen in Emden; in der Metall- und Elektroindustrie letzter angekündigter Tag der ganztägigen Warnstreiks. Die Berliner Linksfraktion stimmt über den Ausschluss von Vanessa Emde ab. In Berlin-Spandau ist ab 6 Uhr ein 24-Stunden-Warnstreik an der Nonnendammallee angemeldet.",
      "source": "",
      "url": ""
     },
@@ -210,7 +210,7 @@
     {
      "tag": "Termin",
      "title": "Do 26.11.: Thanksgiving, Bundestag soll den Haushalt 2027 verabschieden",
-     "text": "Die US-Börsen bleiben geschlossen, am Freitag endet der US-Aktienhandel verkürzt; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Die Schlussabstimmung über den Bundeshaushalt 2027 ist laut Tagesspiegel für Donnerstag geplant.",
+     "text": "Die US-Börsen bleiben geschlossen, am Freitag endet der US-Aktienhandel verkürzt; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Die Schlussabstimmung über den Bundeshaushalt 2027 ist laut Tagesspiegel für Donnerstag geplant; dpa nennt Freitag.",
      "source": "",
      "url": ""
     },

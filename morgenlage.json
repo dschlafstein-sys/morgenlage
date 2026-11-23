@@ -1,6 +1,6 @@
 {
  "date": "Montag, 23. November 2026",
- "stand": "06:38",
+ "stand": "11:43",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
@@ -24,20 +24,27 @@
   {
    "label": "US-Rendite 10 Jahre",
    "value": "4,94 %",
-   "change": "+0,03 Punkte im Asienhandel",
+   "change": "+0,03 Punkte im Asienhandel (Stand 05:31 MEZ)",
    "dir": "up"
   }
  ],
  "brief": [
-  "Märkte: Nach dem Kursrutsch vom Freitag liegen die US-Aktienfutures am Montagmorgen gut 2 % im Plus, Südkoreas Kospi verlor dagegen zeitweise fast 6 %. Bitcoin steht laut BTC-ECHO bei 61.224 $ (06:19 Uhr MEZ, plus 4,13 % in 24 Stunden), Ether laut CoinGecko bei rund 1.727 $. Am Markt wird weiter eine Zinserhöhung der Fed am 9. Dezember erwartet; um 15:45 Uhr MEZ kommen die US-Einkaufsmanagerindizes.",
-  "Welt: Nach den russischen Angriffen auf die Region Kiew ist die Zahl der Todesopfer laut ZDFheute-Liveblog auf zehn gestiegen; die Nato berät am Montag in Brüssel über die russischen Luftraumverletzungen in Polen. Iran meldet zwei brennende Tanker östlich der Straße von Hormus, Brent kostet rund 92 $. In Belgien steht der Flugverkehr wegen eines Streiks von 7 bis 21 Uhr nahezu still.",
-  "Bund und Berlin: Söders Forderung nach einem Ausgleich der kalten Progression stößt in der Union und bei den Ländern auf Widerstand; der Haushalt 2027 soll laut dpa am Freitag beschlossen werden. In der Metallindustrie laufen 24-Stunden-Warnstreiks, auch bei Mercedes in Marienfelde. In einem Lichtenberger Krankenhaus wurden bei einem Brand 15 Menschen verletzt, die Polizei geht von Brandstiftung durch einen Patienten aus; am Morgen ist es in Berlin glatt."
+  "Märkte: Nach dem Kursrutsch vom Freitag startete der Dax am Montag im Plus, die US-Aktienfutures lagen am Morgen gut 2 % höher. Der Einkaufsmanagerindex für Deutschland stieg überraschend auf 55,0 Punkte, in der Eurozone stagnierte die Stimmung. Bitcoin stand am Morgen bei 61.224 $ (06:19 Uhr MEZ, BTC-ECHO), Ether bei rund 1.727 $; am Markt wird weiter eine Zinserhöhung der Fed am 9. Dezember erwartet, um 15:45 Uhr MEZ kommen die US-Einkaufsmanagerindizes.",
+  "Welt: Nach den russischen Angriffen auf die Region Kiew ist die Zahl der Todesopfer laut ZDFheute auf zehn gestiegen; die Nato berät am Montag in Brüssel über die russischen Luftraumverletzungen in Polen. Östlich der Straße von Hormus brennen Tanker, Iran meldet zwei, Berichte vom Vormittag nennen drei; Brent fiel laut finanznachrichten.de dennoch unter 90 $. In Belgien steht der Flugverkehr wegen eines Streiks von 7 bis 21 Uhr nahezu still.",
+  "Bund und Berlin: Söders Forderung nach einem Ausgleich der kalten Progression stößt in der Union und bei den Ländern auf Widerstand; der Haushalt 2027 soll laut dpa am Freitag beschlossen werden. In der Metallindustrie laufen ganztägige Warnstreiks, in Berlin bei Mercedes und BMW. Beim Brand im Krankenhaus Königin Elisabeth Herzberge in Lichtenberg wurden 15 Menschen verletzt, die Polizei geht von Brandstiftung durch einen Patienten aus; heute öffnen die meisten Berliner Weihnachtsmärkte."
  ],
  "sections": [
   {
    "id": "deutschland",
    "title": "Deutschland",
    "items": [
+    {
+     "tag": "Konjunktur · Börse",
+     "title": "Einkaufsmanagerindex für Deutschland steigt auf 55,0 Punkte – Stimmung in der Eurozone stagniert, Dax eröffnet im Plus",
+     "text": "Der Einkaufsmanagerindex für Deutschland ist im November laut aktiencheck auf 55,0 Punkte gestiegen, den höchsten Stand seit 56 Monaten; erwartet worden waren 53,2 nach 53,4 Punkten. In der Eurozone stagnierte die Stimmung der Einkaufsmanager laut dpa-AFX überraschend, sie bleibt über der Wachstumsschwelle; der Industrie-Index lag laut FXStreet mit 52,9 Punkten über den Erwartungen, Frankreich enttäuschte. Der Dax startete nach dem Kursrutsch der Vorwoche fester und stieg laut goldesel wieder über 25.000 Punkte.",
+     "source": "aktiencheck (Deutschland-PMI), 23.11.",
+     "url": "https://aktiencheck.de/artikel/einkaufsmanagerindex-deutschland-550-punkte-und-56-monatshoch-stuetzt-die"
+    },
     {
      "tag": "Steuern · Haushalt · Koalition",
      "title": "Kalte Progression: Widerstand gegen Söders Vorstoß – Unionsfraktion sieht die Länder am Zug, Grüne sprechen von Inszenierung",
@@ -58,13 +65,6 @@
      "text": "Bauernpräsident Joachim Rukwied und Landwirte fordern von Bundeskanzler Friedrich Merz, den EU-Haushalt für 2028 bis 2034 und die Mittel für die Agrarpolitik deutlich aufzustocken. Bundespräsident Frank-Walter Steinmeier startet am Montag in Abidjan einen viertägigen Besuch in der Elfenbeinküste, Ghana und Kenia.",
      "source": "ZDFheute-Ticker (Bauernprotest 23:53 Uhr, Steinmeier 23:30 Uhr), 22.11.",
      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-    },
-    {
-     "tag": "Inflation · Bundesbank · Energie",
-     "title": "Bundesbank rechnet zum Jahreswechsel mit deutlich höherer Inflation – Erzeugerpreise im Oktober 8,1 % über Vorjahr",
-     "text": "Laut Monatsbericht bleibt die Teuerung bis Jahresende etwa auf dem aktuellen Niveau und steigt um den Jahreswechsel kräftig, wenn der Tankrabatt ausläuft. Im Oktober lag die Inflationsrate nach europäischer Berechnung bei 2,9 %, die Erzeugerpreise stiegen um 8,1 % zum Vorjahr, Energie auf Erzeugerebene um 18,7 %. An den Märkten wird laut wallstreet-online für Dezember eine Zinserhöhung der EZB um 0,25 Punkte erwartet.",
-     "source": "wallstreet-online (Bundesbank-Monatsbericht), 22.11.",
-     "url": "https://www.wallstreet-online.de/nachricht/21730032-inflation-sprung-bundesbank-energiepreise-treiber"
     }
    ]
   },
@@ -75,21 +75,21 @@
     {
      "tag": "Feuerwehr · Polizei",
      "title": "Brand in Lichtenberger Krankenhaus: 15 Verletzte – Polizei geht von Brandstiftung durch einen Patienten aus",
-     "text": "Am Sonntagabend brannte es in einem Patientenzimmer im ersten Obergeschoss eines Krankenhauses in Lichtenberg; 15 Menschen wurden verletzt, eine Person schwebte laut rbb24 in Lebensgefahr, eine weitere wurde schwer verletzt. Ein Patient soll sein Bett angezündet haben, die Polizei ermittelt wegen besonders schwerer Brandstiftung; der Mann wird mit einer Rauchvergiftung stationär behandelt. Laut rbb24 wurde ein Teil des Gebäudes geräumt, dpa berichtete von einer kompletten Räumung.",
+     "text": "Am Sonntagabend brannte es in einem Patientenzimmer im ersten Obergeschoss eines Krankenhauses in Lichtenberg; 15 Menschen wurden verletzt, eine Person schwebte laut rbb24 in Lebensgefahr, eine weitere wurde schwer verletzt. Ein Patient soll sein Bett angezündet haben, die Polizei ermittelt wegen besonders schwerer Brandstiftung; der Mann wird mit einer Rauchvergiftung stationär behandelt. Laut rbb24 wurde ein Teil des Gebäudes geräumt, dpa berichtete von einer kompletten Räumung. Betroffen ist laut Tagesspiegel das Evangelische Krankenhaus Königin Elisabeth Herzberge; die Zeitung berichtet von zwei Schwerverletzten.",
      "source": "rbb24 (Krankenhausbrand, Stand 06:33 Uhr), 23.11.",
      "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-lichtenberg-krankenhaus-brand-feuer-verletzte.html"
     },
     {
      "tag": "Verkehr · BVG · Wetter",
-     "title": "Montag auf Berlins Straßen: Sperrungen in Kaulsdorf und Plänterwald, neue Baustellen in Friedrichshain und Karlshorst – am Morgen Glätte",
-     "text": "Die Chemnitzer Straße in Kaulsdorf ist bis 27. November Richtung Alt-Biesdorf gesperrt, die Eichbuschallee in Plänterwald ab etwa 7 Uhr bis Ende November in beiden Richtungen. Auf der Straße Am Oberbaum ist das Linksabbiegen in die Mühlenstraße bis Anfang Dezember nicht möglich, die Treskowallee in Karlshorst ist Richtung Am Tierpark für rund drei Wochen einspurig, ebenso bis Freitag die Kaiser-Friedrich-Straße in Charlottenburg; von 17:30 bis 19 Uhr rollt ein Fahrradkorso über die Kantstraße. Die U3 hält Richtung Krumme Lanke wieder in Podbielskiallee und fährt dafür bis 21. Dezember Richtung Warschauer Straße durch; die S-Bahn meldet keine neuen Bau-Einschränkungen, der Flughafenexpress FEX fällt nachts von etwa 21:35 bis 5:05 Uhr aus. Der Wetterdienst warnt vor glatten Straßen und Schneeschauern.",
+     "title": "Montag auf Berlins Straßen: Sperrungen in Kaulsdorf und Plänterwald, Glätte am Morgen – Weihnachtsmärkte öffnen, Internetwache der Polizei weiter gestört",
+     "text": "Die Chemnitzer Straße in Kaulsdorf ist bis 27. November Richtung Alt-Biesdorf gesperrt, die Eichbuschallee in Plänterwald ab etwa 7 Uhr bis Ende November in beiden Richtungen. Auf der Straße Am Oberbaum ist das Linksabbiegen in die Mühlenstraße bis Anfang Dezember nicht möglich, die Treskowallee in Karlshorst ist Richtung Am Tierpark für rund drei Wochen einspurig, ebenso bis Freitag die Kaiser-Friedrich-Straße in Charlottenburg; von 17:30 bis 19 Uhr rollt ein Fahrradkorso über die Kantstraße. Die U3 hält Richtung Krumme Lanke wieder in Podbielskiallee und fährt dafür bis 21. Dezember Richtung Warschauer Straße durch; die S-Bahn meldet keine neuen Bau-Einschränkungen, der Flughafenexpress FEX fällt nachts von etwa 21:35 bis 5:05 Uhr aus. Der Wetterdienst warnt vor glatten Straßen und Schneeschauern. Am Montag öffnen die meisten der mehr als 100 Berliner Weihnachtsmärkte. Die Internetwache der Polizei ist laut Tagesspiegel wegen einer technischen Störung weiter nicht erreichbar, Online-Anzeigen sind vorerst nicht möglich.",
      "source": "VIZ Berlin (Verkehrsvorschau Montag, Stand 20.11.)",
      "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
     },
     {
      "tag": "Warnstreik · Demos",
-     "title": "24-Stunden-Warnstreik bei Mercedes in Marienfelde – Kundgebungen der Metaller und Nato-Protest am Reichstag",
-     "text": "Die IG Metall hat die Beschäftigten der Mercedes-Werke in Marienfelde und Ludwigsfelde seit dem späten Sonntagabend zu einem 24-stündigen Warnstreik aufgerufen; für Montag sind weitere Arbeitsniederlegungen in der Region vorgesehen. Die Versammlungsbehörde führte für Montag Warnstreik-Kundgebungen an der Oberlandstraße (ab 9:30 Uhr), der Culemeyerstraße, der Daimlerstraße und Am Juliusturm (13 Uhr), dazu von 8 bis 10 Uhr einen Aufzug gegen die Nato vom Reichstag zur Wilhelmstraße und um 11 Uhr eine Verdi-Kundgebung am Pariser Platz.",
+     "title": "Ganztägige Warnstreiks bei Mercedes in Marienfelde und bei BMW – Kundgebungen der Metaller und Nato-Protest am Reichstag",
+     "text": "Die IG Metall hat die Beschäftigten der Mercedes-Werke in Marienfelde und Ludwigsfelde seit dem späten Sonntagabend zu einem 24-stündigen Warnstreik aufgerufen; für Montag sind weitere Arbeitsniederlegungen in der Region vorgesehen. Die Versammlungsbehörde führte für Montag Warnstreik-Kundgebungen an der Oberlandstraße (ab 9:30 Uhr), der Culemeyerstraße, der Daimlerstraße und Am Juliusturm (13 Uhr), dazu von 8 bis 10 Uhr einen Aufzug gegen die Nato vom Reichstag zur Wilhelmstraße und um 11 Uhr eine Verdi-Kundgebung am Pariser Platz. Laut dpa vom Montag laufen die ganztägigen Warnstreiks bei Mercedes-Benz und auch bei BMW.",
      "source": "rbb24 (Warnstreik Mercedes, Stand 21:09 Uhr), 22.11.",
      "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-warnstreiks-metall-elektroindustrie-mercedes.html"
     },
@@ -109,14 +109,14 @@
     {
      "tag": "Ukraine · Russland · Nato",
      "title": "Region Kiew: Zahl der Toten nach russischen Angriffen steigt auf zehn – Nato berät am Montag über Luftraumverletzungen in Polen",
-     "text": "Nach den russischen Angriffen auf das Kiewer Umland, unter anderem auf Dymer, Bila Zerkwa und einen Supermarkt bei Butscha, ist die Zahl der Todesopfer laut ZDFheute-Liveblog vom Montagmorgen auf zehn gestiegen; am Sonntag hatte Präsident Wolodymyr Selenskyj 14 Vermisste nach dem Einsturz eines Wohnhauses gemeldet. Selenskyj kündigte Antworten an und drängt die USA, bereits bezahlte Patriot-Raketen freizugeben; Russland habe in einer Woche rund 2.700 Drohnen, fast 1.460 Gleitbomben und 165 Raketen eingesetzt. Die Vertreter der 32 Nato-Staaten beraten am Montag in Brüssel über die russischen Marschflugkörper, die am Freitag in Polen abgestürzt waren. Der vor Finnland getroffene Frachter „Sparta II“ wird in russische Gewässer geschleppt.",
+     "text": "Nach den russischen Angriffen auf das Kiewer Umland, unter anderem auf Dymer, Bila Zerkwa und einen Supermarkt bei Butscha, ist die Zahl der Todesopfer laut ZDFheute-Liveblog vom Montagmorgen auf zehn gestiegen; am Sonntag hatte Präsident Wolodymyr Selenskyj 14 Vermisste nach dem Einsturz eines Wohnhauses gemeldet. Selenskyj kündigte Antworten an und drängt die USA, bereits bezahlte Patriot-Raketen freizugeben; Russland habe in einer Woche rund 2.700 Drohnen, fast 1.460 Gleitbomben und 165 Raketen eingesetzt. Die Vertreter der 32 Nato-Staaten beraten am Montag in Brüssel über die russischen Marschflugkörper, die am Freitag in Polen abgestürzt waren. Der vor Finnland getroffene Frachter „Sparta II“ wird in russische Gewässer geschleppt. Ergebnisse der Nato-Beratungen lagen bis zum späten Vormittag nicht vor.",
      "source": "ZDFheute (Ukraine-Liveblog, 05:49 Uhr), 23.11.",
      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
     },
     {
      "tag": "Nahost · Iran · Golf",
-     "title": "Iran meldet zwei brennende Tanker östlich von Hormus und zeigt neuen Raketenwerfer – Brent bei rund 92 $",
-     "text": "Irans Marine erklärte laut der Agentur Mehr, zwei Supertanker seien in einem Sperrgebiet östlich der Straße von Hormus auf Minen gelaufen und in Brand geraten; eine unabhängige Bestätigung liegt nicht vor. Der stellvertretende Kommandeur der Revolutionsgarden, Mostafa Izadi, warf Irans Gegnern vor, mit wirtschaftlichem Druck Unruhen schüren zu wollen; die Garden stellten einen Werfer vor, der zwei Raketen gleichzeitig abfeuern kann. Der IWF-Dienst PortWatch zählte am 15. November zwei Durchfahrten durch die Meerenge, vor der Krise waren es 85 am Tag. Brent kostete laut straits.live um 03:38 Uhr MEZ 92,08 $, 0,53 % weniger als beim letzten Schlusskurs.",
+     "title": "Tanker brennen östlich von Hormus: Iran meldet zwei Schiffe, Berichte vom Vormittag nennen drei – Brent fällt laut Marktbericht unter 90 $",
+     "text": "Irans Marine erklärte laut der Agentur Mehr, zwei Supertanker seien in einem Sperrgebiet östlich der Straße von Hormus auf Minen gelaufen und in Brand geraten; eine unabhängige Bestätigung liegt nicht vor. Der stellvertretende Kommandeur der Revolutionsgarden, Mostafa Izadi, warf Irans Gegnern vor, mit wirtschaftlichem Druck Unruhen schüren zu wollen; die Garden stellten einen Werfer vor, der zwei Raketen gleichzeitig abfeuern kann. Der IWF-Dienst PortWatch zählte am 15. November zwei Durchfahrten durch die Meerenge, vor der Krise waren es 85 am Tag. Brent kostete laut straits.live um 03:38 Uhr MEZ 92,08 $, 0,53 % weniger als beim letzten Schlusskurs. Am Montagvormittag war in deutschen Medienberichten von drei getroffenen Tankern die Rede; der Ölpreis gab zum Wochenstart dennoch nach, Brent fiel laut finanznachrichten.de unter 90 $.",
      "source": "straits.live (Hormus-Lagebild, 04:00 Uhr MEZ), 23.11.",
      "url": "https://straits.live/briefs/2026-11-23"
     },
@@ -149,16 +149,16 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin am Montagmorgen bei rund 61.200 $, Ether bei rund 1.727 $ – Stimmungsindex weiter bei 11",
-     "text": "BTC-ECHO nannte um 06:19 Uhr MEZ einen Bitcoin-Kurs von 61.224 $ beziehungsweise 55.770 €, 4,13 % über dem Stand 24 Stunden zuvor. Ether stand laut CoinGecko bei rund 1.727 $ (plus 4,6 %, 24-Stunden-Spanne 1.646 bis 1.742 $). Am Samstag war Bitcoin bis auf etwa 55.100 $ gefallen. Der Fear-and-Greed-Index für Krypto steht laut KuCoin und CoinGabbar bei 11 („extreme Angst“); laut KuCoin wurden allein am 20. November Bitcoin-Verluste von rund 2,9 Mrd. $ realisiert, der Marktwert aller Stablecoins sank binnen 30 Tagen um gut 6 % auf rund 284,2 Mrd. $.",
+     "title": "Bitcoin am Montag bei rund 61.200 bis 61.400 $, Ether am Morgen bei rund 1.727 $ – Stimmungsindex weiter bei 11",
+     "text": "BTC-ECHO nannte um 06:19 Uhr MEZ einen Bitcoin-Kurs von 61.224 $ beziehungsweise 55.770 €, 4,13 % über dem Stand 24 Stunden zuvor. Ether stand laut CoinGecko bei rund 1.727 $ (plus 4,6 %, 24-Stunden-Spanne 1.646 bis 1.742 $). Am Samstag war Bitcoin bis auf etwa 55.100 $ gefallen. Der Fear-and-Greed-Index für Krypto steht laut KuCoin und CoinGabbar bei 11 („extreme Angst“); laut KuCoin wurden allein am 20. November Bitcoin-Verluste von rund 2,9 Mrd. $ realisiert, der Marktwert aller Stablecoins sank binnen 30 Tagen um gut 6 % auf rund 284,2 Mrd. $. finanzen.net nannte in seinem Marktbericht vom Montag 61.400 $ für Bitcoin, Liquidationen von 2,6 Mrd. $ und ein Wochenminus des Nasdaq von 10 %. Jüngere Kurse mit Zeitstempel konnten in diesem Lauf nicht abgerufen werden.",
      "impact": "Beide Kurse liegen über den Ständen vom Sonntag und rund 6.000 $ beziehungsweise gut 170 $ über den Tiefs vom Wochenende. Die Stimmung bleibt laut Index extrem schwach, und der schrumpfende Stablecoin-Bestand deutet auf abfließendes Kapital. Wie belastbar die Erholung ist, zeigt sich mit dem US-Handel am Nachmittag.",
      "source": "BTC-ECHO (Bitcoin-Kurs, 06:19 Uhr MEZ), 23.11.",
      "url": "https://www.btc-echo.de/kurs/bitcoin/"
     },
     {
      "tag": "Tech · Aktien",
-     "title": "US-Futures erholen sich um gut 2 %, Kospi fällt zeitweise fast 6 % – Seoul und Peking stützen ihre Märkte",
-     "text": "Die Futures auf den S&P 500 lagen im Asienhandel laut investingLive rund 2,2 % im Plus bei etwa 7.090 Punkten, die auf den Nasdaq 100 knapp 3 % bei etwa 25.870. Südkoreas Kospi verlor zeitweise fast 6 %, löste eine Handelsbremse aus und lag zuletzt rund 3,2 % im Minus; Hongkong gab etwa 0,7 %, Shanghai etwa 1 % nach, Tokio blieb wegen eines Feiertags geschlossen. Südkorea bereitet einen Stützungsfonds über 10,76 Billionen Won vor, China senkte die Margin-Anforderungen. Am Freitag hatte der Nasdaq Composite 5,3 % verloren, der S&P 500 3,7 %; Gold erholte sich am Montag um etwa 2 % auf rund 3.610 $.",
+     "title": "US-Futures am Morgen gut 2 % im Plus, Dax eröffnet fester – Kospi fiel zeitweise fast 6 %, Seoul und Peking stützen ihre Märkte",
+     "text": "Die Futures auf den S&P 500 lagen im Asienhandel laut investingLive rund 2,2 % im Plus bei etwa 7.090 Punkten, die auf den Nasdaq 100 knapp 3 % bei etwa 25.870. Südkoreas Kospi verlor zeitweise fast 6 %, löste eine Handelsbremse aus und lag zuletzt rund 3,2 % im Minus; Hongkong gab etwa 0,7 %, Shanghai etwa 1 % nach, Tokio blieb wegen eines Feiertags geschlossen. Südkorea bereitet einen Stützungsfonds über 10,76 Billionen Won vor, China senkte die Margin-Anforderungen. Am Freitag hatte der Nasdaq Composite 5,3 % verloren, der S&P 500 3,7 %; Gold erholte sich am Montag um etwa 2 % auf rund 3.610 $. Der Dax eröffnete am Montag im Plus; dpa-AFX sprach von einer „Erholung auf Bewährung“.",
      "impact": "Bitcoin lief zuletzt eng mit den Technologiewerten; die Erholung der US-Futures und des Kryptomarkts fallen zeitlich zusammen. Die Verluste in Asien zeigen, dass der Ausverkauf bei KI- und Chipwerten noch nicht überall verarbeitet ist. Der US-Handelsstart um 15:30 Uhr MEZ ist der nächste Orientierungspunkt.",
      "source": "investingLive (Asien-Überblick, 05:31 Uhr MEZ), 23.11.",
      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-us-futures-hold-2-bounce/"
@@ -174,7 +174,7 @@
     {
      "tag": "ETF-Flüsse",
      "title": "Bitcoin-ETFs: 1,25 Mrd. $ Abfluss in der Vorwoche – Freitagswert für BlackRocks IBIT fehlt weiter",
-     "text": "Die US-Spot-Bitcoin-ETFs haben vom 16. bis 20. November laut Farside Investors netto rund 1,25 Mrd. $ verloren. Für Freitag weist die Tabelle weiter vorläufig 124,5 Mio. $ Abfluss aus, der Eintrag für BlackRocks IBIT fehlte auch beim Abruf am Montagmorgen; am Donnerstag waren 582,3 Mio. $ abgeflossen, davon 541,1 Mio. $ aus IBIT, laut KuCoin ein Tagesrekord für den Fonds. Im November summieren sich die Abflüsse laut KuCoin auf rund 3,47 Mrd. $. Neue Zahlen kommen nach dem US-Handel am Montag.",
+     "text": "Die US-Spot-Bitcoin-ETFs haben vom 16. bis 20. November laut Farside Investors netto rund 1,25 Mrd. $ verloren. Für Freitag weist die Tabelle weiter vorläufig 124,5 Mio. $ Abfluss aus, der Eintrag für BlackRocks IBIT fehlte auch beim Abruf am Montagmorgen; am Donnerstag waren 582,3 Mio. $ abgeflossen, davon 541,1 Mio. $ aus IBIT, laut KuCoin ein Tagesrekord für den Fonds. Im November summieren sich die Abflüsse laut KuCoin auf rund 3,47 Mrd. $. Neue Zahlen kommen nach dem US-Handel am Montag. Laut ad-hoc-news verzeichnen auch die Ether-ETFs die achte Verlustwoche in Folge; Cryptonomist meldet die höchsten Bitcoin-ETF-Abflüsse seit Juni.",
      "impact": "Die Abflüsse halten seit zwei Wochen an und kommen überwiegend aus dem größten Fonds. Die Freitagszahl ist unvollständig und kann sich mit dem IBIT-Wert noch deutlich ändern. Solange sich die ETF-Flüsse nicht drehen, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage.",
      "source": "Farside Investors (Tabelle, Abruf 23.11.)",
      "url": "https://farside.co.uk/btc/"

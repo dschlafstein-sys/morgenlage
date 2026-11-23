@@ -1,18 +1,18 @@
 {
- "date": "Sonntag, 22. November 2026",
- "stand": "21:43",
+ "date": "Montag, 23. November 2026",
+ "stand": "01:41",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "59.023 $",
-   "change": "+1,8 % am Tag (Bericht 17:02 MEZ, letzter belegter Wert)",
+   "value": "61.117 $",
+   "change": "+1,39 % in 24 h (Eurokurs, Stand 01:19 MEZ)",
    "dir": "up"
   },
   {
    "label": "Ether",
    "value": "1.680 $",
-   "change": "rund +3 % am Tag (Bericht 17:02 MEZ, letzter belegter Wert)",
+   "change": "rund +3 % am Tag (Bericht 22.11., 17:02 MEZ, letzter belegter Dollarwert)",
    "dir": "up"
   },
   {
@@ -29,9 +29,9 @@
   }
  ],
  "brief": [
-  "Welt: Die Weltklimakonferenz in Antalya ist am Sonntagmittag ohne Abschlusserklärung zu Ende gegangen; die EU hatte einen Text ohne Nennung fossiler Brennstoffe abgelehnt. Nach einem russischen Drohnenangriff auf die Region Kiew werden laut Euronews 14 Menschen vermisst, Bahrain meldete erneut abgewehrte iranische Angriffe. Neue belegte Entwicklungen vom Abend lagen bei diesem Lauf nicht vor.",
-  "Märkte: Bitcoin pendelt um 60.000 $; der letzte belegte Stand sind rund 59.023 $ (plus 1,8 % am Tag) und etwa 1.680 $ für Ether aus einem CoinCentral-Bericht von 17:02 Uhr MEZ, das Tief vom Samstag lag bei 55.106 $. Der Stimmungsindex für Krypto stand am Morgen bei 11, die US-Spot-Bitcoin-ETFs haben in der Woche rund 1,25 Mrd. $ verloren. Am Markt wird für den 9. Dezember eine Zinserhöhung der Fed erwartet; neue Börsen- und ETF-Daten gibt es erst am Montag.",
-  "Bund und Berlin: CSU-Chef Markus Söder verlangt vor der Haushaltsabstimmung den Ausgleich der kalten Progression; NRW-Ministerpräsident Hendrik Wüst verwies am Abend auf den Stromsteuer-Beschluss, Rheinland-Pfalz lehnt einen Länderanteil ab. In Berlin endet die Stadtbahn-Sperrung laut Plan mit dem Betriebsbeginn am Montag; neu gesperrt sind dann die Chemnitzer Straße in Kaulsdorf und die Eichbuschallee in Plänterwald, dazu kommen Warnstreik-Kundgebungen der Metall- und Elektroindustrie an vier Standorten und in der Nacht Glätte."
+  "Welt: Die Weltklimakonferenz in Antalya ist am Sonntag ohne Abschlusserklärung zu Ende gegangen. Der ukrainische Präsident Wolodymyr Selenskyj drängt die USA laut der Übersicht von dailysummaryof.com zur Freigabe von Patriot-Raketen und spricht von rund 2.700 russischen Drohnen in einer Woche; Iran meldet demnach zwei brennende Supertanker östlich der Straße von Hormus. In der Nacht zum Montag lagen bei diesem Lauf keine weiteren belegten Entwicklungen vor.",
+  "Märkte: Bitcoin steht in der Nacht zum Montag laut BTC-ECHO bei rund 61.117 $ (Stand 01:19 Uhr MEZ, Eurokurs plus 1,39 % in 24 Stunden) und damit wieder über 60.000 $; das Tief vom Samstag lag bei 55.106 $. Für Ether ist in Dollar zuletzt etwa 1.680 $ vom Sonntagnachmittag belegt. Am Markt wird für den 9. Dezember eine Zinserhöhung der Fed erwartet; neue Börsen- und ETF-Daten kommen im Lauf des Montags, um 15:45 Uhr MEZ die US-Einkaufsmanagerindizes.",
+  "Bund und Berlin: Im Streit um die kalte Progression verlangt CSU-Chef Markus Söder vor der Haushaltsabstimmung in dieser Woche einen Ausgleich; NRW-Ministerpräsident Hendrik Wüst verweist auf den Stromsteuer-Beschluss. In Berlin endet die Stadtbahn-Sperrung laut Plan mit dem Betriebsbeginn am Montag; neu gesperrt sind die Chemnitzer Straße in Kaulsdorf und die Eichbuschallee in Plänterwald, dazu kommen Warnstreik-Kundgebungen der Metall- und Elektroindustrie an vier Standorten und am Morgen Glättegefahr."
  ],
  "sections": [
   {
@@ -82,7 +82,7 @@
     {
      "tag": "Verkehr · S-Bahn · Wetter",
      "title": "Montagfrüh: Stadtbahn-Sperrung endet laut Plan mit Betriebsbeginn, neue Sperrungen in Kaulsdorf und Plänterwald – in der Nacht Glätte",
-     "text": "Die Unterbrechung der S-Bahn-Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Tiergarten endet laut Verkehrsinformationszentrale mit dem Betriebsbeginn am Montag; das Portal bahnstoerung.de zeigte am Sonntag um 21:35 Uhr keine akuten Störungen bei S-Bahn, U-Bahn und Tram. Die Tram M4 fährt in der Nacht zum Montag von 0:10 bis 4:10 Uhr zwischen Greifswalder Straße/Danziger Straße und Alexanderplatz als Ersatzverkehr. Ab Montag ist die Chemnitzer Straße in Kaulsdorf bis 27. November Richtung Alt-Biesdorf voll gesperrt, die Eichbuschallee in Plänterwald ab etwa 7 Uhr bis Ende November in beiden Richtungen; in Charlottenburg ist die Kaiser-Friedrich-Straße bis Freitag auf einen Fahrstreifen verengt, von 17:30 bis 19 Uhr rollt ein Fahrradkorso über die Kantstraße. Wegen der Parlamentarischen Versammlung der Nato sind bis Montag Sperrungen an der Budapester Straße und im Regierungsviertel möglich. Für die Nacht zum Montag hatte der Wetterdienst 0 bis minus 2 Grad und Glätte angekündigt.",
+     "text": "Die Unterbrechung der S-Bahn-Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Tiergarten endet laut Verkehrsinformationszentrale mit dem Betriebsbeginn am Montag; das Portal bahnstoerung.de zeigte am Sonntag um 21:35 Uhr keine akuten Störungen bei S-Bahn, U-Bahn und Tram. Die Tram M4 fährt in der Nacht zum Montag von 0:10 bis 4:10 Uhr zwischen Greifswalder Straße/Danziger Straße und Alexanderplatz als Ersatzverkehr. Seit Montag ist die Chemnitzer Straße in Kaulsdorf bis 27. November Richtung Alt-Biesdorf voll gesperrt, die Eichbuschallee in Plänterwald ab etwa 7 Uhr bis Ende November in beiden Richtungen; in Charlottenburg ist die Kaiser-Friedrich-Straße bis Freitag auf einen Fahrstreifen verengt, von 17:30 bis 19 Uhr rollt ein Fahrradkorso über die Kantstraße. Wegen der Parlamentarischen Versammlung der Nato sind bis Montag Sperrungen an der Budapester Straße und im Regierungsviertel möglich. Auf der A100 ist nach einem Autobrand im Britzer Tunnel laut dpa eine Seite wieder befahrbar. Für die Nacht zum Montag hatte der Wetterdienst 0 bis minus 2 Grad und Glätte angekündigt.",
      "source": "VIZ Berlin (Verkehrsvorschau Montag, Stand 20.11.)",
      "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
     },
@@ -96,7 +96,7 @@
     {
      "tag": "Landespolitik · Demos · Warnstreik",
      "title": "Linken-Chefin Schwerdtner stützt Ausschluss von Vanessa Emde, Abstimmung am Dienstag – am Montag Warnstreik-Kundgebungen an vier Standorten und Nato-Protest am Reichstag",
-     "text": "Die Linken-Bundesvorsitzende Ines Schwerdtner hält den beantragten Ausschluss der Abgeordneten Vanessa Emde aus der Berliner Linksfraktion für richtig; die Fraktion entscheidet am Dienstag, nötig ist eine Zweidrittelmehrheit. Für Montag führt die Versammlungsbehörde Warnstreik-Kundgebungen der Metall- und Elektroindustrie an der Oberlandstraße (ab 9:30 Uhr), der Culemeyerstraße, der Daimlerstraße und Am Juliusturm (13 Uhr), dazu von 8 bis 10 Uhr einen Aufzug gegen die Nato vom Reichstag zur Wilhelmstraße und um 11 Uhr eine Verdi-Kundgebung am Pariser Platz. Am Dienstag ist ab 6 Uhr ein 24-Stunden-Warnstreik an der Nonnendammallee in Spandau angemeldet. Die FDP-Politikerin Karoline Preisler ging laut dpa bei einer propalästinensischen Kundgebung in einem Handgemenge zu Boden.",
+     "text": "Die Linken-Bundesvorsitzende Ines Schwerdtner hält den beantragten Ausschluss der Abgeordneten Vanessa Emde aus der Berliner Linksfraktion für richtig; die Fraktion entscheidet am Dienstag, nötig ist eine Zweidrittelmehrheit. Für Montag führt die Versammlungsbehörde Warnstreik-Kundgebungen der Metall- und Elektroindustrie an der Oberlandstraße (ab 9:30 Uhr), der Culemeyerstraße, der Daimlerstraße und Am Juliusturm (13 Uhr), dazu von 8 bis 10 Uhr einen Aufzug gegen die Nato vom Reichstag zur Wilhelmstraße und um 11 Uhr eine Verdi-Kundgebung am Pariser Platz. Am Dienstag ist ab 6 Uhr ein 24-Stunden-Warnstreik an der Nonnendammallee in Spandau angemeldet. Die FDP-Politikerin Karoline Preisler ging laut dpa bei einer propalästinensischen Kundgebung in Schöneberg in einem Handgemenge zu Boden und wurde verletzt; eine 25-Jährige wurde festgenommen.",
      "source": "Tagesspiegel/dpa (Schwerdtner, Emde), 21.11.",
      "url": "https://www.tagesspiegel.de/berlin/dpa-schwerdtner-fur-ausschluss-von-vanessa-emde-aus-berliner-fraktion-16311589.html"
     }
@@ -115,10 +115,10 @@
     },
     {
      "tag": "Ukraine · Russland · Ostsee",
-     "title": "Russland greift die Ukraine in der Nacht mit 186 Drohnen an, 14 Vermisste in der Region Kiew – „Sparta II“ brennt vor Finnland weiter",
-     "text": "Das Feuer auf dem am Samstag von Drohnen getroffenen russischen Militärfrachter brannte laut finnischer Küstenwache auch am Sonntag weiter; das Schiff liegt in finnischen Gewässern vor Anker, die 16 Besatzungsmitglieder wurden laut Reuters auf ein russisches Schiff gebracht. Finnlands Militär hält einen ukrainischen Angriff weiter für wahrscheinlich, eine Stellungnahme aus Kiew ist nicht bekannt. Russland griff die Ukraine seit Samstagabend nach Angaben der ukrainischen Luftwaffe mit 186 Drohnen an, 161 seien abgewehrt worden, Treffer gab es an 18 Orten. Nach einem Drohnenangriff auf die Region Kiew werden laut Euronews 14 Menschen vermisst.",
-     "source": "Euronews (Region Kiew), 22.11.",
-     "url": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region"
+     "title": "Selenskyj drängt die USA zur Freigabe von Patriot-Raketen – 186 Drohnen in einer Nacht, 14 Vermisste in der Region Kiew, „Sparta II“ brennt vor Finnland",
+     "text": "Der ukrainische Präsident Wolodymyr Selenskyj forderte am Sonntag laut der Nachrichtenübersicht von dailysummaryof.com die USA auf, von Partnern bereits bezahlte Patriot-Raketen freizugeben; nach seinen Angaben setzte Russland binnen einer Woche rund 2.700 Drohnen, etwa 1.460 Gleitbomben und 165 Raketen ein. Das Feuer auf dem am Samstag von Drohnen getroffenen russischen Militärfrachter brannte laut finnischer Küstenwache auch am Sonntag weiter; das Schiff liegt in finnischen Gewässern vor Anker, die 16 Besatzungsmitglieder wurden laut Reuters auf ein russisches Schiff gebracht. Finnlands Militär hält einen ukrainischen Angriff weiter für wahrscheinlich, eine Stellungnahme aus Kiew ist nicht bekannt. Russland griff die Ukraine seit Samstagabend nach Angaben der ukrainischen Luftwaffe mit 186 Drohnen an, 161 seien abgewehrt worden, Treffer gab es an 18 Orten. Nach einem Drohnenangriff auf die Region Kiew werden laut Euronews 14 Menschen vermisst.",
+     "source": "dailysummaryof.com (Selenskyj, Übersicht), 22.11.",
+     "url": "https://dailysummaryof.com/world/2026-11-22"
     },
     {
      "tag": "Polen · Nato · Dänemark",
@@ -129,8 +129,8 @@
     },
     {
      "tag": "Nahost · Iran · Golf",
-     "title": "Bahrain erneut unter iranischem Beschuss – Teheran will laut Abgeordneten mit 14 Tankern die US-Seeblockade durchbrechen",
-     "text": "Bahrains Flugabwehr wehrte in der Nacht zum Sonntag nach Angaben der Streitkräfte mehrere iranische Angriffe ab; Trümmer verursachten geringe Schäden, Verletzte wurden nicht gemeldet; iranische Medien nennen Radaranlagen auf US-Stützpunkten und die in Bahrain stationierte US-Flotte als Ziele. Iran bereitet nach Angaben von Abgeordneten 14 Tanker vor, um die US-Seeblockade zu durchbrechen, und droht bei Angriffen mit Vergeltung gegen Ölanlagen der Region. Der Schiffsverkehr durch die Straße von Hormus lag laut Iran International in der Woche bis 18. November rund 65 % unter dem Vorkriegsniveau.",
+     "title": "Bahrain erneut unter iranischem Beschuss – Iran meldet zwei brennende Supertanker östlich von Hormus und will die US-Seeblockade durchbrechen",
+     "text": "Bahrains Flugabwehr wehrte in der Nacht zum Sonntag nach Angaben der Streitkräfte mehrere iranische Angriffe ab; Trümmer verursachten geringe Schäden, Verletzte wurden nicht gemeldet; iranische Medien nennen Radaranlagen auf US-Stützpunkten und die in Bahrain stationierte US-Flotte als Ziele. Iran bereitet nach Angaben von Abgeordneten 14 Tanker vor, um die US-Seeblockade zu durchbrechen, und droht bei Angriffen mit Vergeltung gegen Ölanlagen der Region. Am Sonntagabend meldete Iran laut der Übersicht von dailysummaryof.com, zwei Supertanker seien östlich der Straße von Hormus auf Minen gelaufen und in Brand geraten; die britische Seehandelsbehörde UKMTO berichtete von einem Tankerzwischenfall im Golf von Oman, eine unabhängige Bestätigung der Ursache lag nicht vor. Der Schiffsverkehr durch die Straße von Hormus lag laut Iran International in der Woche bis 18. November rund 65 % unter dem Vorkriegsniveau.",
      "source": "Handelsblatt (Liveblog Iran, Bahrain), 22.11.",
      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss/100136895.html"
     },
@@ -149,15 +149,15 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin pendelt am Sonntag um 60.000 $ – zuletzt belegt rund 59.000 $, Stimmungsindex bei 11",
-     "text": "Nach 60.812 $ in der Kursleiste von Bitcoin.com um 16:40 Uhr MEZ nannte CoinCentral in einem Bericht von 17:02 Uhr rund 59.023 $ (plus 1,8 % am Tag) und für Ether etwa 1.680 $ (rund plus 3 %); ein neuerer Kurs ließ sich am Abend nicht belegen. In der Nacht zum Samstag war Bitcoin auf Coinbase bis auf 55.106 $ gefallen, den tiefsten Stand seit September 2024. CoinCentral beziffert die Liquidationen gehebelter Positionen unter Berufung auf CoinGlass auf rund 1,8 Mrd. $, davon etwa 1,3 Mrd. $ Long-Positionen; laut Glassnode ist die Häufung von Long-Liquidationen zwischen 59.000 und 62.000 $ weitgehend abgearbeitet. Der Fear-and-Greed-Index für Krypto stand laut cryptoticker am Sonntagmorgen bei 11 („extreme Angst“), der Gesamtmarkt war laut finanzen.at am Mittag rund 2,1 Billionen $ wert.",
-     "impact": "Der Kurs liegt weiter einige Tausend Dollar über dem Tief vom Samstag, hat die Marke von 60.000 $ am späten Nachmittag aber wieder knapp unterschritten. Am Wochenende sind die US-Börsen geschlossen und die Umsätze meist dünner; ob die Erholung trägt, zeigt sich erst mit dem US-Handel und den ETF-Daten am Montag.",
-     "source": "CoinCentral (Erholung, Liquidationen, 17:02 Uhr MEZ), 22.11.",
-     "url": "https://coincentral.com/bitcoin-btc-price-snaps-back-9-after-1-8-billion-liquidation-flush"
+     "title": "Bitcoin in der Nacht zum Montag bei rund 61.100 $ – wieder über 60.000 $, Stimmungsindex zuletzt bei 11",
+     "text": "BTC-ECHO nannte am Montag um 01:19 Uhr MEZ einen Bitcoin-Kurs von 55.674 € beziehungsweise 61.117 $; der Eurokurs lag 1,39 % über dem Stand 24 Stunden zuvor, der Sonntag schloss dort bei 55.433 €. Ether führt die Seite mit 1.568,52 € (plus 2,27 %); in Dollar ist zuletzt der Wert von etwa 1.680 $ aus einem CoinCentral-Bericht vom Sonntag, 17:02 Uhr MEZ, belegt, der Bitcoin damals bei rund 59.023 $ sah. In der Nacht zum Samstag war Bitcoin auf Coinbase bis auf 55.106 $ gefallen, den tiefsten Stand seit September 2024. CoinCentral beziffert die Liquidationen gehebelter Positionen unter Berufung auf CoinGlass auf rund 1,8 Mrd. $, davon etwa 1,3 Mrd. $ Long-Positionen; laut Glassnode ist die Häufung von Long-Liquidationen zwischen 59.000 und 62.000 $ weitgehend abgearbeitet. Der Fear-and-Greed-Index für Krypto stand laut cryptoticker am Sonntagmorgen bei 11 („extreme Angst“), der Gesamtmarkt war laut finanzen.at am Mittag rund 2,1 Billionen $ wert.",
+     "impact": "Der Kurs liegt rund 6.000 $ über dem Tief vom Samstag und hat die Marke von 60.000 $ in der Nacht zurückerobert. Die Bewegung fiel in den umsatzschwachen Wochenendhandel; ob die Erholung trägt, zeigt sich erst mit dem US-Handel und den ETF-Daten am Montag.",
+     "source": "BTC-ECHO (Kurse, Stand 01:19 Uhr MEZ), 23.11.",
+     "url": "https://www.btc-echo.de/kurs/bitcoin/"
     },
     {
      "tag": "ETF-Flüsse",
-     "title": "Bitcoin-ETFs verlieren in der Woche 1,25 Mrd. $ – Freitagswert für BlackRocks IBIT fehlt weiterhin",
+     "title": "Bitcoin-ETFs verloren in der Vorwoche 1,25 Mrd. $ – Freitagswert für BlackRocks IBIT fehlte zuletzt noch",
      "text": "Die US-Spot-Bitcoin-ETFs haben vom 16. bis 20. November laut Farside Investors netto 1,25 Mrd. $ verloren, die Ether-ETFs 221,7 Mio. $. Für Freitag weist die Tabelle vorläufig 124,5 Mio. $ Abfluss aus, der Eintrag für BlackRocks IBIT fehlte laut Bitcoin.com auch am Sonntagnachmittag noch; am Donnerstag waren 582,3 Mio. $ abgeflossen, davon 541,1 Mio. $ aus IBIT. Im November summieren sich die Abflüsse bei Bitcoin auf 3,59 Mrd. $.",
      "impact": "Die Abflüsse halten seit zwei Wochen an und kommen überwiegend aus den größten Fonds. Die Freitagszahl ist unvollständig und kann sich mit dem IBIT-Wert noch deutlich ändern. Solange sich die ETF-Flüsse nicht drehen, fehlt dem Markt eine wichtige Quelle für Kaufnachfrage.",
      "source": "Farside Investors (Tabelle, Abruf 22.11.)",
@@ -166,7 +166,7 @@
     {
      "tag": "Tech · Aktien",
      "title": "Wall Street schloss am Freitag tiefrot: Nasdaq minus 5,3 %, S&P 500 und Dow in der Korrektur – Nvidia verlor knapp 14 %",
-     "text": "Der Nasdaq Composite schloss am Freitag laut CappNotes 5,28 % tiefer bei 22.617,73 Punkten, der S&P 500 fiel um 3,70 % auf 6.910,39 Punkte und verlor in der Woche 8,6 %. Nvidia schloss laut StockTitan 13,65 % tiefer bei 126,05 $; das Angstbarometer VIX stieg auf 35,89 Punkte. Der Dax beendete den Freitag 2,60 % tiefer bei 24.802,78 Punkten. Die Börsen öffnen wieder am Montag.",
+     "text": "Der Nasdaq Composite schloss am Freitag laut CappNotes 5,28 % tiefer bei 22.617,73 Punkten, der S&P 500 fiel um 3,70 % auf 6.910,39 Punkte und verlor in der Woche 8,6 %. Nvidia schloss laut StockTitan 13,65 % tiefer bei 126,05 $; das Angstbarometer VIX stieg auf 35,89 Punkte. Der Dax beendete den Freitag 2,60 % tiefer bei 24.802,78 Punkten. Die Börsen öffnen im Lauf des Montags wieder.",
      "impact": "Der Ausverkauf konzentrierte sich auf Technologie- und Chipwerte; der Bruch der 60.000 $ bei Bitcoin fiel zeitlich mit diesem Rutsch zusammen. Bitcoin lief zuletzt eng mit dem Tech-Sektor, der Handelsstart am Montag gilt deshalb als nächster Orientierungspunkt.",
      "source": "CappNotes (Schlussstände, VIX), 20.11.",
      "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
@@ -178,13 +178,6 @@
      "impact": "Die Aussicht auf weitere Zinserhöhungen bleibt Gegenwind für zinslose Anlagen wie Bitcoin. Dass am Freitag Renditen, Gold, Aktien und Krypto gleichzeitig fielen, spricht für einen breiten Rückzug aus Risikopositionen und nicht für eine Flucht in einzelne Anlageklassen.",
      "source": "CappNotes (Renditen, Gold, Paulson), 20.11.",
      "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
-    },
-    {
-     "tag": "Termin",
-     "title": "So 22.11.: Klimagipfel ohne Beschluss beendet, Sperrungen in Berlin",
-     "text": "Die Weltklimakonferenz in Antalya ging am Mittag ohne Abschlusserklärung zu Ende. Die IG Metall Küste beginnt am Abend in Norddeutschland mit weiteren 24-Stunden-Warnstreiks. Die Stadtbahn ist bis Montag früh zwischen Friedrichstraße und Tiergarten unterbrochen; in der Nacht zum Montag wird in Berlin Glätte erwartet.",
-     "source": "",
-     "url": ""
     },
     {
      "tag": "Termin",

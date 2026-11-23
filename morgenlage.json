@@ -1,18 +1,18 @@
 {
  "date": "Montag, 23. November 2026",
- "stand": "11:43",
+ "stand": "16:43",
  "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
  "tiles": [
   {
    "label": "Bitcoin",
-   "value": "61.224 $",
-   "change": "+4,13 % in 24 h (Stand 06:19 MEZ)",
+   "value": "63.888 $",
+   "change": "+5,3 % in 24 h (Stand 15:33 MEZ)",
    "dir": "up"
   },
   {
    "label": "Ether",
-   "value": "1.727 $",
-   "change": "+4,6 % in 24 h (Abruf gegen 06:35 MEZ)",
+   "value": "1.825 $",
+   "change": "+7,2 % in 24 h (Stand 15:33 MEZ)",
    "dir": "up"
   },
   {
@@ -23,15 +23,15 @@
   },
   {
    "label": "US-Rendite 10 Jahre",
-   "value": "4,94 %",
-   "change": "+0,03 Punkte im Asienhandel (Stand 05:31 MEZ)",
+   "value": "4,97 %",
+   "change": "+0,06 Punkte zum Vortag (Stand 15:42 MEZ)",
    "dir": "up"
   }
  ],
  "brief": [
-  "Märkte: Nach dem Kursrutsch vom Freitag startete der Dax am Montag im Plus, die US-Aktienfutures lagen am Morgen gut 2 % höher. Der Einkaufsmanagerindex für Deutschland stieg überraschend auf 55,0 Punkte, in der Eurozone stagnierte die Stimmung. Bitcoin stand am Morgen bei 61.224 $ (06:19 Uhr MEZ, BTC-ECHO), Ether bei rund 1.727 $; am Markt wird weiter eine Zinserhöhung der Fed am 9. Dezember erwartet, um 15:45 Uhr MEZ kommen die US-Einkaufsmanagerindizes.",
-  "Welt: Nach den russischen Angriffen auf die Region Kiew ist die Zahl der Todesopfer laut ZDFheute auf zehn gestiegen; die Nato berät am Montag in Brüssel über die russischen Luftraumverletzungen in Polen. Östlich der Straße von Hormus brennen Tanker, Iran meldet zwei, Berichte vom Vormittag nennen drei; Brent fiel laut finanznachrichten.de dennoch unter 90 $. In Belgien steht der Flugverkehr wegen eines Streiks von 7 bis 21 Uhr nahezu still.",
-  "Bund und Berlin: Söders Forderung nach einem Ausgleich der kalten Progression stößt in der Union und bei den Ländern auf Widerstand; der Haushalt 2027 soll laut dpa am Freitag beschlossen werden. In der Metallindustrie laufen ganztägige Warnstreiks, in Berlin bei Mercedes und BMW. Beim Brand im Krankenhaus Königin Elisabeth Herzberge in Lichtenberg wurden 15 Menschen verletzt, die Polizei geht von Brandstiftung durch einen Patienten aus; heute öffnen die meisten Berliner Weihnachtsmärkte."
+  "Märkte: Die Wall Street eröffnete mit einer kräftigen Erholung, nachdem Nvidia Jensen Huang wieder als Vorstandschef eingesetzt hat: Der S&P 500 lag zum Start rund 4 bis 4,6 % im Plus, der Nasdaq rund 6 bis 7 %, der Dax am Nachmittag rund 1,6 %. Bitcoin stieg auf 63.888 $ (15:33 Uhr MEZ, plus 5,3 % in 24 Stunden), Ether auf 1.825 $ (plus 7,2 %). Eine Zinserhöhung der Fed am 9. Dezember bleibt mit rund 93 % eingepreist, die zehnjährige US-Rendite liegt bei 4,97 %.",
+  "Welt: Nach den russischen Angriffen auf die Region Kiew ist die Zahl der Toten laut ZDFheute auf zehn gestiegen; die Nato berät in Brüssel im Rahmen regulärer Konsultationen über die Luftraumverletzungen in Polen, Generalsekretär Rutte ist in Berlin bei Kanzler Merz. Östlich der Straße von Hormus brennen Tanker, Brent fiel dennoch auf rund 88 $ (15:42 Uhr MEZ). In Belgien steht der Flugverkehr wegen eines Streiks bis 21 Uhr nahezu still.",
+  "Bund und Berlin: Die Bundesregierung weist Söders Forderung nach einem Ausgleich der kalten Progression zurück: Die Haushaltsberatungen seien abgeschlossen, der Etat 2027 soll am Freitag beschlossen werden. In der Metallindustrie laufen ganztägige Warnstreiks, in Berlin bei Mercedes und BMW. Nach dem Brand im Krankenhaus Königin Elisabeth Herzberge in Lichtenberg mit 15 Verletzten geht die Polizei von Brandstiftung durch einen Patienten aus; die meisten Berliner Weihnachtsmärkte haben geöffnet."
  ],
  "sections": [
   {
@@ -40,17 +40,17 @@
    "items": [
     {
      "tag": "Konjunktur · Börse",
-     "title": "Einkaufsmanagerindex für Deutschland steigt auf 55,0 Punkte – Stimmung in der Eurozone stagniert, Dax eröffnet im Plus",
-     "text": "Der Einkaufsmanagerindex für Deutschland ist im November laut aktiencheck auf 55,0 Punkte gestiegen, den höchsten Stand seit 56 Monaten; erwartet worden waren 53,2 nach 53,4 Punkten. In der Eurozone stagnierte die Stimmung der Einkaufsmanager laut dpa-AFX überraschend, sie bleibt über der Wachstumsschwelle; der Industrie-Index lag laut FXStreet mit 52,9 Punkten über den Erwartungen, Frankreich enttäuschte. Der Dax startete nach dem Kursrutsch der Vorwoche fester und stieg laut goldesel wieder über 25.000 Punkte.",
-     "source": "aktiencheck (Deutschland-PMI), 23.11.",
-     "url": "https://aktiencheck.de/artikel/einkaufsmanagerindex-deutschland-550-punkte-und-56-monatshoch-stuetzt-die"
+     "title": "Einkaufsmanagerindex für Deutschland steigt auf 55,0 Punkte – Dax am Nachmittag rund 1,6 % im Plus",
+     "text": "Der Einkaufsmanagerindex für Deutschland ist im November laut aktiencheck auf 55,0 Punkte gestiegen, den höchsten Stand seit 56 Monaten; erwartet worden waren 53,2 nach 53,4 Punkten. In der Eurozone stagnierte die Stimmung der Einkaufsmanager laut dpa-AFX überraschend, sie bleibt über der Wachstumsschwelle; der Industrie-Index lag laut FXStreet mit 52,9 Punkten über den Erwartungen, Frankreich enttäuschte. Der Dax startete nach dem Kursrutsch der Vorwoche fester und stieg laut goldesel wieder über 25.000 Punkte. Am Nachmittag lag der Dax laut JournalArta 1,59 % im Plus (15:42 Uhr MEZ), gestützt von der kräftigen Erholung an der Wall Street.",
+     "source": "JournalArta (Marktdaten, 15:42 Uhr MEZ), 23.11.",
+     "url": "https://journalarta.com/en/2026/11/23/stock-market-today-sp-500-jumps-3-9-and-nasdaq-5-8-at-the-open-as-vix-drops/"
     },
     {
      "tag": "Steuern · Haushalt · Koalition",
-     "title": "Kalte Progression: Widerstand gegen Söders Vorstoß – Unionsfraktion sieht die Länder am Zug, Grüne sprechen von Inszenierung",
-     "text": "NRW-Ministerpräsident Hendrik Wüst (CDU) hält einen Ausgleich für wünschenswert, aber derzeit nicht machbar; sein rheinland-pfälzischer Kollege Gordon Schnieder (CDU) verlangt, dass zusätzliche Entlastungen vollständig der Bund bezahlt. Der finanzpolitische Sprecher der Unionsfraktion, Fritz Güntzler, sagte, der Ausgleich sei bisher an den Ländern gescheitert; CSU-Landesgruppenchef Alexander Hoffmann forderte die anderen Ministerpräsidenten auf, sich zu erklären. Grünen-Fraktionschefin Britta Haßelmann nannte die Debatte eine Inszenierung Söders. Ein voller Ausgleich würde 2027 rund 4,2 Mrd. Euro kosten; der Bundeshaushalt soll laut dpa am Freitag beschlossen werden.",
-     "source": "Handelsblatt/dpa (Widerstand, 05:00 Uhr), 23.11.",
-     "url": "https://www.handelsblatt.com/politik/deutschland/bundeshaushalt-widerstand-gegen-soeders-vorstoss-zur-kalten-progression/100271928.html"
+     "title": "Kalte Progression: Bundesregierung weist Söders Vorstoß zurück – Haushaltsberatungen seien abgeschlossen",
+     "text": "Regierungssprecher Stefan Kornelius sagte am Montag, Bundeskanzler Friedrich Merz (CDU) befürworte den Ausgleich der kalten Progression grundsätzlich, die Debatte sei aber in den inzwischen abgeschlossenen Haushaltsberatungen geführt worden. Ein Sprecher von Finanzminister Lars Klingbeil (SPD) verwies auf die geplante Einkommensteuerreform, die kleine und mittlere Einkommen und vor allem Familien entlasten soll. CSU-Chef Markus Söder hatte gefordert, die Mehrbelastung auch 2027 für alle auszugleichen, und eine Beteiligung Bayerns zugesagt; NRW-Ministerpräsident Hendrik Wüst (CDU) hält das für wünschenswert, aber nicht machbar. Ein voller Ausgleich würde Bund, Länder und Kommunen 2027 rund 4,2 Mrd. Euro kosten; der Haushalt 2027 soll am Freitag im Bundestag beschlossen werden.",
+     "source": "ariva/dpa-AFX (Bundesregierung, 13:30 Uhr), 23.11.",
+     "url": "https://www.ariva.de/news/bundesregierung-weist-soeder-vorstoss-zu-kalter-progression-12217195"
     },
     {
      "tag": "Tarife · Metall",
@@ -108,17 +108,17 @@
    "items": [
     {
      "tag": "Ukraine · Russland · Nato",
-     "title": "Region Kiew: Zahl der Toten nach russischen Angriffen steigt auf zehn – Nato berät am Montag über Luftraumverletzungen in Polen",
-     "text": "Nach den russischen Angriffen auf das Kiewer Umland, unter anderem auf Dymer, Bila Zerkwa und einen Supermarkt bei Butscha, ist die Zahl der Todesopfer laut ZDFheute-Liveblog vom Montagmorgen auf zehn gestiegen; am Sonntag hatte Präsident Wolodymyr Selenskyj 14 Vermisste nach dem Einsturz eines Wohnhauses gemeldet. Selenskyj kündigte Antworten an und drängt die USA, bereits bezahlte Patriot-Raketen freizugeben; Russland habe in einer Woche rund 2.700 Drohnen, fast 1.460 Gleitbomben und 165 Raketen eingesetzt. Die Vertreter der 32 Nato-Staaten beraten am Montag in Brüssel über die russischen Marschflugkörper, die am Freitag in Polen abgestürzt waren. Der vor Finnland getroffene Frachter „Sparta II“ wird in russische Gewässer geschleppt. Ergebnisse der Nato-Beratungen lagen bis zum späten Vormittag nicht vor.",
-     "source": "ZDFheute (Ukraine-Liveblog, 05:49 Uhr), 23.11.",
-     "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
+     "title": "Region Kiew: Zahl der Toten nach russischen Angriffen steigt auf zehn – Nato berät über Polen, Rutte bei Merz im Kanzleramt",
+     "text": "Nach den russischen Angriffen auf das Kiewer Umland, unter anderem auf Dymer, Bila Zerkwa und einen Supermarkt bei Butscha, ist die Zahl der Todesopfer laut ZDFheute-Liveblog vom Montagmorgen auf zehn gestiegen; am Sonntag hatte Präsident Wolodymyr Selenskyj 14 Vermisste nach dem Einsturz eines Wohnhauses gemeldet. Selenskyj kündigte Antworten an und drängt die USA, bereits bezahlte Patriot-Raketen freizugeben; Russland habe in einer Woche rund 2.700 Drohnen, fast 1.460 Gleitbomben und 165 Raketen eingesetzt. Die Vertreter der 32 Nato-Staaten beraten am Montag in Brüssel über die russischen Marschflugkörper, die am Freitag in Polen abgestürzt waren. Der vor Finnland getroffene Frachter „Sparta II“ wird in russische Gewässer geschleppt. Laut einem Nato-Vertreter wurde dafür keine Sondersitzung einberufen, die Gespräche laufen im Rahmen der regulären Konsultationen. In Berlin tagt zugleich die Parlamentarische Versammlung der Nato mit Generalsekretär Mark Rutte, Außenminister Johann Wadephul und dem per Video zugeschalteten Selenskyj; für 15:30 Uhr war ein Empfang Ruttes durch Bundeskanzler Friedrich Merz angesetzt. Rutte hatte am Samstag in Warschau zugesagt, jeden Zentimeter polnischen Gebiets zu verteidigen, und eine Überprüfung der Abschreckung durch den Nato-Oberbefehlshaber angekündigt. Ergebnisse der Brüsseler Beratungen lagen in den abgerufenen Quellen bis zum Nachmittag nicht vor.",
+     "source": "finanzen.net/dpa-AFX (Nato, 05:49 Uhr), 23.11.",
+     "url": "https://www.finanzen.net/nachricht/aktien/nato-beraet-ueber-russische-luftraumverletzungen-in-polen-16080766"
     },
     {
      "tag": "Nahost · Iran · Golf",
-     "title": "Tanker brennen östlich von Hormus: Iran meldet zwei Schiffe, Berichte vom Vormittag nennen drei – Brent fällt laut Marktbericht unter 90 $",
-     "text": "Irans Marine erklärte laut der Agentur Mehr, zwei Supertanker seien in einem Sperrgebiet östlich der Straße von Hormus auf Minen gelaufen und in Brand geraten; eine unabhängige Bestätigung liegt nicht vor. Der stellvertretende Kommandeur der Revolutionsgarden, Mostafa Izadi, warf Irans Gegnern vor, mit wirtschaftlichem Druck Unruhen schüren zu wollen; die Garden stellten einen Werfer vor, der zwei Raketen gleichzeitig abfeuern kann. Der IWF-Dienst PortWatch zählte am 15. November zwei Durchfahrten durch die Meerenge, vor der Krise waren es 85 am Tag. Brent kostete laut straits.live um 03:38 Uhr MEZ 92,08 $, 0,53 % weniger als beim letzten Schlusskurs. Am Montagvormittag war in deutschen Medienberichten von drei getroffenen Tankern die Rede; der Ölpreis gab zum Wochenstart dennoch nach, Brent fiel laut finanznachrichten.de unter 90 $.",
-     "source": "straits.live (Hormus-Lagebild, 04:00 Uhr MEZ), 23.11.",
-     "url": "https://straits.live/briefs/2026-11-23"
+     "title": "Tanker brennen östlich von Hormus: Iran meldet zwei Schiffe, Berichte nennen drei – Brent fällt am Nachmittag auf rund 88 $",
+     "text": "Irans Marine erklärte laut der Agentur Mehr, zwei Supertanker seien in einem Sperrgebiet östlich der Straße von Hormus auf Minen gelaufen und in Brand geraten; eine unabhängige Bestätigung liegt nicht vor. Der stellvertretende Kommandeur der Revolutionsgarden, Mostafa Izadi, warf Irans Gegnern vor, mit wirtschaftlichem Druck Unruhen schüren zu wollen; die Garden stellten einen Werfer vor, der zwei Raketen gleichzeitig abfeuern kann. Der IWF-Dienst PortWatch zählte am 15. November zwei Durchfahrten durch die Meerenge, vor der Krise waren es 85 am Tag. Brent kostete laut straits.live um 03:38 Uhr MEZ 92,08 $, 0,53 % weniger als beim letzten Schlusskurs. Am Montagvormittag war in deutschen Medienberichten von drei getroffenen Tankern die Rede; der Ölpreis gab zum Wochenstart dennoch nach, Brent fiel laut finanznachrichten.de unter 90 $. Am Nachmittag kostete Brent laut JournalArta 88,15 $, 4,78 % weniger als am Freitag (15:42 Uhr MEZ).",
+     "source": "JournalArta (Marktdaten, 15:42 Uhr MEZ), 23.11.",
+     "url": "https://journalarta.com/en/2026/11/23/stock-market-today-sp-500-jumps-3-9-and-nasdaq-5-8-at-the-open-as-vix-drops/"
     },
     {
      "tag": "Libyen · Mittelmeer",
@@ -149,27 +149,27 @@
    "items": [
     {
      "tag": "Markt",
-     "title": "Bitcoin am Montag bei rund 61.200 bis 61.400 $, Ether am Morgen bei rund 1.727 $ – Stimmungsindex weiter bei 11",
-     "text": "BTC-ECHO nannte um 06:19 Uhr MEZ einen Bitcoin-Kurs von 61.224 $ beziehungsweise 55.770 €, 4,13 % über dem Stand 24 Stunden zuvor. Ether stand laut CoinGecko bei rund 1.727 $ (plus 4,6 %, 24-Stunden-Spanne 1.646 bis 1.742 $). Am Samstag war Bitcoin bis auf etwa 55.100 $ gefallen. Der Fear-and-Greed-Index für Krypto steht laut KuCoin und CoinGabbar bei 11 („extreme Angst“); laut KuCoin wurden allein am 20. November Bitcoin-Verluste von rund 2,9 Mrd. $ realisiert, der Marktwert aller Stablecoins sank binnen 30 Tagen um gut 6 % auf rund 284,2 Mrd. $. finanzen.net nannte in seinem Marktbericht vom Montag 61.400 $ für Bitcoin, Liquidationen von 2,6 Mrd. $ und ein Wochenminus des Nasdaq von 10 %. Jüngere Kurse mit Zeitstempel konnten in diesem Lauf nicht abgerufen werden.",
-     "impact": "Beide Kurse liegen über den Ständen vom Sonntag und rund 6.000 $ beziehungsweise gut 170 $ über den Tiefs vom Wochenende. Die Stimmung bleibt laut Index extrem schwach, und der schrumpfende Stablecoin-Bestand deutet auf abfließendes Kapital. Wie belastbar die Erholung ist, zeigt sich mit dem US-Handel am Nachmittag.",
-     "source": "BTC-ECHO (Bitcoin-Kurs, 06:19 Uhr MEZ), 23.11.",
-     "url": "https://www.btc-echo.de/kurs/bitcoin/"
+     "title": "Bitcoin steigt auf rund 63.900 $, Ether auf rund 1.825 $ – Erholung parallel zu den Technologiewerten",
+     "text": "Bitcoin stand laut cryptoticker um 15:33 Uhr MEZ bei 63.888 $ (CoinGecko), 5,3 % über dem Stand 24 Stunden zuvor; Ether kostete 1.825 $ (plus 7,2 %). Auf Sicht von sieben Tagen liegt Bitcoin noch 1,4 % im Minus; das Wochentief vom Samstag lag bei 55.711 $, bei Ether bei 1.559 $. Solana und XRP legten rund 10 % zu, der Marktwert aller Kryptowährungen liegt bei 2,24 Billionen $, der Bitcoin-Anteil bei 58,2 %. Der Fear-and-Greed-Index steht weiter bei 11 („extreme Angst“). Zum US-Handelsstart stiegen die Aktien von Strategy um rund 16 % und von Coinbase um gut 8 %. Einen einzelnen Auslöser nennt der Bericht nicht; er verweist auf Eindeckungen von Leerverkäufen und die gleichzeitige Erholung der Technologieaktien.",
+     "impact": "Beide Kurse liegen gut 8.000 $ beziehungsweise rund 270 $ über den Tiefs vom Samstag, Bitcoin aber weiter unter dem Wochenhoch von 65.285 $ vom 16. November. Die Bewegung folgt den Aktienmärkten und nicht einer eigenen Krypto-Nachricht. Der Stimmungsindex zeigt unverändert extreme Angst.",
+     "source": "cryptoticker (Kurse laut CoinGecko, 15:33 Uhr MEZ), 23.11.",
+     "url": "https://cryptoticker.io/de/krypto-news-bitcoin-ether-rally-64000/"
     },
     {
      "tag": "Tech · Aktien",
-     "title": "US-Futures am Morgen gut 2 % im Plus, Dax eröffnet fester – Kospi fiel zeitweise fast 6 %, Seoul und Peking stützen ihre Märkte",
-     "text": "Die Futures auf den S&P 500 lagen im Asienhandel laut investingLive rund 2,2 % im Plus bei etwa 7.090 Punkten, die auf den Nasdaq 100 knapp 3 % bei etwa 25.870. Südkoreas Kospi verlor zeitweise fast 6 %, löste eine Handelsbremse aus und lag zuletzt rund 3,2 % im Minus; Hongkong gab etwa 0,7 %, Shanghai etwa 1 % nach, Tokio blieb wegen eines Feiertags geschlossen. Südkorea bereitet einen Stützungsfonds über 10,76 Billionen Won vor, China senkte die Margin-Anforderungen. Am Freitag hatte der Nasdaq Composite 5,3 % verloren, der S&P 500 3,7 %; Gold erholte sich am Montag um etwa 2 % auf rund 3.610 $. Der Dax eröffnete am Montag im Plus; dpa-AFX sprach von einer „Erholung auf Bewährung“.",
-     "impact": "Bitcoin lief zuletzt eng mit den Technologiewerten; die Erholung der US-Futures und des Kryptomarkts fallen zeitlich zusammen. Die Verluste in Asien zeigen, dass der Ausverkauf bei KI- und Chipwerten noch nicht überall verarbeitet ist. Der US-Handelsstart um 15:30 Uhr MEZ ist der nächste Orientierungspunkt.",
-     "source": "investingLive (Asien-Überblick, 05:31 Uhr MEZ), 23.11.",
-     "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-us-futures-hold-2-bounce/"
+     "title": "Wall Street eröffnet mit kräftiger Erholung: Nvidia setzt Jensen Huang wieder als Chef ein, Nasdaq zum Start rund 6 bis 7 % im Plus",
+     "text": "Der Verwaltungsrat von Nvidia hat Jensen Huang mit sofortiger Wirkung wieder als Vorstandschef eingesetzt; er war am 12. November zurückgetreten. Die Nvidia-Aktie stieg zur Eröffnung um rund 30 %. Laut Reuters lagen kurz nach Handelsbeginn der S&P 500 4,59 % im Plus bei 7.227 Punkten, der Nasdaq Composite 7,30 % bei 24.270 und der Dow Jones 2,27 % bei 49.240; JournalArta nannte um 15:42 Uhr MEZ plus 3,9 %, plus 5,8 % und plus 2,1 %. Der Volatilitätsindex VIX fiel um rund 25 % auf 26,76 Punkte. Dell und Super Micro gewannen jeweils rund 17 bis 19 %, CrowdStrike verlor nach der Ankündigung einer 43,9 Mrd. $ schweren Übernahme von Zscaler rund 10 %. Am Freitag hatte der S&P 500 3,7 % verloren. In Asien hatte der Kospi am Morgen zeitweise fast 6 % nachgegeben.",
+     "impact": "Bitcoin lief zuletzt eng mit den Technologiewerten, und die Erholung beider Märkte fällt zeitlich zusammen. Der Auslöser ist eine Unternehmensnachricht, an den Zinserwartungen hat sich wenig geändert. Ob die Gewinne bis zum US-Handelsschluss um 22 Uhr MEZ halten, ist offen.",
+     "source": "MarketScreener/Reuters (US-Eröffnung, 15:36 Uhr), 23.11.",
+     "url": "https://de.marketscreener.com/boerse-nachrichten/wall-street-eroeffnet-deutlich-hoeher-nachdem-nvidia-jensen-huang-wieder-zum-ceo-ernannt-hat-ce7851dada81f120"
     },
     {
      "tag": "Fed · Zinsen",
-     "title": "Zinserhöhung der Fed am 9. Dezember weiter erwartet – Bessent warnt vor zu straffer Geldpolitik, Trump rechnet mit weiteren Kursverlusten",
-     "text": "Der Markt preist laut CoinGabbar mit über 90 % eine Erhöhung um einen Viertelpunkt am 9. Dezember ein; der Leitzins liegt bei 3,75 bis 4,00 %. US-Finanzminister Scott Bessent warnte am Sonntag, die Fed riskiere, die Geldpolitik zu stark zu straffen; der Investor Bill Ackman forderte, das Inflationsziel auf 3 % anzuheben. US-Präsident Donald Trump sagte laut CoinGabbar, der Kursrutsch an den Börsen werde sich noch verschlimmern, und bezifferte die Wahrscheinlichkeit einer Rezession im nächsten Jahr auf 25 %. Die Rendite zehnjähriger US-Staatsanleihen stieg im Asienhandel um etwa 3 Basispunkte auf rund 4,94 %; am Mittwoch folgt die PCE-Inflation.",
-     "impact": "Die Aussicht auf höhere Zinsen bleibt Gegenwind für zinslose Anlagen wie Bitcoin. Stimmen aus Regierung und Finanzbranche gegen eine weitere Straffung ändern an der Markterwartung bisher nichts. Der PCE-Bericht am Mittwoch ist der letzte große Inflationswert vor der Entscheidung.",
-     "source": "CoinGabbar (Zinserwartung, Trump), 23.11.",
-     "url": "https://www.coingabbar.com/en/crypto-news-today-btc-price-fear-index-fed-hike-pce-inflation"
+     "title": "Zinserhöhung der Fed am 9. Dezember weiter erwartet: Markt preist rund 93 % ein – zehnjährige US-Rendite bei 4,97 %",
+     "text": "Das CME-FedWatch-Tool zeigt laut aktiencheck eine Wahrscheinlichkeit von rund 93 % für eine Zinserhöhung am 9. Dezember, nach fast 100 % in der Vorwoche; Citi rechnet mit einem Viertelpunkt. Der Leitzins liegt bei 3,75 bis 4,00 %. Die Rendite zehnjähriger US-Staatsanleihen stieg auf 4,972 %, der Dollar-Index auf 104,11 Punkte (plus 0,29 %), Gold verteuerte sich um knapp 4 % auf rund 3.669 $ je Unze (jeweils 15:42 Uhr MEZ, JournalArta). US-Finanzminister Scott Bessent hatte am Sonntag vor einer zu straffen Geldpolitik gewarnt. Um 22 Uhr MEZ spricht New-York-Fed-Chef John Williams; am Mittwoch folgt die PCE-Inflation.",
+     "impact": "Höhere Zinsen und Renditen bleiben Gegenwind für zinslose Anlagen wie Bitcoin; die Kurserholung vom Montag kam trotz steigender Renditen und eines festeren Dollars. Die leicht gesunkene Wahrscheinlichkeit ändert an der Grunderwartung einer Erhöhung nichts. Der PCE-Bericht am Mittwoch ist der letzte große Inflationswert vor der Entscheidung.",
+     "source": "aktiencheck (Wall-Street-Eröffnung, 16:14 Uhr), 23.11.",
+     "url": "https://aktiencheck.de/artikel/wall-street-sp-500-springt-zur-eroeffnung-um-fast-4-und-nasdaq-um-fast-6-ist-die"
     },
     {
      "tag": "ETF-Flüsse",
@@ -182,14 +182,14 @@
     {
      "tag": "Termin",
      "title": "Mo 23.11.: US-Einkaufsmanagerindizes, Nato-Rat zu Polen, Streik in Belgien",
-     "text": "Vorläufige US-Einkaufsmanagerindizes für November um 15:45 Uhr MEZ, dazu eine Rede von New-York-Fed-Chef John Williams; Einkaufsmanagerindizes auch für Eurozone und Großbritannien. Die Nato-Staaten beraten in Brüssel über die russischen Luftraumverletzungen in Polen. In Belgien ruht der Flugverkehr von 7 bis 21 Uhr weitgehend; Landwirte demonstrieren vor dem Kanzleramt.",
+     "text": "Die um 15:45 Uhr MEZ fälligen vorläufigen US-Einkaufsmanagerindizes für November lagen in den abgerufenen Quellen noch nicht vor; um 22 Uhr MEZ spricht New-York-Fed-Chef John Williams; Einkaufsmanagerindizes auch für Eurozone und Großbritannien. Die Nato-Staaten beraten in Brüssel über die russischen Luftraumverletzungen in Polen. In Belgien ruht der Flugverkehr von 7 bis 21 Uhr weitgehend; Landwirte demonstrieren vor dem Kanzleramt.",
      "source": "",
      "url": ""
     },
     {
      "tag": "Termin",
      "title": "Di 24.11.: VW-Tarifrunde beginnt, Berliner Linksfraktion entscheidet über Emde",
-     "text": "Auftakt der VW-Haustarifverhandlungen in Emden. Die Berliner Linksfraktion stimmt über den Ausschluss von Vanessa Emde ab. In Berlin-Spandau ist ab 6 Uhr ein 24-Stunden-Warnstreik an der Nonnendammallee angemeldet.",
+     "text": "Auftakt der VW-Haustarifverhandlungen in Emden. Die Berliner Linksfraktion stimmt über den Ausschluss von Vanessa Emde ab. In Berlin-Spandau ist ab 6 Uhr ein 24-Stunden-Warnstreik an der Nonnendammallee angemeldet. In den USA legen Analog Devices und Medtronic vor Börsenstart Quartalszahlen vor, Autodesk und Workday nach Handelsschluss.",
      "source": "",
      "url": ""
     },
@@ -217,7 +217,7 @@
     {
      "tag": "Termin",
      "title": "So 29.11.: Treffen der OPEC+",
-     "text": "Die Förderländer beraten über ihre Ölproduktion; Brent notiert wegen der Lage an der Straße von Hormus bei rund 92 $.",
+     "text": "Die Förderländer beraten über ihre Ölproduktion; Brent notiert wegen der Lage an der Straße von Hormus zuletzt bei rund 88 $.",
      "source": "",
      "url": ""
     },

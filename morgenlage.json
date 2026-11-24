@@ -1,37 +1,37 @@
 {
   "date": "Dienstag, 24. November 2026",
-  "stand": "06:44",
+  "stand": "11:40",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "60.450 $",
-      "change": "−1,8 % in 24 h (Stand 24.11., 03:40 MEZ)",
+      "value": "59.764 $",
+      "change": "−2,6 % in 24 h (Stand 24.11., 11:35 MEZ)",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.695 $",
-      "change": "−2,4 % in 24 h (Stand 24.11., 03:40 MEZ)",
+      "value": "1.683 $",
+      "change": "−2,2 % in 24 h (Stand 24.11., 11:35 MEZ)",
       "dir": "down"
     },
     {
       "label": "US-Leitzins (Fed)",
       "value": "3,75–4,00 %",
-      "change": "Erhöhung am 9.12. erwartet (FedWatch rund 98 %)",
+      "change": "Erhöhung am 9.12. erwartet (FedWatch rund 98 %, Stand 23.11.)",
       "dir": "warn"
     },
     {
       "label": "US-Rendite 10 Jahre",
       "value": "rund 4,93 %",
-      "change": "nach 4,92 % am Freitag (24.11., früher Asienhandel)",
+      "change": "nach 4,92 % am Freitag (Stand 24.11., früher Asienhandel)",
       "dir": "warn"
     }
   ],
   "brief": [
-    "Märkte: Bitcoin hat die Erholung vom Montag wieder abgegeben: Am späten Montag fiel der Kurs auf Coinbase und Bitstamp kurz unter 60.000 $, um 03:40 Uhr MEZ stand er bei 60.450 $ (−1,8 % in 24 Stunden), Ether bei 1.695 $ (−2,4 %). Aus den US-Spot-Bitcoin-ETFs flossen am Montag laut SoSoValue netto 570 Mio. $ ab, der fünfte Minustag in Folge. Die Aktienrally nach der Rückkehr von Jensen Huang an die Nvidia-Spitze setzte sich dagegen in Asien fort: Kospi plus 6,5 %, Nikkei plus 3,9 %.",
-    "Welt: Die Nato verlegt nach den drei in Polen abgestürzten russischen Marschflugkörpern ein Awacs-Aufklärungsflugzeug nach vorn, laut dpa nach Litauen; Polens Regierungschef Donald Tusk bittet die Visegrad-Staaten um eine gemeinsame Aktion für die Ukraine. Iran will die US-Seeblockade „mit allen Mitteln“ bekämpfen und nennt eine Öffnung der Straße von Hormus binnen zwei Tagen möglich, falls die USA die Forderungen erfüllen. Brent kostete am Dienstagmorgen rund 86 $.",
-    "Bund und Berlin: Um 10 Uhr erscheint das Ifo-Geschäftsklima (Oktober: 90,2 Punkte). Der Bundestag soll den Haushalt 2027 am Freitag beschließen: 560,92 Mrd. Euro Ausgaben und 122,97 Mrd. Euro Nettokreditaufnahme im Kernhaushalt. Die Berliner Linksfraktion stimmt ab 15 Uhr über den Ausschluss von Vanessa Emde ab, nötig sind mindestens 30 der 44 Stimmen; die IG Metall setzt ihre Warnstreiks fort."
+    "Märkte: Bitcoin ist wieder unter 60.000 $ gefallen: Um 11:35 Uhr MEZ stand der Kurs laut CoinGecko bei 59.764 $ (−2,6 % in 24 Stunden), Ether bei 1.683 $ (−2,2 %). Aus den US-Spot-Bitcoin-ETFs flossen am Montag netto 570 Mio. $ ab, der fünfte Minustag in Folge. Die Aktienrally nach der Rückkehr von Jensen Huang an die Nvidia-Spitze läuft in Europa aus: Der Dax lag am späten Vormittag 0,1 % im Minus bei 25.318 Punkten, der Hang Seng fiel auf den tiefsten Stand seit mehr als einem Jahr.",
+    "Welt: In der Nacht auf Dienstag ist eine russische Aufklärungsdrohne beim Grenzort Dorohusk kurz in den polnischen Luftraum eingedrungen; Polen verzichtete auf einen Abschuss und bestellte den russischen Botschafter ein, die Nato verlegt ein Awacs-Flugzeug nach Litauen. Iran meldet brennende Tanker nach Minentreffern in der Straße von Hormus – die Revolutionsgarden sprechen von drei Schiffen unter US-Geleit, die Armee von zwei; eine Bestätigung der USA liegt nicht vor. Brent kostete am Vormittag rund 86 $.",
+    "Bund und Berlin: Das Ifo-Geschäftsklima ist im November auf 90,6 Punkte gestiegen (Oktober revidiert: 90,1), etwas mehr als erwartet. Finanzminister Lars Klingbeil verteidigte im Bundestag den Etat 2027 mit 560,9 Mrd. Euro Ausgaben, beschlossen werden soll er am Freitag. Die Berliner Linksfraktion stimmt ab 15 Uhr über den Ausschluss von Vanessa Emde ab; nach der SPD machen auch die Grünen den Ausschluss zur Bedingung für Rot-Grün-Rot."
   ],
   "sections": [
     {
@@ -39,25 +39,25 @@
       "title": "Deutschland",
       "items": [
         {
+          "tag": "Konjunktur · Börse",
+          "title": "Ifo-Geschäftsklima steigt auf 90,6 Punkte – höchster Stand seit Frühjahr 2023, Dax kaum verändert",
+          "text": "Der Ifo-Index ist im November auf 90,6 Punkte gestiegen, nach revidiert 90,1 im Oktober; Volkswirte hatten 90,5 erwartet. Die Unternehmen bewerten ihre Lage mit 89,4 Punkten (Vormonat 88,8) und ihre Erwartungen mit 91,9 Punkten (revidiert 91,5) besser. Bei Dienstleistern und im Handel hellte sich die Stimmung auf, in der Industrie trübte sie sich nach sechs Anstiegen in Folge ein, am Bau gab der Index leicht nach. Ifo-Präsident Clemens Fuest sieht die Erholung vorankommen, ihr fehle aber die Breite. Der Dax lag am späten Vormittag laut AP 0,1 % im Minus bei 25.318 Punkten, nach plus 2,2 % am Montag.",
+          "source": "aktiencheck (Ifo-Zahlen, 10:32 Uhr), 24.11.",
+          "url": "https://aktiencheck.de/artikel/ifo-geschaeftsklima-steigt-im-november-auf-906-punkte-dienstleister-und-handel"
+        },
+        {
           "tag": "Haushalt · Mittelstand",
-          "title": "Haushaltswoche im Bundestag: Etat 2027 mit 560,92 Mrd. Euro Ausgaben – Schlussabstimmung am Freitag",
-          "text": "Der Bundestag berät in dieser Woche abschließend über den Haushalt 2027, die Schlussabstimmung folgt am Freitag nach einer 90-minütigen dritten Lesung. Nach den Beschlüssen des Haushaltsausschusses sind Ausgaben von 560,92 Mrd. Euro vorgesehen, 6,9 % mehr als 2026, dazu Investitionen von 61,85 Mrd. Euro und eine Nettokreditaufnahme von 122,97 Mrd. Euro, von der 84,55 Mrd. Euro unter die Bereichsausnahme fallen. Im Begleitgesetz wird die Abgabe auf zuckerhaltige Getränke auf 2028 verschoben. In einer Blitzumfrage des Mittelstandsverbands BVMW unter 830 Unternehmen sehen 87 % im Etat keinen klaren Wachstumsplan.",
-          "source": "Bundestag (Haushaltsgesetz 2027, Stand 23.11.)",
-          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-dritte-lesung-1232350"
+          "title": "Haushaltswoche gestartet: Klingbeil verteidigt Etat 2027 mit 560,9 Mrd. Euro – Schlussabstimmung am Freitag",
+          "text": "Zum Auftakt der Schlussberatung im Bundestag verteidigte Finanzminister Lars Klingbeil (SPD) am Dienstagvormittag den Haushalt 2027 und äußerte Verständnis für den Unmut in der Opposition und in Teilen der Koalitionsfraktionen; eine Lücke von 34 Mrd. Euro zu schließen, sei äußerst herausfordernd gewesen. Vorgesehen sind Ausgaben von rund 560,9 Mrd. Euro, 36,4 Mrd. Euro mehr als 2026, Investitionen von 61,9 Mrd. Euro und eine Nettokreditaufnahme von 123,0 Mrd. Euro. Beschlossen werden soll der Etat am Freitag. In einer Blitzumfrage des Mittelstandsverbands BVMW unter 830 Unternehmen sehen 87 % im Etat keinen klaren Wachstumsplan.",
+          "source": "ad-hoc-news (Klingbeil, 10:55 Uhr), 24.11.",
+          "url": "https://www.ad-hoc-news.de/politik/bundeshaushalt-2027-klingbeil-verteidigt-560-9-milliarden-etat/70549142"
         },
         {
           "tag": "Tarife · Metall",
-          "title": "Metall-Tarifstreit: Warnstreiks gehen am Dienstag weiter – im Norden 22 Betriebe, vierte Runde am Mittwoch in Mannheim",
-          "text": "Die IG Metall Küste hat für Dienstag in 22 Betrieben der Metall- und Elektroindustrie zu 24-Stunden-Warnstreiks aufgerufen, darunter mehrere Airbus-Standorte; am Montag waren es 19 Betriebe. Am Mittwoch sollen die Bezirke Baden-Württemberg und Nordrhein-Westfalen in Mannheim gemeinsam ein neues Angebot der Arbeitgeber entgegennehmen, Erklärungen sind für den Mittag angekündigt. Gefordert sind 5 % mehr Geld bei einem Jahr Laufzeit, die Arbeitgeber bieten eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten Laufzeit.",
-          "source": "onvista/dpa-AFX (IG Metall Küste, 10:22 Uhr), 23.11.",
-          "url": "https://www.onvista.de/news/2026/11-23-ig-metall-kueste-ruft-auch-fuer-dienstag-zu-warnstreiks-auf-0-10-26579433"
-        },
-        {
-          "tag": "Konjunktur · Börse",
-          "title": "Ifo-Geschäftsklima um 10 Uhr – Dax schloss am Montag 2,2 % höher bei 25.337 Punkten",
-          "text": "Das Ifo-Institut veröffentlicht um 10 Uhr sein Geschäftsklima für November; im Oktober lag der Index bei 90,2 Punkten nach 89,9 im September. Die DekaBank rechnet laut aktiencheck mit einem leichten Anstieg und verweist auf die gesunkenen Ölpreise, einen Konsenswert nennt der Bericht nicht. Der Dax hatte am Montag bei 25.337,27 Punkten geschlossen. Außerdem auf dem Kalender: die europäischen Pkw-Neuzulassungen für Oktober (Acea) und der zweite Tag des BASF-Kapitalmarkttags.",
-          "source": "aktiencheck (Ifo-Vorschau, 21:48 Uhr), 23.11.",
-          "url": "https://aktiencheck.de/artikel/ifo-geschaeftsklima-dienstag-um-10-uhr-entscheidet-sich-ob-der-aufschwung-haelt"
+          "title": "Metall-Tarifstreit: Im Norden knapp 40.000 Beschäftigte zum Warnstreik aufgerufen – vierte Runde am Mittwoch in Mannheim",
+          "text": "Die IG Metall Küste hat für Dienstag knapp 40.000 Beschäftigte in 22 Betrieben zu ganztägigen Warnstreiks aufgerufen, allein bei Airbus fast 34.000; betroffen sind auch Liebherr in Rostock und die Ariane Group in Bremen. Am Montag hatten sich nach Gewerkschaftsangaben in Baden-Württemberg rund 90.000 Beschäftigte aus 45 Betrieben beteiligt, in Bayern rund 15.000, im Bezirk Mitte rund 46.600. Am Mittwoch wird in Mannheim für Baden-Württemberg weiterverhandelt. Gefordert sind 5 % mehr Geld bei zwölf Monaten Laufzeit; die Arbeitgeber bieten eine Einmalzahlung im Juli 2027 und 1,3 % ab Juli 2028 bei einer Laufzeit bis Ende 2028.",
+          "source": "Münster Aktuell/dpa (Küste, 07:30 Uhr), 24.11.",
+          "url": "https://ms-aktuell.de/welt/ig-metall-warnstreiks-24-11-2026/"
         },
         {
           "tag": "Kanzler · Nato · Ukraine",
@@ -74,31 +74,31 @@
       "items": [
         {
           "tag": "Landespolitik",
-          "title": "Linksfraktion stimmt ab 15 Uhr über Ausschluss von Vanessa Emde ab – mindestens 30 von 44 Stimmen nötig",
-          "text": "Die Linksfraktion im Abgeordnetenhaus entscheidet am Nachmittag ab 15 Uhr in geheimer Abstimmung über den Antrag der Fraktionsvorsitzenden Elif Eralp und Tobias Schulze, die Neuköllner Abgeordnete Vanessa Emde auszuschließen. Nötig ist eine Zweidrittelmehrheit der 44 Mitglieder, also mindestens 30 Ja-Stimmen. Emde hatte ihr Direktmandat mit 46,2 % der Erststimmen gewonnen und lehnt einen Mandatsverzicht ab; SPD-Landeschef Steffen Krach hat eine Koalition ausgeschlossen, falls sie in der Fraktion bleibt. Gegen einen Ausschluss könnte sie vor dem Berliner Verfassungsgerichtshof klagen.",
-          "source": "Abendzeitung/dpa (Abstimmung ab 15 Uhr, 06:06 Uhr), 24.11.",
-          "url": "https://www.abendzeitung-muenchen.de/politik/fraktionsausschluss-von-emde-berliner-linke-entscheidet-art-1175280"
+          "title": "Emde-Abstimmung ab 15 Uhr: Auch Grüne machen Ausschluss zur Bedingung – Wegner sieht tieferes Problem bei der Linken",
+          "text": "Die Linksfraktion im Abgeordnetenhaus entscheidet am Nachmittag ab 15 Uhr in geheimer Abstimmung über den Ausschluss der Neuköllner Abgeordneten Vanessa Emde; nötig sind mindestens 30 der 44 Stimmen. Grünen-Bundeschefin Franziska Brantner riet in der FAZ von einer Regierung mit der Linken ab, falls der Ausschluss scheitert, die Berliner Landesvorsitzende Nina Stahr nannte den Antrag richtig. Die SPD hatte den Ausschluss bereits zur Koalitionsbedingung gemacht. Der Regierende Bürgermeister Kai Wegner (CDU) sagte, die Linke habe ein strukturelles Problem mit Antisemitismus, das mit dem Ausschluss einer einzelnen Abgeordneten nicht gelöst sei.",
+          "source": "Berliner Zeitung (Grüne, 10:38 Uhr), 24.11.",
+          "url": "https://www.berliner-zeitung.de/article/gruene-machen-emde-ausschluss-zur-bedingung-fuer-buendnis-mit-linken-10630076"
         },
         {
           "tag": "Verkehr · BVG · S-Bahn",
           "title": "Verkehr am Dienstag: Mittelstraße bis Freitag gesperrt, Demos in Charlottenburg und Marienfelde, S3 abends unterbrochen",
-          "text": "Die Mittelstraße in Mitte ist ab 6 Uhr bis Freitagabend zwischen Friedrichstraße und Neustädtischer Kirchstraße in beiden Richtungen gesperrt, die Röblingstraße in Tempelhof bleibt nach einem Wasserrohrbruch bis auf Weiteres dicht. Demonstrationen können von 16:30 bis 18:30 Uhr die Schloßstraße in Charlottenburg und von 17:30 bis 19 Uhr die Gegend um die Marienfelder Allee kurz blockieren; rund um die Uber Arena ist wegen eines Eishockeyspiels (19:30 Uhr) mehr Verkehr zu erwarten. Auf der S3 fahren von 21:45 bis 1:30 Uhr keine Züge zwischen Erkner und Friedrichshagen, es gibt Ersatzbusse. Auf der Rudolf-Wissell-Brücke der A100 wird in den Nächten bis Donnerstag von 22 bis 5 Uhr gearbeitet; die Chemnitzer Straße in Kaulsdorf ist bis 27. November gesperrt.",
+          "text": "Die Mittelstraße in Mitte ist bis Freitagabend zwischen Friedrichstraße und Neustädtischer Kirchstraße in beiden Richtungen gesperrt, die Röblingstraße in Tempelhof bleibt nach einem Wasserrohrbruch bis auf Weiteres dicht. Demonstrationen können von 16:30 bis 18:30 Uhr die Schloßstraße in Charlottenburg und von 17:30 bis 19 Uhr die Gegend um die Marienfelder Allee kurz blockieren; rund um die Uber Arena ist wegen eines Eishockeyspiels (19:30 Uhr) mehr Verkehr zu erwarten. Auf der S3 fahren von 21:45 bis 1:30 Uhr keine Züge zwischen Erkner und Friedrichshagen, es gibt Ersatzbusse. Auf der Rudolf-Wissell-Brücke der A100 wird in den Nächten bis Donnerstag von 22 bis 5 Uhr gearbeitet.",
           "source": "VIZ Berlin (Verkehrsvorschau, Stand 23.11., 15:28 Uhr)",
           "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
         },
         {
-          "tag": "Warnstreik · Industrie",
-          "title": "Metall-Warnstreiks: Nach BMW in Spandau und Mercedes in Marienfelde sind für Dienstag weitere angekündigt",
-          "text": "Im BMW-Motorradwerk in Spandau lief am Montag ab 6 Uhr ein ganztägiger Warnstreik, bei Mercedes-Benz in Marienfelde und Ludwigsfelde begannen die 24-Stunden-Streiks am Sonntagabend. Laut IG Metall beteiligten sich bis zum frühen Montagnachmittag deutlich mehr als 8.000 Beschäftigte in Berlin, Brandenburg und Sachsen. Der Arbeitgeberverband VME nennt die Forderung von 5 % überzogen und beziffert sein Angebot auf insgesamt 2,3 %. Verhandlungsführer Jan Otto kündigte für Dienstag weitere Warnstreiks an; welche Betriebe betroffen sind, ließ sich bei diesem Lauf nicht abrufen.",
-          "source": "Berliner Zeitung (Warnstreiks, 18:04 Uhr), 23.11.",
-          "url": "https://www.berliner-zeitung.de/article/dudenhoeffer-ueber-streiks-bei-bmw-und-mercedes-in-berlin-es-braucht-einen-wie-gerhard-schroeder-10628290"
+          "tag": "Polizei · Schulen",
+          "title": "Drohmails an Schulen: Berliner GdP vermutet gezielte Verunsicherung – wenig Hoffnung auf Böllerverbot zu Silvester",
+          "text": "Nach den Bombendrohungen per E-Mail, die am Montag Hunderte Schulen in Deutschland erreichten und zu vorsorglichen Räumungen führten, sieht die Gewerkschaft der Polizei (GdP) in Berlin eine gezielte Aktion, die Menschen verunsichern soll. Die Polizei sei auf solche Lagen gut vorbereitet, teilte die GdP mit. Für ein Verbot privaten Silvesterfeuerwerks sieht die Gewerkschaft in diesem Jahr kaum noch Chancen. Neue Angaben zu betroffenen Berliner Schulen ließen sich bei diesem Lauf nicht im Volltext abrufen.",
+          "source": "Spiegel (GdP zu Drohmails), 24.11.",
+          "url": "https://www.spiegel.de/panorama/justiz/schulen-gewerkschaft-der-polizei-vermutet-hinter-drohmails-gezielte-aktion-zur-destabilisierung-a-89928f0e-0031-411e-9acd-d2891ef85a0c"
         },
         {
-          "tag": "Polizei · Feuerwehr",
-          "title": "13-Jähriger stirbt auf Güterwaggon in Ruhleben – Ermittlungen nach Klinikbrand in Lichtenberg",
-          "text": "Auf dem Güterbahnhof Ruhleben in Spandau wurde am Sonntagnachmittag ein 13-Jähriger tot auf einem abgestellten Güterwaggon gefunden; nach Angaben der Polizei kam er der Oberleitung zu nahe, Hinweise auf Fremdverschulden gibt es nicht. Nach dem Brand im Evangelischen Krankenhaus Königin Elisabeth Herzberge vom Sonntagabend mit 15 Verletzten ermittelt die Polizei wegen besonders schwerer Brandstiftung gegen einen Patienten. Neuere Polizeimeldungen ließen sich bei diesem Lauf nicht abrufen.",
-          "source": "Tagesspiegel/dpa (Ruhleben, Stand 17:08 Uhr), 23.11.",
-          "url": "https://www.tagesspiegel.de/berlin/dpa-13-jahriger-auf-guterzugdach-in-berlin-spandau-tot-aufgefunden-16314320.html"
+          "tag": "Warnstreik · Industrie",
+          "title": "Metall-Warnstreiks in der Region: Nach BMW in Spandau und Mercedes in Marienfelde weitere für Dienstag angekündigt",
+          "text": "Im BMW-Motorradwerk in Spandau lief am Montag ein ganztägiger Warnstreik, bei Mercedes-Benz in Marienfelde und Ludwigsfelde begannen die 24-Stunden-Streiks am Sonntagabend. Laut IG Metall beteiligten sich bis zum frühen Montagnachmittag deutlich mehr als 8.000 Beschäftigte in Berlin, Brandenburg und Sachsen. Der Arbeitgeberverband VME wirft der Gewerkschaft vor, ohne Not zu streiken. Verhandlungsführer Jan Otto kündigte für Dienstag weitere Warnstreiks an; welche Betriebe betroffen sind, ließ sich auch bei diesem Lauf nicht abrufen.",
+          "source": "Berliner Zeitung (Warnstreiks, 18:04 Uhr), 23.11.",
+          "url": "https://www.berliner-zeitung.de/article/dudenhoeffer-ueber-streiks-bei-bmw-und-mercedes-in-berlin-es-braucht-einen-wie-gerhard-schroeder-10628290"
         }
       ]
     },
@@ -108,17 +108,17 @@
       "items": [
         {
           "tag": "Nato · Polen · Ukraine",
-          "title": "Nach Raketenabstürzen in Polen: Nato verlegt Awacs-Flugzeug, Tusk wendet sich an die Visegrad-Staaten",
-          "text": "Nach Beratungen der 32 Verbündeten am Montagabend hat die Nato die Verlegung eines Awacs-Aufklärungsflugzeugs an einen vorgeschobenen Standort gebilligt, nach dpa-Informationen nach Litauen; Oberbefehlshaber Alexus Grynkewich prüft weitere Verlegungen. Polens Regierungschef Donald Tusk bat die Regierungschefs von Tschechien, der Slowakei und Ungarn um eine gemeinsame europäische Aktion zur Unterstützung der Ukraine. Am späten Montagabend gab es in Teilen der Woiwodschaft Lublin Luftalarm, der kurz darauf aufgehoben wurde. Am Freitag waren drei russische Marschflugkörper vom Typ Ch-101 in Polen abgestürzt, verletzt wurde niemand.",
-          "source": "t-online/dpa (Visegrad, Awacs, 00:35 Uhr), 24.11.",
-          "url": "https://www.t-online.de/nachrichten/ausland/id_101543026/polen-wendet-sich-nach-raketenvorfaellen-an-visegrad-gruppe.html"
+          "title": "Russische Aufklärungsdrohne dringt in Polens Luftraum ein – Warschau bestellt Botschafter ein, Awacs nach Litauen",
+          "text": "In der Nacht auf Dienstag ist eine mit Kameras ausgerüstete russische Drohne beim Grenzort Dorohusk im Bezirk Lublin kurz in den polnischen Luftraum eingedrungen; kurz zuvor hatte es dort Luftalarm gegeben. Das Militär verfolgte das Objekt nach eigenen Angaben durchgehend per Radar und verzichtete mit Blick auf die Zivilbevölkerung auf einen Abschuss. Vizeverteidigungsminister Paweł Zalewski geht von Absicht aus, Polen bestellte den russischen Botschafter ein. Die Nato verlegt ein Awacs-Frühwarnflugzeug nach Litauen und prüft weitere Verlegungen; Regierungschef Donald Tusk bat die Visegrad-Staaten um eine gemeinsame Aktion für die Ukraine. Am Freitag waren drei russische Marschflugkörper in Polen abgestürzt.",
+          "source": "Tagesspiegel/dpa (Drohne, 11:00 Uhr), 24.11.",
+          "url": "https://www.tagesspiegel.de/internationales/dpa-wir-gehen-davon-aus-dass-es-absicht-war-russische-drohne-dringt-in-polens-luftraum-ein-16318099.html"
         },
         {
           "tag": "Nahost · Iran · Golf",
-          "title": "Iran: Blockade „mit allen Mitteln“ bekämpfen – Hormus könnte binnen zwei Tagen öffnen, wenn die USA einlenken",
-          "text": "Irans Außenamtssprecher Esmaeil Baghaei nannte die US-Seeblockade am Montag eine militärische Aggression, gegen die sich sein Land nach Artikel 51 der UN-Charta mit allen verfügbaren Mitteln wehren dürfe; die Straße von Hormus könne binnen zwei Tagen wieder öffnen, wenn die USA die Forderungen erfüllten, darunter das Ende der Blockade. Iranische Gerichte sprachen dem Land laut Justiz 290 Mrd. $ Schadenersatz gegen die USA zu. Laut Saxo traf US-Vizepräsident JD Vance Katars Regierungschef zu möglichen Gesprächen mit Teheran, Präsident Trump hat weitere Angriffe bis nach dem Jahreswechsel ausgesetzt. CNBC meldet am Dienstag unter Berufung auf Iran, drei Tanker seien trotz US-Geleit auf Minen gelaufen, und das US-Finanzministerium weite die Sanktionen aus; der Bericht ließ sich bei diesem Lauf nicht im Volltext abrufen.",
-          "source": "Dawn/AFP (Baghaei, 02:46 Uhr MEZ), 24.11.",
-          "url": "https://www.dawn.com/news/2046677/iran-vows-to-use-all-available-means-to-counter-us-blockade"
+          "title": "Iran meldet brennende Tanker nach Minentreffern in der Straße von Hormus – keine Bestätigung aus den USA",
+          "text": "Die iranischen Revolutionsgarden erklärten laut der Staatsagentur IRNA, am Montag seien drei Öltanker in der Straße von Hormus auf Seeminen gelaufen und nach Explosionen in Brand geraten, obwohl sie vom US-Militär begleitet wurden. Irans Armee sprach am Dienstagvormittag laut Al Jazeera von zwei Tankern, die Feuer fingen und liegen blieben. Das US-Regionalkommando Centcom hatte sich laut Jerusalem Post zunächst nicht geäußert. Außenminister Abbas Araghtschi nannte eine Landblockade Irans wegen der Größe des Landes praktisch unmöglich. Am Montag hatte Teheran angekündigt, die US-Seeblockade mit allen Mitteln zu bekämpfen. Brent kostete am Vormittag laut AP 86,38 $ (−0,4 %).",
+          "source": "Jerusalem Post (Revolutionsgarden, Centcom), 24.11.",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-915899"
         },
         {
           "tag": "Ukraine · Libyen · Baltikum",
@@ -130,16 +130,16 @@
         {
           "tag": "Russland · Weltraum",
           "title": "Berichte über russischen Satelliten mit Atomsprengkopf: Start schon im Dezember möglich – Moskau dementiert",
-          "text": "Nach Recherchen von WDR, NDR und Süddeutscher Zeitung, die sich auf westliche Geheimdienste, Bundeswehr und BND berufen, könnte Russland den Satelliten „Sputnik-S“ mit einem nuklearen Sprengkopf bereits im Dezember starten. Merz nannte die Berichte nicht neu, aber schockierend; Verteidigungsminister Pistorius mahnte laut t-online zur Ruhe. Das Auswärtige Amt spricht von einem eklatanten Bruch des Weltraumvertrags von 1967, sollte eine Atomwaffe im All stationiert werden; die russische Botschaft wies die Berichte als haltlose Propaganda zurück.",
+          "text": "Nach Recherchen von WDR, NDR und Süddeutscher Zeitung, die sich auf westliche Geheimdienste, Bundeswehr und BND berufen, könnte Russland den Satelliten „Sputnik-S“ mit einem nuklearen Sprengkopf bereits im Dezember starten. Merz nannte die Berichte nicht neu, aber schockierend. Das Auswärtige Amt spricht von einem eklatanten Bruch des Weltraumvertrags von 1967, sollte eine Atomwaffe im All stationiert werden; die russische Botschaft wies die Berichte als haltlose Propaganda zurück.",
           "source": "ariva/dpa-AFX (Merz, Bundesregierung, 17:37 Uhr), 23.11.",
           "url": "https://www.ariva.de/news/roundup-merz-berichte-ueber-moskaus-atom-plaene-im-all-12217590"
         },
         {
-          "tag": "UN · KI · Kongo",
-          "title": "Guterres fordert Verhandlungen über KI-Risikorahmen – Kämpfe im Kongo behindern Ebola-Helfer",
-          "text": "UN-Generalsekretär António Guterres rief am Montag zum Abschluss des Sondergipfels zur KI-Sicherheit in Bridgetown (Barbados) zu Gesprächen über ein multilaterales Rahmenwerk für das Management von KI-Risiken auf. In der kongolesischen Provinz Ituri unterbrachen schwere Kämpfe nahe einem Krankenhaus die Arbeit von Ebola-Helfern, die mehr als 24 Stunden Schutz suchen mussten; die WHO hat seit Jahresbeginn mehr als 87 Angriffe auf Gesundheitseinrichtungen im Land bestätigt.",
-          "source": "The Global Eye (UN News), 24.11.",
-          "url": "https://theglobaleye.it/2026/11/24/global-news-24-november-2026/"
+          "tag": "China · Raumfahrt · Kongo",
+          "title": "China startet Shenzhou-24 mit erstem ausländischen Raumfahrer – Impfallianz will 1,5 Mio. Ebola-Dosen für den Kongo",
+          "text": "China will am Mittwoch um 01:18 Uhr MEZ das Raumschiff Shenzhou-24 zur Raumstation Tiangong starten. Zur Besatzung gehört neben Tang Hongbo und Wu Yi der Pakistaner Muhammad Zeeshan Ali, der laut Reuters als erster Ausländer die chinesische Station betreten soll. Eine globale Impfallianz will laut Reuters 1,5 Mio. Dosen eines neuen Impfstoffs gegen den Bundibugyo-Stamm des Ebolavirus für den Kongo kaufen; Einzelheiten ließen sich bei diesem Lauf nicht abrufen.",
+          "source": "US News/Reuters (Shenzhou-24), 24.11.",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-23/china-to-launch-shenzhou-24-spaceship-with-first-foreign-astronaut"
         }
       ]
     },
@@ -149,47 +149,47 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin fällt zeitweise unter 60.000 $ und gibt die Erholung vom Montag ab – Ether bei 1.695 $",
-          "text": "Bitcoin fiel am späten Montag auf Coinbase und Bitstamp kurz unter 60.000 $; das Abendtief lag laut The Defiant 8 % unter dem Tageshoch und 30 % unter dem Hoch vom 21. Oktober, aber über dem Tief vom Wochenende. Um 03:40 Uhr MEZ stand Bitcoin laut CoinPaprika bei 60.450 $ (−1,8 % in 24 Stunden, −7,0 % in sieben Tagen), Ether bei 1.695 $ (−2,4 % und −7,5 %). Am Montagnachmittag hatte Bitcoin noch rund 64.500 $ erreicht. Der Fear-and-Greed-Index steht laut KuCoin bei 11, der Coinbase-Aufschlag ist seit 60 Tagen negativ.",
-          "source": "The Defiant (unter 60.000 $, 04:28 Uhr MEZ), 24.11.",
-          "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-60-000-erasing-monday-s-rebound",
-          "impact": "Der Kryptomarkt hat die Aktienrally nicht gehalten und notiert wieder nahe der Marke von 60.000 $, die KuCoin als Unterstützung nennt; darunter werden 58.000 und 55.000 $ genannt. Der negative Coinbase-Aufschlag deutet auf anhaltend schwache Nachfrage aus den USA hin. Ether liegt wieder unter 1.700 $, die Bestände auf Börsen sind laut CryptoQuant so hoch wie seit Ende Oktober nicht."
+          "title": "Bitcoin wieder unter 60.000 $ – 24-Stunden-Spanne von 59.467 bis 64.446 $, Ether bei 1.683 $",
+          "text": "Bitcoin stand um 11:35 Uhr MEZ laut CoinGecko bei 59.764 $ (−2,6 % in 24 Stunden), Ether bei 1.683 $ (−2,2 %). Die Spanne der vergangenen 24 Stunden reichte laut cryptoticker von 59.467 $ im Nachttief bis 64.446 $ am Montag; auf Wochensicht lag Bitcoin am Morgen 6,4 % im Minus, über 30 Tage knapp 25 %. Zum Rekordhoch von 126.080 $ aus dem Oktober 2025 fehlen gut 52 %. Der Fear-and-Greed-Index steht bei 11 von 100 Punkten.",
+          "source": "CoinGecko (Kurse 11:35 Uhr MEZ), 24.11.",
+          "url": "https://www.coingecko.com/de/munze/bitcoin",
+          "impact": "Der Kurs hat die Erholung vom Montag vollständig abgegeben und liegt wieder nahe dem Nachttief. Als nächste Marke nennt cryptoticker das Wochentief vom 21. November bei rund 55.700 $. Die Aktienrally an der Wall Street hat sich nicht auf den Kryptomarkt übertragen."
         },
         {
           "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs verlieren am Montag 570 Mio. $ – fünfter Abflusstag in Folge, IBIT allein minus 509 Mio. $",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Montag laut SoSoValue netto 570 Mio. $ ab, der fünfte Handelstag mit Abflüssen in Folge. Auf BlackRocks IBIT entfielen 509 Mio. $, Fidelitys FBTC verbuchte mit 13,3 Mio. $ den größten Zufluss; das Nettovermögen aller Fonds wird mit 74,13 Mrd. $ angegeben. In der Vorwoche waren es 1,79 Mrd. $ Abfluss, im November bis dahin laut KuCoin rund 4,14 Mrd. $. Die Ether-ETFs verloren in der Vorwoche 314 Mio. $; ein Montagswert für sie ließ sich nicht abrufen.",
-          "source": "PANews (SoSoValue, 06:12 Uhr MEZ), 24.11.",
-          "url": "https://panews.io/articles/01a20bf8-143b-7594-872d-eb56fc593050",
-          "impact": "Die Aktienrally vom Montag ist bei den ETF-Anlegern nicht angekommen, die Abflüsse kommen weiter fast vollständig aus dem größten Fonds. Analysten sprachen bei The Block bereits von einem strukturellen Abfluss. Der Marktmacher Wintermute wollte vor einer Bodenbildung mehrere Wochen mit Nettozuflüssen sehen."
+          "title": "Bitcoin-ETFs verlieren am Montag 570 Mio. $ – fünfter Abflusstag in Folge, im November bisher rund 4,7 Mrd. $",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Montag netto 570 Mio. $ ab, der fünfte Handelstag mit Abflüssen in Folge. Auf BlackRocks IBIT entfielen 509 Mio. $, Fidelitys FBTC verbuchte 13,3 Mio. $ Zufluss; das Nettovermögen aller Fonds liegt bei 74,125 Mrd. $. In der Vorwoche waren es 1,79 Mrd. $ Abfluss, im November laut cryptoticker bisher rund 4,7 Mrd. $. Die Ether-ETFs verloren demnach 84,96 Mio. $ an dem Tag, an dem Ether zeitweise auf 1.838 $ gestiegen war.",
+          "source": "cryptoticker (ETF-Flüsse, 09:45 Uhr), 24.11.",
+          "url": "https://cryptoticker.io/de/bitcoin-kurs-etf-abfluss-ibit-570-millionen/",
+          "impact": "Die Abflüsse kommen weiter fast vollständig aus dem größten Fonds und hielten auch am Tag der Aktienrally an. Die Fonds halten laut cryptoticker noch rund 6 % der Bitcoin-Marktkapitalisierung. Am Freitag verfallen auf Deribit zudem Bitcoin-Optionen im Nennwert von rund 6,8 Mrd. $."
         },
         {
           "tag": "Tech · Aktien",
-          "title": "Nvidia-Rally erreicht Asien: Kospi plus 6,5 %, Nikkei plus 3,9 % – Wall Street mit bestem Tag seit April 2025",
-          "text": "Nach der Wiedereinsetzung von Jensen Huang als Nvidia-Chef schloss der S&P 500 am Montag bei 7.237,17 Punkten (plus 4,7 %), der Nasdaq Composite 6,5 % und der Dow Jones 3,0 % höher; Nvidia gewann 31,5 %. In Asien stieg am Dienstag der Kospi um 6,5 % auf 5.014 Punkte, der Nikkei um 3,9 % auf 58.654, der taiwanische Taiex um mehr als 9 %; der Hang Seng legte nur 0,2 % zu. Die US-Futures lagen laut AP leicht im Plus, Saxo nannte für den Nasdaq-100-Future zuvor minus 0,2 %. CrowdStrike verlor rund 9 % nach der angekündigten Übernahme von Zscaler in Aktien für 43,9 Mrd. $.",
-          "source": "KSAT/AP (Asien, 04:31 Uhr MEZ), 24.11.",
-          "url": "https://www.ksat.com/business/2026/11/24/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidias-ceo/",
-          "impact": "Die Erholung der Technologiewerte hält an, ohne den Kryptomarkt mitzuziehen. Der Abstand zwischen Bitcoin und dem Nasdaq ist damit über Nacht weiter gewachsen. An den Zinserwartungen hat der Kurssprung nichts geändert."
+          "title": "Nvidia-Rally läuft aus: Europas Börsen uneinheitlich, Hang Seng auf tiefstem Stand seit mehr als einem Jahr",
+          "text": "Nach dem Kurssprung an der Wall Street vom Montag (S&P 500 plus 4,7 %, Nasdaq Composite plus 6,5 %, Nvidia plus 31,5 %) zeigten sich die Börsen am Dienstag gemischt. In Asien stieg der Kospi um 6,3 % auf 5.006 Punkte, der Nikkei um 3,9 % auf 58.645 und der Taiex um fast 9 %; der Hang Seng fiel dagegen um 0,8 % auf 22.206 Punkte. In Europa lagen Dax und FTSE 100 am späten Vormittag je 0,1 % im Minus, der CAC 40 0,2 % im Plus. Die Futures auf S&P 500 und Dow Jones notierten 0,1 % höher.",
+          "source": "Oskaloosa Herald/AP (Weltbörsen, 11:06 Uhr MEZ), 24.11.",
+          "url": "https://www.oskaloosa.com/news/national_news/world-stocks-are-mixed-after-wall-streets-rebound-as-jensen-huang-returns-as-nvidia-s/article_273e8b7e-ff4d-590e-9fc5-0a2d3d8dddf2.html",
+          "impact": "Die Erholung der Technologiewerte hat an Schwung verloren, die US-Futures deuten nur noch auf kleine Gewinne. Bitcoin hat sich von der Rally bereits am Montagabend abgekoppelt. Vor dem US-Feiertag am Donnerstag dürften die Umsätze abnehmen."
         },
         {
           "tag": "Fed · Dollar · Zinsen",
-          "title": "Zinserhöhung im Dezember zu rund 98 % eingepreist – Dollar-Index bei 104,3, Öl gibt nach",
-          "text": "New-York-Fed-Präsident John Williams sagte am Montag laut finwire, es bleibe Arbeit zu tun, um die Inflation von rund 3,5 % auf 2 % zurückzuführen; das FedWatch-Tool der CME zeigte rund 98 % Wahrscheinlichkeit für eine Zinserhöhung am 9. Dezember. Der Dollar-Index steht laut Saxo bei 104,32, die zweijährige US-Rendite bei 4,696 %, die zehnjährige bei rund 4,93 bis 4,95 %; eine Auktion zweijähriger Anleihen über 69 Mrd. $ ging zu 4,700 % weg. Der zusammengesetzte US-Einkaufsmanagerindex fiel im November auf 54,6 Punkte (Oktober: 55,9). Brent verbilligte sich am Montag um 3,6 % und kostete am Dienstagmorgen 86,27 $, Gold stieg auf rund 3.635 $.",
+          "title": "Zinserhöhung im Dezember zu rund 98 % eingepreist – Öl gibt weiter nach, PCE-Daten am Mittwoch",
+          "text": "New-York-Fed-Präsident John Williams sagte am Montag laut finwire, es bleibe Arbeit zu tun, um die Inflation von rund 3,5 % auf 2 % zurückzuführen; das FedWatch-Tool der CME zeigte rund 98 % Wahrscheinlichkeit für eine Zinserhöhung am 9. Dezember. Der Dollar-Index stand laut Saxo am Morgen bei 104,32, die zweijährige US-Rendite bei 4,696 %, die zehnjährige bei rund 4,93 bis 4,95 %. Laut AP kostete Brent am Vormittag 86,38 $ (−0,4 %) und US-Öl 79,87 $; der Euro notierte bei 1,0916 $, der Dollar stieg auf 159,33 Yen.",
           "source": "finwire (Williams, FedWatch), 23.11.",
           "url": "https://finwire.io/news/forex-news/financial-forex-market-recap-nov-23-2026",
           "impact": "Ein fester Dollar und hohe Renditen am kurzen Ende gelten als Gegenwind für zinslose Anlagen. Der PCE-Bericht am Mittwoch ist der letzte große Inflationswert vor der Fed-Entscheidung. Sinkende Ölpreise dämpfen die Inflationssorgen etwas, an der Markterwartung einer Erhöhung hat das bisher nichts geändert."
         },
         {
           "tag": "Termin",
-          "title": "Di 24.11.: Ifo-Index, US-Verbrauchervertrauen, Emde-Abstimmung in Berlin",
-          "text": "Um 10 Uhr MEZ erscheint das Ifo-Geschäftsklima, um 14:15 Uhr die wöchentlichen ADP-Beschäftigungszahlen, um 15 Uhr der FHFA-Hauspreisindex und um 16 Uhr das US-Verbrauchervertrauen sowie der Richmond-Fed-Index. Zahlen legen Medtronic (12:45 Uhr), Analog Devices und Best Buy (13 Uhr) sowie HP und Dell (22 Uhr) vor, laut Saxo auch Autodesk und Workday. Die EU-Kommission stellt voraussichtlich das Herbstpaket des Europäischen Semesters vor. Die Berliner Linksfraktion stimmt ab 15 Uhr über den Ausschluss von Vanessa Emde ab, die IG Metall setzt ihre Warnstreiks fort.",
+          "title": "Di 24.11.: US-Verbrauchervertrauen, Emde-Abstimmung in Berlin",
+          "text": "Um 14:15 Uhr MEZ erscheinen die wöchentlichen ADP-Beschäftigungszahlen, um 15 Uhr der FHFA-Hauspreisindex und um 16 Uhr das US-Verbrauchervertrauen sowie der Richmond-Fed-Index. Zahlen legen Medtronic (12:45 Uhr), Analog Devices und Best Buy (13 Uhr) sowie HP und Dell (22 Uhr) vor, laut Saxo auch Autodesk und Workday. Die Berliner Linksfraktion stimmt ab 15 Uhr über den Ausschluss von Vanessa Emde ab. Das Ifo-Geschäftsklima ist am Vormittag mit 90,6 Punkten erschienen.",
           "source": "",
           "url": ""
         },
         {
           "tag": "Termin",
           "title": "Mi 25.11.: US-PCE-Inflation für Oktober, vierte Metall-Tarifrunde in Mannheim",
-          "text": "Das bevorzugte Inflationsmaß der Fed erscheint um 14:30 Uhr MEZ, erwartet wird eine Kernrate von 0,3 % zum Vormonat und 3,2 % zum Vorjahr; dazu die zweite Schätzung des US-Wachstums im dritten Quartal (erwartet 3,4 %), die wöchentlichen Erstanträge auf Arbeitslosenhilfe und um 20 Uhr MEZ das Beige Book der Fed. IG Metall und Arbeitgeber aus Baden-Württemberg und NRW verhandeln in Mannheim, Erklärungen sind gegen Mittag geplant.",
+          "text": "Das bevorzugte Inflationsmaß der Fed erscheint um 14:30 Uhr MEZ, erwartet wird eine Kernrate von 0,3 % zum Vormonat und 3,2 % zum Vorjahr; dazu die zweite Schätzung des US-Wachstums im dritten Quartal (erwartet 3,4 %), die wöchentlichen Erstanträge auf Arbeitslosenhilfe und um 20 Uhr MEZ das Beige Book der Fed. IG Metall und Arbeitgeber verhandeln in Mannheim, Erklärungen sind gegen Mittag geplant. China startet um 01:18 Uhr MEZ das Raumschiff Shenzhou-24.",
           "source": "",
           "url": ""
         },
@@ -203,14 +203,14 @@
         {
           "tag": "Termin",
           "title": "Fr 27.11.: Bundestag stimmt über den Haushalt 2027 ab, Monatsverfall auf Deribit",
-          "text": "Die dritte Lesung des Haushaltsgesetzes 2027 mit Schlussabstimmung ist für Freitag angesetzt, der Livestream des Bundestags beginnt um 12:40 Uhr. Auf Deribit laufen laut cryptoticker 104.582 Bitcoin-Optionen im Wert von rund 6,7 Mrd. $ aus. Um 11 Uhr erscheint die Wirtschaftsstimmung im Euroraum.",
+          "text": "Die dritte Lesung des Haushaltsgesetzes 2027 mit Schlussabstimmung ist für Freitag angesetzt, der Livestream des Bundestags beginnt um 12:40 Uhr. Auf Deribit laufen laut cryptoticker 112.323 Bitcoin-Optionen im Nennwert von rund 6,8 Mrd. $ aus. Um 11 Uhr erscheint die Wirtschaftsstimmung im Euroraum.",
           "source": "",
           "url": ""
         },
         {
           "tag": "Termin",
           "title": "So 29.11.: Treffen der OPEC+",
-          "text": "Die Förderländer beraten über ihre Ölproduktion; Brent kostete am Dienstagmorgen rund 86 $.",
+          "text": "Die Förderländer beraten über ihre Ölproduktion; Brent kostete am Dienstagvormittag rund 86 $.",
           "source": "",
           "url": ""
         },

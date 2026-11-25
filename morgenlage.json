@@ -1,18 +1,18 @@
 {
   "date": "Mittwoch, 25. November 2026",
-  "stand": "01:44",
+  "stand": "06:37",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "59.718,51 $",
-      "change": "−2,44 % in 24 h (24.11., 23:26 MEZ (Artikelstand) · Motley Fool/FMP; um 21:20 MEZ laut Yahoo Finance 59.442 $, Tagestief laut cryptoticker 59.314 $)",
+      "value": "59.057 $",
+      "change": "−2,70 % in 24 h (25.11., 06:34 MEZ · CoinGecko; am Dienstag um 23:26 MEZ laut Motley Fool 59.718,51 $)",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.673,50 $",
-      "change": "−2,07 % in 24 h (24.11., 23:26 MEZ (Artikelstand) · Motley Fool/FMP; −6,4 % in sieben Tagen)",
+      "value": "1.656,40 $",
+      "change": "−2,98 % in 24 h (25.11., 06:34 MEZ · CoinGecko; am Dienstag um 23:26 MEZ laut Motley Fool 1.673,50 $)",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Märkte: Die Wall Street schloss uneinheitlich: Der Nasdaq 100 verlor 1,99 %, Nvidia 5,86 %, während der Dow Jones um 0,85 % auf 50.018,70 Punkte stieg. Bitcoin stand am späten Abend bei 59.718,51 $ (−2,44 %), Ether bei 1.673,50 $ (−2,07 %); die Abflüsse aus den US-Spot-Bitcoin-ETFs liegen im November mit 4,71 Mrd. $ auf Monatsrekord. Heute um 14:30 Uhr MEZ kommt die US-PCE-Inflation, erwartet werden rund 3,8 %; eine Zinserhöhung der Fed im Dezember ist zu gut 96 % eingepreist.",
-    "Berlin und Bund: Im Bundestag eröffnet die AfD heute Vormittag die Generaldebatte zum Haushalt 2027 (rund 560 Mrd. Euro, etwa 210 Mrd. neue Schulden), danach spricht Kanzler Merz; abgestimmt wird am Freitag. Die Berliner Linksfraktion hat Vanessa Emde am Dienstag mit 33 Ja-Stimmen bei 6 Nein und 4 Enthaltungen ausgeschlossen. In Berlin sind heute acht Demonstrationen zum Tag gegen Gewalt an Frauen angemeldet, die größte von 18 bis 21 Uhr ab Pariser Platz; in Mannheim geht der Metall-Tarifstreit in die vierte Runde.",
-    "Welt: Irans Revolutionsgarden melden drei auf Minen gelaufene Tanker in der Straße von Hormus, unabhängig bestätigt ist das nicht; Trump erwägt neue Angriffe nach dem Jahreswechsel, falls es kein Abkommen gibt. Die US-Regierung will laut Reuters in Kürze neue Zölle gegen 16 Handelspartner vorstellen, darunter China und die EU. US-Geschworene haben Huawei unter anderem der Geldwäsche schuldig gesprochen; in Odessa starben bei russischen Angriffen zwei Menschen."
+    "Märkte: Asiens Börsen fallen am Morgen deutlich: Südkorea verlor laut Reuters zeitweise 5,3 %, der Nikkei bis zu 2,9 %, nachdem der Nasdaq 100 am Dienstag 1,99 % und Nvidia 5,86 % abgegeben hatten. Bitcoin stand um 06:34 Uhr MEZ bei 59.057 $ (−2,70 %), Ether bei 1.656,40 $ (−2,98 %); die Abflüsse aus den US-Spot-Bitcoin-ETFs liegen im November mit 4,71 Mrd. $ auf Monatsrekord. Heute um 14:30 Uhr MEZ kommt die US-PCE-Inflation, erwartet werden rund 3,8 %; eine Zinserhöhung der Fed im Dezember ist zu gut 96 % eingepreist.",
+    "Berlin und Bund: Im Bundestag beginnt um 9 Uhr die rund vierstündige Generaldebatte zum Haushalt 2027 (rund 560 Mrd. Euro, etwa 210 Mrd. neue Schulden); AfD-Fraktionschef Tino Chrupalla eröffnet, danach spricht Kanzler Merz, abgestimmt wird am Freitag. Um 8 Uhr legt das Statistische Bundesamt Details zum Wachstum im dritten Quartal (+0,2 %) vor. Die Berliner Linksfraktion hat Vanessa Emde am Dienstag ausgeschlossen; in Berlin sind heute mehrere Demonstrationen zum Tag gegen Gewalt an Frauen angemeldet, die größte von 18 bis 21 Uhr ab Pariser Platz. In Mannheim geht der Metall-Tarifstreit in die vierte Runde.",
+    "Welt: In der Straße von Hormus meldet die britische Seefahrtsbehörde UKMTO einen Geschosstreffer auf einen Tanker; Iran spricht von Minentreffern, die unabhängig nicht bestätigt sind. In Riad wurden bei einem Huthi-Angriff auf ein Hochhaus elf Menschen verletzt. Die US-Regierung will laut Reuters in Kürze neue Zölle gegen 16 Handelspartner vorstellen, darunter China und die EU. US-Geschworene haben Huawei unter anderem der Geldwäsche schuldig gesprochen; in Odessa starben bei russischen Angriffen zwei Menschen."
   ],
   "sections": [
     {
@@ -47,10 +47,17 @@
         },
         {
           "tag": "Haushalt · Mittelstand",
-          "title": "Haushaltswoche: Generaldebatte heute Vormittag – Etat 2027 mit rund 210 Mrd. Euro neuen Schulden, Abstimmung am Freitag",
-          "text": "Finanzminister Lars Klingbeil (SPD) verteidigte am Dienstagvormittag im Bundestag den Haushalt 2027. Der Kernhaushalt umfasst rund 560 Mrd. Euro, etwa 36 Mrd. mehr als 2026; die Verteidigungsausgaben steigen auf fast 140 Mrd. Euro. Die neuen Kredite summieren sich auf rund 210 Mrd. Euro: knapp 123 Mrd. im Kernhaushalt, 57,8 Mrd. im Sondertopf Infrastruktur und 29,6 Mrd. für die Bundeswehr. Die Senkung der Stromsteuer kostet rund 5,4 Mrd. Euro. Die Grünen kritisieren, jeder dritte Euro sei kreditfinanziert. Heute, Mittwoch, eröffnet am Vormittag die AfD die Generaldebatte, danach spricht Kanzler Friedrich Merz (CDU); die Schlussabstimmung ist für Freitagnachmittag angesetzt. In einer BVMW-Blitzumfrage unter 830 Unternehmen sehen 87 % im Etat keinen klaren Wachstumsplan.",
-          "source": "aktiencheck/dpa-AFX (Haushaltsdebatte, 08:18 Uhr), 24.11.",
-          "url": "https://aktiencheck.de/artikel/haushaltsdebatte-im-bundestag-klingbeil-verteidigt-den-560-milliarden-etat-rund"
+          "title": "Haushaltswoche: Generaldebatte heute ab 9 Uhr – Etat 2027 mit rund 210 Mrd. Euro neuen Schulden, Abstimmung am Freitag",
+          "text": "Finanzminister Lars Klingbeil (SPD) verteidigte am Dienstagvormittag im Bundestag den Haushalt 2027. Der Kernhaushalt umfasst rund 560 Mrd. Euro, etwa 36 Mrd. mehr als 2026; die Verteidigungsausgaben steigen auf fast 140 Mrd. Euro. Die neuen Kredite summieren sich auf rund 210 Mrd. Euro: knapp 123 Mrd. im Kernhaushalt, 57,8 Mrd. im Sondertopf Infrastruktur und 29,6 Mrd. für die Bundeswehr. Die Senkung der Stromsteuer kostet rund 5,4 Mrd. Euro. Die Grünen kritisieren, jeder dritte Euro sei kreditfinanziert. Heute, Mittwoch, beginnt um 9 Uhr die etwa vierstündige Generaldebatte: Für die AfD als größte Oppositionsfraktion eröffnet Fraktionschef Tino Chrupalla, danach spricht Kanzler Friedrich Merz (CDU). Klingbeil sagte, man habe eine Finanzierungslücke von 34 Mrd. Euro geschlossen. Beschlossen werden soll der Etat am Freitag; Merz stimmt nicht mit ab, weil er dann beim EU-Gipfel in Brüssel ist. In einer BVMW-Blitzumfrage unter 830 Unternehmen sehen 87 % im Etat keinen klaren Wachstumsplan.",
+          "source": "onvista/dpa-AFX (Generaldebatte), 25.11.",
+          "url": "https://www.onvista.de/news/2026/11-25-hoehepunkt-der-haushaltswoche-generaldebatte-mit-merz-0-10-26580198"
+        },
+        {
+          "tag": "Konjunktur",
+          "title": "Statistisches Bundesamt legt um 8 Uhr Details zum dritten Quartal vor – Wirtschaft war um 0,2 % gewachsen",
+          "text": "Nach vorläufigen Daten ist das Bruttoinlandsprodukt von Juli bis September um 0,2 % zum Vorquartal gestiegen, etwas stärker als erwartet; eine wegen des Niedrigwassers befürchtete Stagnation blieb aus. Gestützt haben solide Konsumausgaben, während Investitionen zurückgingen und die Exporte schwächer liefen. Heute um 8 Uhr folgen die Details, darunter Privatkonsum und Staatsausgaben. Für das Gesamtjahr 2026 erwarten EU-Kommission, Bundesregierung und IWF ein Wachstum von 1,3 %.",
+          "source": "finanzen.at/dpa-AFX (05:49 Uhr), 25.11.",
+          "url": "https://www.finanzen.at/nachrichten/aktien/statistiker-legen-details-zur-deutschen-wirtschaft-vor-1036798120"
         },
         {
           "tag": "Tarife · Metall",
@@ -68,16 +75,16 @@
         {
           "tag": "Landespolitik",
           "title": "Linksfraktion schließt Vanessa Emde aus: 33 Ja-Stimmen, 6 Nein, 4 Enthaltungen – SPD und Grüne begrüßen den Schritt",
-          "text": "Die Linksfraktion im Abgeordnetenhaus hat die Neuköllner Abgeordnete Vanessa Emde am späten Dienstagnachmittag in geheimer Abstimmung ausgeschlossen. 33 Mitglieder stimmten dafür, 6 dagegen, 4 enthielten sich; nötig waren 30 Stimmen. Fraktionschef Tobias Schulze sagte, die Entscheidung sei nicht leicht gefallen, es gebe aber keine Grundlage für eine Zusammenarbeit mehr. Emde sprach von einer Kampagne gegen sie und will als fraktionslose Abgeordnete im Parlament bleiben; der Bezirksverband Neukölln nannte den Ausschluss einen schweren Fehler. Die SPD-Landeschefs Steffen Krach und Bettina König sowie Grünen-Spitzenkandidat Werner Graf begrüßten den Schritt, den beide Parteien zur Bedingung für Rot-Grün-Rot gemacht hatten. CDU-Politiker Stefan Evers sprach von einem Bauernopfer. Die Fraktion hat nun 43 Mitglieder, die Mehrheit des möglichen Bündnisses schrumpft laut Tagesspiegel auf 13 Stimmen.",
+          "text": "Die Linksfraktion im Abgeordnetenhaus hat die Neuköllner Abgeordnete Vanessa Emde am späten Dienstagnachmittag in geheimer Abstimmung ausgeschlossen. 33 Mitglieder stimmten dafür, 6 dagegen, 4 enthielten sich; nötig waren 30 Stimmen. Fraktionschef Tobias Schulze sagte, die Entscheidung sei nicht leicht gefallen, es gebe aber keine Grundlage für eine Zusammenarbeit mehr. Emde sprach von einer Kampagne gegen sie und will als fraktionslose Abgeordnete im Parlament bleiben; der Bezirksverband Neukölln nannte den Ausschluss einen schweren Fehler. Die SPD-Landeschefs Steffen Krach und Bettina König sowie Grünen-Spitzenkandidat Werner Graf begrüßten den Schritt, den beide Parteien zur Bedingung für Rot-Grün-Rot gemacht hatten. CDU-Politiker Stefan Evers sprach von einem Bauernopfer. Die Fraktion hat nun 43 Mitglieder, die Mehrheit des möglichen Bündnisses schrumpft laut Tagesspiegel auf 13 Stimmen. Als Fraktionslose verliert Emde viele Rechte, ihre Redezeit im Plenum könnte laut Tagesspiegel-Checkpoint vom Mittwochmorgen aber sogar steigen.",
           "source": "Tagesspiegel (20:23 Uhr), 24.11.",
           "url": "https://www.tagesspiegel.de/berlin/wegen-israelfeindlicher-aussagen-berliner-linksfraktion-schliesst-vanessa-emde-aus-16319626.html"
         },
         {
           "tag": "Verkehr · Demos",
           "title": "Verkehr heute: Acht Demos zum Tag gegen Gewalt an Frauen – größte ab 18 Uhr am Pariser Platz",
-          "text": "Für heute, Mittwoch, nennt die Verkehrsinformationszentrale laut Berliner Kurier acht Protestaktionen. Mittags zieht ein Zug vom Oranienplatz über Kottbusser Tor und Hermannplatz zum Rathaus Neukölln. Von 17:30 bis 23 Uhr führt eine lange Demo vom Herrfurthplatz über Hermannstraße, Karl-Marx-Straße und Sonnenallee zur Kottbusser Brücke, um 18:30 Uhr startet ein Trauermarsch vom Hermannplatz zum Alfred-Scholz-Platz. Die größte Demo läuft von 18 bis 21 Uhr vom Pariser Platz über Unter den Linden, Wilhelmstraße, Reichstagufer und Friedrichstraße zurück zum Brandenburger Tor. Weitere Aufzüge gibt es im Wedding rund um den Leopoldplatz (17 bis 20:30 Uhr) und in Hellersdorf. In Marzahn steht auf der Eisenacher Straße und der Allee der Kosmonauten bis Ende Dezember je nur ein Fahrstreifen zur Verfügung.",
-          "source": "Berliner Kurier (20:27 Uhr), 24.11.",
-          "url": "https://www.berliner-kurier.de/article/nur-2-baustellen-aber-mindestens-8-demos-der-verkehr-am-mittwoch-wird-wild-10632079"
+          "text": "Für heute, Mittwoch, nennt die Verkehrsinformationszentrale laut Berliner Kurier acht Protestaktionen. Mittags zieht ein Zug vom Oranienplatz über Kottbusser Tor und Hermannplatz zum Rathaus Neukölln. Von 17:30 bis 23 Uhr führt eine lange Demo vom Herrfurthplatz über Hermannstraße, Karl-Marx-Straße und Sonnenallee zur Kottbusser Brücke, um 18:30 Uhr startet ein Trauermarsch vom Hermannplatz zum Alfred-Scholz-Platz. Die größte Demo läuft von 18 bis 21 Uhr vom Pariser Platz über Unter den Linden, Wilhelmstraße, Reichstagufer und Friedrichstraße zurück zum Brandenburger Tor. Weitere Aufzüge gibt es im Wedding rund um den Leopoldplatz (17 bis 20:30 Uhr) und in Hellersdorf. In Marzahn steht auf der Eisenacher Straße und der Allee der Kosmonauten bis Ende Dezember je nur ein Fahrstreifen zur Verfügung. Auf der A100 ist die Rudolf-Wissell-Brücke in der Nacht zu Donnerstag von 22 bis 5 Uhr wechselseitig einspurig. BVG und S-Bahn melden keine neuen baustellenbedingten Einschränkungen; beim RE3 fallen abends und nachts einzelne Züge zwischen Gesundbrunnen und Jüterbog aus.",
+          "source": "Verkehrsinformationszentrale Berlin (Vorschau für 25.11.), 24.11.",
+          "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
         },
         {
           "tag": "Senat · Stadtentwicklung",
@@ -101,10 +108,10 @@
       "items": [
         {
           "tag": "Nahost · Iran · Golf",
-          "title": "Iran: Laut Revolutionsgarden drei eskortierte Tanker auf Minen gelaufen – Trump erwägt neue Angriffe nach dem Jahreswechsel",
-          "text": "Die iranischen Revolutionsgarden erklärten laut The Hill, am Montag seien drei durch die Straße von Hormus eskortierte Öltanker auf Unterwasserminen gelaufen, einer nahe der Südküste und zwei im östlichen Teil der Meerenge; die US-Begleitung aus der Luft habe das nicht verhindert. Die Angaben stammen von iranischer Seite und ließen sich nicht unabhängig bestätigen. Armeechef Amir Hatami hatte die Marine angewiesen, die Meerenge schrittweise weiter zu schließen, bis Washington sieben iranische Bedingungen erfüllt. Das US-Finanzministerium verhängte unter dem Namen „Operation Economic Outcast“ Sanktionen gegen mehr als zwei Dutzend iranische Wechselstuben, Tarnfirmen und Personen. Präsident Donald Trump sagte am Sonntag, er neige dazu, die Angriffe nach dem Jahreswechsel wieder aufzunehmen, falls es kein Abkommen gibt; General Ahmad Vahidi warnte, die Kämpfe könnten sich über die Region hinaus ausweiten. Katar vermittelt weiter zwischen beiden Seiten.",
-          "source": "The Hill (21:49 Uhr MEZ), 24.11.",
-          "url": "https://thehill.com/policy/international/6240781-irgc-oil-tankers-underwater-mines/"
+          "title": "Hormus: UKMTO meldet Geschosstreffer auf Tanker, Iran spricht von Minentreffern – elf Verletzte bei Huthi-Angriff auf Hochhaus in Riad",
+          "text": "Die britische Seefahrtsbehörde UKMTO meldete am Dienstag, ein Geschoss habe in der Straße von Hormus einen Tanker getroffen; die Revolutionsgarden gaben zudem an, ein Containerschiff angegriffen zu haben. Laut dem Tagesüberblick von straits.live zählte der Hafendienst des IWF zuletzt nur eine Durchfahrt am Tag, vor der Krise waren es 85. Brent eröffnete in Asien laut Reuters bei 90,97 $. In Riad wurden bei einem Angriff auf einen 80-stöckigen Wolkenkratzer im Finanzviertel laut Zivilschutz elf Menschen verletzt; Saudi-Arabien macht die Huthi-Miliz verantwortlich. Die iranischen Revolutionsgarden erklärten laut The Hill, am Montag seien drei durch die Straße von Hormus eskortierte Öltanker auf Unterwasserminen gelaufen, einer nahe der Südküste und zwei im östlichen Teil der Meerenge; die US-Begleitung aus der Luft habe das nicht verhindert. Die Angaben stammen von iranischer Seite und ließen sich nicht unabhängig bestätigen. Armeechef Amir Hatami hatte die Marine angewiesen, die Meerenge schrittweise weiter zu schließen, bis Washington sieben iranische Bedingungen erfüllt. Das US-Finanzministerium verhängte unter dem Namen „Operation Economic Outcast“ Sanktionen gegen mehr als zwei Dutzend iranische Wechselstuben, Tarnfirmen und Personen. Präsident Donald Trump sagte am Sonntag, er neige dazu, die Angriffe nach dem Jahreswechsel wieder aufzunehmen, falls es kein Abkommen gibt; General Ahmad Vahidi warnte, die Kämpfe könnten sich über die Region hinaus ausweiten. Katar vermittelt weiter zwischen beiden Seiten.",
+          "source": "straits.live (Tagesüberblick Hormus), 25.11.",
+          "url": "https://straits.live/briefs/2026-11-25"
         },
         {
           "tag": "USA · China · Justiz",
@@ -142,11 +149,11 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei 59.719 $ weiter unter 60.000 $ – Ether bei 1.674 $, Solana verliert 3,9 %",
-          "text": "Bitcoin notierte am späten Dienstagabend laut Motley Fool bei 59.718,51 $, 2,44 % unter dem Vortag und 6,2 % unter dem Stand vor einer Woche. Ether fiel um 2,07 % auf 1.673,50 $, Solana um 3,86 % auf 69,20 $. Das Tagestief hatte Kraken laut cryptoticker bei 59.314 $ gesehen; am Montag war Bitcoin im Zuge der Aktienrally noch bis 64.505 $ gestiegen. Binnen 24 Stunden wurden laut CoinGlass Positionen über rund 827 Mio. $ liquidiert, der Fear-and-Greed-Index steht bei 11. Als Gründe nennen die Berichte die erneute Schwäche der Technologiewerte, einen festeren Dollar und die anhaltenden ETF-Abflüsse. Die Aktie von Strategy war im Handelsverlauf laut CoinDesk um 7 % auf 78,50 $ gefallen.",
-          "source": "Motley Fool (Kurse von FMP, 23:26 Uhr MEZ), 24.11.",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/crypto-market-today-nov-24-bitcoin-falls-below-usd60-000-as-etf-outflows-hit-a-record-usd4-7-billion/",
-          "impact": "Der Kurs hält sich knapp über dem Tagestief und hat die Gewinne vom Montag vollständig abgegeben. Hohe Liquidationen und ein Stimmungsindex im Bereich extremer Angst zeigen einen nervösen Markt, der weiter eng an den Technologieaktien hängt."
+          "title": "Bitcoin fällt am Morgen auf 59.057 $ und unter das Dienstagstief – Ether bei 1.656 $",
+          "text": "Bitcoin notierte am Mittwoch um 06:34 Uhr MEZ laut CoinGecko bei 59.057 $, 2,70 % unter dem Stand vor 24 Stunden; Ether lag bei 1.656,40 $ (−2,98 %). Am späten Dienstagabend hatte Motley Fool noch 59.718,51 $ und 1.673,50 $ genannt; das Dienstagstief von 59.314 $ (Kraken, laut cryptoticker) ist damit unterschritten. Am Montag war Bitcoin im Zuge der Aktienrally bis 64.505 $ gestiegen. Binnen 24 Stunden wurden laut BusinessKorea Positionen über mehr als 800 Mio. $ liquidiert, der Fear-and-Greed-Index liegt zwischen 9 und 11. Als Gründe nennen die Berichte die Schwäche der Technologie- und Chipwerte, die am Morgen auch Asiens Börsen drückt, neue US-Zolldrohungen und die anhaltenden ETF-Abflüsse.",
+          "impact": "Der Kurs ist am Morgen unter das Dienstagstief gerutscht und folgt dem Ausverkauf an den asiatischen Aktienmärkten. Hohe Liquidationen und ein Stimmungsindex im Bereich extremer Angst zeigen einen nervösen Markt, der weiter eng an den Technologieaktien hängt.",
+          "source": "CoinGecko (Kurse, 06:34 Uhr MEZ), 25.11.",
+          "url": "https://www.coingecko.com/en/coins/bitcoin"
         },
         {
           "tag": "ETF-Flüsse",
@@ -158,11 +165,11 @@
         },
         {
           "tag": "Tech · Aktien · Zölle",
-          "title": "Wall Street schließt uneinheitlich: Nasdaq 100 verliert 1,99 %, Dow über 50.000 Punkten – neue US-Zölle gegen 16 Handelspartner erwartet",
-          "text": "Der Nasdaq 100 schloss am Dienstag 1,99 % tiefer bei 26.214,17 Punkten, der Nasdaq Composite verlor 1,5 % auf 23.733,54 und der S&P 500 0,50 % auf 7.201,09 Punkte. Der Dow Jones stieg dagegen um 0,85 % auf 50.018,70 Punkte, gestützt von Gesundheits- und Konsumwerten wie Amgen und Nike. Nvidia gab 5,86 % auf 155,38 $ ab, AMD 8,86 %, Intel 8,15 %; Analog Devices brach nach einem enttäuschenden Ausblick um 17,37 % ein, Hewlett Packard Enterprise um 16,31 %. Laut Reuters will die US-Regierung in Kürze die Ergebnisse einer Untersuchung zu industriellen Überkapazitäten bei 16 Handelspartnern vorlegen, darunter China, die EU, Japan, Südkorea und Mexiko, und neue Zölle verhängen. Für die EU, Japan und Südkorea gilt demnach die vereinbarte Obergrenze von 15 %, für China bis zum Ablauf der Zollpause am 10. Januar eine von 20 %.",
-          "source": "NTG24 (Schlusskurse), 24.11.",
-          "url": "https://www.ntg24.de/Wall-Street-Schluss-AI-Rally-verpufft-Chipwerte-stuerzen-ab-24112026-MF",
-          "impact": "Die Erholung der Technologiewerte hat keinen Anschluss gefunden, was auf die Risikobereitschaft insgesamt drückt. Die Zollpläne kommen als weiterer Unsicherheitsfaktor hinzu. Am Donnerstag bleiben die US-Börsen wegen Thanksgiving geschlossen."
+          "title": "Asiens Börsen brechen ein: Südkorea zeitweise −5,3 %, Nikkei bis −2,9 % – Nasdaq 100 hatte 1,99 % verloren, neue US-Zölle erwartet",
+          "text": "Asiens Börsen gaben am Mittwochmorgen deutlich nach: Der MSCI-Index für Asien-Pazifik ohne Japan lag laut Reuters 2,3 % im Minus, Südkoreas Markt verlor zeitweise 5,3 %, Taiwan 5,1 % und der Nikkei bis zu 2,9 %; die Futures auf den S&P 500 notierten 0,3 % tiefer. Dell stieg nach Zahlen nachbörslich um 4,1 %, Anthropic fiel um 6,5 % unter den Ausgabepreis. Der Nasdaq 100 schloss am Dienstag 1,99 % tiefer bei 26.214,17 Punkten, der Nasdaq Composite verlor 1,5 % auf 23.733,54 und der S&P 500 0,50 % auf 7.201,09 Punkte. Der Dow Jones stieg dagegen um 0,85 % auf 50.018,70 Punkte, gestützt von Gesundheits- und Konsumwerten wie Amgen und Nike. Nvidia gab 5,86 % auf 155,38 $ ab, AMD 8,86 %, Intel 8,15 %; Analog Devices brach nach einem enttäuschenden Ausblick um 17,37 % ein, Hewlett Packard Enterprise um 16,31 %. Laut Reuters will die US-Regierung in Kürze die Ergebnisse einer Untersuchung zu industriellen Überkapazitäten bei 16 Handelspartnern vorlegen, darunter China, die EU, Japan, Südkorea und Mexiko, und neue Zölle verhängen. Für die EU, Japan und Südkorea gilt demnach die vereinbarte Obergrenze von 15 %, für China bis zum Ablauf der Zollpause am 10. Januar eine von 20 %.",
+          "source": "Reuters via Yahoo Finance (Asien, 02:51 Uhr MEZ), 25.11.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-ai-rebound-stumbles-015155560.html",
+          "impact": "Die Erholung der Technologiewerte hat keinen Anschluss gefunden, und der Ausverkauf hat sich am Morgen in Asien fortgesetzt; das drückt auf die Risikobereitschaft insgesamt. Die Zollpläne kommen als weiterer Unsicherheitsfaktor hinzu. Am Donnerstag bleiben die US-Börsen wegen Thanksgiving geschlossen."
         },
         {
           "tag": "Fed · Inflation",
@@ -175,7 +182,7 @@
         {
           "tag": "Termin",
           "title": "Mi 25.11.: US-PCE-Inflation für Oktober, Generaldebatte im Bundestag, Metall-Tarifrunde in Mannheim",
-          "text": "Das bevorzugte Inflationsmaß der Fed erscheint um 14:30 Uhr MEZ; erwartet werden rund 3,8 % zum Vorjahr, in der Kernrate etwa 3,2 %. Dazu kommen die wöchentlichen Erstanträge auf Arbeitslosenhilfe. Die US-Regierung könnte laut Reuters noch in dieser Woche neue Zölle gegen 16 Handelspartner vorstellen. Im Bundestag eröffnet die AfD am Vormittag die Generaldebatte zum Haushalt, danach spricht der Kanzler. IG Metall und Arbeitgeber verhandeln in Mannheim. In Berlin gibt es zum Internationalen Tag gegen Gewalt an Frauen acht Demonstrationen, die größte von 18 bis 21 Uhr ab Pariser Platz.",
+          "text": "Das bevorzugte Inflationsmaß der Fed erscheint um 14:30 Uhr MEZ; erwartet werden rund 3,8 % zum Vorjahr, in der Kernrate etwa 3,2 %. Zeitgleich kommen die zweite Schätzung des US-BIP für das dritte Quartal, die Aufträge für langlebige Güter und die wöchentlichen Erstanträge auf Arbeitslosenhilfe; um 20 Uhr folgt das Beige Book der Fed. Um 8 Uhr legt das Statistische Bundesamt Details zum deutschen BIP vor. Die US-Regierung könnte laut Reuters noch in dieser Woche neue Zölle gegen 16 Handelspartner vorstellen. Im Bundestag eröffnet die AfD um 9 Uhr die Generaldebatte zum Haushalt, danach spricht der Kanzler. IG Metall und Arbeitgeber verhandeln in Mannheim. In Berlin gibt es zum Internationalen Tag gegen Gewalt an Frauen acht Demonstrationen, die größte von 18 bis 21 Uhr ab Pariser Platz.",
           "source": "",
           "url": ""
         },

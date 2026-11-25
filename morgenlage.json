@@ -1,37 +1,37 @@
 {
-  "date": "Dienstag, 24. November 2026",
-  "stand": "21:45",
+  "date": "Mittwoch, 25. November 2026",
+  "stand": "01:44",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "59.442 $",
-      "change": "−2,8 % zum Vortag (24.11., 21:20 MEZ · Yahoo Finance; um 16:32 MEZ laut CoinDesk 59.800 $ (−5,8 % in 24 h), Tagestief laut finanzen.net rund 59.380 $)",
+      "value": "59.718,51 $",
+      "change": "−2,44 % in 24 h (24.11., 23:26 MEZ (Artikelstand) · Motley Fool/FMP; um 21:20 MEZ laut Yahoo Finance 59.442 $, Tagestief laut cryptoticker 59.314 $)",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.685 $",
-      "change": "−1,4 % zum Vortagesschluss (24.11., 18:41 MEZ · ad-hoc-news; Tagesspanne 1.664 bis 1.719 $. Kein neuerer belegter Wert abrufbar)",
+      "value": "1.673,50 $",
+      "change": "−2,07 % in 24 h (24.11., 23:26 MEZ (Artikelstand) · Motley Fool/FMP; −6,4 % in sieben Tagen)",
       "dir": "down"
     },
     {
       "label": "US-Leitzins (Fed)",
       "value": "3,75–4,00 %",
-      "change": "Erhöhung am 9.12. erwartet (24.11.: Händler preisen laut Yahoo Finance zu 95 % einen Viertelpunkt und zu 5 % einen halben Punkt ein)",
+      "change": "Erhöhung am 9.12. erwartet (25.11., 00:21 MEZ · FXStreet/FedWatch: 96,4 % für einen Viertelpunkt, 3,6 % für einen halben Punkt)",
       "dir": "warn"
     },
     {
-      "label": "US-Rendite 10 Jahre",
-      "value": "4,90 %",
-      "change": "−1 Basispunkt zum Vortag (24.11., 21:20 MEZ · Yahoo Finance; am Mittag laut Motley Fool 4,92 %)",
+      "label": "US-PCE-Inflation",
+      "value": "3,6 %",
+      "change": "Oktober-Wert heute 14:30 MEZ (Letzter veröffentlichter Wert zum Vorjahr laut investingLive (24.11.); für Oktober werden rund 3,8 % erwartet, Kernrate 3,2 % nach 3,1 %)",
       "dir": "warn"
     }
   ],
   "brief": [
-    "Berlin und Bund: Die Berliner Linksfraktion hat Vanessa Emde am späten Nachmittag mit 33 Ja-Stimmen bei 6 Nein und 4 Enthaltungen ausgeschlossen; nötig waren 30. SPD und Grüne, die den Schritt zur Bedingung für Rot-Grün-Rot gemacht hatten, begrüßten ihn, die Mehrheit des möglichen Bündnisses schrumpft laut Tagesspiegel auf 13 Stimmen. Im Bundestag läuft die Haushaltswoche: Der Etat 2027 mit rund 560 Mrd. Euro soll am Freitag beschlossen werden, die Generaldebatte folgt am Mittwochvormittag.",
-    "Märkte: Der Dax schloss 1,26 % tiefer bei 25.017,81 Punkten, Aurubis verlor 15 %, Aixtron 16,3 %. An der Wall Street lag der Nasdaq eine halbe Stunde vor Handelsschluss knapp 2 % im Minus, Nvidia rund 7 %; ein Bericht des Wall Street Journal über neue US-Zölle gegen China und weitere Länder belastete zusätzlich. Bitcoin stand um 21:20 Uhr MEZ bei 59.442 $, Ether um 18:41 Uhr bei 1.685 $; die Abflüsse aus den US-Spot-Bitcoin-ETFs erreichen im November mit 4,71 Mrd. $ einen Monatsrekord.",
-    "Welt: Iran will die Straße von Hormus schrittweise weiter schließen, die Revolutionsgarden meldeten am Dienstag weitere Explosionen an Tankern, was sich nicht unabhängig bestätigen ließ. Die USA weiteten ihre Sanktionen aus, Katar vermittelt in Washington. Bei einem russischen Angriff auf Saporischschja starben zwei Menschen, 40 wurden verletzt; über Polen flog in der Nacht eine russische Aufklärungsdrohne."
+    "Märkte: Die Wall Street schloss uneinheitlich: Der Nasdaq 100 verlor 1,99 %, Nvidia 5,86 %, während der Dow Jones um 0,85 % auf 50.018,70 Punkte stieg. Bitcoin stand am späten Abend bei 59.718,51 $ (−2,44 %), Ether bei 1.673,50 $ (−2,07 %); die Abflüsse aus den US-Spot-Bitcoin-ETFs liegen im November mit 4,71 Mrd. $ auf Monatsrekord. Heute um 14:30 Uhr MEZ kommt die US-PCE-Inflation, erwartet werden rund 3,8 %; eine Zinserhöhung der Fed im Dezember ist zu gut 96 % eingepreist.",
+    "Berlin und Bund: Im Bundestag eröffnet die AfD heute Vormittag die Generaldebatte zum Haushalt 2027 (rund 560 Mrd. Euro, etwa 210 Mrd. neue Schulden), danach spricht Kanzler Merz; abgestimmt wird am Freitag. Die Berliner Linksfraktion hat Vanessa Emde am Dienstag mit 33 Ja-Stimmen bei 6 Nein und 4 Enthaltungen ausgeschlossen. In Berlin sind heute acht Demonstrationen zum Tag gegen Gewalt an Frauen angemeldet, die größte von 18 bis 21 Uhr ab Pariser Platz; in Mannheim geht der Metall-Tarifstreit in die vierte Runde.",
+    "Welt: Irans Revolutionsgarden melden drei auf Minen gelaufene Tanker in der Straße von Hormus, unabhängig bestätigt ist das nicht; Trump erwägt neue Angriffe nach dem Jahreswechsel, falls es kein Abkommen gibt. Die US-Regierung will laut Reuters in Kürze neue Zölle gegen 16 Handelspartner vorstellen, darunter China und die EU. US-Geschworene haben Huawei unter anderem der Geldwäsche schuldig gesprochen; in Odessa starben bei russischen Angriffen zwei Menschen."
   ],
   "sections": [
     {
@@ -47,15 +47,15 @@
         },
         {
           "tag": "Haushalt · Mittelstand",
-          "title": "Haushaltswoche: Klingbeil verteidigt Etat 2027 – rund 210 Mrd. Euro neue Schulden, Generaldebatte am Mittwoch",
-          "text": "Finanzminister Lars Klingbeil (SPD) verteidigte am Dienstagvormittag im Bundestag den Haushalt 2027. Der Kernhaushalt umfasst rund 560 Mrd. Euro, etwa 36 Mrd. mehr als 2026; die Verteidigungsausgaben steigen auf fast 140 Mrd. Euro. Die neuen Kredite summieren sich auf rund 210 Mrd. Euro: knapp 123 Mrd. im Kernhaushalt, 57,8 Mrd. im Sondertopf Infrastruktur und 29,6 Mrd. für die Bundeswehr. Die Senkung der Stromsteuer kostet rund 5,4 Mrd. Euro. Die Grünen kritisieren, jeder dritte Euro sei kreditfinanziert. Am Mittwochvormittag eröffnet die AfD die Generaldebatte, danach spricht Kanzler Friedrich Merz (CDU); die Schlussabstimmung ist für Freitagnachmittag angesetzt. In einer BVMW-Blitzumfrage unter 830 Unternehmen sehen 87 % im Etat keinen klaren Wachstumsplan.",
+          "title": "Haushaltswoche: Generaldebatte heute Vormittag – Etat 2027 mit rund 210 Mrd. Euro neuen Schulden, Abstimmung am Freitag",
+          "text": "Finanzminister Lars Klingbeil (SPD) verteidigte am Dienstagvormittag im Bundestag den Haushalt 2027. Der Kernhaushalt umfasst rund 560 Mrd. Euro, etwa 36 Mrd. mehr als 2026; die Verteidigungsausgaben steigen auf fast 140 Mrd. Euro. Die neuen Kredite summieren sich auf rund 210 Mrd. Euro: knapp 123 Mrd. im Kernhaushalt, 57,8 Mrd. im Sondertopf Infrastruktur und 29,6 Mrd. für die Bundeswehr. Die Senkung der Stromsteuer kostet rund 5,4 Mrd. Euro. Die Grünen kritisieren, jeder dritte Euro sei kreditfinanziert. Heute, Mittwoch, eröffnet am Vormittag die AfD die Generaldebatte, danach spricht Kanzler Friedrich Merz (CDU); die Schlussabstimmung ist für Freitagnachmittag angesetzt. In einer BVMW-Blitzumfrage unter 830 Unternehmen sehen 87 % im Etat keinen klaren Wachstumsplan.",
           "source": "aktiencheck/dpa-AFX (Haushaltsdebatte, 08:18 Uhr), 24.11.",
           "url": "https://aktiencheck.de/artikel/haushaltsdebatte-im-bundestag-klingbeil-verteidigt-den-560-milliarden-etat-rund"
         },
         {
           "tag": "Tarife · Metall",
-          "title": "Metall-Tarifstreit: Ganztägige Warnstreiks im Norden mit rund 40.000 Aufgerufenen – vierte Runde am Mittwoch in Mannheim",
-          "text": "Die IG Metall Küste hatte für Dienstag rund 40.000 Beschäftigte in 22 norddeutschen Betrieben zu 24-stündigen Warnstreiks aufgerufen, darunter die Airbus-Standorte Bremen, Hamburg, Nordenham, Stade und Varel; allein bei Airbus sind es fast 34.000. Der Arbeitgeberverband Nordmetall nennt die Streiks unverantwortlich und unverhältnismäßig. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit und verlangt nach drei Runden ohne Annäherung ein deutlich besseres Angebot. Am Mittwoch wird in Mannheim für Baden-Württemberg weiterverhandelt. Neuere Angaben zur Beteiligung ließen sich bei diesem Lauf nicht abrufen.",
+          "title": "Metall-Tarifstreit: Vierte Runde heute in Mannheim – am Dienstag ganztägige Warnstreiks im Norden mit rund 40.000 Aufgerufenen",
+          "text": "Die IG Metall Küste hatte für Dienstag rund 40.000 Beschäftigte in 22 norddeutschen Betrieben zu 24-stündigen Warnstreiks aufgerufen, darunter die Airbus-Standorte Bremen, Hamburg, Nordenham, Stade und Varel; allein bei Airbus sind es fast 34.000. Der Arbeitgeberverband Nordmetall nennt die Streiks unverantwortlich und unverhältnismäßig. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit und verlangt nach drei Runden ohne Annäherung ein deutlich besseres Angebot. Heute, Mittwoch, wird in Mannheim für Baden-Württemberg weiterverhandelt. Neuere Angaben zur Beteiligung ließen sich bei diesem Lauf nicht abrufen.",
           "source": "buten un binnen (IG Metall Küste), 24.11.",
           "url": "https://www.butenunbinnen.de/ig-metall-kueste-warnstreiks-ausweitung-102.html"
         }
@@ -74,8 +74,8 @@
         },
         {
           "tag": "Verkehr · Demos",
-          "title": "Verkehr am Mittwoch: Acht Demos zum Tag gegen Gewalt an Frauen – größte ab 18 Uhr am Pariser Platz",
-          "text": "Für Mittwoch nennt die Verkehrsinformationszentrale laut Berliner Kurier acht Protestaktionen. Mittags zieht ein Zug vom Oranienplatz über Kottbusser Tor und Hermannplatz zum Rathaus Neukölln. Von 17:30 bis 23 Uhr führt eine lange Demo vom Herrfurthplatz über Hermannstraße, Karl-Marx-Straße und Sonnenallee zur Kottbusser Brücke, um 18:30 Uhr startet ein Trauermarsch vom Hermannplatz zum Alfred-Scholz-Platz. Die größte Demo läuft von 18 bis 21 Uhr vom Pariser Platz über Unter den Linden, Wilhelmstraße, Reichstagufer und Friedrichstraße zurück zum Brandenburger Tor. Weitere Aufzüge gibt es im Wedding rund um den Leopoldplatz (17 bis 20:30 Uhr) und in Hellersdorf. In Marzahn steht auf der Eisenacher Straße und der Allee der Kosmonauten bis Ende Dezember je nur ein Fahrstreifen zur Verfügung.",
+          "title": "Verkehr heute: Acht Demos zum Tag gegen Gewalt an Frauen – größte ab 18 Uhr am Pariser Platz",
+          "text": "Für heute, Mittwoch, nennt die Verkehrsinformationszentrale laut Berliner Kurier acht Protestaktionen. Mittags zieht ein Zug vom Oranienplatz über Kottbusser Tor und Hermannplatz zum Rathaus Neukölln. Von 17:30 bis 23 Uhr führt eine lange Demo vom Herrfurthplatz über Hermannstraße, Karl-Marx-Straße und Sonnenallee zur Kottbusser Brücke, um 18:30 Uhr startet ein Trauermarsch vom Hermannplatz zum Alfred-Scholz-Platz. Die größte Demo läuft von 18 bis 21 Uhr vom Pariser Platz über Unter den Linden, Wilhelmstraße, Reichstagufer und Friedrichstraße zurück zum Brandenburger Tor. Weitere Aufzüge gibt es im Wedding rund um den Leopoldplatz (17 bis 20:30 Uhr) und in Hellersdorf. In Marzahn steht auf der Eisenacher Straße und der Allee der Kosmonauten bis Ende Dezember je nur ein Fahrstreifen zur Verfügung.",
           "source": "Berliner Kurier (20:27 Uhr), 24.11.",
           "url": "https://www.berliner-kurier.de/article/nur-2-baustellen-aber-mindestens-8-demos-der-verkehr-am-mittwoch-wird-wild-10632079"
         },
@@ -101,10 +101,24 @@
       "items": [
         {
           "tag": "Nahost · Iran · Golf",
-          "title": "Iran will Straße von Hormus „Tag für Tag weiter“ schließen – neue Explosionsmeldungen, USA weiten Sanktionen aus",
-          "text": "Irans Armeechef Amir Hatami hat die Marine angewiesen, die Meerenge schrittweise weiter zu schließen, bis Washington sieben iranische Bedingungen erfüllt. Die Revolutionsgarden meldeten am Dienstag weitere Explosionen an Öltankern, am frühen Morgen sei ein Schiff auf eine Seemine gelaufen; unabhängig bestätigen ließ sich das nicht. Das US-Finanzministerium verhängte Sanktionen gegen mehr als zwei Dutzend Personen und Einrichtungen aus Irans Schattenbankensystem. Laut Wall Street Journal vermuten die USA Iran zudem hinter Cyberangriffen auf bis zu 50 Tankschiffe. Katars Regierungschef Mohammed bin Abdulrahman Al Thani traf am Montag in Washington Vizepräsident JD Vance und Außenminister Marco Rubio; Irans Außenamtssprecher kündigte an, gegen die US-Seeblockade alle Mittel einzusetzen.",
-          "source": "Euronews (11:42 Uhr), 24.11.",
-          "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
+          "title": "Iran: Laut Revolutionsgarden drei eskortierte Tanker auf Minen gelaufen – Trump erwägt neue Angriffe nach dem Jahreswechsel",
+          "text": "Die iranischen Revolutionsgarden erklärten laut The Hill, am Montag seien drei durch die Straße von Hormus eskortierte Öltanker auf Unterwasserminen gelaufen, einer nahe der Südküste und zwei im östlichen Teil der Meerenge; die US-Begleitung aus der Luft habe das nicht verhindert. Die Angaben stammen von iranischer Seite und ließen sich nicht unabhängig bestätigen. Armeechef Amir Hatami hatte die Marine angewiesen, die Meerenge schrittweise weiter zu schließen, bis Washington sieben iranische Bedingungen erfüllt. Das US-Finanzministerium verhängte unter dem Namen „Operation Economic Outcast“ Sanktionen gegen mehr als zwei Dutzend iranische Wechselstuben, Tarnfirmen und Personen. Präsident Donald Trump sagte am Sonntag, er neige dazu, die Angriffe nach dem Jahreswechsel wieder aufzunehmen, falls es kein Abkommen gibt; General Ahmad Vahidi warnte, die Kämpfe könnten sich über die Region hinaus ausweiten. Katar vermittelt weiter zwischen beiden Seiten.",
+          "source": "The Hill (21:49 Uhr MEZ), 24.11.",
+          "url": "https://thehill.com/policy/international/6240781-irgc-oil-tankers-underwater-mines/"
+        },
+        {
+          "tag": "USA · China · Justiz",
+          "title": "US-Geschworene sprechen Huawei der Geldwäsche und des Diebstahls von Firmengeheimnissen schuldig – Konzern will in Berufung gehen",
+          "text": "Nach einem jahrelangen Verfahren haben Geschworene in den USA den chinesischen Technologiekonzern Huawei unter anderem wegen Geldwäsche und des Diebstahls von Geschäftsgeheimnissen verurteilt. Sie sahen es laut Gerichtsunterlagen auch als erwiesen an, dass Huawei Banken über seine Geschäfte im Iran getäuscht hat. Die Vorwürfe der Justizbehinderung und der organisierten Kriminalität hielten sie für nicht belegt. Richterin Ann Donnelly will das Strafmaß Anfang September 2027 verkünden; ein Anwalt des Konzerns kündigte gegenüber Bloomberg Berufung an. Die Anklage geht auf das Jahr 2018 zurück.",
+          "source": "Lippische Landes-Zeitung/dpa (23:46 Uhr), 24.11.",
+          "url": "https://www.lz.de/ueberregional/wirtschaft/24470461_US-Geschworene-sprechen-Huawei-der-Geldwaesche-schuldig.html"
+        },
+        {
+          "tag": "Ukraine",
+          "title": "Ukraine: Zwei Tote bei russischen Angriffen in Odessa – Selenskyj beziffert Finanzbedarf für 2027 auf 115 Mrd. Euro",
+          "text": "Bei russischen Angriffen in Odessa wurden am Dienstagabend laut n-tv-Liveticker ein 41-jähriger Mann und ein 17-Jähriger getötet, drei Menschen wurden verletzt, darunter ein zwölfjähriges Kind. In der Nacht zuvor waren in Saporischschja laut Reuters zwei Menschen getötet und 40 verletzt worden. Präsident Wolodymyr Selenskyj sagte, die Ukraine benötige 2027 insgesamt 115 Mrd. Euro; 90 Mrd. seien durch Zusagen der EU gedeckt, 25 Mrd. fehlten. Der belarussische Machthaber Alexander Lukaschenko erklärte, er könne Selenskyj zu Gesprächen nach Moskau begleiten.",
+          "source": "n-tv (Liveticker, Einträge 20:46 bis 22:05 Uhr), 24.11.",
+          "url": "https://www.n-tv.de/politik/22-05-Selenskyj-Ukraine-benoetigt-2027-115-Milliarden-Euro-id30859357.html"
         },
         {
           "tag": "Nato · Polen",
@@ -112,20 +126,6 @@
           "text": "In der Nacht auf Dienstag flog eine düsengetriebene, mit Kameras ausgerüstete russische Drohne mehrere Minuten über dem Grenzort Dorohusk im Bezirk Lublin, einem wichtigen Bahn- und Frachtübergang zur Ukraine. Das polnische Militär verfolgte sie per Radar und verzichtete auf einen Abschuss, weil sie nach Osten abdrehte. Vizeverteidigungsminister Paweł Zalewski geht von Absicht aus, Polen bestellte den russischen Botschafter ein. Die Nato verstärkt die Luftraumüberwachung an der Ostflanke und verlegt ein Awacs-Flugzeug nach Litauen. Am Freitag waren drei russische Marschflugkörper in Polen abgestürzt.",
           "source": "Tagesspiegel/dpa (Drohne, 11:00 Uhr), 24.11.",
           "url": "https://www.tagesspiegel.de/internationales/dpa-wir-gehen-davon-aus-dass-es-absicht-war-russische-drohne-dringt-in-polens-luftraum-ein-16318099.html"
-        },
-        {
-          "tag": "Ukraine · Libyen",
-          "title": "Russischer Angriff auf Saporischschja: zwei Tote, 40 Verletzte – UN-Mission fordert Untersuchung der Angriffe in Bengasi",
-          "text": "Bei einem nächtlichen russischen Angriff auf Saporischschja wurden laut Reuters zwei Menschen getötet und 40 verletzt, darunter vier Kinder. Die UN-Mission in Libyen (UNSMIL) verlangt eine unabhängige Untersuchung der Angriffe vom Sonntag im Hafen von Bengasi und vor der Küste, bei denen ein russisches Kriegsschiff versenkt und ein Handelsschiff getroffen wurde; die Ukraine hat die Verantwortung übernommen. Polens Minister Tomasz Siemoniak sagte laut Politico, auch ein Friedensabkommen für die Ukraine werde russische Sabotage in Europa nicht beenden.",
-          "source": "Just Security (Presseschau: Reuters, Politico), 24.11.",
-          "url": "https://www.justsecurity.org/165763/early-edition-november-24-2026/"
-        },
-        {
-          "tag": "Russland · Weltraum",
-          "title": "Berichte über russischen Satelliten mit Atomsprengkopf: Nato will sich gegen Bedrohungen im All wappnen – Kreml winkt ab",
-          "text": "Nach Recherchen von WDR, NDR und Süddeutscher Zeitung, die sich auf westliche Geheimdienste, Bundeswehr und BND berufen, könnte Russland den Satelliten „Sputnik-S“ mit einem nuklearen Sprengkopf bereits im Dezember starten. Nato-Generalsekretär Mark Rutte sagte am Montag, das Bündnis werde sich gegen Bedrohungen aus dem Weltraum verteidigen. Kremlsprecher Dmitri Peskow erklärte laut BBC, die Berichte seien kaum ernst zu nehmen. Das Auswärtige Amt spricht von einem eklatanten Bruch des Weltraumvertrags von 1967, sollte eine Atomwaffe im All stationiert werden.",
-          "source": "Just Security (Presseschau: BBC), 24.11.",
-          "url": "https://www.justsecurity.org/165763/early-edition-november-24-2026/"
         },
         {
           "tag": "Gaza · Israel",
@@ -142,40 +142,40 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bei 59.442 $ weiter unter 60.000 $ – Ether um 1.685 $, Liquidationen von rund 850 Mio. $",
-          "text": "Bitcoin stand um 21:20 Uhr MEZ laut Yahoo Finance bei 59.442 $, 2,8 % unter dem Vortag; am Nachmittag hatte CoinDesk 59.800 $ und ein Minus von 5,8 % binnen 24 Stunden gemeldet, das Tagestief lag bei rund 59.380 $. Ether notierte um 18:41 Uhr MEZ bei 1.685 $ (Tagesspanne 1.664 bis 1.719 $). Am Montag war Bitcoin im Zuge der Aktienrally bis 64.505 $ gestiegen. Binnen 24 Stunden wurden laut finanzen.net Positionen über rund 830 bis 850 Mio. $ liquidiert, der Fear-and-Greed-Index steht bei 11. Glassnode sieht Anzeichen einer Kapitulation; ein Schlusskurs unter dem Juni-Tief von 58.500 $ würde demnach den realisierten Preis von 53.200 $ in den Blick rücken. Die Aktie von Strategy fiel um 7 % auf 78,50 $, den tiefsten Stand seit Anfang 2024.",
-          "source": "CoinDesk (Liveblog, zuletzt 20:13 Uhr MEZ), 24.11.",
-          "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
-          "impact": "Der Kurs hält sich knapp über dem Tagestief und hat die Gewinne vom Montag vollständig abgegeben. Hohe Liquidationen und ein Stimmungsindex im Bereich extremer Angst zeigen einen nervösen Markt. Die genannten Marken sind Beobachtungen der zitierten Analysehäuser, keine Prognosen."
+          "title": "Bitcoin bei 59.719 $ weiter unter 60.000 $ – Ether bei 1.674 $, Solana verliert 3,9 %",
+          "text": "Bitcoin notierte am späten Dienstagabend laut Motley Fool bei 59.718,51 $, 2,44 % unter dem Vortag und 6,2 % unter dem Stand vor einer Woche. Ether fiel um 2,07 % auf 1.673,50 $, Solana um 3,86 % auf 69,20 $. Das Tagestief hatte Kraken laut cryptoticker bei 59.314 $ gesehen; am Montag war Bitcoin im Zuge der Aktienrally noch bis 64.505 $ gestiegen. Binnen 24 Stunden wurden laut CoinGlass Positionen über rund 827 Mio. $ liquidiert, der Fear-and-Greed-Index steht bei 11. Als Gründe nennen die Berichte die erneute Schwäche der Technologiewerte, einen festeren Dollar und die anhaltenden ETF-Abflüsse. Die Aktie von Strategy war im Handelsverlauf laut CoinDesk um 7 % auf 78,50 $ gefallen.",
+          "source": "Motley Fool (Kurse von FMP, 23:26 Uhr MEZ), 24.11.",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/crypto-market-today-nov-24-bitcoin-falls-below-usd60-000-as-etf-outflows-hit-a-record-usd4-7-billion/",
+          "impact": "Der Kurs hält sich knapp über dem Tagestief und hat die Gewinne vom Montag vollständig abgegeben. Hohe Liquidationen und ein Stimmungsindex im Bereich extremer Angst zeigen einen nervösen Markt, der weiter eng an den Technologieaktien hängt."
         },
         {
           "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs: Abflüsse im November erreichen mit 4,71 Mrd. $ einen Monatsrekord – am Montag 570 Mio. $",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Montag netto 569,7 Mio. $ ab, laut Farside der fünfte Handelstag in Folge. Auf BlackRocks IBIT entfielen 509,3 Mio. $, auf Grayscale 61,1 Mio. und Bitwise 12,6 Mio. $; Fidelitys FBTC verbuchte 13,3 Mio. $ Zufluss. Im November summieren sich die Abflüsse laut CoinDesk auf 4,71 Mrd. $ und übertreffen den bisherigen Rekord von 4,5 Mrd. $ aus dem Juni. Die Ether-ETFs verloren am Montag 84,9 Mio. $. Langfristige Halter verkauften laut finanzen.net nahe 64.500 $ mit durchschnittlich 33 % Verlust. Die Flussdaten für Dienstag erscheinen erst in der Nacht.",
-          "source": "The Block (15:32 Uhr MEZ), 24.11.",
-          "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
-          "impact": "Die Abflüsse kommen weiter überwiegend aus dem größten Fonds und hielten auch am Tag der Aktienrally an. Dass langfristige Halter mit Verlust verkaufen, erhöht das Angebot zusätzlich. Ob sich der Trend am Dienstag fortgesetzt hat, zeigen erst die nächsten Flussdaten."
+          "title": "Bitcoin-ETFs: Abflüsse im November bei 4,71 Mrd. $ und damit auf Monatsrekord – Fondsanteile fallen am Dienstag weiter",
+          "text": "Aus den US-Spot-Bitcoin-ETFs sind im November bisher rund 4,71 Mrd. $ netto abgeflossen, der höchste Monatswert seit dem Start der Fonds. Am Montag waren es 569,7 Mio. $, davon 509,3 Mio. $ aus BlackRocks IBIT; die Ether-ETFs verloren rund 85 Mio. $. Seit dem Börsengang von Anthropic summieren sich die Abflüsse laut 24/7 Wall St. auf etwa 1,8 Mrd. $ in drei Handelstagen. Am Dienstag gaben die Anteile von IBIT um 2,48 % nach, Fidelitys FBTC um 2,35 % und der Ether-Fonds ETHA um 2,98 %. Die Flussdaten für Dienstag lagen bei diesem Lauf noch nicht vor.",
+          "source": "Motley Fool (23:26 Uhr MEZ), 24.11.",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/crypto-market-today-nov-24-bitcoin-falls-below-usd60-000-as-etf-outflows-hit-a-record-usd4-7-billion/",
+          "impact": "Die Abflüsse nehmen dem Markt einen wichtigen Käufer und kamen zuletzt überwiegend aus dem größten Fonds. Ob sich der Trend am Dienstag fortgesetzt hat, zeigen erst die nächsten Flussdaten."
         },
         {
           "tag": "Tech · Aktien · Zölle",
-          "title": "Wall Street: Nasdaq kurz vor Handelsschluss knapp 2 % im Minus, Nvidia rund 7 % – Bericht über neue US-Zölle belastet",
-          "text": "Eine halbe Stunde vor Handelsschluss (21:20 Uhr MEZ) lag der Nasdaq Composite laut Yahoo Finance 1,98 % im Minus bei 23.612 Punkten, der S&P 500 verlor 0,85 % auf 7.175 Punkte, der Dow Jones legte 0,6 % auf 49.892 Punkte zu. Nvidia gab rund 7 % ab, nachdem die Aktie am Montag nach der Rückkehr von Jensen Huang an die Konzernspitze um mehr als 31 % gestiegen war; Micron und AMD verloren im Handelsverlauf rund 10 %, Analog Devices nach einem schwachen Ausblick deutlich zweistellig. Laut Wall Street Journal könnte die US-Regierung schon diese Woche höhere Zölle gegen China, Japan, Südkorea und weitere Länder vorstellen. Schlusskurse lagen bei diesem Lauf noch nicht vor.",
-          "source": "Yahoo Finance (Liveblog, 21:20 Uhr MEZ), 24.11.",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
-          "impact": "Die Erholung der Technologiewerte hat keinen Anschluss gefunden, was auf die Risikobereitschaft insgesamt drückt. Zollberichte kommen als weiterer Unsicherheitsfaktor hinzu. Vor dem US-Feiertag am Donnerstag dürften die Umsätze abnehmen."
+          "title": "Wall Street schließt uneinheitlich: Nasdaq 100 verliert 1,99 %, Dow über 50.000 Punkten – neue US-Zölle gegen 16 Handelspartner erwartet",
+          "text": "Der Nasdaq 100 schloss am Dienstag 1,99 % tiefer bei 26.214,17 Punkten, der Nasdaq Composite verlor 1,5 % auf 23.733,54 und der S&P 500 0,50 % auf 7.201,09 Punkte. Der Dow Jones stieg dagegen um 0,85 % auf 50.018,70 Punkte, gestützt von Gesundheits- und Konsumwerten wie Amgen und Nike. Nvidia gab 5,86 % auf 155,38 $ ab, AMD 8,86 %, Intel 8,15 %; Analog Devices brach nach einem enttäuschenden Ausblick um 17,37 % ein, Hewlett Packard Enterprise um 16,31 %. Laut Reuters will die US-Regierung in Kürze die Ergebnisse einer Untersuchung zu industriellen Überkapazitäten bei 16 Handelspartnern vorlegen, darunter China, die EU, Japan, Südkorea und Mexiko, und neue Zölle verhängen. Für die EU, Japan und Südkorea gilt demnach die vereinbarte Obergrenze von 15 %, für China bis zum Ablauf der Zollpause am 10. Januar eine von 20 %.",
+          "source": "NTG24 (Schlusskurse), 24.11.",
+          "url": "https://www.ntg24.de/Wall-Street-Schluss-AI-Rally-verpufft-Chipwerte-stuerzen-ab-24112026-MF",
+          "impact": "Die Erholung der Technologiewerte hat keinen Anschluss gefunden, was auf die Risikobereitschaft insgesamt drückt. Die Zollpläne kommen als weiterer Unsicherheitsfaktor hinzu. Am Donnerstag bleiben die US-Börsen wegen Thanksgiving geschlossen."
         },
         {
-          "tag": "Fed · Konjunktur",
-          "title": "Zinserhöhung im Dezember zu 95 % eingepreist – US-Verbrauchervertrauen bei 103,3 Punkten, Rendite bei 4,90 %",
-          "text": "Händler preisen laut Yahoo Finance zu 95 % eine Zinserhöhung der Fed um einen Viertelpunkt ein und zu 5 % einen halben Punkt. New-York-Fed-Präsident John Williams sagte laut Reuters, die hartnäckig hohe Inflation spreche für eine straffere Geldpolitik. Die zehnjährige US-Rendite lag am Abend bei 4,90 %, Gold verlor 2,6 % auf rund 3.556 $, US-Rohöl verteuerte sich um 1,7 % auf 81,56 $. Der Index des Conference Board zum Verbrauchervertrauen war im November von 91,9 auf 103,3 Punkte gestiegen. Der PCE-Bericht am Mittwoch ist der letzte große Inflationswert vor der Fed-Sitzung.",
-          "source": "Yahoo Finance (Liveblog, 21:20 Uhr MEZ), 24.11.",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
-          "impact": "Robuste Konjunkturdaten und Äußerungen aus der Fed stützen die Erwartung einer Zinserhöhung, die am Markt weitgehend eingepreist ist. Hohe Renditen gelten als Gegenwind für zinslose Anlagen. Der PCE-Wert am Mittwoch kann die Erwartungen noch verschieben."
+          "tag": "Fed · Inflation",
+          "title": "PCE-Inflation heute um 14:30 Uhr: 3,8 % erwartet – Zinserhöhung im Dezember zu gut 96 % eingepreist",
+          "text": "Heute um 14:30 Uhr MEZ erscheint der PCE-Preisindex für Oktober, der letzte große Inflationswert vor der Fed-Sitzung am 9. Dezember. Erwartet werden laut investingLive rund 3,8 % zum Vorjahr nach zuvor 3,6 %, in der Kernrate etwa 3,2 % nach 3,1 %. Laut FedWatch-Daten, die FXStreet zitiert, liegt die Wahrscheinlichkeit einer Erhöhung um einen Viertelpunkt bei 96,4 % und die eines halben Punkts bei 3,6 %; der Leitzins liegt derzeit bei 3,75 bis 4,00 %. New-York-Fed-Präsident John Williams hatte am Montag gesagt, die hartnäckig hohe Inflation spreche weiter für eine straffere Geldpolitik, das Tempo hänge von den Daten ab. Gold fiel im frühen asiatischen Handel auf rund 3.560 $. Das US-Verbrauchervertrauen des Conference Board war im November von 91,9 auf 103,3 Punkte gestiegen.",
+          "source": "investingLive (PCE-Vorschau, 23:47 Uhr MEZ), 24.11.",
+          "url": "https://investinglive.com/central-banks/us-pce-preview-inflation-seen-near-3-8-in-the-fed-s-last-read-before-a-december-hike/",
+          "impact": "Eine Zinserhöhung im Dezember ist am Markt nahezu vollständig eingepreist. Hohe Zinsen gelten als Gegenwind für zinslose Anlagen. Ein PCE-Wert deutlich über oder unter den Erwartungen kann die Zinserwartungen und damit auch die Kryptokurse heute Nachmittag bewegen."
         },
         {
           "tag": "Termin",
           "title": "Mi 25.11.: US-PCE-Inflation für Oktober, Generaldebatte im Bundestag, Metall-Tarifrunde in Mannheim",
-          "text": "Das bevorzugte Inflationsmaß der Fed erscheint um 14:30 Uhr MEZ; dazu kommen die zweite Schätzung des US-Wachstums im dritten Quartal, Auftragseingänge für langlebige Güter, Neubauverkäufe und um 20 Uhr MEZ das Beige Book der Fed. Im Bundestag eröffnet die AfD am Vormittag die Generaldebatte zum Haushalt, danach spricht der Kanzler. IG Metall und Arbeitgeber verhandeln in Mannheim. In Berlin gibt es zum Internationalen Tag gegen Gewalt an Frauen acht Demonstrationen, die größte von 18 bis 21 Uhr ab Pariser Platz. China will um 01:18 Uhr MEZ das Raumschiff Shenzhou-24 starten.",
+          "text": "Das bevorzugte Inflationsmaß der Fed erscheint um 14:30 Uhr MEZ; erwartet werden rund 3,8 % zum Vorjahr, in der Kernrate etwa 3,2 %. Dazu kommen die wöchentlichen Erstanträge auf Arbeitslosenhilfe. Die US-Regierung könnte laut Reuters noch in dieser Woche neue Zölle gegen 16 Handelspartner vorstellen. Im Bundestag eröffnet die AfD am Vormittag die Generaldebatte zum Haushalt, danach spricht der Kanzler. IG Metall und Arbeitgeber verhandeln in Mannheim. In Berlin gibt es zum Internationalen Tag gegen Gewalt an Frauen acht Demonstrationen, die größte von 18 bis 21 Uhr ab Pariser Platz.",
           "source": "",
           "url": ""
         },
@@ -196,7 +196,7 @@
         {
           "tag": "Termin",
           "title": "So 29.11.: Treffen der OPEC+",
-          "text": "Die Förderländer beraten über ihre Ölproduktion; US-Rohöl kostete am Dienstagabend laut Yahoo Finance 81,56 $.",
+          "text": "Die Förderländer beraten über ihre Ölproduktion.",
           "source": "",
           "url": ""
         },
@@ -210,7 +210,7 @@
         {
           "tag": "Termin",
           "title": "8./9.12.: Zinsentscheid der Fed, Ministerpräsidentenwahl in Sachsen-Anhalt",
-          "text": "Fed-Entscheidung am 9. Dezember; der Markt rechnet mit einer Erhöhung um einen Viertelpunkt. Am 8. Dezember will sich Ulrich Siegmund (AfD) im Magdeburger Landtag zur Wahl stellen.",
+          "text": "Fed-Entscheidung am 9. Dezember; der Markt preist zu gut 96 % eine Erhöhung um einen Viertelpunkt ein. Am 8. Dezember will sich Ulrich Siegmund (AfD) im Magdeburger Landtag zur Wahl stellen.",
           "source": "",
           "url": ""
         }

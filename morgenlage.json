@@ -1,37 +1,37 @@
 {
   "date": "Mittwoch, 25. November 2026",
-  "stand": "16:46",
+  "stand": "21:38",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "rund 58.200 $",
-      "change": "mehr als −3 % am Tag (25.11., ca. 14:50 MEZ · piqmarkets/Coingape (TradingView), nach den PCE-Daten; um 12:31 MEZ laut finanzen.net 58.529,47 $ (−1,98 %). Ein Live-Kurs war bei diesem Lauf nicht abrufbar)",
-      "dir": "down"
+      "value": "59.952,09 $",
+      "change": "+1,13 % in 24 h (25.11., ca. 21:35 MEZ · CoinDesk-Kursleiste; Tagestief laut The Block unter 58.000 $, um 16:59 MEZ laut CoinDesk 58.300 $)",
+      "dir": "up"
     },
     {
       "label": "Ether",
-      "value": "1.638,74 $",
-      "change": "−2,22 % zum Vortag (25.11., 12:31 MEZ · finanzen.net; aktiencheck nennt um 16:26 MEZ rund 1.600 $. Ein Live-Kurs war bei diesem Lauf nicht abrufbar)",
-      "dir": "down"
+      "value": "1.682,43 $",
+      "change": "+0,49 % in 24 h (25.11., ca. 21:35 MEZ · CoinDesk-Kursleiste)",
+      "dir": "up"
     },
     {
       "label": "US-Leitzins (Fed)",
       "value": "3,75–4,00 %",
-      "change": "Erhöhung am 9.12. erwartet (Terminmärkte preisten laut aktiencheck (25.11.) vor den Daten rund 98 % für einen Viertelpunkt ein; Polymarket laut piqmarkets danach 94 %)",
+      "change": "Erhöhung am 9.12. erwartet (Märkte rechnen laut Yahoo Finance (25.11.) mit einem Viertelpunkt auf 4,00–4,25 %)",
       "dir": "warn"
     },
     {
       "label": "US-PCE-Inflation",
       "value": "3,8 %",
-      "change": "Kernrate 3,3 % (erwartet 3,2 %) (Oktober zum Vorjahr, veröffentlicht 25.11., 14:30 MEZ · aktiencheck; September 3,6 %, Kernrate 3,1 %)",
+      "change": "Kernrate 3,3 % (erwartet 3,2 %) (Oktober zum Vorjahr, veröffentlicht 25.11., 14:30 MEZ · aktiencheck/Yahoo Finance; September 3,6 %, Kernrate 3,1 %)",
       "dir": "warn"
     }
   ],
   "brief": [
-    "Märkte: Die US-PCE-Inflation stieg im Oktober wie erwartet auf 3,8 %, die Kernrate lag mit 3,3 % einen Zehntelpunkt über der Prognose; das US-Wachstum im dritten Quartal wurde auf 4,3 % nach oben revidiert. Bitcoin fiel danach auf rund 58.200 $, Ether stand mittags bei 1.638,74 $; der Dax lag gegen 16 Uhr rund 1,1 % im Minus bei etwa 24.900 Punkten. Eine Fed-Erhöhung am 9. Dezember gilt als nahezu sicher.",
-    "Handel und Bund: Die USA haben neue Zölle gegen 14 Handelspartner vorgeschlagen: 20 % zusätzlich für China und Vietnam, für die EU, Japan und Südkorea höchstens 15 %; in Kraft treten sollen sie frühestens im Januar. Im Bundestag verteidigte Kanzler Merz den Haushalt 2027 gegen den Vorwurf der „Schuldenorgie“, abgestimmt wird am Freitag. In Mannheim läuft seit 13 Uhr die vierte Metall-Tarifrunde, ein Ergebnis gab es bis zum Nachmittag nicht.",
-    "Welt und Berlin: Die iranischen Revolutionsgarden melden zwei Tanker, die in der Straße von Hormus auf Minen gelaufen sein sollen, und fordern Schiffe auf, Durchfahrten abzustimmen; unabhängig bestätigt ist das nicht. Die Huthi reklamieren einen Angriff auf die saudische Ölanlage Ras Tanura. In Berlin läuft die Fernwärme am Gleisdreieck wieder, Vattenfall erhöht zum Februar die Strompreise in der Grundversorgung, und ab 18 Uhr zieht die größte Demo zum Tag gegen Gewalt an Frauen vom Pariser Platz los."
+    "Märkte: Die Wall Street hat einen Kurssturz zum Auftakt weitgehend aufgeholt: Der Nasdaq lag nach zeitweise 4,5 % Minus um 20:24 Uhr MEZ noch 0,7 % tiefer, der Dow 0,6 % im Plus. Bitcoin erholte sich von unter 58.000 $ auf 59.952 $ (+1,13 % in 24 h), Ether stand bei 1.682 $. Der Dax schloss zuvor 1,26 % tiefer bei 24.702 Punkten; das Beige Book der Fed meldet anhaltenden Kostendruck, eine Zinserhöhung am 9. Dezember gilt als ausgemacht.",
+    "Bund und Wirtschaft: In der Generaldebatte zum Haushalt 2027 stritt der Bundestag vor allem über die rund zwölf Milliarden Euro Ukraine-Hilfe; Kanzler Merz nannte den Etat vertretbar, abgestimmt wird am Freitag. Die USA haben Zölle gegen 14 Handelspartner vorgeschlagen, für die EU höchstens 15 %, frühestens ab Januar. In der Metall-Tarifrunde in Mannheim gab es bis zum frühen Abend keine Anzeichen für eine Einigung.",
+    "Welt und Berlin: Iran meldet inzwischen einen dritten Tanker, der in der Straße von Hormus auf eine Mine gelaufen sein soll; Reuters konnte das nicht überprüfen. Saudi-Arabien griff den jemenitischen Hafen Hodeidah an, die Huthi reklamieren Angriffe auf Ras Tanura und Riad. In Berlin durchsuchten fast 250 Polizisten nach Schüssen mit möglichem Clan-Bezug acht Adressen, und in der Rigaer Straße 94 sollen am 15. Dezember Wohnungen geräumt werden."
   ],
   "sections": [
     {
@@ -40,24 +40,24 @@
       "items": [
         {
           "tag": "Haushalt · Bundestag",
-          "title": "Generaldebatte: Chrupalla spricht von „Schuldenorgie“ – Merz räumt ein, die Aufstellung habe „keinen Schönheitspreis verdient“",
-          "text": "AfD-Fraktionschef Tino Chrupalla eröffnete die Generaldebatte zum Haushalt 2027, nannte den Etat eine reine Schuldenorgie und forderte eine Normenkontrollklage. Kanzler Friedrich Merz (CDU) sagte, aus Steuermitteln lasse sich nicht mehr alles leisten, und räumte ein, das Verfahren zur Aufstellung des Etats habe keinen Schönheitspreis verdient; der Ukraine sagte er weitere Unterstützung zu. Grünen-Fraktionschefin Britta Haßelmann nannte den Haushalt so unseriös wie keinen zuvor, Linken-Fraktionschefin Heidi Reichinnek sprach von Trickserei, SPD-Fraktionschef Matthias Miersch dankte den Verhandlern für das Schließen der Lücken. Der Etat umfasst rund 560 Mrd. Euro, mit Sondervermögen rund 210 Mrd. Euro neue Schulden. Abgestimmt wird am Freitag.",
-          "source": "Handelsblatt (Liveblog, Stand 10:40 Uhr), 25.11.",
-          "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-generaldebatte-merz-verteidigt-haushalt-im-bundestag/100137034.html"
+          "title": "Generaldebatte zum Haushalt 2027: Streit über zwölf Milliarden Euro Ukraine-Hilfe – Merz nennt den Etat „vertretbar“",
+          "text": "In der Generaldebatte warf AfD-Fraktionschefin Alice Weidel der Regierung vor, Steuermilliarden in der Ukraine zu versenken; AfD-Co-Chef Tino Chrupalla hatte den Etat zum Auftakt eine Schuldenorgie genannt. Kanzler Friedrich Merz (CDU) entgegnete, mit der Hilfe für die Ukraine schütze Deutschland auch sich selbst, nannte den Haushalt vertretbar und räumte ein, seine Aufstellung habe keinen Schönheitspreis verdient. Grünen-Fraktionschefin Britta Haßelmann wies die AfD-Vorwürfe zurück, kritisierte den Etat aber als unseriös. Der Haushalt enthält rund zwölf Milliarden Euro für die Ukraine und umfasst rund 560 Mrd. Euro, mit Sondervermögen rund 210 Mrd. Euro neue Schulden. Abgestimmt wird am Freitag.",
+          "source": "tagesschau.de (19:10 Uhr), 25.11.",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html"
         },
         {
           "tag": "Börse",
-          "title": "Dax dreht ins Minus: gegen 16 Uhr rund 1,1 % tiefer bei etwa 24.900 Punkten – Tech schwach, Autowerte gefragt",
-          "text": "Nach einem Tageshoch von 25.151 Punkten rutschte der Dax ab; am frühen Nachmittag lag er laut dpa-AFX rund ein halbes Prozent im Minus bei etwa 24.900 Punkten, gegen 16 Uhr zeigte wallstreet-online 24.905 Punkte (−1,13 %). Der EuroStoxx 50 verlor mittags 0,7 %, der MDax trat bei 28.777 Punkten auf der Stelle. VW und BMW führten den Dax an, Infineon fiel auf ein neues Tief seit April; im MDax gewann Aroundtown rund 6 %. Vor den US-Daten standen die Futures auf den Nasdaq 100 laut aktiencheck rund 2,8 % im Minus.",
-          "source": "onvista/dpa-AFX (13:07 Uhr), 25.11.",
-          "url": "https://www.onvista.de/news/2026/11-25-aktien-frankfurt-weiter-abwaerts-tech-sektor-bleibt-schwach-autowerte-gesucht-0-10-26580469"
+          "title": "Dax schließt 1,26 % tiefer bei 24.702 Punkten – Zollsorgen und Flucht aus KI-Aktien belasten",
+          "text": "Der Dax beendete den Handel bei 24.702,13 Punkten, 315,68 Punkte oder 1,26 % unter dem Vortag und damit wieder unter der Marke von 25.000. Als Gründe nennen die Marktberichte den Ausverkauf bei Technologie- und KI-Werten, die neuen US-Zollpläne und die Sorge vor steigender Inflation; Autowerte waren dagegen gefragt. Die Erholung an der Wall Street setzte erst nach dem Xetra-Schluss ein.",
+          "source": "ad-hoc-news (18:41 Uhr), 25.11.",
+          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-1-26-prozent-tiefer-wegen-zoll-und-ki-sorgen/70554576"
         },
         {
           "tag": "Tarife · Metall",
-          "title": "Metall-Tarifstreit: Vierte Runde seit 13 Uhr in Mannheim – bis zum Nachmittag kein Ergebnis und kein neues Angebot gemeldet",
-          "text": "IG Metall und Arbeitgeber verhandeln seit etwa 13 Uhr im Mannheimer Rosengarten; angestrebt wird ein Pilotabschluss für rund 3,7 Millionen Beschäftigte. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit, die Arbeitgeber bieten bisher eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten. Bezirksleiterin Barbara Resch verlangte vorab ein verhandlungsfähiges Angebot, Südwestmetall-Verhandler Peter Sebastian Krause sagte, man sei gekommen, um eine Lösung zu finden. Ohne Einigung drohen laut Berichten Urabstimmung und unbefristete Streiks im neuen Jahr.",
-          "source": "ad-hoc-news/dpa (14:26 Uhr), 25.11.",
-          "url": "https://www.ad-hoc-news.de/wirtschaft/metall-tarifrunde-vierte-verhandlung-in-mannheim-gestartet/70553550"
+          "title": "Metall-Tarifstreit: Vierte Runde in Mannheim läuft seit dem Mittag – bis zum frühen Abend keine Anzeichen für eine Einigung",
+          "text": "IG Metall und Arbeitgeber verhandeln seit etwa 13 Uhr im Mannheimer Rosengarten über einen Pilotabschluss für rund 3,7 Millionen Beschäftigte. Am späten Nachmittag deutete laut Rheinpfalz nichts auf eine kurz bevorstehende Einigung hin; ein Ergebnis oder ein neues Angebot war bei diesem Lauf nicht gemeldet. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit, die Arbeitgeber boten bisher eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten. Ohne Einigung drohen laut Berichten Urabstimmung und unbefristete Streiks im neuen Jahr.",
+          "source": "Die Rheinpfalz (18:31 Uhr), 25.11.",
+          "url": "https://www.rheinpfalz.de/wirtschaft_artikel,-metaller-wollen-tarifkonflikt-in-mannheim-l%C3%B6sen-_arid,5952126.html"
         },
         {
           "tag": "Konjunktur",
@@ -73,32 +73,32 @@
       "title": "Berlin",
       "items": [
         {
-          "tag": "Versorgung",
-          "title": "Fernwärme am Gleisdreieck läuft wieder: Alle Haushalte seit Mittwochmorgen versorgt – Ursache war ein Rohrschaden",
-          "text": "Nach dem Ausfall vom Dienstagmorgen, der zunächst 10.000 Haushalte in Teilen von Kreuzberg, Tiergarten und Schöneberg traf, haben laut Tagesspiegel seit Mittwochmorgen alle wieder Heizung und Warmwasser; die letzten rund 1.000 Haushalte wurden in den frühen Morgenstunden angeschlossen. Ursache war nach Angaben des Betreibers BEW ein Rohrschaden an einer schwer zugänglichen Leitung im Bereich Dessauer Straße. Eine Zunahme solcher Störungen sieht das Unternehmen nicht.",
-          "source": "Tagesspiegel (Stand 08:30 Uhr), 25.11.",
-          "url": "https://www.tagesspiegel.de/berlin/10000-haushalte-waren-ohne-heizung-fernwarmeversorgung-rund-um-das-gleisdreieck-in-berlin-lauft-wieder-16318354.html"
+          "tag": "Polizei",
+          "title": "Razzia nach Schüssen mit möglichem Clan-Bezug: Fast 250 Polizisten durchsuchen acht Adressen – 166.000 Euro Bargeld gefunden",
+          "text": "Wie die Polizei am Mittwoch mitteilte, durchsuchten am Dienstagmorgen fast 250 Einsatzkräfte acht Adressen in Friedrichshain-Kreuzberg, Charlottenburg-Wilmersdorf, Neukölln, Mitte und Brandenburg sowie ein Bankschließfach und ein Auto. Die Aktion richtete sich gegen sieben Verdächtige zwischen 22 und 51 Jahren; ermittelt wird wegen versuchten Totschlags nach Schüssen in Moabit, Charlottenburg und Schöneberg im September und Oktober. Gefunden wurden laut Tagesspiegel 166.000 Euro und mehr als 9.000 US-Dollar Bargeld, eine Schreckschusswaffe, mutmaßliche Drogen und ein mögliches Fluchtauto. Am Abend meldete rbb24 zudem einen Überfall auf einen Juwelier im Ring-Center in Lichtenberg, die Täter sind flüchtig.",
+          "source": "Tagesspiegel (16:04 Uhr), 25.11.",
+          "url": "https://www.tagesspiegel.de/berlin/grossrazzia-nach-schussen-mit-moglichem-clan-bezug-hunderte-ermittler-durchsuchen-objekte-in-ganz-berlin-16325404.html"
         },
         {
-          "tag": "Verkehr · Demos",
-          "title": "Heute Abend: Demos zum Tag gegen Gewalt an Frauen – größte von 18 bis 21 Uhr ab Pariser Platz",
-          "text": "Für heute nennt die Verkehrsinformationszentrale laut Berliner Kurier acht Protestaktionen. Von 17:30 bis 23 Uhr führt eine Demo vom Herrfurthplatz über Hermannstraße, Karl-Marx-Straße und Sonnenallee zur Kottbusser Brücke, um 18:30 Uhr startet ein Trauermarsch vom Hermannplatz zum Alfred-Scholz-Platz. Die größte Demo läuft von 18 bis 21 Uhr vom Pariser Platz über Unter den Linden, Wilhelmstraße, Reichstagufer und Friedrichstraße zurück zum Brandenburger Tor; weitere Aufzüge gibt es rund um den Leopoldplatz (17 bis 20:30 Uhr) und in Hellersdorf. Auf der A100 ist die Rudolf-Wissell-Brücke in der Nacht zu Donnerstag von 22 bis 5 Uhr wechselseitig einspurig. Neue Störungsmeldungen von BVG und S-Bahn waren bei diesem Lauf nicht zu finden.",
-          "source": "Berliner Kurier (20:27 Uhr), 24.11.",
-          "url": "https://www.berliner-kurier.de/article/nur-2-baustellen-aber-mindestens-8-demos-der-verkehr-am-mittwoch-wird-wild-10632079"
+          "tag": "Justiz · Rigaer Straße",
+          "title": "Rigaer 94: Mehrere Wohnungen sollen am 15. Dezember geräumt werden",
+          "text": "In dem früher besetzten Haus in der Rigaer Straße 94 in Friedrichshain stehen nach Angaben des Sprechers der Berliner Zivilgerichte am 15. Dezember Räumungen an, die neun Menschen betreffen. Nicht alle Urteile sind rechtskräftig, sie sind aber vorläufig vollstreckbar; fünf Berufungsverfahren sollen am 13. Januar 2027 entschieden werden. Der Komplex mit rund 30 Wohnungen gilt als eine der letzten Hochburgen der linksextremen Szene, der Eigentümer klagt seit Jahren.",
+          "source": "Tagesspiegel/dpa (17:02 Uhr), 25.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-wohnungen-in-rigaer-strasse-in-berlin-sollen-am-15-dezember-geraumt-werden-16325378.html"
         },
         {
           "tag": "Landespolitik",
-          "title": "Linksfraktion schließt Vanessa Emde aus: 33 Ja-Stimmen, 6 Nein, 4 Enthaltungen – Emde bleibt als Fraktionslose im Parlament",
-          "text": "Die Linksfraktion im Abgeordnetenhaus hat die Neuköllner Abgeordnete Vanessa Emde am Dienstag in geheimer Abstimmung ausgeschlossen; nötig waren 30 Stimmen. Fraktionschef Tobias Schulze sagte, es gebe keine Grundlage für eine Zusammenarbeit mehr, Emde sprach von einer Kampagne und will fraktionslos im Parlament bleiben. SPD und Grüne, die den Schritt zur Bedingung für Rot-Grün-Rot gemacht hatten, begrüßten ihn. Die Fraktion hat nun 43 Mitglieder, die Mehrheit des möglichen Bündnisses schrumpft laut Tagesspiegel auf 13 Stimmen.",
-          "source": "Tagesspiegel (Fraktionssitzung), 25.11.",
-          "url": "https://www.tagesspiegel.de/berlin/ausschluss-der-linken-abgeordneten-in-der-entscheidenden-fraktionssitzung-kritisieren-selbst-die-letzten-unterstutzer-vanessa-emde-16321964.html"
+          "title": "Nach dem Ausschluss von Vanessa Emde aus der Linksfraktion: Anfeindungen in der Partei, Rot-Grün-Rot wahrscheinlicher",
+          "text": "Die Linksfraktion im Abgeordnetenhaus hatte die Neuköllner Abgeordnete Vanessa Emde am Dienstag mit 33 Ja-Stimmen bei 6 Nein und 4 Enthaltungen ausgeschlossen; Emde will fraktionslos im Parlament bleiben. Laut Tagesspiegel kursieren seither in der Partei Beleidigungen und Gewaltfantasien von Unterstützern, darunter ein offenbar KI-erzeugtes Bild der brennenden Parteizentrale. SPD und Grüne hatten den Ausschluss zur Bedingung für ein rot-grün-rotes Bündnis gemacht, das damit wahrscheinlicher geworden ist; die Fraktion hat nun 43 Mitglieder.",
+          "source": "Tagesspiegel (Anfeindungen), 25.11.",
+          "url": "https://www.tagesspiegel.de/berlin/fick-die-deutsche-staatsrason-unterstutzer-von-vanessa-emde-posten-gewaltfantasien-und-beleidigungen-16325988.html"
         },
         {
-          "tag": "Energie · Preise",
-          "title": "Vattenfall erhöht zum Februar die Strompreise in der Grundversorgung",
-          "text": "Der Berliner Grundversorger Vattenfall hebt laut dpa die Strompreise in der Grundversorgung zum Februar an und begründet das mit höheren Netzentgelten. Die genaue Höhe der Anhebung lag bei diesem Lauf nicht vor.",
-          "source": "Tagesspiegel/dpa, 25.11.",
-          "url": "https://www.tagesspiegel.de/berlin/dpa-strom-und-energie-vattenfall-erhoht-strompreise-zum-februar-16322109.html"
+          "tag": "Verkehr · BVG",
+          "title": "BVG-Zwischenbilanz: U-Bahn-Zuverlässigkeit bei 98,2 %, Tram unter dem Soll – heute Nacht Engstelle auf der A100",
+          "text": "Zwei Jahre nach dem Start ihres Programms „Stabilität vor Wachstum“ meldet die BVG eine von 91,6 auf 98,2 % gestiegene Zuverlässigkeit der U-Bahn; im Lauf des Jahres 2026 ging der Wert allerdings um 0,4 Punkte zurück. Die Straßenbahn liegt mit 99,1 % unter dem vertraglichen Soll von 99,7 %, was die BVG mit vielen Baustellen begründet, der Bus durchweg über 99 %. In Lichtenberg wurde am späten Nachmittag eine Seniorin von einer Tram erfasst und unter Reanimation ins Krankenhaus gebracht. Auf der A100 ist die Rudolf-Wissell-Brücke bis 5 Uhr wechselseitig einspurig; eine Demonstration vom Herrfurthplatz zur Kottbusser Brücke ist bis 23 Uhr angemeldet.",
+          "source": "Tagesspiegel (BVG, 16:25 Uhr), 25.11.",
+          "url": "https://www.tagesspiegel.de/berlin/stabiler-wirds-nicht-bvg-lobt-sich-fur-verbesserungen-16324802.html"
         }
       ]
     },
@@ -107,18 +107,18 @@
       "title": "Welt",
       "items": [
         {
-          "tag": "USA · Handel",
-          "title": "USA schlagen neue Zölle gegen 14 Handelspartner vor: 20 % zusätzlich für China und Vietnam, höchstens 15 % für die EU",
-          "text": "Der US-Handelsbeauftragte hat nach einer achtmonatigen Untersuchung zu industriellen Überkapazitäten Zölle gegen China, die EU, Japan, Südkorea, Indien, die Schweiz, Taiwan, Vietnam und sechs weitere Volkswirtschaften vorgeschlagen; Mexiko und Norwegen bleiben vorerst verschont. Für China sind 20 % zusätzlich zu den rund 25 % aus Trumps erster Amtszeit vorgesehen, für Vietnam ebenfalls 20 %; für die EU, Japan, Südkorea und Taiwan gilt die vereinbarte Obergrenze von 15 %. Halbleiter, Autos, Stahl und Aluminium sind ausgenommen. Nach Anhörung und Kommentarfrist könnten die Abgaben laut einem US-Regierungsvertreter frühestens im Januar greifen. Peking weist die Vorwürfe zurück; eine Reaktion der EU lag in den Berichten nicht vor.",
-          "source": "RTÉ/AFP/Reuters (14:42 Uhr MEZ), 25.11.",
-          "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"
+          "tag": "Nahost · Iran · Golf",
+          "title": "Hormus: Iran meldet dritten Tanker auf einer Mine – Saudi-Arabien greift Hafen Hodeidah an, Huthi reklamieren Angriffe auf Ras Tanura und Riad",
+          "text": "Nach den Revolutionsgarden, die am Morgen zwei auf Minen gelaufene und in Brand geratene Öltanker gemeldet hatten, berichtete die halbamtliche Agentur Fars unter Berufung auf die iranische Armee von einem weiteren Tanker, der in einer „Sperrzone“ der Straße von Hormus eine Mine getroffen habe. Reuters konnte die Angaben nicht unabhängig überprüfen; Iran fordert Schiffe auf, Durchfahrten abzustimmen. Die jemenitischen Huthi reklamieren Angriffe auf die saudische Raffinerie Ras Tanura und das Finanzzentrum von Riad, Saudi-Arabien griff den Hafen Hodeidah an und will in zwei Monaten 209 Flugkörper der Huthi abgefangen haben. Die USA gaben eine Sicherheitswarnung für die Region heraus.",
+          "source": "Al Arabiya/Reuters (16:04 Uhr MEZ), 25.11.",
+          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/11/25/iran-s-army-says-oil-tanker-hit-a-naval-mine-and-caught-fire-in-strait-of-hormuz"
         },
         {
-          "tag": "Nahost · Iran · Golf",
-          "title": "Hormus: Iran meldet zwei Tanker auf Minen und fordert Schiffe auf, Durchfahrten abzustimmen – Huthi reklamieren Angriff auf Ras Tanura",
-          "text": "Die Marine der iranischen Revolutionsgarden erklärte laut Reuters am Mittwoch über Staatsmedien, zwei Öltanker seien in der Straße von Hormus auf Seeminen gelaufen, explodiert und in Brand geraten; sie hätten eine nicht genehmigte Route genommen. Iran will die Überwachung der Wasserstraße verstärkt haben und warnt Schiffe, ihre Passage abzustimmen. Eine unabhängige Bestätigung lag nicht vor. Die jemenitischen Huthi reklamieren einen Angriff auf die saudische Ölanlage Ras Tanura; am Dienstag waren in Riad bei einem Drohnentreffer elf Menschen verletzt worden. Brent kostete am Dienstag zuletzt 91,08 $, WTI lag am Mittwochvormittag bei 81,40 $.",
-          "source": "Reuters via MarketScreener (11:04 Uhr MEZ), 25.11.",
-          "url": "https://www.marketscreener.com/news/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage-ce7851dbd088f720"
+          "tag": "USA · Handel",
+          "title": "USA schlagen neue Zölle gegen 14 Handelspartner vor: 20 % zusätzlich für China und Vietnam, höchstens 15 % für die EU",
+          "text": "Der US-Handelsbeauftragte hat nach einer achtmonatigen Untersuchung zu industriellen Überkapazitäten Zölle gegen China, die EU, Japan, Südkorea, Indien, die Schweiz, Taiwan, Vietnam und sechs weitere Volkswirtschaften vorgeschlagen; Mexiko und Norwegen bleiben vorerst verschont. Für China sind 20 % zusätzlich zu den rund 25 % aus Trumps erster Amtszeit vorgesehen, für Vietnam ebenfalls 20 %; für die EU, Japan, Südkorea und Taiwan gilt die vereinbarte Obergrenze von 15 %. Halbleiter, Autos, Stahl und Aluminium sind ausgenommen. Nach Anhörung und Kommentarfrist könnten die Abgaben laut einem US-Regierungsvertreter frühestens im Januar greifen. Peking weist die Vorwürfe zurück.",
+          "source": "RTÉ/AFP/Reuters (14:42 Uhr MEZ), 25.11.",
+          "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"
         },
         {
           "tag": "Ukraine · Russland",
@@ -128,18 +128,18 @@
           "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html"
         },
         {
+          "tag": "Kongo · Ebola",
+          "title": "Kämpfe im Ostkongo zwingen Ebola-Helfer zum Rückzug – WHO verlegt Team nach Bunia",
+          "text": "Gefechte zwischen der kongolesischen Armee und der Rebellengruppe CRP behindern laut AP die Eindämmung des bislang tödlichsten Ebola-Ausbruchs im Land. Rund ein Dutzend Helfer, darunter zwei WHO-Mitarbeiter, wurden nach Beschuss aus dem Ort Akwe in Sicherheit gebracht, die WHO verlegte ihr Team aus Mongbwalu vorübergehend nach Bunia. Blockierte Straßen erschweren nach Angaben der WHO Lieferungen, Bestattungen und die Nachverfolgung von Kontakten. Der Ausbruch zählt mehr als 11.700 Erkrankte und über 5.700 Tote.",
+          "source": "AP via CTV News (21:24 Uhr MEZ), 25.11.",
+          "url": "https://www.ctvnews.ca/world/article/fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-threatening-outbreak-response/"
+        },
+        {
           "tag": "USA · China · Justiz",
           "title": "US-Geschworene sprechen Huawei in zehn von zwölf Anklagepunkten schuldig – Konzern will in Berufung gehen",
           "text": "Ein Bundesgericht in Brooklyn hat Huawei unter anderem wegen Bankbetrugs, Geldwäsche, Sanktionsverstößen und des Diebstahls von Geschäftsgeheimnissen verurteilt; von den Vorwürfen der Justizbehinderung und der organisierten Kriminalität wurde das Unternehmen freigesprochen. Das Strafmaß soll im September 2027 verkündet werden. Huawei nennt das Urteil haltlos und kündigte Berufung an.",
           "source": "Lippische Landes-Zeitung/dpa (23:46 Uhr), 24.11.",
           "url": "https://www.lz.de/ueberregional/wirtschaft/24470461_US-Geschworene-sprechen-Huawei-der-Geldwaesche-schuldig.html"
-        },
-        {
-          "tag": "China · Raumfahrt",
-          "title": "Shenzhou-24 gestartet: Erster Pakistaner fliegt mit zwei chinesischen Astronauten ins All",
-          "text": "China hat laut Globe TV das Raumschiff Shenzhou-24 vom Startzentrum Jiuquan aus gestartet. An Bord sind die Astronauten Tang Hongbo und Wu Yi sowie der pakistanische Nutzlastspezialist Muhammad Zeeshan Ali, der erste Pakistaner im All.",
-          "source": "Globe TV (Tagesüberblick, 08:48 Uhr MEZ), 25.11.",
-          "url": "https://globetv.app/news/world-news-24-hours-november-25-2026"
         }
       ]
     },
@@ -149,54 +149,47 @@
       "items": [
         {
           "tag": "Fed · Inflation",
-          "title": "PCE-Inflation steigt auf 3,8 %, Kernrate mit 3,3 % über der Erwartung – US-Wachstum auf 4,3 % revidiert",
-          "text": "Der PCE-Preisindex lag im Oktober 3,8 % über dem Vorjahr und damit wie erwartet auf dem höchsten Stand seit Mai, nach 3,6 % im September; zum Vormonat stieg er um 0,3 %. Die Kernrate erreichte 3,3 % (erwartet 3,2 %, zuvor 3,1 %), ebenfalls bei 0,3 % zum Vormonat. Die zweite Schätzung des US-Wachstums im dritten Quartal fiel mit annualisiert 4,3 % deutlich höher aus als die erste (3,4 %). Die Terminmärkte preisten laut aktiencheck schon vor den Daten zu rund 98 % eine Erhöhung um einen Viertelpunkt am 9. Dezember ein; Fed-Gouverneur Christopher Waller hatte bei monatlichen Kernraten von 0,3 % oder mehr auch einen halben Punkt für möglich erklärt.",
-          "impact": "Die Daten stützen die Erwartung einer Zinserhöhung im Dezember, und die Kernrate lässt Raum für die Debatte über einen größeren Schritt. Höhere Zinsen gelten als Gegenwind für zinslose Anlagen; der Leitzins liegt bei 3,75 bis 4,00 %.",
-          "source": "aktiencheck (14:43 Uhr), 25.11.",
-          "url": "https://aktiencheck.de/artikel/pce-inflation-steigt-auf-38-prozent-kernrate-ueberrascht-mit-33-prozent-us-bip"
+          "title": "Beige Book: Wachstum in acht von zwölf Fed-Bezirken, Kostendruck hält an – PCE-Kernrate bei 3,3 %",
+          "text": "Der am Abend veröffentlichte Konjunkturbericht der Fed beschreibt leichtes bis moderates Wachstum in acht der zwölf Bezirke, in vier stagnierte die Wirtschaft. Unternehmen meldeten anhaltenden Kostendruck bei Energie, Transport, Gesundheit, Versicherungen und zollbedingten Ausgaben und erwarten weiter steigende Preise; die Befragung endete vor der neuen Zollankündigung. Am Nachmittag war die PCE-Inflation für Oktober mit 3,8 % gemeldet worden, die Kernrate mit 3,3 % (erwartet 3,2 %), das US-Wachstum im dritten Quartal wurde auf 4,3 % revidiert, und die Erstanträge auf Arbeitslosenhilfe fielen auf 189.000. Die Märkte erwarten laut Yahoo Finance am 9. Dezember eine Erhöhung um einen Viertelpunkt auf 4,00 bis 4,25 %.",
+          "impact": "Beige Book und PCE-Daten stützen die Erwartung einer Zinserhöhung im Dezember. Höhere Zinsen gelten als Gegenwind für zinslose Anlagen; der Leitzins liegt derzeit bei 3,75 bis 4,00 %.",
+          "source": "Yahoo Finance (21:05 Uhr MEZ), 25.11.",
+          "url": "https://finance.yahoo.com/economy/policy/article/feds-beige-book-shows-evidence-of-broadening-price-pressures-200555194.html"
         },
         {
           "tag": "Markt",
-          "title": "Bitcoin fällt nach den Inflationsdaten auf rund 58.200 $ – Ether laut aktiencheck bei rund 1.600 $",
-          "text": "Bitcoin rutschte nach den PCE-Daten von etwa 59.000 $ auf rund 58.200 $ und lag damit laut TradingView mehr als 3 % unter dem Vortag; um 12:31 Uhr hatte finanzen.net 58.529,47 $ (−1,98 %) genannt, CoinDesk kurz vor 13 Uhr 57.843,76 $. Ether stand um 12:31 Uhr bei 1.638,74 $ (−2,22 %); aktiencheck nennt am Nachmittag rund 1.600 $ und den schwächsten Monat seit Februar 2025. In 24 Stunden wurden laut CoinDesk Positionen über 349,5 Mio. $ liquidiert, knapp 80 % davon Long-Positionen; der Fear-and-Greed-Index von CoinMarketCap steht bei 8 Punkten.",
-          "impact": "Bitcoin notiert unter dem Nachttief von 58.601 $ und nahe dem Juni-Tief um 58.500 $, das Marktbeobachter als Messlatte nennen. Die Stimmung bleibt im Bereich extremer Angst; die genannten Kurse stammen aus unterschiedlichen Quellen und Zeitpunkten.",
-          "source": "Coingape (14:52 Uhr MEZ), 25.11.",
-          "url": "https://coingape.com/bitcoin-falls-as-u-s-pce-inflation-data-comes-in-at-3-8/"
+          "title": "Bitcoin erholt sich vom Tagestief unter 58.000 $ auf knapp 60.000 $ – Ether bei 1.682 $",
+          "text": "Nach den Inflationsdaten war Bitcoin zeitweise unter 58.000 $ gefallen; um 16:59 Uhr MEZ nannte CoinDesk 58.300 $, um 20:24 Uhr knapp über 60.000 $. Gegen 21:35 Uhr zeigte die CoinDesk-Kursleiste 59.952,09 $ (+1,13 % in 24 Stunden) und für Ether 1.682,43 $ (+0,49 %). Die Erholung lief parallel zu der an den US-Aktienmärkten. CoinShares-Analyst James Butterfill sieht laut The Block die Endphase des Bärenmarkts und Bitcoin vorerst in einer Spanne von 60.000 bis 90.000 $; ein Ausbruch hänge von veränderten Fed-Erwartungen ab.",
+          "impact": "Bitcoin hat das Tagestief hinter sich gelassen, notiert aber weiter um die Marke von 60.000 $. Am Donnerstag sind die US-Börsen geschlossen, an Feiertagen sind die Umsätze meist dünner.",
+          "source": "CoinDesk (Liveblog, Stand 20:24 Uhr MEZ), 25.11.",
+          "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower"
+        },
+        {
+          "tag": "Aktien · Tech",
+          "title": "Wall Street holt Kurssturz weitgehend auf: Nasdaq nach 4,5 % Minus nur noch 0,7 % tiefer, Dow im Plus",
+          "text": "Der Nasdaq brach zum Handelsstart um rund 4,5 % ein und lag damit zeitweise 20 % unter seinem Rekordhoch, der Schwelle zum Bärenmarkt; der Volatilitätsindex VIX sprang laut einem Marktkommentar auf 34,95. Bis 20:24 Uhr MEZ schrumpfte das Minus laut CoinDesk auf 0,7 %, der S&P 500 lag 0,35 % tiefer, der Dow Jones 0,6 % im Plus. Investor Michael Burry teilte mit, seine Wetten gegen Technologiewerte geschlossen zu haben. Die Rendite zehnjähriger US-Staatsanleihen fiel auf 4,84 %; der Dax hatte zuvor 1,26 % tiefer geschlossen. Die US-Schlusskurse lagen bei diesem Lauf noch nicht vor.",
+          "impact": "Krypto bewegte sich auch heute eng mit dem Technologiesektor, dessen Erholung den Druck vorerst nimmt. Zölle und Zinsausblick bleiben als Belastungsfaktoren bestehen.",
+          "source": "CoinDesk (Liveblog, Stand 20:24 Uhr MEZ), 25.11.",
+          "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower"
         },
         {
           "tag": "ETF-Flüsse",
           "title": "Bitcoin-ETFs: Sechster Abflusstag in Folge mit 231,4 Mio. $ – November-Abflüsse bei rund 4,94 Mrd. $, auch Ether-ETFs verlieren",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Dienstag laut Farside netto 231,4 Mio. $ ab, nach 569,7 Mio. $ am Montag; auf BlackRocks IBIT entfielen 175,3 Mio. $. Für den November summieren sich die Abflüsse auf rund 4,94 Mrd. $, mehr als in jedem Monat seit dem Start der Fonds 2024. Aus den Ether-ETFs flossen laut aktiencheck in sechs Handelstagen bis zum 23. November 391 Mio. $ ab, am Montag allein 84,9 Mio. $; Zahlen vom Dienstag lagen nicht vor.",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Dienstag laut Farside netto 231,4 Mio. $ ab, nach 569,7 Mio. $ am Montag; auf BlackRocks IBIT entfielen 175,3 Mio. $. Bis Montag hatten sich die Abflüsse im November laut CoinDesk auf 4,71 Mrd. $ summiert, mit dem Dienstag sind es rund 4,94 Mrd. $ und damit mehr als in jedem Monat seit dem Start der Fonds 2024. Aus den Ether-ETFs flossen laut aktiencheck in sechs Handelstagen bis zum 23. November 391 Mio. $ ab; Zahlen vom Mittwoch lagen noch nicht vor.",
           "impact": "Die Abflüsse halten an, haben sich am Dienstag gegenüber Montag aber mehr als halbiert. Die Zahlen vom Mittwoch erscheinen erst nach US-Börsenschluss; am Donnerstag ruht der ETF-Handel wegen Thanksgiving.",
           "source": "CoinDesk (12:57 Uhr MEZ), 25.11.",
           "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes"
         },
         {
-          "tag": "Aktien · Tech · Zölle",
-          "title": "Tech-Ausverkauf setzt sich fort: Nasdaq-Futures vor Handelsstart fast 3 % im Minus, Kospi verliert über 6 % – Zölle jetzt offiziell vorgeschlagen",
-          "text": "Vor den US-Daten standen die Futures auf den Nasdaq 100 laut aktiencheck rund 2,8 % und auf den S&P 500 rund 1,9 % im Minus, der Volatilitätsindex VIX bei etwa 31 und die Rendite zehnjähriger US-Staatsanleihen bei rund 4,9 %; Gold fiel um 1,7 % auf etwa 3.529 $. In Asien verlor der südkoreanische Kospi laut CoinDesk mehr als 6 %, der Nikkei schloss 2,8 % tiefer. Der Dax lag gegen 16 Uhr rund 1,1 % im Minus. Die US-Regierung schlug zugleich Zölle gegen 14 Handelspartner vor, darunter 20 % zusätzlich für China.",
-          "impact": "Krypto bewegt sich zuletzt eng mit dem Technologiesektor, der weiter unter Druck steht. Die Zölle sollen frühestens im Januar greifen, sind als Unsicherheitsfaktor aber nun konkret. Am Donnerstag sind die US-Börsen geschlossen.",
-          "source": "aktiencheck (14:43 Uhr), 25.11.",
-          "url": "https://aktiencheck.de/artikel/pce-inflation-steigt-auf-38-prozent-kernrate-ueberrascht-mit-33-prozent-us-bip"
-        },
-        {
-          "tag": "Termin",
-          "title": "Mi 25.11.: Beige Book der Fed, Demos in Berlin, Metall-Tarifrunde",
-          "text": "Um 20 Uhr MEZ erscheint der Konjunkturbericht der Fed. In Berlin läuft die größte Demonstration zum Tag gegen Gewalt an Frauen von 18 bis 21 Uhr ab Pariser Platz. In Mannheim verhandeln IG Metall und Arbeitgeber weiter.",
-          "source": "",
-          "url": ""
-        },
-        {
           "tag": "Termin",
           "title": "Do 26.11.: Thanksgiving, Zinsentscheid in Südkorea, Berliner Plenum",
-          "text": "Die US-Börsen bleiben geschlossen, am Freitag endet der US-Aktienhandel verkürzt um 19 Uhr MEZ; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Die Bank of Korea entscheidet über den Leitzins. Das Berliner Abgeordnetenhaus soll den CDU-Antrag zur Verfassungsänderung behandeln.",
+          "text": "Die US-Börsen bleiben geschlossen; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Die Bank of Korea entscheidet über den Leitzins. Das Berliner Abgeordnetenhaus soll den CDU-Antrag zur Verfassungsänderung behandeln.",
           "source": "",
           "url": ""
         },
         {
           "tag": "Termin",
           "title": "Fr 27.11.: Bundestag stimmt über den Haushalt 2027 ab, Arbeitsmarktzahlen, Monatsverfall auf Deribit",
-          "text": "Die Schlussabstimmung über das Haushaltsgesetz 2027 ist für Freitagnachmittag angesetzt. Um 09:55 Uhr veröffentlicht die Bundesagentur für Arbeit die Arbeitslosenzahlen. Auf Deribit laufen laut cryptoticker 112.323 Bitcoin-Optionen im Nennwert von rund 6,8 Mrd. $ aus.",
+          "text": "Die Schlussabstimmung über das Haushaltsgesetz 2027 ist für Freitagnachmittag angesetzt. Um 09:55 Uhr veröffentlicht die Bundesagentur für Arbeit die Arbeitslosenzahlen. Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ. Auf Deribit laufen laut cryptoticker 112.323 Bitcoin-Optionen im Nennwert von rund 6,8 Mrd. $ aus.",
           "source": "",
           "url": ""
         },
@@ -217,7 +210,14 @@
         {
           "tag": "Termin",
           "title": "8.–10.12.: Zinsentscheid der Fed, US-Verbraucherpreise, Ministerpräsidentenwahl in Sachsen-Anhalt",
-          "text": "Die Fed entscheidet am 9. Dezember; der Markt preist eine Erhöhung nahezu vollständig ein. Am 10. Dezember folgen die US-Verbraucherpreise für November. Am 8. Dezember will sich Ulrich Siegmund (AfD) im Magdeburger Landtag zur Wahl stellen.",
+          "text": "Die Fed entscheidet am 9. Dezember; der Markt erwartet eine Erhöhung um einen Viertelpunkt. Am 10. Dezember folgen die US-Verbraucherpreise für November. Am 8. Dezember will sich Ulrich Siegmund (AfD) im Magdeburger Landtag zur Wahl stellen.",
+          "source": "",
+          "url": ""
+        },
+        {
+          "tag": "Termin",
+          "title": "Di 15.12.: Räumungstermin in der Rigaer Straße 94",
+          "text": "In Berlin-Friedrichshain sollen mehrere Wohnungen des früher besetzten Hauses geräumt werden.",
           "source": "",
           "url": ""
         }

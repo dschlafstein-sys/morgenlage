@@ -1,18 +1,18 @@
 {
   "date": "Donnerstag, 26. November 2026",
-  "stand": "11:45",
+  "stand": "16:48",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "60.982,57 $",
-      "change": "+3,27 % in 24 h (Stand 26.11., 06:36 MEZ · SpendNode-Marktsnapshot; Tagestief am 25.11. laut CoinMarketCap 57.209 $)",
+      "value": "60.734 $",
+      "change": "+4,7 % in 24 h (Stand 26.11., 14:10 MEZ · Coinbase laut The Company Chronicle; 24-h-Spanne 57.208–61.527 $)",
       "dir": "up"
     },
     {
       "label": "Ether",
-      "value": "1.700,19 $",
-      "change": "+2,69 % in 24 h (Stand 26.11., 06:36 MEZ · SpendNode-Marktsnapshot)",
+      "value": "1.704 $",
+      "change": "+4,5 % in 24 h (Stand 26.11., 14:10 MEZ · Coinbase laut The Company Chronicle)",
       "dir": "up"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Märkte: Der Dax holt den Kursrutsch vom Mittwoch auf und lag um 10:51 Uhr laut Dow Jones bei 25.232 Punkten (+2,15 %). Bitcoin notierte im jüngsten belegten Snapshot (06:36 Uhr MEZ) bei 60.982,57 $ (+3,27 % in 24 Stunden), Ether bei 1.700,19 $; aus den US-Bitcoin-ETFs flossen am siebten Tag in Folge Mittel ab, laut Farside 453 Mio. $. Die Wall Street bleibt heute wegen Thanksgiving geschlossen.",
-    "Bund und Wirtschaft: Das Konsumklima für Dezember steigt leicht auf −30,2 Punkte, erwartet waren −29,4; die Konjunkturerwartungen der Verbraucher sinken erstmals seit sieben Monaten. In der Metall-Tarifrunde in Mannheim gab es nach der Nachtsitzung laut dpa (07:47 Uhr) keine Einigung, ein neuerer Stand lag bis zum späten Vormittag nicht vor. Der Bundestag berät weiter Einzeletats, um 12:50 Uhr Wirtschaft und Energie; um 13:30 Uhr folgt das EZB-Protokoll.",
-    "Welt und Berlin: Russland griff die Ukraine in der Nacht mit Raketen und 113 Drohnen an, in Charkiw starben zwei Menschen, in Kiew wurden sieben verletzt. In Brüssel beginnt der EU-Gipfel zu Finanzrahmen und einem 45-Milliarden-Kredit für die Ukraine; Brent gab nach 95,31 $ am Morgen auf 93,92 $ nach. Das Berliner Abgeordnetenhaus debattiert seit 10 Uhr über Wohnraum und Infrastruktur und wählt am Nachmittag die Berliner Mitglieder der Bundesversammlung."
+    "Bund und Wirtschaft: IG Metall und Arbeitgeber haben sich nach mehr als 24 Stunden Verhandlung in Mannheim geeinigt (ZDF, 16:31 Uhr); die Inhalte des Pilotabschlusses für rund 3,7 Millionen Beschäftigte sollen auf einer Pressekonferenz um 17 Uhr folgen. Das EZB-Protokoll zeigt, dass viele Ratsmitglieder schon im Oktober eine Zinserhöhung mitgetragen hätten; für den 17. Dezember wird ein Schritt auf 2,75 % erwartet. Der Bundestag stimmt am Freitag über den Haushalt 2027 ab.",
+    "Märkte: Der Dax lag um 15:40 Uhr bei 25.239,55 Punkten (+2,18 %), die Commerzbank fiel nach Berichten über UniCredit-Pläne für die Kontrolle. Bitcoin notierte im jüngsten belegten Snapshot (14:10 Uhr MEZ, Coinbase) bei rund 60.734 $ (+4,7 % in 24 Stunden), Ether bei 1.704 $ (+4,5 %); die Wall Street ist wegen Thanksgiving geschlossen.",
+    "Welt und Berlin: Russland griff in Kiew und sieben Regionen der Ukraine Wasser- und Wärmeversorgung sowie Wohnhäuser an, in Charkiw starben zwei Menschen. Beim EU-Gipfel droht Kanzler Merz mit einer Blockade der Haushaltsgespräche, falls die Ukraine-Hilfe nicht gemeinsam finanziert wird. Das Berliner Abgeordnetenhaus wählte 26 Delegierte für die Bundesversammlung; die AfD stellt sechs statt fünf, die CDU fünf statt sechs."
   ],
   "sections": [
     {
@@ -39,32 +39,32 @@
       "title": "Deutschland",
       "items": [
         {
-          "tag": "Konsum",
-          "title": "Konsumklima steigt leicht auf −30,2 Punkte – Konjunkturerwartungen sinken erstmals seit sieben Monaten",
-          "text": "Das vom Nürnberg Institut für Marktentscheidungen (NIM) ermittelte Konsumklima verbessert sich für Dezember auf −30,2 Punkte, nach −30,9 im Vormonat laut RTTNews; Ökonomen hatten −29,4 erwartet. Die Einkommenserwartung stieg um 1,8 auf −13,9 Punkte, die Anschaffungsneigung um 0,4 auf −11,5, die Sparneigung sank um 1,6 auf 15,6 Punkte. Die Konjunkturerwartung fiel um 3,7 auf −1,6 Punkte, die Preiserwartung stieg um 1,8 auf 2,8.",
-          "source": "RTTNews via finanzen.at, 26.11.",
-          "url": "https://www.finanzen.at/nachrichten/zinsen/german-gfk-consumer-sentiment-improves-1036802681"
+          "tag": "Tarife · Metall",
+          "title": "Metall-Tarifstreit: IG Metall und Arbeitgeber einigen sich in Mannheim – Details um 17 Uhr",
+          "text": "Nach mehr als 24 Stunden Verhandlung in der vierten Runde im Mannheimer Rosengarten haben sich IG Metall und Arbeitgeber laut ZDF (Eilmeldung, 16:31 Uhr) geeinigt. Angestrebt war ein Pilotabschluss, der für rund 3,7 Millionen Beschäftigte übernommen werden soll. Prozentsätze, Laufzeit und die Regelung zu Abweichungen vom Tarifvertrag waren bei diesem Lauf noch nicht veröffentlicht; für 17 Uhr ist eine gemeinsame Pressekonferenz angekündigt. Gefordert hatte die Gewerkschaft 5 % bei zwölf Monaten, angeboten waren eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten.",
+          "source": "ZDFheute (16:31 Uhr), 26.11.",
+          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/ig-metall-tarifstreit-einigung-100.html"
         },
         {
           "tag": "Börse",
-          "title": "Dax erholt sich um gut 2 % und steigt wieder über 25.000 Punkte",
-          "text": "Der Dax lag um 10:51 Uhr laut Dow Jones bei 25.232,44 Punkten, 530,31 Punkte oder 2,15 % über dem Vortag; am Mittwoch hatte er bei 24.702 Punkten den tiefsten Stand seit Juli markiert. Der Euro Stoxx 50 stieg um 2,2 % auf 6.020,93 Punkte, der MDax laut dpa-AFX um rund 2 %. Als Gründe nennen die Marktberichte die späte Erholung der US-Technologiewerte und die Aussage, dass neue US-Zölle frühestens im Januar greifen; gefragt waren unter anderem Infineon, Siemens Energy, Hochtief und Rheinmetall. Der Euro kostete 1,0974 $.",
-          "source": "Dow Jones via finanzen.ch (10:40 Uhr), 26.11.",
-          "url": "https://www.finanzen.ch/nachrichten/aktien/maerkte-europa-erholung-auf-breiter-front-dax-steigt-um-ueber-2percent-1036802691"
+          "title": "Dax hält gut 2 % Plus – Commerzbank fällt nach Berichten über UniCredit-Pläne",
+          "text": "Der Dax lag um 15:40 Uhr im Xetra-Handel bei 25.239,55 Punkten, 2,18 % über dem Vortagesschluss von 24.702,13; das Tageshoch lag bei 25.256,47 Punkten. Der MDax gewann laut dpa-AFX am Nachmittag 2,1 % auf rund 29.200 Punkte. Die Commerzbank gab nach Berichten nach, wonach UniCredit die Kontrolle übernehmen und Andrea Orcel an die Spitze des Aufsichtsrats setzen will. Die Deutsche Bank nennt in ihrem Kapitalmarktausblick 28.800 Punkte als Dax-Ziel für Ende 2027.",
+          "source": "finanzen.net (15:57 Uhr), 26.11.",
+          "url": "https://www.finanzen.net/nachricht/aktien/donnerstagshandel-in-frankfurt-dax-am-nachmittag-mit-positivem-vorzeichen-16088550"
         },
         {
-          "tag": "Tarife · Metall",
-          "title": "Metall-Tarifstreit: Nach der Nachtsitzung in Mannheim weiter keine Einigung gemeldet",
-          "text": "IG Metall und Arbeitgeber verhandeln seit Mittwoch, 13 Uhr, im Mannheimer Rosengarten in vierter Runde; laut dpa gab es bis zum Donnerstagmorgen keine Einigung, eine Vertagung wurde nicht gemeldet, und ein neuerer Stand lag bei diesem Lauf nicht vor. Die Bezirke Baden-Württemberg und Nordrhein-Westfalen verhandeln gemeinsam über einen Pilotabschluss für rund 3,7 Millionen Beschäftigte. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit, die Arbeitgeber boten bisher eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten. Strittig ist auch, wie Betriebe vom Tarifvertrag abweichen dürfen.",
-          "source": "Wochenblatt Reporter/dpa (07:47 Uhr), 26.11.",
-          "url": "https://www.wochenblatt-reporter.de/mannheim/c-wirtschaft-handel/tarifgespraeche-in-mannheim-laufen-weiter-keine-einigung_a953000"
+          "tag": "EZB · Zinsen",
+          "title": "EZB-Protokoll: Viele Ratsmitglieder hätten schon im Oktober eine Zinserhöhung mitgetragen",
+          "text": "Laut dem am Donnerstag veröffentlichten Protokoll der Sitzung vom 28./29. Oktober wurde eine Zinserhöhung bereits erwogen, aber aufgeschoben, um mehr Hinweise auf Inflationsrisiken zu sammeln. Für den 17. Dezember signalisieren die meisten Währungshüter laut Reuters einen Schritt um einen Viertelpunkt auf 2,75 %, es wäre die dritte Erhöhung in diesem Jahr. Die Inflation im Euroraum lag im Oktober bei 4,0 %, nach 3,8 % im September.",
+          "source": "Reuters via onvista (13:16 Uhr), 26.11.",
+          "url": "https://www.onvista.de/news/2026/11-26-ezb-viele-ratsmitglieder-waren-schon-im-oktober-fuer-zinserhoehung-0-20-26580878"
         },
         {
-          "tag": "Haushalt · Bundestag",
-          "title": "Haushalt 2027: Bundestag berät Einzeletats – Wirtschaft und Energie um 12:50 Uhr, Schlussabstimmung am Freitag",
-          "text": "Der Bundestag setzt seit 9 Uhr die Schlussberatungen zum Haushalt 2027 fort. Den Anfang machte das Innenministerium, dessen Etat um etwa eine Milliarde auf 16,8 Mrd. Euro steigt, ab 10:45 Uhr folgte die Justiz; angesetzt sind außerdem Wirtschaft und Energie (12:50 Uhr), Bauen und Wohnen (14:35 Uhr), Landwirtschaft (16:20 Uhr) sowie Bildung und Familie (18:05 Uhr). Der Wirtschaftsetat sinkt laut Bundestag um rund 250 Mio. auf 5,65 Mrd. Euro. Am Freitag folgen weitere Einzelpläne, danach wird der Gesamthaushalt verabschiedet.",
-          "source": "AFP via Yahoo Nachrichten (04:03 Uhr), 26.11.",
-          "url": "https://de.nachrichten.yahoo.com/bundestag-setzt-beratungen-%C3%BC-budgets-030318354.html"
+          "tag": "Haushalt · Energie",
+          "title": "Haushalt 2027 vor der Schlussabstimmung: Stromsteuer sinkt 2027, Versorger müssen die Senkung weitergeben",
+          "text": "Der Bundestag berät heute weiter Einzeletats und soll den Haushalt 2027 am Freitag endgültig beschließen. Der Haushaltsausschuss hat darin die Senkung der Stromsteuer auf das europäische Mindestniveau vom 1. Januar bis 31. Dezember 2027 festgeschrieben; Anbieter werden gesetzlich verpflichtet, sie an Kunden weiterzugeben. Bei 3.500 kWh Verbrauch ergibt das laut t-online rund 81 Euro Entlastung im Jahr, den Bund kostet es etwa 5 Mrd. Euro. Wegen der Ankündigungsfristen ist offen, ob die Senkung überall schon im Januar ankommt.",
+          "source": "t-online/Reuters, 25.11.",
+          "url": "https://www.t-online.de/finanzen/energie/id_101545480/stromsteuer-sinkt-reiche-ministerium-fuehrt-pflicht-fuer-versorger-ein.html"
         }
       ]
     },
@@ -74,22 +74,22 @@
       "items": [
         {
           "tag": "Landespolitik",
-          "title": "Abgeordnetenhaus tagt: Aktuelle Stunde zu Wohnraum und Infrastruktur, am Nachmittag Wahl für die Bundesversammlung",
-          "text": "Das Abgeordnetenhaus ist seit 10 Uhr zu seiner 3. Sitzung zusammengekommen. Die Aktuelle Stunde auf Antrag der Linken behandelt bezahlbaren Wohnraum, Kieze und Infrastruktur; laut Zeitplan folgen die Fragestunde, ein CDU-Antrag zur EXPO 2035 (gegen 12:20 Uhr), erste Lesungen zu einer Verfassungsänderung und zum Landesabgeordnetengesetz sowie gegen 14:10 Uhr die geheime Wahl der Berliner Mitglieder der 18. Bundesversammlung; das Ende ist für etwa 15:40 Uhr geplant. Für das angestrebte rot-grün-rote Bündnis gilt der Fahrplan der Berliner Zeitung: Koalitionsvertrag Anfang Januar, SPD-Mitgliedervotum vom 4. bis 19. Januar, Grünen-Parteitag am 16. Januar.",
-          "source": "Abgeordnetenhaus (Liveticker Plenum), 26.11.",
-          "url": "https://www.parlament-berlin.de/mediathek/parlament-live/liveticker-plenum"
+          "title": "Abgeordnetenhaus wählt 26 Delegierte für die Bundesversammlung – AfD stellt sechs statt fünf",
+          "text": "Das Abgeordnetenhaus hat in geheimer Wahl 26 Delegierte für die Bundesversammlung bestimmt, die am 30. Januar 2027 das Staatsoberhaupt wählt. Die AfD-Liste erhielt 30 Stimmen bei 29 Fraktionsmitgliedern und stellt damit sechs statt der geplanten fünf Delegierten, die CDU fünf statt der sechs Nominierten. Von 148 abgegebenen Stimmen waren zwölf ungültig, elf davon wegen zu vieler Kreuze. Die aus der Linksfraktion ausgeschlossene Abgeordnete Vanessa Emde fehlte laut Berliner Zeitung in der Sitzung.",
+          "source": "Tagesspiegel/dpa (16:16 Uhr), 26.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-parlamentssitzung-abgeordnetenhaus-bestimmt-delegierte-fur-bundesversammlung-16330430.html"
         },
         {
-          "tag": "Polizei · Feuerwehr",
-          "title": "Juwelier-Überfall im Ring-Center: 17-Jähriger festgenommen, Komplizen flüchtig – Razzia mit Clan-Bezug bringt 166.000 Euro Bargeld",
-          "text": "Nach dem Überfall auf einen Juwelier im Lichtenberger Ring-Center, bei dem laut Tagesspiegel vier Täter am Werk gewesen sein sollen und der Inhaber verletzt wurde, hat die Polizei einen 17-Jährigen festgenommen; die mutmaßlichen Komplizen sind auf der Flucht. Bei der Razzia vom Dienstag wegen Schüssen mit möglichem Clan-Bezug fanden fast 250 Einsatzkräfte an acht Adressen 166.000 Euro und mehr als 9.000 US-Dollar Bargeld. Der Brand in einem Nebengebäude des Polizeipräsidiums in Tempelhof am Mittwoch war gegen 17:30 Uhr gelöscht, ein Mensch erlitt eine Rauchgasvergiftung. Neue Polizeimeldungen von heute lagen bei diesem Lauf nicht vor.",
-          "source": "Tagesspiegel/dpa (Ring-Center), 25.11.",
-          "url": "https://www.tagesspiegel.de/berlin/dpa-polizei-sucht-tater-nach-raububerfall-im-berliner-ring-center--hubschrauber-im-einsatz-16323226.html"
+          "tag": "Polizei",
+          "title": "Lichterfelde: Zivilfahnder beobachten Einbruch – Festnahme nach Flucht über Brandenburg",
+          "text": "Zivile Fahnder beobachteten am Mittwoch gegen 18:45 Uhr einen Einbruch in ein Einfamilienhaus an der Straße Am Fischtal. Vier Männer flohen in einem VW, der Fahrer verursachte in Brandenburg zwei Unfälle ohne Verletzte und prallte zurück in Berlin in der Mörchinger Straße gegen einen Poller. Gegen 19:45 Uhr wurde ein 24-Jähriger festgenommen, nach dem bereits wegen Wohnungseinbruchs gefahndet wurde; die Suche nach den übrigen Verdächtigen läuft.",
+          "source": "news.de (Polizeimeldung, 14:51 Uhr), 26.11.",
+          "url": "https://www.news.de/lokales/860221882/polizei-einsatz-berlin-diebstahl-heute-am-26-11-2026/1/"
         },
         {
           "tag": "Verkehr · BVG",
-          "title": "Heute: Sperrung in Kaulsdorf, Kundgebung an der Sonnenallee am Abend, Schnee angekündigt – BVG meldet stabilere U-Bahn",
-          "text": "Die Chemnitzer Straße in Kaulsdorf ist laut Verkehrsinformationszentrale noch bis 27. November voll gesperrt. Angemeldet ist heute unter anderem eine Kundgebung zur Metall-Tarifrunde an der Sonnenallee/Ziegrastraße (17:15 bis 19 Uhr). Die Berliner Zeitung kündigte für Donnerstag Schnee an und warnte zuvor vor Glätte. Die BVG meldet zwei Jahre nach dem Start ihres Stabilitätsprogramms eine von 91,6 auf 98,2 % gestiegene Zuverlässigkeit der U-Bahn; die Straßenbahn liegt mit 99,1 % unter dem Soll von 99,7 %.",
+          "title": "Sperrung in Kaulsdorf bis Freitag, Kundgebung an der Sonnenallee am Abend – BVG meldet stabilere U-Bahn",
+          "text": "Die Chemnitzer Straße in Kaulsdorf ist laut Verkehrsinformationszentrale noch bis 27. November voll gesperrt. Angemeldet ist heute unter anderem eine Kundgebung zur Metall-Tarifrunde an der Sonnenallee/Ziegrastraße (17:15 bis 19 Uhr). Die BVG meldet zwei Jahre nach dem Start ihres Stabilitätsprogramms eine von 91,6 auf 98,2 % gestiegene Zuverlässigkeit der U-Bahn. Die Verkehrsmeldungen ließen sich bei diesem Lauf nicht neu abrufen, der Stand ist der vom Vormittag.",
           "source": "VIZ Berlin (Verkehrsmeldungen), 25.11.",
           "url": "https://viz.berlin.de/aktuelle-meldungen/staatsbesuch/"
         },
@@ -108,24 +108,24 @@
       "items": [
         {
           "tag": "Ukraine · Russland",
-          "title": "Russland greift die Ukraine mit Raketen und 113 Drohnen an – zwei Tote in Charkiw, sieben Verletzte in Kiew",
-          "text": "In der Nacht zum Donnerstag setzte Russland nach ukrainischen Angaben ballistische Raketen und 113 Drohnen ein, von denen 87 abgefangen wurden; an 20 Orten gab es Einschläge. In Charkiw starben zwei Menschen, als Drohnen ein mehrstöckiges Wohnhaus trafen. In Kiew wurden laut Bürgermeister Vitali Klitschko sieben Menschen durch Raketenangriffe verletzt, im Gebiet Dnipropetrowsk ein Mann; insgesamt ist von mindestens elf Verletzten die Rede.",
-          "source": "112.ua (Opfer, 10:24 Uhr Ortszeit), 26.11.",
-          "url": "https://112.ua/en/rosijska-armia-26-listopada-obstrilala-kiiv-harkiv-i-dnipropetrovsinu-dvoe-zagiblih-poraneni-200700"
+          "title": "Russland greift Wasser- und Wärmeversorgung in Kiew und sieben Regionen an – zwei Tote in Charkiw",
+          "text": "Nach ukrainischen Angaben trafen die Angriffe vom Donnerstag Wasserversorgung, Fernwärme und Wohnhäuser in Kiew und sieben weiteren Regionen; mehr als zehn Menschen wurden verletzt. In Charkiw starben zwei Menschen, als eine Drohne ein Mehrfamilienhaus traf, in Kiew wurden laut Bürgermeister Vitali Klitschko sieben Menschen verletzt, zwei davon schwer. In Dnipro wurde die Wasserinfrastruktur schwer beschädigt, nahe Odessa wurden laut 112.ua zwei ausländische Frachter angegriffen. Die Luftwaffe hatte am Morgen 113 Drohnen gezählt, von denen 87 abgefangen wurden.",
+          "source": "112.ua (Infrastruktur, Nachmittag), 26.11.",
+          "url": "https://112.ua/de/rosia-atakuvala-vodopostacanna-teplomerezi-ta-zitlo-v-kievi-j-semi-oblastah-ponad-desat-postrazdalih-200746"
         },
         {
           "tag": "EU · Gipfel",
-          "title": "EU-Gipfel in Brüssel beginnt: Streit um Finanzrahmen bis 2034 und 45-Milliarden-Kredit für die Ukraine",
-          "text": "Die Staats- und Regierungschefs beraten heute und morgen über den EU-Finanzrahmen 2028 bis 2034 und einen neuen Kredit von 45 Mrd. Euro an die Ukraine; außerdem geht es um die Nachfolge von EZB-Präsidentin Christine Lagarde. Ungarn, die Slowakei, Bulgarien und Tschechien lehnen es laut UNN ab, neue Kosten für den Kredit zu tragen, und könnten ein Veto einlegen; Bundeskanzler Friedrich Merz will den Haushalt an die Ukraine-Hilfe koppeln. Ratspräsident António Costa strebt eine Einigung bis Weihnachten an, mit einem Durchbruch in dieser Woche wird überwiegend nicht gerechnet.",
-          "source": "UNN (07:32 Uhr Ortszeit), 26.11.",
-          "url": "https://unn.ua/en/news/the-eu-summit-begins-in-brussels-leaders-will-argue-over-the-budget-and-a-loan-to-ukraine"
+          "title": "EU-Gipfel: Merz droht mit Blockade der Haushaltsgespräche – Streit um 45-Milliarden-Kredit für die Ukraine",
+          "text": "In Brüssel beraten die Staats- und Regierungschefs über den Finanzrahmen 2028 bis 2034 und einen Kredit von 45 Mrd. Euro an die Ukraine für 2027. Ratspräsident António Costa schlägt rund 1,781 Billionen Euro vor, etwa 204 Mrd. weniger als die Kommission; Nettozahler wie Deutschland verlangen weitere Kürzungen. Kanzler Friedrich Merz lehnt die bisherigen Vorschläge ab und droht laut dpa mit einer Blockade, falls neue Ukraine-Hilfen nicht gemeinsam finanziert werden; Ungarn, die Slowakei, Bulgarien und Tschechien wollen sich nicht beteiligen. Eine Einigung wird frühestens beim Dezember-Gipfel erwartet.",
+          "source": "ad-hoc-news/dpa (05:00 Uhr), 26.11.",
+          "url": "https://www.ad-hoc-news.de/ausland/eu-haushalt-merz-draengt-beim-gipfel-auf-ukraine-finanzierung/70555706"
         },
         {
           "tag": "Nahost · Iran · Golf",
-          "title": "Golf: Projektil explodiert nahe Tanker vor Dubai – Brent gibt nach 95 $ am Morgen wieder nach",
-          "text": "Laut der britischen Seefahrtsbehörde UKMTO explodierte am Donnerstag ein Projektil nahe einem Tanker rund 93 Kilometer westlich von Dubai; am Mittwoch soll ein Öltanker in der Straße von Hormus nach einem Minentreffer in Brand geraten sein. Die Huthi reklamieren einen Treffer auf die Raffinerie Ras Tanura, die saudische Armee meldete vier dort abgefangene Drohnen; später griffen die Huthi nach eigenen Angaben auch die Häfen Dschidda und Dschasan an. Brent stieg am Morgen bis auf 95,31 $ (06:13 Uhr MEZ) und lag am Vormittag laut Dow Jones bei 93,92 $ (−0,7 %), WTI bei 83,46 $. Die OPEC+ berät am 29. November über ihre Förderpolitik für 2027.",
-          "source": "The National (08:38 Uhr MEZ), 26.11.",
-          "url": "https://www.thenationalnews.com/business/energy/2026/11/26/oil-rebounds-to-95-per-barrel-after-saudi-refinery-attack/"
+          "title": "Golf: Tanker nach Explosionen in Brand, Huthi greifen saudische Häfen an – Brent am Vormittag bei knapp 94 $",
+          "text": "Laut der britischen Seefahrtsbehörde UKMTO explodierte am Donnerstag ein Projektil nahe einem Tanker westlich von Dubai; der Iran spricht bei zwei brennenden Tankern in der Straße von Hormus von Minentreffern, was nicht unabhängig bestätigt ist. Die Huthi reklamieren einen Treffer auf die Raffinerie Ras Tanura und Angriffe auf saudische Häfen am Roten Meer. Der Tagesbericht von straits.live beschreibt die Meerenge als faktisch geschlossen. Brent stieg am Morgen bis auf 95,31 $ und lag am Vormittag laut Dow Jones bei 93,92 $; ein neuerer Kurs mit Uhrzeit lag bei diesem Lauf nicht vor. Die OPEC+ berät am 29. November.",
+          "source": "Reuters via Yahoo Finance (04:08 Uhr MEZ), 26.11.",
+          "url": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"
         },
         {
           "tag": "Südkorea · Zinsen",
@@ -137,7 +137,7 @@
         {
           "tag": "USA · Handel",
           "title": "US-Zollpläne gegen 14 Handelspartner: EU, China und die Schweiz weisen den Vorwurf der Überkapazitäten zurück",
-          "text": "Der US-Handelsbeauftragte hat Zölle gegen China, die EU, Japan, Südkorea, Indien, die Schweiz, Taiwan, Vietnam und sechs weitere Volkswirtschaften vorgeschlagen; für China sind 20 % zusätzlich vorgesehen, für die EU gilt die vereinbarte Obergrenze von 15 %. Die EU-Kommission will die Ergebnisse prüfen und weist den Vorwurf struktureller Überkapazitäten zurück, auch China und die Schweiz widersprachen. Die Abgaben könnten laut einem US-Regierungsvertreter frühestens im Januar greifen, was die Börsen heute stützt.",
+          "text": "Der US-Handelsbeauftragte hat Zölle gegen China, die EU, Japan, Südkorea, Indien, die Schweiz, Taiwan, Vietnam und sechs weitere Volkswirtschaften vorgeschlagen; für China sind 20 % zusätzlich vorgesehen, für die EU gilt die vereinbarte Obergrenze von 15 %. Die EU-Kommission will die Ergebnisse prüfen und weist den Vorwurf struktureller Überkapazitäten zurück, auch China und die Schweiz widersprachen. Die Abgaben könnten laut einem US-Regierungsvertreter frühestens im Januar greifen.",
           "source": "Al Jazeera (Reaktionen), 25.11.",
           "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble"
         }
@@ -149,47 +149,47 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin erholt sich auf rund 61.000 $ – Stimmungsindex bei 10, Großanleger haben seit Monatsbeginn rund 150.000 BTC abgegeben",
-          "text": "Der jüngste belegte Marktsnapshot (SpendNode, 06:36 Uhr MEZ) nennt für Bitcoin 60.982,57 $ (+3,27 % in 24 Stunden, −3,72 % in sieben Tagen) und für Ether 1.700,19 $ (+2,69 %); der Fear-&-Greed-Index steht bei 10. Am Mittwoch war Bitcoin laut CoinMarketCap bis auf 57.209 $ gefallen, seit dem 2. November (rund 76.700 $) summiert sich das Minus auf etwa ein Viertel. Adressen mit 10 bis 10.000 BTC haben laut CoinAlertNews seit Monatsbeginn rund 150.000 BTC abgegeben. Der KuCoin-Tagesbericht sieht Unterstützung bei 57.000 bis 58.000 $ und eine Hürde bei 61.000 bis 62.000 $.",
-          "impact": "Bitcoin testet die im Tagesbericht genannte Hürde von 61.000 bis 62.000 $, die Stimmung bleibt laut Index im Bereich extremer Angst. Wegen Thanksgiving fehlen heute Impulse aus den USA, am Freitag steht der große Optionsverfall an.",
-          "source": "SpendNode (Snapshot 06:36 Uhr MEZ), 26.11.",
-          "url": "https://www.spendnode.io/blog/bitcoin-and-ether-etfs-shed-522m-led-by-blackrock/"
+          "title": "Bitcoin hält sich über 60.000 $ – Short-Squeeze trägt die Erholung, Stimmungsindex bei 11",
+          "text": "Bitcoin notierte laut The Company Chronicle gegen 14:10 Uhr MEZ auf Coinbase bei rund 60.734 $ (+4,7 % in 24 Stunden, −3,6 % in sieben Tagen), Ether bei 1.704 $ (+4,5 %); die 24-Stunden-Spanne reichte von 57.208 bis 61.527 $. Ein Marktbericht führt die Erholung auf Short-Eindeckungen zurück: Laut CoinGlass wurden binnen 24 Stunden Short-Positionen über rund 144 Mio. $ liquidiert, das offene Interesse stieg auf 24,8 Mrd. $. Der Fear-&-Greed-Index steht bei 11, Bitcoin liegt rund 53 % unter dem Rekord von 126.080 $ vom Oktober 2025.",
+          "impact": "Die Erholung stützt sich nach diesen Daten auf Eindeckungen am Terminmarkt, nicht auf neue Käufe am Spotmarkt. Als nächste Hürde nennen die Berichte 61.000 bis 62.000 $, als Unterstützung 57.000 bis 58.000 $; wegen Thanksgiving ist der Handel dünner, am Freitag folgt der große Optionsverfall.",
+          "source": "The Company Chronicle (Snapshot 14:10 Uhr MEZ), 26.11.",
+          "url": "https://thecompanychronicle.com/story/crypto-prices-today-november-26-2026"
         },
         {
           "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs: Siebter Abflusstag in Folge mit 453 Mio. $ – Ether-ETFs verlieren 68,5 Mio. $",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen laut den von KuCoin/MarsBit zitierten Farside-Daten am Mittwoch netto 453 Mio. $ ab, davon 329,7 Mio. $ aus BlackRocks IBIT; es war der siebte Abflusstag in Folge, nach rund 231 Mio. $ am Dienstag. Die Ether-ETFs verloren 68,5 Mio. $, vollständig bei BlackRocks ETHA; Zuflüsse gab es in keinem Fonds. SoSoValue beziffert die Abflüsse beider Produktgruppen zusammen auf 522 Mio. $. Bis Dienstag hatten sich die Abflüsse aus den Bitcoin-ETFs im November bereits auf rund 4,94 Mrd. $ summiert.",
-          "impact": "Die Abflüsse haben sich am Mittwoch gegenüber Dienstag wieder fast verdoppelt, die Kurserholung wird bislang nicht von ETF-Käufen getragen. Heute ruht der ETF-Handel wegen Thanksgiving, neue Flussdaten gibt es erst wieder für Freitag.",
+          "title": "Bitcoin-ETFs: Siebter Abflusstag in Folge mit 453 Mio. $ – November-Abflüsse bei rund 5,4 Mrd. $",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch laut Farside-Daten netto 453 Mio. $ ab, davon 329,7 Mio. $ aus BlackRocks IBIT; es war der siebte Abflusstag in Folge. Die Ether-ETFs verloren 68,5 Mio. $. Vom 17. bis 25. November summieren sich die Bitcoin-ETF-Abflüsse laut dem Marktbericht von Ted Pillows auf rund 3,05 Mrd. $, im gesamten November auf rund 5,4 Mrd. $; bis Dienstag waren es 4,94 Mrd. $.",
+          "impact": "Die Kurserholung wird bislang nicht von ETF-Käufen begleitet. Heute ruht der ETF-Handel wegen Thanksgiving, neue Flussdaten gibt es erst wieder für den verkürzten Handel am Freitag.",
           "source": "KuCoin/MarsBit (Farside-Daten), 26.11.",
           "url": "https://www.kucoin.com/news/flash/bitcoin-etf-sees-453m-net-outflow-seventh-consecutive-day-of-outflows-ethereum-etf-loses-68-5m"
         },
         {
-          "tag": "Aktien · Tech",
-          "title": "Europas Börsen holen auf: Dax +2,15 %, Euro Stoxx 50 +2,2 % – Wall Street heute geschlossen",
-          "text": "Nach der späten Erholung an der Wall Street legen die europäischen Märkte kräftig zu: Der Dax stand um 10:51 Uhr bei 25.232 Punkten (+2,15 %), der Euro Stoxx 50 bei 6.020,93 (+2,2 %), europäische Technologiewerte gewannen laut dpa-AFX rund 2,5 %. Am Mittwoch hatte der Dow Jones 0,3 % höher bei 50.182,95 Punkten geschlossen, der S&P 500 0,3 % tiefer bei 7.182,78 und der Nasdaq Composite 0,6 % tiefer bei 23.585,80, nachdem der Nasdaq 100 zeitweise fast 5 % verloren hatte. Als Belastungen nennt Dow Jones weiter Zweifel am KI-Boom, Exportkontrollen für Nvidia-Chips und die Zollpläne.",
-          "impact": "Krypto bewegte sich zuletzt eng mit dem Technologiesektor, dessen Erholung den Druck vorerst nimmt. Bis zum verkürzten US-Handel am Freitag fehlen Impulse von der Wall Street; Zölle und Zinsausblick bleiben als Belastungsfaktoren bestehen.",
-          "source": "Dow Jones via finanzen.ch (10:40 Uhr), 26.11.",
-          "url": "https://www.finanzen.ch/nachrichten/aktien/maerkte-europa-erholung-auf-breiter-front-dax-steigt-um-ueber-2percent-1036802691"
+          "tag": "Regulierung",
+          "title": "USA: Gesetz für strategische Bitcoin-Reserve passiert Finanzausschuss – EU-Bankenaufsicht will Regeln für DeFi-Kredite",
+          "text": "Der Strategic Bitcoin Reserve Act hat laut KuCoin-Tagesbericht den Finanzausschuss des US-Repräsentantenhauses passiert; der Entwurf wurde am 24. November auf die Tagesordnung der Kammer gesetzt. Die europäische Bankenaufsicht EBA fordert EU-Regeln für Krypto-Firmen, die Kredite über dezentrale Finanzprotokolle vergeben. Frankreichs Senat lehnte eine Meldepflicht für selbstverwahrte Wallets ab.",
+          "impact": "Der Ausschussbeschluss ist ein Zwischenschritt, eine Abstimmung im Plenum und im Senat steht noch aus. Die EBA-Forderung zeigt, dass DeFi-Kreditgeschäft in der EU stärker reguliert werden könnte.",
+          "source": "KuCoin (Tagesbericht), 26.11.",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-26-2026"
         },
         {
-          "tag": "Fed · Inflation",
-          "title": "Beige Book: Wachstum in acht von zwölf Fed-Bezirken, Kostendruck hält an – PCE-Kernrate bei 3,3 %",
-          "text": "Der am Mittwochabend veröffentlichte Konjunkturbericht der Fed beschreibt leichtes bis moderates Wachstum in acht der zwölf Bezirke, in vier stagnierte die Wirtschaft. Unternehmen meldeten anhaltenden Kostendruck bei Energie, Transport, Gesundheit, Versicherungen und zollbedingten Ausgaben. Zuvor war die PCE-Inflation für Oktober mit 3,8 % gemeldet worden, die Kernrate mit 3,3 % (erwartet 3,2 %); die Erstanträge auf Arbeitslosenhilfe fielen auf 189.000. Die Märkte erwarten laut Yahoo Finance am 9. Dezember eine Erhöhung um einen Viertelpunkt auf 4,00 bis 4,25 %.",
-          "impact": "Beige Book und PCE-Daten stützen die Erwartung einer Zinserhöhung im Dezember. Höhere Zinsen gelten als Gegenwind für zinslose Anlagen; der Leitzins liegt derzeit bei 3,75 bis 4,00 %.",
-          "source": "Yahoo Finance (21:05 Uhr MEZ), 25.11.",
-          "url": "https://finance.yahoo.com/economy/policy/article/feds-beige-book-shows-evidence-of-broadening-price-pressures-200555194.html"
+          "tag": "Notenbanken",
+          "title": "Zinsdruck auf beiden Seiten des Atlantiks: EZB-Protokoll deutet auf Erhöhung im Dezember, Fed-Schritt am 9.12. erwartet",
+          "text": "Der Terminmarkt preist laut Dow Jones zu mehr als 90 % eine EZB-Zinserhöhung um 25 Basispunkte am 17. Dezember ein, nachdem das Protokoll breite Unterstützung für einen Schritt schon im Oktober zeigte. In den USA lag die PCE-Inflation im Oktober bei 3,8 %, die Kernrate bei 3,3 % (erwartet 3,2 %); das Beige Book der Fed meldet anhaltenden Kostendruck, die Erstanträge auf Arbeitslosenhilfe fielen auf 189.000. Die Märkte erwarten am 9. Dezember eine Fed-Erhöhung auf 4,00 bis 4,25 %; die Rendite zehnjähriger US-Staatsanleihen lag am Mittwoch bei 4,85 %.",
+          "impact": "Steigende Leitzinsen in den USA und im Euroraum gelten als Gegenwind für zinslose Anlagen wie Bitcoin. Die nächsten Wegmarken sind der Fed-Entscheid am 9. Dezember und die US-Verbraucherpreise am 10. Dezember.",
+          "source": "Dow Jones via finanzen.at (13:55 Uhr), 26.11.",
+          "url": "https://www.finanzen.at/nachrichten/aktien/ezb-protokoll-deutet-auf-zinserhoehung-im-dezember-hin-1036802955"
         },
         {
           "tag": "Termin",
-          "title": "Do 26.11.: Heute – Thanksgiving, EZB-Protokoll, EU-Gipfel, Bundestag, Berliner Plenum",
-          "text": "Die US-Börsen bleiben geschlossen; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Um 13:30 Uhr erscheint das Protokoll der EZB-Sitzung vom 28./29. Oktober. Der Bundestag berät bis zum Abend Einzeletats, in Brüssel tagt der EU-Gipfel zu Haushalt und Ukraine-Hilfe. Das Berliner Abgeordnetenhaus tagt bis etwa 15:40 Uhr; Rheinmetall hält bis Freitag seinen Kapitalmarkttag ab.",
+          "title": "Do 26.11.: Heute Abend – Details zum Metall-Abschluss, Bundestag, EU-Gipfel",
+          "text": "IG Metall und Arbeitgeber wollen um 17 Uhr in Mannheim ihr Ergebnis vorstellen. Der Bundestag berät bis zum Abend Einzeletats, in Brüssel tagt der EU-Gipfel zu Haushalt und Ukraine-Hilfe. Die US-Börsen bleiben wegen Thanksgiving geschlossen; Krypto wird durchgehend gehandelt.",
           "source": "",
           "url": ""
         },
         {
           "tag": "Termin",
           "title": "Fr 27.11.: Bundestag stimmt über den Haushalt 2027 ab, Arbeitsmarktzahlen, Monatsverfall auf Deribit",
-          "text": "Die Schlussabstimmung über das Haushaltsgesetz 2027 ist für Freitagnachmittag angesetzt. Um 09:55 Uhr veröffentlicht die Bundesagentur für Arbeit die Arbeitslosenzahlen. Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ. Auf Deribit laufen laut cryptoticker 112.323 Bitcoin-Optionen im Nennwert von rund 6,8 Mrd. $ aus.",
+          "text": "Die Schlussabstimmung über das Haushaltsgesetz 2027 ist für Freitagnachmittag angesetzt. Um 09:55 Uhr veröffentlicht die Bundesagentur für Arbeit die Arbeitslosenzahlen. Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ. Auf Deribit laufen laut cryptoticker 112.323 Bitcoin-Optionen im Nennwert von rund 6,8 Mrd. $ aus; Verdi bestreikt am Black Friday elf Amazon-Standorte.",
           "source": "",
           "url": ""
         },
@@ -217,7 +217,7 @@
         {
           "tag": "Termin",
           "title": "15.–17.12.: Räumungstermin in der Rigaer Straße 94, Zinsentscheid der EZB",
-          "text": "In Berlin-Friedrichshain sollen am 15. Dezember mehrere Wohnungen des früher besetzten Hauses geräumt werden. Die EZB entscheidet am 17. Dezember über die Zinsen.",
+          "text": "In Berlin-Friedrichshain sollen am 15. Dezember mehrere Wohnungen des früher besetzten Hauses geräumt werden. Die EZB entscheidet am 17. Dezember über die Zinsen; erwartet wird eine Erhöhung um einen Viertelpunkt.",
           "source": "",
           "url": ""
         }

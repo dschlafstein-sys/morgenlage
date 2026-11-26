@@ -1,18 +1,18 @@
 {
-  "date": "Mittwoch, 25. November 2026",
-  "stand": "21:38",
+  "date": "Donnerstag, 26. November 2026",
+  "stand": "01:43",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
       "value": "59.952,09 $",
-      "change": "+1,13 % in 24 h (25.11., ca. 21:35 MEZ · CoinDesk-Kursleiste; Tagestief laut The Block unter 58.000 $, um 16:59 MEZ laut CoinDesk 58.300 $)",
+      "change": "+1,13 % in 24 h (Letzter belegter Kurs: 25.11., ca. 21:35 MEZ · CoinDesk-Kursleiste; am 26.11. um 01:43 MEZ kein neuerer Kurs abrufbar; Tagestief am 25.11. laut The Block unter 58.000 $)",
       "dir": "up"
     },
     {
       "label": "Ether",
       "value": "1.682,43 $",
-      "change": "+0,49 % in 24 h (25.11., ca. 21:35 MEZ · CoinDesk-Kursleiste)",
+      "change": "+0,49 % in 24 h (Letzter belegter Kurs: 25.11., ca. 21:35 MEZ · CoinDesk-Kursleiste; am 26.11. um 01:43 MEZ kein neuerer Kurs abrufbar)",
       "dir": "up"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Märkte: Die Wall Street hat einen Kurssturz zum Auftakt weitgehend aufgeholt: Der Nasdaq lag nach zeitweise 4,5 % Minus um 20:24 Uhr MEZ noch 0,7 % tiefer, der Dow 0,6 % im Plus. Bitcoin erholte sich von unter 58.000 $ auf 59.952 $ (+1,13 % in 24 h), Ether stand bei 1.682 $. Der Dax schloss zuvor 1,26 % tiefer bei 24.702 Punkten; das Beige Book der Fed meldet anhaltenden Kostendruck, eine Zinserhöhung am 9. Dezember gilt als ausgemacht.",
-    "Bund und Wirtschaft: In der Generaldebatte zum Haushalt 2027 stritt der Bundestag vor allem über die rund zwölf Milliarden Euro Ukraine-Hilfe; Kanzler Merz nannte den Etat vertretbar, abgestimmt wird am Freitag. Die USA haben Zölle gegen 14 Handelspartner vorgeschlagen, für die EU höchstens 15 %, frühestens ab Januar. In der Metall-Tarifrunde in Mannheim gab es bis zum frühen Abend keine Anzeichen für eine Einigung.",
-    "Welt und Berlin: Iran meldet inzwischen einen dritten Tanker, der in der Straße von Hormus auf eine Mine gelaufen sein soll; Reuters konnte das nicht überprüfen. Saudi-Arabien griff den jemenitischen Hafen Hodeidah an, die Huthi reklamieren Angriffe auf Ras Tanura und Riad. In Berlin durchsuchten fast 250 Polizisten nach Schüssen mit möglichem Clan-Bezug acht Adressen, und in der Rigaer Straße 94 sollen am 15. Dezember Wohnungen geräumt werden."
+    "Märkte: Die Wall Street hat den Kurssturz vom Mittwoch fast ganz aufgeholt: Der Dow schloss 0,3 % höher bei 50.182,95 Punkten, der S&P 500 0,3 % tiefer bei 7.182,78, der Nasdaq 0,6 % tiefer bei 23.585,80. Bitcoin stand beim letzten belegten Kurs (25.11., ca. 21:35 MEZ) bei 59.952 $, Ether bei 1.682 $; ein neuerer Kurs war in der Nacht nicht abrufbar. Heute bleiben die US-Börsen wegen Thanksgiving geschlossen, eine Zinserhöhung der Fed am 9. Dezember gilt weiter als ausgemacht.",
+    "Bund und Wirtschaft: In der Metall-Tarifrunde in Mannheim wurde auch am Abend noch verhandelt, ein Ergebnis war bis in die Nacht nicht gemeldet. Der Bundestag stimmt am Freitag über den Haushalt 2027 ab, um den in der Generaldebatte vor allem wegen der rund zwölf Milliarden Euro Ukraine-Hilfe gestritten wurde. Die EU-Kommission weist die Begründung der neuen US-Zollpläne zurück, auch China und die Schweiz widersprechen.",
+    "Welt und Berlin: Iran meldet am Mittwochabend einen weiteren Minentreffer in der Straße von Hormus, diesmal an einem Flüssiggastanker; Reuters konnte das nicht überprüfen. Die Huthi reklamieren Angriffe auf die saudischen Häfen Dschidda und Dschasan, in Riad waren Explosionen zu hören, Brent stieg um 2,5 % auf 84 $. In Berlin tagt heute ab 10 Uhr das Abgeordnetenhaus; SPD, Grüne und Linke wollen ihren Koalitionsvertrag Anfang Januar vorstellen."
   ],
   "sections": [
     {
@@ -54,10 +54,10 @@
         },
         {
           "tag": "Tarife · Metall",
-          "title": "Metall-Tarifstreit: Vierte Runde in Mannheim läuft seit dem Mittag – bis zum frühen Abend keine Anzeichen für eine Einigung",
-          "text": "IG Metall und Arbeitgeber verhandeln seit etwa 13 Uhr im Mannheimer Rosengarten über einen Pilotabschluss für rund 3,7 Millionen Beschäftigte. Am späten Nachmittag deutete laut Rheinpfalz nichts auf eine kurz bevorstehende Einigung hin; ein Ergebnis oder ein neues Angebot war bei diesem Lauf nicht gemeldet. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit, die Arbeitgeber boten bisher eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten. Ohne Einigung drohen laut Berichten Urabstimmung und unbefristete Streiks im neuen Jahr.",
-          "source": "Die Rheinpfalz (18:31 Uhr), 25.11.",
-          "url": "https://www.rheinpfalz.de/wirtschaft_artikel,-metaller-wollen-tarifkonflikt-in-mannheim-l%C3%B6sen-_arid,5952126.html"
+          "title": "Metall-Tarifstreit: Vierte Runde in Mannheim geht in den Abend – bis in die Nacht kein Ergebnis gemeldet",
+          "text": "IG Metall und Arbeitgeber verhandeln seit Mittwoch, etwa 13 Uhr, im Mannheimer Rosengarten über einen Pilotabschluss für rund 3,7 Millionen Beschäftigte. Laut IG Metall saßen beide Seiten auch am Abend noch zusammen; ein Ergebnis oder ein neues Angebot war bei diesem Lauf gegen 01:40 Uhr nicht gemeldet. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit, die Arbeitgeber boten bisher eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten. Strittig ist auch, wie Betriebe vom Tarifvertrag abweichen dürfen.",
+          "source": "IG Metall (Ticker), 25.11.",
+          "url": "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro"
         },
         {
           "tag": "Konjunktur",
@@ -73,9 +73,9 @@
       "title": "Berlin",
       "items": [
         {
-          "tag": "Polizei",
-          "title": "Razzia nach Schüssen mit möglichem Clan-Bezug: Fast 250 Polizisten durchsuchen acht Adressen – 166.000 Euro Bargeld gefunden",
-          "text": "Wie die Polizei am Mittwoch mitteilte, durchsuchten am Dienstagmorgen fast 250 Einsatzkräfte acht Adressen in Friedrichshain-Kreuzberg, Charlottenburg-Wilmersdorf, Neukölln, Mitte und Brandenburg sowie ein Bankschließfach und ein Auto. Die Aktion richtete sich gegen sieben Verdächtige zwischen 22 und 51 Jahren; ermittelt wird wegen versuchten Totschlags nach Schüssen in Moabit, Charlottenburg und Schöneberg im September und Oktober. Gefunden wurden laut Tagesspiegel 166.000 Euro und mehr als 9.000 US-Dollar Bargeld, eine Schreckschusswaffe, mutmaßliche Drogen und ein mögliches Fluchtauto. Am Abend meldete rbb24 zudem einen Überfall auf einen Juwelier im Ring-Center in Lichtenberg, die Täter sind flüchtig.",
+          "tag": "Polizei · Feuerwehr",
+          "title": "Razzia nach Schüssen mit möglichem Clan-Bezug: 166.000 Euro Bargeld gefunden – Brand in Nebengebäude des Polizeipräsidiums",
+          "text": "Wie die Polizei am Mittwoch mitteilte, durchsuchten am Dienstagmorgen fast 250 Einsatzkräfte acht Adressen in Berlin und Brandenburg sowie ein Bankschließfach und ein Auto; die Aktion richtete sich gegen sieben Verdächtige zwischen 22 und 51 Jahren, ermittelt wird wegen versuchten Totschlags nach Schüssen im September und Oktober. Gefunden wurden laut Tagesspiegel 166.000 Euro und mehr als 9.000 US-Dollar Bargeld, eine Schreckschusswaffe und mutmaßliche Drogen. In einem Nebengebäude des Polizeipräsidiums in Tempelhof brach am Mittwoch gegen 13:20 Uhr ein Feuer in einer Zwischendecke aus, das knapp 60 Feuerwehrleute bis etwa 17:30 Uhr löschten; ein Mensch kam mit Rauchgasvergiftung ins Krankenhaus, geprüft wird ein Zusammenhang mit Dacharbeiten. Am Abend meldete rbb24 zudem einen Überfall auf einen Juwelier im Ring-Center in Lichtenberg.",
           "source": "Tagesspiegel (16:04 Uhr), 25.11.",
           "url": "https://www.tagesspiegel.de/berlin/grossrazzia-nach-schussen-mit-moglichem-clan-bezug-hunderte-ermittler-durchsuchen-objekte-in-ganz-berlin-16325404.html"
         },
@@ -88,15 +88,15 @@
         },
         {
           "tag": "Landespolitik",
-          "title": "Nach dem Ausschluss von Vanessa Emde aus der Linksfraktion: Anfeindungen in der Partei, Rot-Grün-Rot wahrscheinlicher",
-          "text": "Die Linksfraktion im Abgeordnetenhaus hatte die Neuköllner Abgeordnete Vanessa Emde am Dienstag mit 33 Ja-Stimmen bei 6 Nein und 4 Enthaltungen ausgeschlossen; Emde will fraktionslos im Parlament bleiben. Laut Tagesspiegel kursieren seither in der Partei Beleidigungen und Gewaltfantasien von Unterstützern, darunter ein offenbar KI-erzeugtes Bild der brennenden Parteizentrale. SPD und Grüne hatten den Ausschluss zur Bedingung für ein rot-grün-rotes Bündnis gemacht, das damit wahrscheinlicher geworden ist; die Fraktion hat nun 43 Mitglieder.",
-          "source": "Tagesspiegel (Anfeindungen), 25.11.",
-          "url": "https://www.tagesspiegel.de/berlin/fick-die-deutsche-staatsrason-unterstutzer-von-vanessa-emde-posten-gewaltfantasien-und-beleidigungen-16325988.html"
+          "title": "Nach dem Ausschluss von Vanessa Emde: Fahrplan für Rot-Grün-Rot steht – Koalitionsvertrag Anfang Januar, heute Plenum",
+          "text": "Die Linksfraktion hatte die Neuköllner Abgeordnete Vanessa Emde am Dienstag mit 33 Ja-Stimmen bei 6 Nein und 4 Enthaltungen ausgeschlossen, was SPD und Grüne zur Bedingung für ein Bündnis gemacht hatten. Laut Berliner Zeitung soll der Koalitionsvertrag Anfang Januar vorgestellt werden; die SPD-Mitglieder stimmen vom 4. bis 19. Januar ab, die Grünen entscheiden auf einem Parteitag am 16. Januar, auch die Linke plant einen Mitgliederentscheid. Als möglicher Termin für die Wahl von Elif Eralp (Linke) zur Regierenden Bürgermeisterin wird der 21. Januar genannt, festgelegt ist er nicht. Das Abgeordnetenhaus tagt heute ab 10 Uhr; laut Tagesspiegel kursieren in der Linken seit dem Ausschluss Beleidigungen und Gewaltfantasien von Emde-Unterstützern.",
+          "source": "Berliner Zeitung (13:09 Uhr), 25.11.",
+          "url": "https://berliner-zeitung.de/article/tag-eins-nach-emdes-ausschluss-so-sieht-der-fahrplan-fuer-rot-gruen-rot-in-berlin-aus-10634538"
         },
         {
           "tag": "Verkehr · BVG",
-          "title": "BVG-Zwischenbilanz: U-Bahn-Zuverlässigkeit bei 98,2 %, Tram unter dem Soll – heute Nacht Engstelle auf der A100",
-          "text": "Zwei Jahre nach dem Start ihres Programms „Stabilität vor Wachstum“ meldet die BVG eine von 91,6 auf 98,2 % gestiegene Zuverlässigkeit der U-Bahn; im Lauf des Jahres 2026 ging der Wert allerdings um 0,4 Punkte zurück. Die Straßenbahn liegt mit 99,1 % unter dem vertraglichen Soll von 99,7 %, was die BVG mit vielen Baustellen begründet, der Bus durchweg über 99 %. In Lichtenberg wurde am späten Nachmittag eine Seniorin von einer Tram erfasst und unter Reanimation ins Krankenhaus gebracht. Auf der A100 ist die Rudolf-Wissell-Brücke bis 5 Uhr wechselseitig einspurig; eine Demonstration vom Herrfurthplatz zur Kottbusser Brücke ist bis 23 Uhr angemeldet.",
+          "title": "BVG-Zwischenbilanz: U-Bahn-Zuverlässigkeit bei 98,2 %, Tram unter dem Soll – heute Sperrung in Kaulsdorf und mehrere Kundgebungen",
+          "text": "Zwei Jahre nach dem Start ihres Programms „Stabilität vor Wachstum“ meldet die BVG eine von 91,6 auf 98,2 % gestiegene Zuverlässigkeit der U-Bahn; die Straßenbahn liegt mit 99,1 % unter dem vertraglichen Soll von 99,7 %, der Bus durchweg über 99 %. Auf der A100 ist die Rudolf-Wissell-Brücke bis 5 Uhr wechselseitig einspurig; die Chemnitzer Straße in Kaulsdorf ist laut Verkehrsinformationszentrale bis 27. November voll gesperrt. Für heute sind unter anderem eine Gewerkschaftskundgebung mit Charité-Streikenden vor dem Abgeordnetenhaus (9 bis 10 Uhr, Niederkirchnerstraße) und eine Kundgebung zur Metall-Tarifrunde an der Sonnenallee/Ziegrastraße (17:15 bis 19 Uhr) angemeldet.",
           "source": "Tagesspiegel (BVG, 16:25 Uhr), 25.11.",
           "url": "https://www.tagesspiegel.de/berlin/stabiler-wirds-nicht-bvg-lobt-sich-fur-verbesserungen-16324802.html"
         }
@@ -108,24 +108,24 @@
       "items": [
         {
           "tag": "Nahost · Iran · Golf",
-          "title": "Hormus: Iran meldet dritten Tanker auf einer Mine – Saudi-Arabien greift Hafen Hodeidah an, Huthi reklamieren Angriffe auf Ras Tanura und Riad",
-          "text": "Nach den Revolutionsgarden, die am Morgen zwei auf Minen gelaufene und in Brand geratene Öltanker gemeldet hatten, berichtete die halbamtliche Agentur Fars unter Berufung auf die iranische Armee von einem weiteren Tanker, der in einer „Sperrzone“ der Straße von Hormus eine Mine getroffen habe. Reuters konnte die Angaben nicht unabhängig überprüfen; Iran fordert Schiffe auf, Durchfahrten abzustimmen. Die jemenitischen Huthi reklamieren Angriffe auf die saudische Raffinerie Ras Tanura und das Finanzzentrum von Riad, Saudi-Arabien griff den Hafen Hodeidah an und will in zwei Monaten 209 Flugkörper der Huthi abgefangen haben. Die USA gaben eine Sicherheitswarnung für die Region heraus.",
-          "source": "Al Arabiya/Reuters (16:04 Uhr MEZ), 25.11.",
-          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/11/25/iran-s-army-says-oil-tanker-hit-a-naval-mine-and-caught-fire-in-strait-of-hormuz"
+          "title": "Hormus: Iran meldet weiteren Minentreffer an einem Flüssiggastanker – Huthi greifen saudische Häfen an, Explosionen in Riad",
+          "text": "Nach den am Mittwoch gemeldeten Öltankern erklärten die Revolutionsgarden am Abend, auch ein Flüssiggastanker sei in der Straße von Hormus auf eine Mine gelaufen und in Brand geraten; Reuters konnte das nicht unabhängig überprüfen, die Zahl der betroffenen Schiffe wird unterschiedlich angegeben. Über katarische Vermittler ließ Teheran mitteilen, die Meerenge binnen 48 Stunden zu öffnen, sobald Washington seine Bedingungen erfüllt, darunter ein Ende der US-Seeblockade. Die Huthi reklamieren Angriffe auf die Häfen Dschidda und Dschasan sowie auf Ras Tanura und Riad, wo Explosionen zu hören waren; die saudisch geführte Koalition bestätigte einen Treffer mit geringem Schaden in Dschasan und griff ihrerseits Hodeidah an. Brent verteuerte sich am Mittwoch um 2,5 % auf 84 $ je Barrel.",
+          "source": "Arab News/Reuters (aktualisiert 22:21 Uhr MEZ), 25.11.",
+          "url": "https://www.arabnews.com/middle-east/iran-claims-lng-tanker-ablaze-in-hormuz-after-hitting-mine-3013942"
         },
         {
           "tag": "USA · Handel",
-          "title": "USA schlagen neue Zölle gegen 14 Handelspartner vor: 20 % zusätzlich für China und Vietnam, höchstens 15 % für die EU",
-          "text": "Der US-Handelsbeauftragte hat nach einer achtmonatigen Untersuchung zu industriellen Überkapazitäten Zölle gegen China, die EU, Japan, Südkorea, Indien, die Schweiz, Taiwan, Vietnam und sechs weitere Volkswirtschaften vorgeschlagen; Mexiko und Norwegen bleiben vorerst verschont. Für China sind 20 % zusätzlich zu den rund 25 % aus Trumps erster Amtszeit vorgesehen, für Vietnam ebenfalls 20 %; für die EU, Japan, Südkorea und Taiwan gilt die vereinbarte Obergrenze von 15 %. Halbleiter, Autos, Stahl und Aluminium sind ausgenommen. Nach Anhörung und Kommentarfrist könnten die Abgaben laut einem US-Regierungsvertreter frühestens im Januar greifen. Peking weist die Vorwürfe zurück.",
-          "source": "RTÉ/AFP/Reuters (14:42 Uhr MEZ), 25.11.",
-          "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"
+          "title": "US-Zollpläne gegen 14 Handelspartner: EU, China und die Schweiz weisen den Vorwurf der Überkapazitäten zurück",
+          "text": "Der US-Handelsbeauftragte hat nach einer Untersuchung zu industriellen Überkapazitäten Zölle gegen China, die EU, Japan, Südkorea, Indien, die Schweiz, Taiwan, Vietnam und sechs weitere Volkswirtschaften vorgeschlagen; für China sind 20 % zusätzlich vorgesehen, für die EU gilt die vereinbarte Obergrenze von 15 %, Mexiko und Norwegen bleiben vorerst verschont. Ein Sprecher der EU-Kommission kündigte an, die Ergebnisse zu prüfen, und wies die Annahme zurück, Europa sei eine Quelle struktureller Überkapazitäten. Das chinesische Außenministerium nannte das Thema einen Vorwand, auch die Schweizer Regierung widersprach. Die Abgaben könnten laut einem US-Regierungsvertreter frühestens im Januar greifen.",
+          "source": "Al Jazeera (Reaktionen), 25.11.",
+          "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble"
         },
         {
           "tag": "Ukraine · Russland",
-          "title": "Nach Drohnentreffern auf Raffinerien in Samara: Putin kündigt Vergeltung an, Kiew weist die Beschwerden zurück",
-          "text": "Ukrainische Drohnen haben laut Berichten in der Nacht die Raffinerien Sysran und Kuibyschew in der russischen Region Samara getroffen und Brände ausgelöst. Präsident Wladimir Putin nannte Vergeltung unausweichlich und warf Kiew vor, die Angriffe trotz einer Bitte von US-Präsident Trump fortzusetzen; die Ukraine forderte ihn laut CNBC auf, das Klagen einzustellen. Bei russischen Angriffen starben in der Region Odessa zwei Menschen, darunter ein Jugendlicher.",
-          "source": "CNBC, 25.11.",
-          "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html"
+          "title": "Russische Angriffe legen Strom in fünf ukrainischen Regionen lahm – Putin kündigt Vergeltung für Raffinerie-Treffer an",
+          "text": "Bei russischen Angriffen in der Nacht zum Mittwoch wurden nach ukrainischen Angaben mindestens fünf Menschen getötet und Dutzende verletzt, in fünf Regionen fiel der Strom aus; das russisch besetzte Kernkraftwerk Saporischschja verlor die externe Versorgung und läuft mit Dieselgeneratoren. Ukrainische Drohnen hatten zuvor laut Berichten die Raffinerien Sysran und Kuibyschew in der russischen Region Samara getroffen. Präsident Wladimir Putin nannte Vergeltung unausweichlich und warf Kiew vor, die Angriffe trotz einer Bitte von US-Präsident Trump fortzusetzen; die Ukraine wies das laut CNBC zurück.",
+          "source": "Afreeque (Agenturüberblick, 15:16 Uhr MEZ), 25.11.",
+          "url": "https://afreeque.com/en/news/russian-strikes-cut-electricity-in-five-ukrainian-regions"
         },
         {
           "tag": "Kongo · Ebola",
@@ -133,13 +133,6 @@
           "text": "Gefechte zwischen der kongolesischen Armee und der Rebellengruppe CRP behindern laut AP die Eindämmung des bislang tödlichsten Ebola-Ausbruchs im Land. Rund ein Dutzend Helfer, darunter zwei WHO-Mitarbeiter, wurden nach Beschuss aus dem Ort Akwe in Sicherheit gebracht, die WHO verlegte ihr Team aus Mongbwalu vorübergehend nach Bunia. Blockierte Straßen erschweren nach Angaben der WHO Lieferungen, Bestattungen und die Nachverfolgung von Kontakten. Der Ausbruch zählt mehr als 11.700 Erkrankte und über 5.700 Tote.",
           "source": "AP via CTV News (21:24 Uhr MEZ), 25.11.",
           "url": "https://www.ctvnews.ca/world/article/fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-threatening-outbreak-response/"
-        },
-        {
-          "tag": "USA · China · Justiz",
-          "title": "US-Geschworene sprechen Huawei in zehn von zwölf Anklagepunkten schuldig – Konzern will in Berufung gehen",
-          "text": "Ein Bundesgericht in Brooklyn hat Huawei unter anderem wegen Bankbetrugs, Geldwäsche, Sanktionsverstößen und des Diebstahls von Geschäftsgeheimnissen verurteilt; von den Vorwürfen der Justizbehinderung und der organisierten Kriminalität wurde das Unternehmen freigesprochen. Das Strafmaß soll im September 2027 verkündet werden. Huawei nennt das Urteil haltlos und kündigte Berufung an.",
-          "source": "Lippische Landes-Zeitung/dpa (23:46 Uhr), 24.11.",
-          "url": "https://www.lz.de/ueberregional/wirtschaft/24470461_US-Geschworene-sprechen-Huawei-der-Geldwaesche-schuldig.html"
         }
       ]
     },
@@ -158,31 +151,31 @@
         {
           "tag": "Markt",
           "title": "Bitcoin erholt sich vom Tagestief unter 58.000 $ auf knapp 60.000 $ – Ether bei 1.682 $",
-          "text": "Nach den Inflationsdaten war Bitcoin zeitweise unter 58.000 $ gefallen; um 16:59 Uhr MEZ nannte CoinDesk 58.300 $, um 20:24 Uhr knapp über 60.000 $. Gegen 21:35 Uhr zeigte die CoinDesk-Kursleiste 59.952,09 $ (+1,13 % in 24 Stunden) und für Ether 1.682,43 $ (+0,49 %). Die Erholung lief parallel zu der an den US-Aktienmärkten. CoinShares-Analyst James Butterfill sieht laut The Block die Endphase des Bärenmarkts und Bitcoin vorerst in einer Spanne von 60.000 bis 90.000 $; ein Ausbruch hänge von veränderten Fed-Erwartungen ab.",
-          "impact": "Bitcoin hat das Tagestief hinter sich gelassen, notiert aber weiter um die Marke von 60.000 $. Am Donnerstag sind die US-Börsen geschlossen, an Feiertagen sind die Umsätze meist dünner.",
-          "source": "CoinDesk (Liveblog, Stand 20:24 Uhr MEZ), 25.11.",
+          "text": "Nach den Inflationsdaten war Bitcoin am Mittwoch zeitweise unter 58.000 $ gefallen; um 16:59 Uhr MEZ nannte CoinDesk 58.300 $, um 20:24 Uhr knapp über 60.000 $. Gegen 21:35 Uhr zeigte die CoinDesk-Kursleiste 59.952,09 $ (+1,13 % in 24 Stunden) und für Ether 1.682,43 $ (+0,49 %); ein neuerer Kurs war bei diesem Lauf in der Nacht nicht abrufbar. CoinShares-Analyst James Butterfill sieht laut The Block die Endphase des Bärenmarkts und Bitcoin vorerst in einer Spanne von 60.000 bis 90.000 $; der Forschungschef von Galaxy achtet laut CoinDesk auf die Juni-Tiefs bei 58.525 $ (Tagesschluss) und 59.517 $ (Wochenschluss).",
+          "impact": "Bitcoin hat das Tagestief hinter sich gelassen, notiert aber weiter um die Marke von 60.000 $. Heute sind die US-Börsen geschlossen, an Feiertagen sind die Umsätze meist dünner.",
+          "source": "CoinDesk (Liveblog, beendet 23:00 Uhr MEZ), 25.11.",
           "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower"
         },
         {
           "tag": "Aktien · Tech",
-          "title": "Wall Street holt Kurssturz weitgehend auf: Nasdaq nach 4,5 % Minus nur noch 0,7 % tiefer, Dow im Plus",
-          "text": "Der Nasdaq brach zum Handelsstart um rund 4,5 % ein und lag damit zeitweise 20 % unter seinem Rekordhoch, der Schwelle zum Bärenmarkt; der Volatilitätsindex VIX sprang laut einem Marktkommentar auf 34,95. Bis 20:24 Uhr MEZ schrumpfte das Minus laut CoinDesk auf 0,7 %, der S&P 500 lag 0,35 % tiefer, der Dow Jones 0,6 % im Plus. Investor Michael Burry teilte mit, seine Wetten gegen Technologiewerte geschlossen zu haben. Die Rendite zehnjähriger US-Staatsanleihen fiel auf 4,84 %; der Dax hatte zuvor 1,26 % tiefer geschlossen. Die US-Schlusskurse lagen bei diesem Lauf noch nicht vor.",
-          "impact": "Krypto bewegte sich auch heute eng mit dem Technologiesektor, dessen Erholung den Druck vorerst nimmt. Zölle und Zinsausblick bleiben als Belastungsfaktoren bestehen.",
-          "source": "CoinDesk (Liveblog, Stand 20:24 Uhr MEZ), 25.11.",
-          "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower"
+          "title": "Wall Street schließt nach Kurssturz fast unverändert: Dow +0,3 %, S&P 500 −0,3 %, Nasdaq −0,6 %",
+          "text": "Der Dow Jones machte ein Minus von mehr als 1.100 Punkten wett und schloss 164,25 Punkte höher bei 50.182,95. Der S&P 500, der zeitweise 3,2 % verloren hatte, endete 0,3 % tiefer bei 7.182,78 Punkten, der Nasdaq Composite nach rund 4,5 % Minus zum Auftakt 0,6 % tiefer bei 23.585,80. Belastet hatten der Ausverkauf bei KI-Werten, die Inflationsdaten und die Zollpläne; Energiewerte führten die Gewinner an, Investor Michael Burry teilte mit, seine Wetten gegen Technologiewerte geschlossen zu haben. Auf Wochensicht liegen alle drei Indizes rund 4 % im Plus. Heute bleiben die US-Börsen geschlossen, am Freitag endet der Handel verkürzt.",
+          "impact": "Krypto bewegte sich auch am Mittwoch eng mit dem Technologiesektor, dessen Erholung den Druck vorerst nimmt. Bis Freitag fehlen Impulse von den US-Aktienmärkten; Zölle und Zinsausblick bleiben als Belastungsfaktoren bestehen.",
+          "source": "AP via WRAL (Schlusskurse, 22:18 Uhr MEZ), 25.11.",
+          "url": "https://www.wral.com/news/ap/94fdb-how-major-us-stock-indexes-fared-wednesday-11-25-2026/"
         },
         {
           "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs: Sechster Abflusstag in Folge mit 231,4 Mio. $ – November-Abflüsse bei rund 4,94 Mrd. $, auch Ether-ETFs verlieren",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Dienstag laut Farside netto 231,4 Mio. $ ab, nach 569,7 Mio. $ am Montag; auf BlackRocks IBIT entfielen 175,3 Mio. $. Bis Montag hatten sich die Abflüsse im November laut CoinDesk auf 4,71 Mrd. $ summiert, mit dem Dienstag sind es rund 4,94 Mrd. $ und damit mehr als in jedem Monat seit dem Start der Fonds 2024. Aus den Ether-ETFs flossen laut aktiencheck in sechs Handelstagen bis zum 23. November 391 Mio. $ ab; Zahlen vom Mittwoch lagen noch nicht vor.",
-          "impact": "Die Abflüsse halten an, haben sich am Dienstag gegenüber Montag aber mehr als halbiert. Die Zahlen vom Mittwoch erscheinen erst nach US-Börsenschluss; am Donnerstag ruht der ETF-Handel wegen Thanksgiving.",
-          "source": "CoinDesk (12:57 Uhr MEZ), 25.11.",
-          "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes"
+          "title": "Bitcoin-ETFs: Sechster Abflusstag in Folge mit rund 231 Mio. $ – verwaltetes Vermögen seit 9. November von 94,4 auf 72,0 Mrd. $ gefallen",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Dienstag netto rund 231 Mio. $ ab (Farside: 231,4 Mio. $, SoSoValue: 231,56 Mio. $), nach 569,7 Mio. $ am Montag; auf BlackRocks IBIT entfielen 175,3 Mio. $. Im November summieren sich die Abflüsse damit auf rund 4,94 Mrd. $, mehr als in jedem Monat seit dem Start der Fonds 2024. Das verwaltete Vermögen sank laut TheStreet von 94,43 Mrd. $ am 9. November auf 72,01 Mrd. $. Aus den Ether-ETFs flossen laut aktiencheck in sechs Handelstagen bis zum 23. November 391 Mio. $ ab; Zahlen vom Mittwoch lagen bei diesem Lauf noch nicht vor.",
+          "impact": "Die Abflüsse halten an, haben sich am Dienstag gegenüber Montag aber mehr als halbiert. Heute ruht der ETF-Handel wegen Thanksgiving, neue Flussdaten gibt es erst wieder für Freitag.",
+          "source": "TheStreet via Yahoo Finance (17:24 Uhr MEZ), 25.11.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bell-bitcoins-thanksgiving-comes-tariff-162405309.html"
         },
         {
           "tag": "Termin",
-          "title": "Do 26.11.: Thanksgiving, Zinsentscheid in Südkorea, Berliner Plenum",
-          "text": "Die US-Börsen bleiben geschlossen; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Die Bank of Korea entscheidet über den Leitzins. Das Berliner Abgeordnetenhaus soll den CDU-Antrag zur Verfassungsänderung behandeln.",
+          "title": "Do 26.11.: Heute – Thanksgiving, Zinsentscheid in Südkorea, Berliner Plenum",
+          "text": "Die US-Börsen bleiben geschlossen; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Die Bank of Korea entscheidet über den Leitzins. Das Berliner Abgeordnetenhaus tagt ab 10 Uhr und soll den CDU-Antrag zur Verfassungsänderung behandeln.",
           "source": "",
           "url": ""
         },

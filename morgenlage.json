@@ -1,18 +1,18 @@
 {
   "date": "Donnerstag, 26. November 2026",
-  "stand": "01:43",
+  "stand": "06:43",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "59.952,09 $",
-      "change": "+1,13 % in 24 h (Letzter belegter Kurs: 25.11., ca. 21:35 MEZ · CoinDesk-Kursleiste; am 26.11. um 01:43 MEZ kein neuerer Kurs abrufbar; Tagestief am 25.11. laut The Block unter 58.000 $)",
+      "value": "60.458,90 $",
+      "change": "+1,05 % in 24 h (Stand 26.11., 01:00 MEZ · KuCoin-Tagesbericht; Tagestief am 25.11. nahe 57.500 $)",
       "dir": "up"
     },
     {
       "label": "Ether",
-      "value": "1.682,43 $",
-      "change": "+0,49 % in 24 h (Letzter belegter Kurs: 25.11., ca. 21:35 MEZ · CoinDesk-Kursleiste; am 26.11. um 01:43 MEZ kein neuerer Kurs abrufbar)",
+      "value": "1.692,65 $",
+      "change": "+0,75 % in 24 h (Stand 26.11., 01:00 MEZ · KuCoin-Tagesbericht)",
       "dir": "up"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Märkte: Die Wall Street hat den Kurssturz vom Mittwoch fast ganz aufgeholt: Der Dow schloss 0,3 % höher bei 50.182,95 Punkten, der S&P 500 0,3 % tiefer bei 7.182,78, der Nasdaq 0,6 % tiefer bei 23.585,80. Bitcoin stand beim letzten belegten Kurs (25.11., ca. 21:35 MEZ) bei 59.952 $, Ether bei 1.682 $; ein neuerer Kurs war in der Nacht nicht abrufbar. Heute bleiben die US-Börsen wegen Thanksgiving geschlossen, eine Zinserhöhung der Fed am 9. Dezember gilt weiter als ausgemacht.",
-    "Bund und Wirtschaft: In der Metall-Tarifrunde in Mannheim wurde auch am Abend noch verhandelt, ein Ergebnis war bis in die Nacht nicht gemeldet. Der Bundestag stimmt am Freitag über den Haushalt 2027 ab, um den in der Generaldebatte vor allem wegen der rund zwölf Milliarden Euro Ukraine-Hilfe gestritten wurde. Die EU-Kommission weist die Begründung der neuen US-Zollpläne zurück, auch China und die Schweiz widersprechen.",
-    "Welt und Berlin: Iran meldet am Mittwochabend einen weiteren Minentreffer in der Straße von Hormus, diesmal an einem Flüssiggastanker; Reuters konnte das nicht überprüfen. Die Huthi reklamieren Angriffe auf die saudischen Häfen Dschidda und Dschasan, in Riad waren Explosionen zu hören, Brent stieg um 2,5 % auf 84 $. In Berlin tagt heute ab 10 Uhr das Abgeordnetenhaus; SPD, Grüne und Linke wollen ihren Koalitionsvertrag Anfang Januar vorstellen."
+    "Märkte: Bitcoin hielt sich in der Nacht über 60.000 $: Der KuCoin-Tagesbericht nennt für 01:00 Uhr MEZ 60.458,90 $ (+1,05 % in 24 Stunden) und für Ether 1.692,65 $ (+0,75 %); der Fear-&-Greed-Index liegt bei 11. Die Wall Street hatte am Mittwoch ihren Kurssturz fast aufgeholt und bleibt heute wegen Thanksgiving geschlossen. Südkoreas Notenbank hat ihren Leitzins am Morgen laut Nikkei Asia auf 3,25 % erhöht, eine Zinserhöhung der Fed am 9. Dezember gilt weiter als ausgemacht.",
+    "Bund und Wirtschaft: Die Metall-Tarifverhandlungen in Mannheim liefen die ganze Nacht, bis zum frühen Morgen gab es laut dpa keine Einigung. Der Bundestag berät heute ab 9 Uhr weitere Einzeletats, darunter Inneres und um 12:50 Uhr Wirtschaft und Energie; über den Gesamthaushalt 2027 wird am Freitag abgestimmt. Um 8 Uhr kommt das Konsumklima, um 13:30 Uhr das Protokoll der EZB-Sitzung vom Oktober.",
+    "Welt und Berlin: Nach den von Iran gemeldeten Minentreffern in der Straße von Hormus und den Huthi-Angriffen auf saudische Ziele notierte Brent am frühen Donnerstag laut Reuters bei 94,71 $, nach einem Plus von 3,5 % am Mittwoch; die saudisch geführte Koalition meldet laut Khaleej Times am Morgen abgefangene Drohnen und Raketen. In Berlin tagt ab 10 Uhr das Abgeordnetenhaus, nach dem Juwelier-Überfall im Ring-Center wurde ein 17-Jähriger festgenommen."
   ],
   "sections": [
     {
@@ -40,10 +40,17 @@
       "items": [
         {
           "tag": "Haushalt · Bundestag",
-          "title": "Generaldebatte zum Haushalt 2027: Streit über zwölf Milliarden Euro Ukraine-Hilfe – Merz nennt den Etat „vertretbar“",
-          "text": "In der Generaldebatte warf AfD-Fraktionschefin Alice Weidel der Regierung vor, Steuermilliarden in der Ukraine zu versenken; AfD-Co-Chef Tino Chrupalla hatte den Etat zum Auftakt eine Schuldenorgie genannt. Kanzler Friedrich Merz (CDU) entgegnete, mit der Hilfe für die Ukraine schütze Deutschland auch sich selbst, nannte den Haushalt vertretbar und räumte ein, seine Aufstellung habe keinen Schönheitspreis verdient. Grünen-Fraktionschefin Britta Haßelmann wies die AfD-Vorwürfe zurück, kritisierte den Etat aber als unseriös. Der Haushalt enthält rund zwölf Milliarden Euro für die Ukraine und umfasst rund 560 Mrd. Euro, mit Sondervermögen rund 210 Mrd. Euro neue Schulden. Abgestimmt wird am Freitag.",
-          "source": "tagesschau.de (19:10 Uhr), 25.11.",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html"
+          "title": "Haushalt 2027: Bundestag berät heute Etats für Inneres, Justiz und Wirtschaft – Schlussabstimmung am Freitag",
+          "text": "Nach der Generaldebatte vom Mittwoch, in der vor allem über rund zwölf Milliarden Euro Ukraine-Hilfe gestritten wurde und Kanzler Friedrich Merz (CDU) den Etat vertretbar nannte, setzt der Bundestag die Schlussberatungen heute ab 9 Uhr fort. Den Anfang macht das Innenministerium, dessen Etat um etwa eine Milliarde auf 16,8 Mrd. Euro steigt; es folgen Justiz (10:45 Uhr), Wirtschaft und Energie (12:50 Uhr), Bauen, Landwirtschaft sowie Bildung und Familie. Der Wirtschaftsetat sinkt laut Bundestag um rund 250 Mio. auf 5,65 Mrd. Euro. Am Freitag folgen weitere Einzelpläne, danach wird der Gesamthaushalt verabschiedet.",
+          "source": "AFP via Yahoo Nachrichten (04:03 Uhr), 26.11.",
+          "url": "https://de.nachrichten.yahoo.com/bundestag-setzt-beratungen-%C3%BC-budgets-030318354.html"
+        },
+        {
+          "tag": "Tarife · Metall",
+          "title": "Metall-Tarifstreit: Nachtsitzung in Mannheim ohne Einigung – Verhandlungen dauern am Morgen an",
+          "text": "IG Metall und Arbeitgeber haben seit Mittwoch, 13 Uhr, im Mannheimer Rosengarten die ganze Nacht verhandelt; bis zum frühen Donnerstagmorgen gab es laut dpa keine Einigung, von einer Vertagung ist nicht die Rede. Angestrebt wird ein Pilotabschluss für rund 3,7 Millionen Beschäftigte. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit, die Arbeitgeber boten bisher eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten. Strittig ist auch, wie Betriebe vom Tarifvertrag abweichen dürfen.",
+          "source": "Stuttgarter Nachrichten/dpa (06:22 Uhr), 26.11.",
+          "url": "https://www.stuttgarter-nachrichten.de/wirtschaft/bislang-keine-einigung-tarifverhandlungen-in-dermetall-und-elektroindustrie-dauern-an-79784052.html"
         },
         {
           "tag": "Börse",
@@ -51,13 +58,6 @@
           "text": "Der Dax beendete den Handel bei 24.702,13 Punkten, 315,68 Punkte oder 1,26 % unter dem Vortag und damit wieder unter der Marke von 25.000. Als Gründe nennen die Marktberichte den Ausverkauf bei Technologie- und KI-Werten, die neuen US-Zollpläne und die Sorge vor steigender Inflation; Autowerte waren dagegen gefragt. Die Erholung an der Wall Street setzte erst nach dem Xetra-Schluss ein.",
           "source": "ad-hoc-news (18:41 Uhr), 25.11.",
           "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-1-26-prozent-tiefer-wegen-zoll-und-ki-sorgen/70554576"
-        },
-        {
-          "tag": "Tarife · Metall",
-          "title": "Metall-Tarifstreit: Vierte Runde in Mannheim geht in den Abend – bis in die Nacht kein Ergebnis gemeldet",
-          "text": "IG Metall und Arbeitgeber verhandeln seit Mittwoch, etwa 13 Uhr, im Mannheimer Rosengarten über einen Pilotabschluss für rund 3,7 Millionen Beschäftigte. Laut IG Metall saßen beide Seiten auch am Abend noch zusammen; ein Ergebnis oder ein neues Angebot war bei diesem Lauf gegen 01:40 Uhr nicht gemeldet. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit, die Arbeitgeber boten bisher eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten. Strittig ist auch, wie Betriebe vom Tarifvertrag abweichen dürfen.",
-          "source": "IG Metall (Ticker), 25.11.",
-          "url": "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro"
         },
         {
           "tag": "Konjunktur",
@@ -74,17 +74,10 @@
       "items": [
         {
           "tag": "Polizei · Feuerwehr",
-          "title": "Razzia nach Schüssen mit möglichem Clan-Bezug: 166.000 Euro Bargeld gefunden – Brand in Nebengebäude des Polizeipräsidiums",
-          "text": "Wie die Polizei am Mittwoch mitteilte, durchsuchten am Dienstagmorgen fast 250 Einsatzkräfte acht Adressen in Berlin und Brandenburg sowie ein Bankschließfach und ein Auto; die Aktion richtete sich gegen sieben Verdächtige zwischen 22 und 51 Jahren, ermittelt wird wegen versuchten Totschlags nach Schüssen im September und Oktober. Gefunden wurden laut Tagesspiegel 166.000 Euro und mehr als 9.000 US-Dollar Bargeld, eine Schreckschusswaffe und mutmaßliche Drogen. In einem Nebengebäude des Polizeipräsidiums in Tempelhof brach am Mittwoch gegen 13:20 Uhr ein Feuer in einer Zwischendecke aus, das knapp 60 Feuerwehrleute bis etwa 17:30 Uhr löschten; ein Mensch kam mit Rauchgasvergiftung ins Krankenhaus, geprüft wird ein Zusammenhang mit Dacharbeiten. Am Abend meldete rbb24 zudem einen Überfall auf einen Juwelier im Ring-Center in Lichtenberg.",
-          "source": "Tagesspiegel (16:04 Uhr), 25.11.",
-          "url": "https://www.tagesspiegel.de/berlin/grossrazzia-nach-schussen-mit-moglichem-clan-bezug-hunderte-ermittler-durchsuchen-objekte-in-ganz-berlin-16325404.html"
-        },
-        {
-          "tag": "Justiz · Rigaer Straße",
-          "title": "Rigaer 94: Mehrere Wohnungen sollen am 15. Dezember geräumt werden",
-          "text": "In dem früher besetzten Haus in der Rigaer Straße 94 in Friedrichshain stehen nach Angaben des Sprechers der Berliner Zivilgerichte am 15. Dezember Räumungen an, die neun Menschen betreffen. Nicht alle Urteile sind rechtskräftig, sie sind aber vorläufig vollstreckbar; fünf Berufungsverfahren sollen am 13. Januar 2027 entschieden werden. Der Komplex mit rund 30 Wohnungen gilt als eine der letzten Hochburgen der linksextremen Szene, der Eigentümer klagt seit Jahren.",
-          "source": "Tagesspiegel/dpa (17:02 Uhr), 25.11.",
-          "url": "https://www.tagesspiegel.de/berlin/dpa-wohnungen-in-rigaer-strasse-in-berlin-sollen-am-15-dezember-geraumt-werden-16325378.html"
+          "title": "Juwelier-Überfall im Ring-Center: 17-Jähriger festgenommen, Komplizen flüchtig – Razzia mit Clan-Bezug bringt 166.000 Euro Bargeld",
+          "text": "Nach dem Überfall auf einen Juwelier im Lichtenberger Ring-Center, bei dem laut Tagesspiegel vier Täter am Werk gewesen sein sollen und der Inhaber verletzt wurde, hat die Polizei einen 17-Jährigen festgenommen; die mutmaßlichen Komplizen sind auf der Flucht, gesucht wurde auch per Hubschrauber. Bei der Razzia vom Dienstag wegen Schüssen mit möglichem Clan-Bezug fanden fast 250 Einsatzkräfte an acht Adressen 166.000 Euro und mehr als 9.000 US-Dollar Bargeld. Der Brand in einem Nebengebäude des Polizeipräsidiums in Tempelhof am Mittwoch war gegen 17:30 Uhr gelöscht, ein Mensch erlitt eine Rauchgasvergiftung. Außerdem sollen zwei Journalisten des rechtsextremen Magazins Compact nach einem Streit um ein Interview von mehreren Personen angegriffen worden sein.",
+          "source": "Tagesspiegel/dpa (Ring-Center), 25.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-polizei-sucht-tater-nach-raububerfall-im-berliner-ring-center--hubschrauber-im-einsatz-16323226.html"
         },
         {
           "tag": "Landespolitik",
@@ -95,10 +88,17 @@
         },
         {
           "tag": "Verkehr · BVG",
-          "title": "BVG-Zwischenbilanz: U-Bahn-Zuverlässigkeit bei 98,2 %, Tram unter dem Soll – heute Sperrung in Kaulsdorf und mehrere Kundgebungen",
-          "text": "Zwei Jahre nach dem Start ihres Programms „Stabilität vor Wachstum“ meldet die BVG eine von 91,6 auf 98,2 % gestiegene Zuverlässigkeit der U-Bahn; die Straßenbahn liegt mit 99,1 % unter dem vertraglichen Soll von 99,7 %, der Bus durchweg über 99 %. Auf der A100 ist die Rudolf-Wissell-Brücke bis 5 Uhr wechselseitig einspurig; die Chemnitzer Straße in Kaulsdorf ist laut Verkehrsinformationszentrale bis 27. November voll gesperrt. Für heute sind unter anderem eine Gewerkschaftskundgebung mit Charité-Streikenden vor dem Abgeordnetenhaus (9 bis 10 Uhr, Niederkirchnerstraße) und eine Kundgebung zur Metall-Tarifrunde an der Sonnenallee/Ziegrastraße (17:15 bis 19 Uhr) angemeldet.",
-          "source": "Tagesspiegel (BVG, 16:25 Uhr), 25.11.",
-          "url": "https://www.tagesspiegel.de/berlin/stabiler-wirds-nicht-bvg-lobt-sich-fur-verbesserungen-16324802.html"
+          "title": "Heute: Sperrung in Kaulsdorf, Kundgebungen am Abgeordnetenhaus und an der Sonnenallee, Schnee angekündigt – BVG meldet stabilere U-Bahn",
+          "text": "Die Chemnitzer Straße in Kaulsdorf ist laut Verkehrsinformationszentrale noch bis 27. November voll gesperrt. Angemeldet sind heute unter anderem eine Gewerkschaftskundgebung mit Charité-Streikenden vor dem Abgeordnetenhaus (9 bis 10 Uhr, Niederkirchnerstraße) und eine Kundgebung zur Metall-Tarifrunde an der Sonnenallee/Ziegrastraße (17:15 bis 19 Uhr). Die Berliner Zeitung kündigt für Donnerstag Schnee an und warnte zuvor vor Glätte und Sichtweiten unter 150 Metern. Die BVG meldet zwei Jahre nach dem Start ihres Stabilitätsprogramms eine von 91,6 auf 98,2 % gestiegene Zuverlässigkeit der U-Bahn; die Straßenbahn liegt mit 99,1 % unter dem Soll von 99,7 %.",
+          "source": "VIZ Berlin (Verkehrsmeldungen), 25.11.",
+          "url": "https://viz.berlin.de/aktuelle-meldungen/staatsbesuch/"
+        },
+        {
+          "tag": "Justiz · Rigaer Straße",
+          "title": "Rigaer 94: Mehrere Wohnungen sollen am 15. Dezember geräumt werden",
+          "text": "In dem früher besetzten Haus in der Rigaer Straße 94 in Friedrichshain stehen nach Angaben des Sprechers der Berliner Zivilgerichte am 15. Dezember Räumungen an, die neun Menschen betreffen. Nicht alle Urteile sind rechtskräftig, sie sind aber vorläufig vollstreckbar; fünf Berufungsverfahren sollen am 13. Januar 2027 entschieden werden. Der Komplex mit rund 30 Wohnungen gilt als eine der letzten Hochburgen der linksextremen Szene, der Eigentümer klagt seit Jahren.",
+          "source": "Tagesspiegel/dpa (17:02 Uhr), 25.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-wohnungen-in-rigaer-strasse-in-berlin-sollen-am-15-dezember-geraumt-werden-16325378.html"
         }
       ]
     },
@@ -108,10 +108,17 @@
       "items": [
         {
           "tag": "Nahost · Iran · Golf",
-          "title": "Hormus: Iran meldet weiteren Minentreffer an einem Flüssiggastanker – Huthi greifen saudische Häfen an, Explosionen in Riad",
-          "text": "Nach den am Mittwoch gemeldeten Öltankern erklärten die Revolutionsgarden am Abend, auch ein Flüssiggastanker sei in der Straße von Hormus auf eine Mine gelaufen und in Brand geraten; Reuters konnte das nicht unabhängig überprüfen, die Zahl der betroffenen Schiffe wird unterschiedlich angegeben. Über katarische Vermittler ließ Teheran mitteilen, die Meerenge binnen 48 Stunden zu öffnen, sobald Washington seine Bedingungen erfüllt, darunter ein Ende der US-Seeblockade. Die Huthi reklamieren Angriffe auf die Häfen Dschidda und Dschasan sowie auf Ras Tanura und Riad, wo Explosionen zu hören waren; die saudisch geführte Koalition bestätigte einen Treffer mit geringem Schaden in Dschasan und griff ihrerseits Hodeidah an. Brent verteuerte sich am Mittwoch um 2,5 % auf 84 $ je Barrel.",
-          "source": "Arab News/Reuters (aktualisiert 22:21 Uhr MEZ), 25.11.",
-          "url": "https://www.arabnews.com/middle-east/iran-claims-lng-tanker-ablaze-in-hormuz-after-hitting-mine-3013942"
+          "title": "Hormus und Saudi-Arabien: Ölpreis bleibt nach Minenmeldungen hoch – Koalition meldet am Morgen abgefangene Drohnen und Raketen",
+          "text": "Iranische Staatsmedien meldeten am Mittwoch, zwei Öltanker seien in der Straße von Hormus auf Minen gelaufen und explodiert, am Abend kam nach Angaben der Revolutionsgarden ein Flüssiggastanker hinzu; unabhängig bestätigt ist das nicht. Die Huthi reklamieren Angriffe auf die Raffinerie Ras Tanura und das Finanzviertel von Riad. Am Donnerstagmorgen fing die saudisch geführte Koalition laut Khaleej Times Drohnen und ballistische Raketen ab. Brent kostete um 02:37 Uhr MEZ laut Reuters 94,71 $ je Barrel (+0,1 %), WTI 84,03 $ (+0,4 %); am Mittwoch hatte Brent 3,5 % und WTI 2 % zugelegt. Die OPEC+ berät am 29. November über ihre Förderpolitik für 2027.",
+          "source": "Reuters via MyJoyOnline (05:10 Uhr MEZ), 26.11.",
+          "url": "https://www.myjoyonline.com/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships/"
+        },
+        {
+          "tag": "Südkorea · Zinsen",
+          "title": "Bank of Korea erhöht den Leitzins auf 3,25 % – höchster Stand seit zwei Jahren",
+          "text": "Südkoreas Notenbank hat ihren Leitzins am Donnerstag auf 3,25 % angehoben. Nikkei Asia verweist auf die starke Konjunktur, laut CNBC ist es der höchste Stand seit zwei Jahren; zugleich hob die Regierung ihre Wachstumsprognose an.",
+          "source": "Nikkei Asia, 26.11.",
+          "url": "https://asia.nikkei.com/economy/central-banks/bank-of-korea-hikes-rate-to-3.25-against-backdrop-of-strong-economy"
         },
         {
           "tag": "USA · Handel",
@@ -141,20 +148,20 @@
       "title": "Krypto & Finanzen",
       "items": [
         {
+          "tag": "Markt · Regulierung",
+          "title": "Bitcoin hält sich über 60.000 $, Stimmungsindex bei 11 – US-Gesetz für Bitcoin-Reserve nimmt Ausschusshürde",
+          "text": "Der KuCoin-Tagesbericht nennt für 01:00 Uhr MEZ einen Bitcoin-Kurs von 60.458,90 $ (+1,05 % in 24 Stunden) und für Ether 1.692,65 $ (+0,75 %). Am Mittwoch war Bitcoin zeitweise bis in die Nähe von 57.500 $ gefallen, im November summiert sich das Minus auf mehr als 20 %; der Fear-&-Greed-Index sank von 13 auf 11. Als Unterstützung nennt der Bericht 57.000 bis 58.000 $, als Hürde 61.000 bis 62.000 $. In den USA hat der Strategic Bitcoin Reserve Act den Finanzausschuss des Repräsentantenhauses passiert und kann ins Plenum; er würde Verkäufe aus der Reserve für mindestens 20 Jahre untersagen. Die EU-Bankenaufsicht EBA fordert Regeln für Kryptofirmen, die Zugang zu DeFi-Krediten anbieten.",
+          "impact": "Bitcoin hat sich oberhalb von 60.000 $ gefangen, die Stimmung bleibt laut Index aber im Bereich extremer Angst. Heute fehlen Impulse aus den USA, am Freitag steht der große Optionsverfall an; das Reserve-Gesetz ist noch nicht vom Plenum beschlossen.",
+          "source": "KuCoin (Tagesbericht, Daten 01:00 Uhr MEZ), 26.11.",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-26-2026"
+        },
+        {
           "tag": "Fed · Inflation",
           "title": "Beige Book: Wachstum in acht von zwölf Fed-Bezirken, Kostendruck hält an – PCE-Kernrate bei 3,3 %",
           "text": "Der am Abend veröffentlichte Konjunkturbericht der Fed beschreibt leichtes bis moderates Wachstum in acht der zwölf Bezirke, in vier stagnierte die Wirtschaft. Unternehmen meldeten anhaltenden Kostendruck bei Energie, Transport, Gesundheit, Versicherungen und zollbedingten Ausgaben und erwarten weiter steigende Preise; die Befragung endete vor der neuen Zollankündigung. Am Nachmittag war die PCE-Inflation für Oktober mit 3,8 % gemeldet worden, die Kernrate mit 3,3 % (erwartet 3,2 %), das US-Wachstum im dritten Quartal wurde auf 4,3 % revidiert, und die Erstanträge auf Arbeitslosenhilfe fielen auf 189.000. Die Märkte erwarten laut Yahoo Finance am 9. Dezember eine Erhöhung um einen Viertelpunkt auf 4,00 bis 4,25 %.",
           "impact": "Beige Book und PCE-Daten stützen die Erwartung einer Zinserhöhung im Dezember. Höhere Zinsen gelten als Gegenwind für zinslose Anlagen; der Leitzins liegt derzeit bei 3,75 bis 4,00 %.",
           "source": "Yahoo Finance (21:05 Uhr MEZ), 25.11.",
           "url": "https://finance.yahoo.com/economy/policy/article/feds-beige-book-shows-evidence-of-broadening-price-pressures-200555194.html"
-        },
-        {
-          "tag": "Markt",
-          "title": "Bitcoin erholt sich vom Tagestief unter 58.000 $ auf knapp 60.000 $ – Ether bei 1.682 $",
-          "text": "Nach den Inflationsdaten war Bitcoin am Mittwoch zeitweise unter 58.000 $ gefallen; um 16:59 Uhr MEZ nannte CoinDesk 58.300 $, um 20:24 Uhr knapp über 60.000 $. Gegen 21:35 Uhr zeigte die CoinDesk-Kursleiste 59.952,09 $ (+1,13 % in 24 Stunden) und für Ether 1.682,43 $ (+0,49 %); ein neuerer Kurs war bei diesem Lauf in der Nacht nicht abrufbar. CoinShares-Analyst James Butterfill sieht laut The Block die Endphase des Bärenmarkts und Bitcoin vorerst in einer Spanne von 60.000 bis 90.000 $; der Forschungschef von Galaxy achtet laut CoinDesk auf die Juni-Tiefs bei 58.525 $ (Tagesschluss) und 59.517 $ (Wochenschluss).",
-          "impact": "Bitcoin hat das Tagestief hinter sich gelassen, notiert aber weiter um die Marke von 60.000 $. Heute sind die US-Börsen geschlossen, an Feiertagen sind die Umsätze meist dünner.",
-          "source": "CoinDesk (Liveblog, beendet 23:00 Uhr MEZ), 25.11.",
-          "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower"
         },
         {
           "tag": "Aktien · Tech",
@@ -174,8 +181,8 @@
         },
         {
           "tag": "Termin",
-          "title": "Do 26.11.: Heute – Thanksgiving, Zinsentscheid in Südkorea, Berliner Plenum",
-          "text": "Die US-Börsen bleiben geschlossen; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Die Bank of Korea entscheidet über den Leitzins. Das Berliner Abgeordnetenhaus tagt ab 10 Uhr und soll den CDU-Antrag zur Verfassungsänderung behandeln.",
+          "title": "Do 26.11.: Heute – Thanksgiving, Konsumklima, EZB-Protokoll, Berliner Plenum",
+          "text": "Die US-Börsen bleiben geschlossen; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Um 8 Uhr erscheinen das Konsumklima und der Reallohnindex, um 13:30 Uhr das Protokoll der EZB-Sitzung vom 28./29. Oktober. Der Bundestag berät ab 9 Uhr Einzeletats, in Brüssel tagt ein EU-Sondergipfel zu Haushalt und Ukraine-Hilfe. Das Berliner Abgeordnetenhaus tagt ab 10 Uhr.",
           "source": "",
           "url": ""
         },

@@ -1,18 +1,18 @@
 {
   "date": "Donnerstag, 26. November 2026",
-  "stand": "06:43",
+  "stand": "11:45",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "60.458,90 $",
-      "change": "+1,05 % in 24 h (Stand 26.11., 01:00 MEZ · KuCoin-Tagesbericht; Tagestief am 25.11. nahe 57.500 $)",
+      "value": "60.982,57 $",
+      "change": "+3,27 % in 24 h (Stand 26.11., 06:36 MEZ · SpendNode-Marktsnapshot; Tagestief am 25.11. laut CoinMarketCap 57.209 $)",
       "dir": "up"
     },
     {
       "label": "Ether",
-      "value": "1.692,65 $",
-      "change": "+0,75 % in 24 h (Stand 26.11., 01:00 MEZ · KuCoin-Tagesbericht)",
+      "value": "1.700,19 $",
+      "change": "+2,69 % in 24 h (Stand 26.11., 06:36 MEZ · SpendNode-Marktsnapshot)",
       "dir": "up"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Märkte: Bitcoin hielt sich in der Nacht über 60.000 $: Der KuCoin-Tagesbericht nennt für 01:00 Uhr MEZ 60.458,90 $ (+1,05 % in 24 Stunden) und für Ether 1.692,65 $ (+0,75 %); der Fear-&-Greed-Index liegt bei 11. Die Wall Street hatte am Mittwoch ihren Kurssturz fast aufgeholt und bleibt heute wegen Thanksgiving geschlossen. Südkoreas Notenbank hat ihren Leitzins am Morgen laut Nikkei Asia auf 3,25 % erhöht, eine Zinserhöhung der Fed am 9. Dezember gilt weiter als ausgemacht.",
-    "Bund und Wirtschaft: Die Metall-Tarifverhandlungen in Mannheim liefen die ganze Nacht, bis zum frühen Morgen gab es laut dpa keine Einigung. Der Bundestag berät heute ab 9 Uhr weitere Einzeletats, darunter Inneres und um 12:50 Uhr Wirtschaft und Energie; über den Gesamthaushalt 2027 wird am Freitag abgestimmt. Um 8 Uhr kommt das Konsumklima, um 13:30 Uhr das Protokoll der EZB-Sitzung vom Oktober.",
-    "Welt und Berlin: Nach den von Iran gemeldeten Minentreffern in der Straße von Hormus und den Huthi-Angriffen auf saudische Ziele notierte Brent am frühen Donnerstag laut Reuters bei 94,71 $, nach einem Plus von 3,5 % am Mittwoch; die saudisch geführte Koalition meldet laut Khaleej Times am Morgen abgefangene Drohnen und Raketen. In Berlin tagt ab 10 Uhr das Abgeordnetenhaus, nach dem Juwelier-Überfall im Ring-Center wurde ein 17-Jähriger festgenommen."
+    "Märkte: Der Dax holt den Kursrutsch vom Mittwoch auf und lag um 10:51 Uhr laut Dow Jones bei 25.232 Punkten (+2,15 %). Bitcoin notierte im jüngsten belegten Snapshot (06:36 Uhr MEZ) bei 60.982,57 $ (+3,27 % in 24 Stunden), Ether bei 1.700,19 $; aus den US-Bitcoin-ETFs flossen am siebten Tag in Folge Mittel ab, laut Farside 453 Mio. $. Die Wall Street bleibt heute wegen Thanksgiving geschlossen.",
+    "Bund und Wirtschaft: Das Konsumklima für Dezember steigt leicht auf −30,2 Punkte, erwartet waren −29,4; die Konjunkturerwartungen der Verbraucher sinken erstmals seit sieben Monaten. In der Metall-Tarifrunde in Mannheim gab es nach der Nachtsitzung laut dpa (07:47 Uhr) keine Einigung, ein neuerer Stand lag bis zum späten Vormittag nicht vor. Der Bundestag berät weiter Einzeletats, um 12:50 Uhr Wirtschaft und Energie; um 13:30 Uhr folgt das EZB-Protokoll.",
+    "Welt und Berlin: Russland griff die Ukraine in der Nacht mit Raketen und 113 Drohnen an, in Charkiw starben zwei Menschen, in Kiew wurden sieben verletzt. In Brüssel beginnt der EU-Gipfel zu Finanzrahmen und einem 45-Milliarden-Kredit für die Ukraine; Brent gab nach 95,31 $ am Morgen auf 93,92 $ nach. Das Berliner Abgeordnetenhaus debattiert seit 10 Uhr über Wohnraum und Infrastruktur und wählt am Nachmittag die Berliner Mitglieder der Bundesversammlung."
   ],
   "sections": [
     {
@@ -39,32 +39,32 @@
       "title": "Deutschland",
       "items": [
         {
-          "tag": "Haushalt · Bundestag",
-          "title": "Haushalt 2027: Bundestag berät heute Etats für Inneres, Justiz und Wirtschaft – Schlussabstimmung am Freitag",
-          "text": "Nach der Generaldebatte vom Mittwoch, in der vor allem über rund zwölf Milliarden Euro Ukraine-Hilfe gestritten wurde und Kanzler Friedrich Merz (CDU) den Etat vertretbar nannte, setzt der Bundestag die Schlussberatungen heute ab 9 Uhr fort. Den Anfang macht das Innenministerium, dessen Etat um etwa eine Milliarde auf 16,8 Mrd. Euro steigt; es folgen Justiz (10:45 Uhr), Wirtschaft und Energie (12:50 Uhr), Bauen, Landwirtschaft sowie Bildung und Familie. Der Wirtschaftsetat sinkt laut Bundestag um rund 250 Mio. auf 5,65 Mrd. Euro. Am Freitag folgen weitere Einzelpläne, danach wird der Gesamthaushalt verabschiedet.",
-          "source": "AFP via Yahoo Nachrichten (04:03 Uhr), 26.11.",
-          "url": "https://de.nachrichten.yahoo.com/bundestag-setzt-beratungen-%C3%BC-budgets-030318354.html"
-        },
-        {
-          "tag": "Tarife · Metall",
-          "title": "Metall-Tarifstreit: Nachtsitzung in Mannheim ohne Einigung – Verhandlungen dauern am Morgen an",
-          "text": "IG Metall und Arbeitgeber haben seit Mittwoch, 13 Uhr, im Mannheimer Rosengarten die ganze Nacht verhandelt; bis zum frühen Donnerstagmorgen gab es laut dpa keine Einigung, von einer Vertagung ist nicht die Rede. Angestrebt wird ein Pilotabschluss für rund 3,7 Millionen Beschäftigte. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit, die Arbeitgeber boten bisher eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten. Strittig ist auch, wie Betriebe vom Tarifvertrag abweichen dürfen.",
-          "source": "Stuttgarter Nachrichten/dpa (06:22 Uhr), 26.11.",
-          "url": "https://www.stuttgarter-nachrichten.de/wirtschaft/bislang-keine-einigung-tarifverhandlungen-in-dermetall-und-elektroindustrie-dauern-an-79784052.html"
+          "tag": "Konsum",
+          "title": "Konsumklima steigt leicht auf −30,2 Punkte – Konjunkturerwartungen sinken erstmals seit sieben Monaten",
+          "text": "Das vom Nürnberg Institut für Marktentscheidungen (NIM) ermittelte Konsumklima verbessert sich für Dezember auf −30,2 Punkte, nach −30,9 im Vormonat laut RTTNews; Ökonomen hatten −29,4 erwartet. Die Einkommenserwartung stieg um 1,8 auf −13,9 Punkte, die Anschaffungsneigung um 0,4 auf −11,5, die Sparneigung sank um 1,6 auf 15,6 Punkte. Die Konjunkturerwartung fiel um 3,7 auf −1,6 Punkte, die Preiserwartung stieg um 1,8 auf 2,8.",
+          "source": "RTTNews via finanzen.at, 26.11.",
+          "url": "https://www.finanzen.at/nachrichten/zinsen/german-gfk-consumer-sentiment-improves-1036802681"
         },
         {
           "tag": "Börse",
-          "title": "Dax schließt 1,26 % tiefer bei 24.702 Punkten – Zollsorgen und Flucht aus KI-Aktien belasten",
-          "text": "Der Dax beendete den Handel bei 24.702,13 Punkten, 315,68 Punkte oder 1,26 % unter dem Vortag und damit wieder unter der Marke von 25.000. Als Gründe nennen die Marktberichte den Ausverkauf bei Technologie- und KI-Werten, die neuen US-Zollpläne und die Sorge vor steigender Inflation; Autowerte waren dagegen gefragt. Die Erholung an der Wall Street setzte erst nach dem Xetra-Schluss ein.",
-          "source": "ad-hoc-news (18:41 Uhr), 25.11.",
-          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-1-26-prozent-tiefer-wegen-zoll-und-ki-sorgen/70554576"
+          "title": "Dax erholt sich um gut 2 % und steigt wieder über 25.000 Punkte",
+          "text": "Der Dax lag um 10:51 Uhr laut Dow Jones bei 25.232,44 Punkten, 530,31 Punkte oder 2,15 % über dem Vortag; am Mittwoch hatte er bei 24.702 Punkten den tiefsten Stand seit Juli markiert. Der Euro Stoxx 50 stieg um 2,2 % auf 6.020,93 Punkte, der MDax laut dpa-AFX um rund 2 %. Als Gründe nennen die Marktberichte die späte Erholung der US-Technologiewerte und die Aussage, dass neue US-Zölle frühestens im Januar greifen; gefragt waren unter anderem Infineon, Siemens Energy, Hochtief und Rheinmetall. Der Euro kostete 1,0974 $.",
+          "source": "Dow Jones via finanzen.ch (10:40 Uhr), 26.11.",
+          "url": "https://www.finanzen.ch/nachrichten/aktien/maerkte-europa-erholung-auf-breiter-front-dax-steigt-um-ueber-2percent-1036802691"
         },
         {
-          "tag": "Konjunktur",
-          "title": "Wachstum im dritten Quartal auf 0,1 % nach unten korrigiert – Ausrüstungsinvestitionen brechen um 3,5 % ein",
-          "text": "Das Statistische Bundesamt hat seine Schnellmeldung um 0,1 Prozentpunkte gesenkt: Das Bruttoinlandsprodukt stieg von Juli bis September nur um 0,1 % zum Vorquartal, zum Vorjahresquartal um 1,2 %. Die Ausrüstungsinvestitionen fielen um 3,5 %, die Bauinvestitionen um 0,3 %; die Exporte sanken um 1,0 %, die Importe um 1,4 %. Die Zahl der Erwerbstätigen lag bei rund 45,7 Millionen, 222.000 weniger als ein Jahr zuvor.",
-          "source": "Statistisches Bundesamt via Presseportal (08:00 Uhr), 25.11.",
-          "url": "https://www.presseportal.de/pm/32102/6397378"
+          "tag": "Tarife · Metall",
+          "title": "Metall-Tarifstreit: Nach der Nachtsitzung in Mannheim weiter keine Einigung gemeldet",
+          "text": "IG Metall und Arbeitgeber verhandeln seit Mittwoch, 13 Uhr, im Mannheimer Rosengarten in vierter Runde; laut dpa gab es bis zum Donnerstagmorgen keine Einigung, eine Vertagung wurde nicht gemeldet, und ein neuerer Stand lag bei diesem Lauf nicht vor. Die Bezirke Baden-Württemberg und Nordrhein-Westfalen verhandeln gemeinsam über einen Pilotabschluss für rund 3,7 Millionen Beschäftigte. Die Gewerkschaft fordert 5 % mehr Geld bei zwölf Monaten Laufzeit, die Arbeitgeber boten bisher eine Einmalzahlung und 1,3 % ab Juli 2028 bei 26 Monaten. Strittig ist auch, wie Betriebe vom Tarifvertrag abweichen dürfen.",
+          "source": "Wochenblatt Reporter/dpa (07:47 Uhr), 26.11.",
+          "url": "https://www.wochenblatt-reporter.de/mannheim/c-wirtschaft-handel/tarifgespraeche-in-mannheim-laufen-weiter-keine-einigung_a953000"
+        },
+        {
+          "tag": "Haushalt · Bundestag",
+          "title": "Haushalt 2027: Bundestag berät Einzeletats – Wirtschaft und Energie um 12:50 Uhr, Schlussabstimmung am Freitag",
+          "text": "Der Bundestag setzt seit 9 Uhr die Schlussberatungen zum Haushalt 2027 fort. Den Anfang machte das Innenministerium, dessen Etat um etwa eine Milliarde auf 16,8 Mrd. Euro steigt, ab 10:45 Uhr folgte die Justiz; angesetzt sind außerdem Wirtschaft und Energie (12:50 Uhr), Bauen und Wohnen (14:35 Uhr), Landwirtschaft (16:20 Uhr) sowie Bildung und Familie (18:05 Uhr). Der Wirtschaftsetat sinkt laut Bundestag um rund 250 Mio. auf 5,65 Mrd. Euro. Am Freitag folgen weitere Einzelpläne, danach wird der Gesamthaushalt verabschiedet.",
+          "source": "AFP via Yahoo Nachrichten (04:03 Uhr), 26.11.",
+          "url": "https://de.nachrichten.yahoo.com/bundestag-setzt-beratungen-%C3%BC-budgets-030318354.html"
         }
       ]
     },
@@ -73,30 +73,30 @@
       "title": "Berlin",
       "items": [
         {
+          "tag": "Landespolitik",
+          "title": "Abgeordnetenhaus tagt: Aktuelle Stunde zu Wohnraum und Infrastruktur, am Nachmittag Wahl für die Bundesversammlung",
+          "text": "Das Abgeordnetenhaus ist seit 10 Uhr zu seiner 3. Sitzung zusammengekommen. Die Aktuelle Stunde auf Antrag der Linken behandelt bezahlbaren Wohnraum, Kieze und Infrastruktur; laut Zeitplan folgen die Fragestunde, ein CDU-Antrag zur EXPO 2035 (gegen 12:20 Uhr), erste Lesungen zu einer Verfassungsänderung und zum Landesabgeordnetengesetz sowie gegen 14:10 Uhr die geheime Wahl der Berliner Mitglieder der 18. Bundesversammlung; das Ende ist für etwa 15:40 Uhr geplant. Für das angestrebte rot-grün-rote Bündnis gilt der Fahrplan der Berliner Zeitung: Koalitionsvertrag Anfang Januar, SPD-Mitgliedervotum vom 4. bis 19. Januar, Grünen-Parteitag am 16. Januar.",
+          "source": "Abgeordnetenhaus (Liveticker Plenum), 26.11.",
+          "url": "https://www.parlament-berlin.de/mediathek/parlament-live/liveticker-plenum"
+        },
+        {
           "tag": "Polizei · Feuerwehr",
           "title": "Juwelier-Überfall im Ring-Center: 17-Jähriger festgenommen, Komplizen flüchtig – Razzia mit Clan-Bezug bringt 166.000 Euro Bargeld",
-          "text": "Nach dem Überfall auf einen Juwelier im Lichtenberger Ring-Center, bei dem laut Tagesspiegel vier Täter am Werk gewesen sein sollen und der Inhaber verletzt wurde, hat die Polizei einen 17-Jährigen festgenommen; die mutmaßlichen Komplizen sind auf der Flucht, gesucht wurde auch per Hubschrauber. Bei der Razzia vom Dienstag wegen Schüssen mit möglichem Clan-Bezug fanden fast 250 Einsatzkräfte an acht Adressen 166.000 Euro und mehr als 9.000 US-Dollar Bargeld. Der Brand in einem Nebengebäude des Polizeipräsidiums in Tempelhof am Mittwoch war gegen 17:30 Uhr gelöscht, ein Mensch erlitt eine Rauchgasvergiftung. Außerdem sollen zwei Journalisten des rechtsextremen Magazins Compact nach einem Streit um ein Interview von mehreren Personen angegriffen worden sein.",
+          "text": "Nach dem Überfall auf einen Juwelier im Lichtenberger Ring-Center, bei dem laut Tagesspiegel vier Täter am Werk gewesen sein sollen und der Inhaber verletzt wurde, hat die Polizei einen 17-Jährigen festgenommen; die mutmaßlichen Komplizen sind auf der Flucht. Bei der Razzia vom Dienstag wegen Schüssen mit möglichem Clan-Bezug fanden fast 250 Einsatzkräfte an acht Adressen 166.000 Euro und mehr als 9.000 US-Dollar Bargeld. Der Brand in einem Nebengebäude des Polizeipräsidiums in Tempelhof am Mittwoch war gegen 17:30 Uhr gelöscht, ein Mensch erlitt eine Rauchgasvergiftung. Neue Polizeimeldungen von heute lagen bei diesem Lauf nicht vor.",
           "source": "Tagesspiegel/dpa (Ring-Center), 25.11.",
           "url": "https://www.tagesspiegel.de/berlin/dpa-polizei-sucht-tater-nach-raububerfall-im-berliner-ring-center--hubschrauber-im-einsatz-16323226.html"
         },
         {
-          "tag": "Landespolitik",
-          "title": "Nach dem Ausschluss von Vanessa Emde: Fahrplan für Rot-Grün-Rot steht – Koalitionsvertrag Anfang Januar, heute Plenum",
-          "text": "Die Linksfraktion hatte die Neuköllner Abgeordnete Vanessa Emde am Dienstag mit 33 Ja-Stimmen bei 6 Nein und 4 Enthaltungen ausgeschlossen, was SPD und Grüne zur Bedingung für ein Bündnis gemacht hatten. Laut Berliner Zeitung soll der Koalitionsvertrag Anfang Januar vorgestellt werden; die SPD-Mitglieder stimmen vom 4. bis 19. Januar ab, die Grünen entscheiden auf einem Parteitag am 16. Januar, auch die Linke plant einen Mitgliederentscheid. Als möglicher Termin für die Wahl von Elif Eralp (Linke) zur Regierenden Bürgermeisterin wird der 21. Januar genannt, festgelegt ist er nicht. Das Abgeordnetenhaus tagt heute ab 10 Uhr; laut Tagesspiegel kursieren in der Linken seit dem Ausschluss Beleidigungen und Gewaltfantasien von Emde-Unterstützern.",
-          "source": "Berliner Zeitung (13:09 Uhr), 25.11.",
-          "url": "https://berliner-zeitung.de/article/tag-eins-nach-emdes-ausschluss-so-sieht-der-fahrplan-fuer-rot-gruen-rot-in-berlin-aus-10634538"
-        },
-        {
           "tag": "Verkehr · BVG",
-          "title": "Heute: Sperrung in Kaulsdorf, Kundgebungen am Abgeordnetenhaus und an der Sonnenallee, Schnee angekündigt – BVG meldet stabilere U-Bahn",
-          "text": "Die Chemnitzer Straße in Kaulsdorf ist laut Verkehrsinformationszentrale noch bis 27. November voll gesperrt. Angemeldet sind heute unter anderem eine Gewerkschaftskundgebung mit Charité-Streikenden vor dem Abgeordnetenhaus (9 bis 10 Uhr, Niederkirchnerstraße) und eine Kundgebung zur Metall-Tarifrunde an der Sonnenallee/Ziegrastraße (17:15 bis 19 Uhr). Die Berliner Zeitung kündigt für Donnerstag Schnee an und warnte zuvor vor Glätte und Sichtweiten unter 150 Metern. Die BVG meldet zwei Jahre nach dem Start ihres Stabilitätsprogramms eine von 91,6 auf 98,2 % gestiegene Zuverlässigkeit der U-Bahn; die Straßenbahn liegt mit 99,1 % unter dem Soll von 99,7 %.",
+          "title": "Heute: Sperrung in Kaulsdorf, Kundgebung an der Sonnenallee am Abend, Schnee angekündigt – BVG meldet stabilere U-Bahn",
+          "text": "Die Chemnitzer Straße in Kaulsdorf ist laut Verkehrsinformationszentrale noch bis 27. November voll gesperrt. Angemeldet ist heute unter anderem eine Kundgebung zur Metall-Tarifrunde an der Sonnenallee/Ziegrastraße (17:15 bis 19 Uhr). Die Berliner Zeitung kündigte für Donnerstag Schnee an und warnte zuvor vor Glätte. Die BVG meldet zwei Jahre nach dem Start ihres Stabilitätsprogramms eine von 91,6 auf 98,2 % gestiegene Zuverlässigkeit der U-Bahn; die Straßenbahn liegt mit 99,1 % unter dem Soll von 99,7 %.",
           "source": "VIZ Berlin (Verkehrsmeldungen), 25.11.",
           "url": "https://viz.berlin.de/aktuelle-meldungen/staatsbesuch/"
         },
         {
           "tag": "Justiz · Rigaer Straße",
           "title": "Rigaer 94: Mehrere Wohnungen sollen am 15. Dezember geräumt werden",
-          "text": "In dem früher besetzten Haus in der Rigaer Straße 94 in Friedrichshain stehen nach Angaben des Sprechers der Berliner Zivilgerichte am 15. Dezember Räumungen an, die neun Menschen betreffen. Nicht alle Urteile sind rechtskräftig, sie sind aber vorläufig vollstreckbar; fünf Berufungsverfahren sollen am 13. Januar 2027 entschieden werden. Der Komplex mit rund 30 Wohnungen gilt als eine der letzten Hochburgen der linksextremen Szene, der Eigentümer klagt seit Jahren.",
+          "text": "In dem früher besetzten Haus in der Rigaer Straße 94 in Friedrichshain stehen nach Angaben des Sprechers der Berliner Zivilgerichte am 15. Dezember Räumungen an, die neun Menschen betreffen. Nicht alle Urteile sind rechtskräftig, sie sind aber vorläufig vollstreckbar; fünf Berufungsverfahren sollen am 13. Januar 2027 entschieden werden.",
           "source": "Tagesspiegel/dpa (17:02 Uhr), 25.11.",
           "url": "https://www.tagesspiegel.de/berlin/dpa-wohnungen-in-rigaer-strasse-in-berlin-sollen-am-15-dezember-geraumt-werden-16325378.html"
         }
@@ -107,11 +107,25 @@
       "title": "Welt",
       "items": [
         {
+          "tag": "Ukraine · Russland",
+          "title": "Russland greift die Ukraine mit Raketen und 113 Drohnen an – zwei Tote in Charkiw, sieben Verletzte in Kiew",
+          "text": "In der Nacht zum Donnerstag setzte Russland nach ukrainischen Angaben ballistische Raketen und 113 Drohnen ein, von denen 87 abgefangen wurden; an 20 Orten gab es Einschläge. In Charkiw starben zwei Menschen, als Drohnen ein mehrstöckiges Wohnhaus trafen. In Kiew wurden laut Bürgermeister Vitali Klitschko sieben Menschen durch Raketenangriffe verletzt, im Gebiet Dnipropetrowsk ein Mann; insgesamt ist von mindestens elf Verletzten die Rede.",
+          "source": "112.ua (Opfer, 10:24 Uhr Ortszeit), 26.11.",
+          "url": "https://112.ua/en/rosijska-armia-26-listopada-obstrilala-kiiv-harkiv-i-dnipropetrovsinu-dvoe-zagiblih-poraneni-200700"
+        },
+        {
+          "tag": "EU · Gipfel",
+          "title": "EU-Gipfel in Brüssel beginnt: Streit um Finanzrahmen bis 2034 und 45-Milliarden-Kredit für die Ukraine",
+          "text": "Die Staats- und Regierungschefs beraten heute und morgen über den EU-Finanzrahmen 2028 bis 2034 und einen neuen Kredit von 45 Mrd. Euro an die Ukraine; außerdem geht es um die Nachfolge von EZB-Präsidentin Christine Lagarde. Ungarn, die Slowakei, Bulgarien und Tschechien lehnen es laut UNN ab, neue Kosten für den Kredit zu tragen, und könnten ein Veto einlegen; Bundeskanzler Friedrich Merz will den Haushalt an die Ukraine-Hilfe koppeln. Ratspräsident António Costa strebt eine Einigung bis Weihnachten an, mit einem Durchbruch in dieser Woche wird überwiegend nicht gerechnet.",
+          "source": "UNN (07:32 Uhr Ortszeit), 26.11.",
+          "url": "https://unn.ua/en/news/the-eu-summit-begins-in-brussels-leaders-will-argue-over-the-budget-and-a-loan-to-ukraine"
+        },
+        {
           "tag": "Nahost · Iran · Golf",
-          "title": "Hormus und Saudi-Arabien: Ölpreis bleibt nach Minenmeldungen hoch – Koalition meldet am Morgen abgefangene Drohnen und Raketen",
-          "text": "Iranische Staatsmedien meldeten am Mittwoch, zwei Öltanker seien in der Straße von Hormus auf Minen gelaufen und explodiert, am Abend kam nach Angaben der Revolutionsgarden ein Flüssiggastanker hinzu; unabhängig bestätigt ist das nicht. Die Huthi reklamieren Angriffe auf die Raffinerie Ras Tanura und das Finanzviertel von Riad. Am Donnerstagmorgen fing die saudisch geführte Koalition laut Khaleej Times Drohnen und ballistische Raketen ab. Brent kostete um 02:37 Uhr MEZ laut Reuters 94,71 $ je Barrel (+0,1 %), WTI 84,03 $ (+0,4 %); am Mittwoch hatte Brent 3,5 % und WTI 2 % zugelegt. Die OPEC+ berät am 29. November über ihre Förderpolitik für 2027.",
-          "source": "Reuters via MyJoyOnline (05:10 Uhr MEZ), 26.11.",
-          "url": "https://www.myjoyonline.com/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships/"
+          "title": "Golf: Projektil explodiert nahe Tanker vor Dubai – Brent gibt nach 95 $ am Morgen wieder nach",
+          "text": "Laut der britischen Seefahrtsbehörde UKMTO explodierte am Donnerstag ein Projektil nahe einem Tanker rund 93 Kilometer westlich von Dubai; am Mittwoch soll ein Öltanker in der Straße von Hormus nach einem Minentreffer in Brand geraten sein. Die Huthi reklamieren einen Treffer auf die Raffinerie Ras Tanura, die saudische Armee meldete vier dort abgefangene Drohnen; später griffen die Huthi nach eigenen Angaben auch die Häfen Dschidda und Dschasan an. Brent stieg am Morgen bis auf 95,31 $ (06:13 Uhr MEZ) und lag am Vormittag laut Dow Jones bei 93,92 $ (−0,7 %), WTI bei 83,46 $. Die OPEC+ berät am 29. November über ihre Förderpolitik für 2027.",
+          "source": "The National (08:38 Uhr MEZ), 26.11.",
+          "url": "https://www.thenationalnews.com/business/energy/2026/11/26/oil-rebounds-to-95-per-barrel-after-saudi-refinery-attack/"
         },
         {
           "tag": "Südkorea · Zinsen",
@@ -123,23 +137,9 @@
         {
           "tag": "USA · Handel",
           "title": "US-Zollpläne gegen 14 Handelspartner: EU, China und die Schweiz weisen den Vorwurf der Überkapazitäten zurück",
-          "text": "Der US-Handelsbeauftragte hat nach einer Untersuchung zu industriellen Überkapazitäten Zölle gegen China, die EU, Japan, Südkorea, Indien, die Schweiz, Taiwan, Vietnam und sechs weitere Volkswirtschaften vorgeschlagen; für China sind 20 % zusätzlich vorgesehen, für die EU gilt die vereinbarte Obergrenze von 15 %, Mexiko und Norwegen bleiben vorerst verschont. Ein Sprecher der EU-Kommission kündigte an, die Ergebnisse zu prüfen, und wies die Annahme zurück, Europa sei eine Quelle struktureller Überkapazitäten. Das chinesische Außenministerium nannte das Thema einen Vorwand, auch die Schweizer Regierung widersprach. Die Abgaben könnten laut einem US-Regierungsvertreter frühestens im Januar greifen.",
+          "text": "Der US-Handelsbeauftragte hat Zölle gegen China, die EU, Japan, Südkorea, Indien, die Schweiz, Taiwan, Vietnam und sechs weitere Volkswirtschaften vorgeschlagen; für China sind 20 % zusätzlich vorgesehen, für die EU gilt die vereinbarte Obergrenze von 15 %. Die EU-Kommission will die Ergebnisse prüfen und weist den Vorwurf struktureller Überkapazitäten zurück, auch China und die Schweiz widersprachen. Die Abgaben könnten laut einem US-Regierungsvertreter frühestens im Januar greifen, was die Börsen heute stützt.",
           "source": "Al Jazeera (Reaktionen), 25.11.",
           "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble"
-        },
-        {
-          "tag": "Ukraine · Russland",
-          "title": "Russische Angriffe legen Strom in fünf ukrainischen Regionen lahm – Putin kündigt Vergeltung für Raffinerie-Treffer an",
-          "text": "Bei russischen Angriffen in der Nacht zum Mittwoch wurden nach ukrainischen Angaben mindestens fünf Menschen getötet und Dutzende verletzt, in fünf Regionen fiel der Strom aus; das russisch besetzte Kernkraftwerk Saporischschja verlor die externe Versorgung und läuft mit Dieselgeneratoren. Ukrainische Drohnen hatten zuvor laut Berichten die Raffinerien Sysran und Kuibyschew in der russischen Region Samara getroffen. Präsident Wladimir Putin nannte Vergeltung unausweichlich und warf Kiew vor, die Angriffe trotz einer Bitte von US-Präsident Trump fortzusetzen; die Ukraine wies das laut CNBC zurück.",
-          "source": "Afreeque (Agenturüberblick, 15:16 Uhr MEZ), 25.11.",
-          "url": "https://afreeque.com/en/news/russian-strikes-cut-electricity-in-five-ukrainian-regions"
-        },
-        {
-          "tag": "Kongo · Ebola",
-          "title": "Kämpfe im Ostkongo zwingen Ebola-Helfer zum Rückzug – WHO verlegt Team nach Bunia",
-          "text": "Gefechte zwischen der kongolesischen Armee und der Rebellengruppe CRP behindern laut AP die Eindämmung des bislang tödlichsten Ebola-Ausbruchs im Land. Rund ein Dutzend Helfer, darunter zwei WHO-Mitarbeiter, wurden nach Beschuss aus dem Ort Akwe in Sicherheit gebracht, die WHO verlegte ihr Team aus Mongbwalu vorübergehend nach Bunia. Blockierte Straßen erschweren nach Angaben der WHO Lieferungen, Bestattungen und die Nachverfolgung von Kontakten. Der Ausbruch zählt mehr als 11.700 Erkrankte und über 5.700 Tote.",
-          "source": "AP via CTV News (21:24 Uhr MEZ), 25.11.",
-          "url": "https://www.ctvnews.ca/world/article/fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-threatening-outbreak-response/"
         }
       ]
     },
@@ -148,41 +148,41 @@
       "title": "Krypto & Finanzen",
       "items": [
         {
-          "tag": "Markt · Regulierung",
-          "title": "Bitcoin hält sich über 60.000 $, Stimmungsindex bei 11 – US-Gesetz für Bitcoin-Reserve nimmt Ausschusshürde",
-          "text": "Der KuCoin-Tagesbericht nennt für 01:00 Uhr MEZ einen Bitcoin-Kurs von 60.458,90 $ (+1,05 % in 24 Stunden) und für Ether 1.692,65 $ (+0,75 %). Am Mittwoch war Bitcoin zeitweise bis in die Nähe von 57.500 $ gefallen, im November summiert sich das Minus auf mehr als 20 %; der Fear-&-Greed-Index sank von 13 auf 11. Als Unterstützung nennt der Bericht 57.000 bis 58.000 $, als Hürde 61.000 bis 62.000 $. In den USA hat der Strategic Bitcoin Reserve Act den Finanzausschuss des Repräsentantenhauses passiert und kann ins Plenum; er würde Verkäufe aus der Reserve für mindestens 20 Jahre untersagen. Die EU-Bankenaufsicht EBA fordert Regeln für Kryptofirmen, die Zugang zu DeFi-Krediten anbieten.",
-          "impact": "Bitcoin hat sich oberhalb von 60.000 $ gefangen, die Stimmung bleibt laut Index aber im Bereich extremer Angst. Heute fehlen Impulse aus den USA, am Freitag steht der große Optionsverfall an; das Reserve-Gesetz ist noch nicht vom Plenum beschlossen.",
-          "source": "KuCoin (Tagesbericht, Daten 01:00 Uhr MEZ), 26.11.",
-          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-26-2026"
+          "tag": "Markt",
+          "title": "Bitcoin erholt sich auf rund 61.000 $ – Stimmungsindex bei 10, Großanleger haben seit Monatsbeginn rund 150.000 BTC abgegeben",
+          "text": "Der jüngste belegte Marktsnapshot (SpendNode, 06:36 Uhr MEZ) nennt für Bitcoin 60.982,57 $ (+3,27 % in 24 Stunden, −3,72 % in sieben Tagen) und für Ether 1.700,19 $ (+2,69 %); der Fear-&-Greed-Index steht bei 10. Am Mittwoch war Bitcoin laut CoinMarketCap bis auf 57.209 $ gefallen, seit dem 2. November (rund 76.700 $) summiert sich das Minus auf etwa ein Viertel. Adressen mit 10 bis 10.000 BTC haben laut CoinAlertNews seit Monatsbeginn rund 150.000 BTC abgegeben. Der KuCoin-Tagesbericht sieht Unterstützung bei 57.000 bis 58.000 $ und eine Hürde bei 61.000 bis 62.000 $.",
+          "impact": "Bitcoin testet die im Tagesbericht genannte Hürde von 61.000 bis 62.000 $, die Stimmung bleibt laut Index im Bereich extremer Angst. Wegen Thanksgiving fehlen heute Impulse aus den USA, am Freitag steht der große Optionsverfall an.",
+          "source": "SpendNode (Snapshot 06:36 Uhr MEZ), 26.11.",
+          "url": "https://www.spendnode.io/blog/bitcoin-and-ether-etfs-shed-522m-led-by-blackrock/"
+        },
+        {
+          "tag": "ETF-Flüsse",
+          "title": "Bitcoin-ETFs: Siebter Abflusstag in Folge mit 453 Mio. $ – Ether-ETFs verlieren 68,5 Mio. $",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen laut den von KuCoin/MarsBit zitierten Farside-Daten am Mittwoch netto 453 Mio. $ ab, davon 329,7 Mio. $ aus BlackRocks IBIT; es war der siebte Abflusstag in Folge, nach rund 231 Mio. $ am Dienstag. Die Ether-ETFs verloren 68,5 Mio. $, vollständig bei BlackRocks ETHA; Zuflüsse gab es in keinem Fonds. SoSoValue beziffert die Abflüsse beider Produktgruppen zusammen auf 522 Mio. $. Bis Dienstag hatten sich die Abflüsse aus den Bitcoin-ETFs im November bereits auf rund 4,94 Mrd. $ summiert.",
+          "impact": "Die Abflüsse haben sich am Mittwoch gegenüber Dienstag wieder fast verdoppelt, die Kurserholung wird bislang nicht von ETF-Käufen getragen. Heute ruht der ETF-Handel wegen Thanksgiving, neue Flussdaten gibt es erst wieder für Freitag.",
+          "source": "KuCoin/MarsBit (Farside-Daten), 26.11.",
+          "url": "https://www.kucoin.com/news/flash/bitcoin-etf-sees-453m-net-outflow-seventh-consecutive-day-of-outflows-ethereum-etf-loses-68-5m"
+        },
+        {
+          "tag": "Aktien · Tech",
+          "title": "Europas Börsen holen auf: Dax +2,15 %, Euro Stoxx 50 +2,2 % – Wall Street heute geschlossen",
+          "text": "Nach der späten Erholung an der Wall Street legen die europäischen Märkte kräftig zu: Der Dax stand um 10:51 Uhr bei 25.232 Punkten (+2,15 %), der Euro Stoxx 50 bei 6.020,93 (+2,2 %), europäische Technologiewerte gewannen laut dpa-AFX rund 2,5 %. Am Mittwoch hatte der Dow Jones 0,3 % höher bei 50.182,95 Punkten geschlossen, der S&P 500 0,3 % tiefer bei 7.182,78 und der Nasdaq Composite 0,6 % tiefer bei 23.585,80, nachdem der Nasdaq 100 zeitweise fast 5 % verloren hatte. Als Belastungen nennt Dow Jones weiter Zweifel am KI-Boom, Exportkontrollen für Nvidia-Chips und die Zollpläne.",
+          "impact": "Krypto bewegte sich zuletzt eng mit dem Technologiesektor, dessen Erholung den Druck vorerst nimmt. Bis zum verkürzten US-Handel am Freitag fehlen Impulse von der Wall Street; Zölle und Zinsausblick bleiben als Belastungsfaktoren bestehen.",
+          "source": "Dow Jones via finanzen.ch (10:40 Uhr), 26.11.",
+          "url": "https://www.finanzen.ch/nachrichten/aktien/maerkte-europa-erholung-auf-breiter-front-dax-steigt-um-ueber-2percent-1036802691"
         },
         {
           "tag": "Fed · Inflation",
           "title": "Beige Book: Wachstum in acht von zwölf Fed-Bezirken, Kostendruck hält an – PCE-Kernrate bei 3,3 %",
-          "text": "Der am Abend veröffentlichte Konjunkturbericht der Fed beschreibt leichtes bis moderates Wachstum in acht der zwölf Bezirke, in vier stagnierte die Wirtschaft. Unternehmen meldeten anhaltenden Kostendruck bei Energie, Transport, Gesundheit, Versicherungen und zollbedingten Ausgaben und erwarten weiter steigende Preise; die Befragung endete vor der neuen Zollankündigung. Am Nachmittag war die PCE-Inflation für Oktober mit 3,8 % gemeldet worden, die Kernrate mit 3,3 % (erwartet 3,2 %), das US-Wachstum im dritten Quartal wurde auf 4,3 % revidiert, und die Erstanträge auf Arbeitslosenhilfe fielen auf 189.000. Die Märkte erwarten laut Yahoo Finance am 9. Dezember eine Erhöhung um einen Viertelpunkt auf 4,00 bis 4,25 %.",
+          "text": "Der am Mittwochabend veröffentlichte Konjunkturbericht der Fed beschreibt leichtes bis moderates Wachstum in acht der zwölf Bezirke, in vier stagnierte die Wirtschaft. Unternehmen meldeten anhaltenden Kostendruck bei Energie, Transport, Gesundheit, Versicherungen und zollbedingten Ausgaben. Zuvor war die PCE-Inflation für Oktober mit 3,8 % gemeldet worden, die Kernrate mit 3,3 % (erwartet 3,2 %); die Erstanträge auf Arbeitslosenhilfe fielen auf 189.000. Die Märkte erwarten laut Yahoo Finance am 9. Dezember eine Erhöhung um einen Viertelpunkt auf 4,00 bis 4,25 %.",
           "impact": "Beige Book und PCE-Daten stützen die Erwartung einer Zinserhöhung im Dezember. Höhere Zinsen gelten als Gegenwind für zinslose Anlagen; der Leitzins liegt derzeit bei 3,75 bis 4,00 %.",
           "source": "Yahoo Finance (21:05 Uhr MEZ), 25.11.",
           "url": "https://finance.yahoo.com/economy/policy/article/feds-beige-book-shows-evidence-of-broadening-price-pressures-200555194.html"
         },
         {
-          "tag": "Aktien · Tech",
-          "title": "Wall Street schließt nach Kurssturz fast unverändert: Dow +0,3 %, S&P 500 −0,3 %, Nasdaq −0,6 %",
-          "text": "Der Dow Jones machte ein Minus von mehr als 1.100 Punkten wett und schloss 164,25 Punkte höher bei 50.182,95. Der S&P 500, der zeitweise 3,2 % verloren hatte, endete 0,3 % tiefer bei 7.182,78 Punkten, der Nasdaq Composite nach rund 4,5 % Minus zum Auftakt 0,6 % tiefer bei 23.585,80. Belastet hatten der Ausverkauf bei KI-Werten, die Inflationsdaten und die Zollpläne; Energiewerte führten die Gewinner an, Investor Michael Burry teilte mit, seine Wetten gegen Technologiewerte geschlossen zu haben. Auf Wochensicht liegen alle drei Indizes rund 4 % im Plus. Heute bleiben die US-Börsen geschlossen, am Freitag endet der Handel verkürzt.",
-          "impact": "Krypto bewegte sich auch am Mittwoch eng mit dem Technologiesektor, dessen Erholung den Druck vorerst nimmt. Bis Freitag fehlen Impulse von den US-Aktienmärkten; Zölle und Zinsausblick bleiben als Belastungsfaktoren bestehen.",
-          "source": "AP via WRAL (Schlusskurse, 22:18 Uhr MEZ), 25.11.",
-          "url": "https://www.wral.com/news/ap/94fdb-how-major-us-stock-indexes-fared-wednesday-11-25-2026/"
-        },
-        {
-          "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs: Sechster Abflusstag in Folge mit rund 231 Mio. $ – verwaltetes Vermögen seit 9. November von 94,4 auf 72,0 Mrd. $ gefallen",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Dienstag netto rund 231 Mio. $ ab (Farside: 231,4 Mio. $, SoSoValue: 231,56 Mio. $), nach 569,7 Mio. $ am Montag; auf BlackRocks IBIT entfielen 175,3 Mio. $. Im November summieren sich die Abflüsse damit auf rund 4,94 Mrd. $, mehr als in jedem Monat seit dem Start der Fonds 2024. Das verwaltete Vermögen sank laut TheStreet von 94,43 Mrd. $ am 9. November auf 72,01 Mrd. $. Aus den Ether-ETFs flossen laut aktiencheck in sechs Handelstagen bis zum 23. November 391 Mio. $ ab; Zahlen vom Mittwoch lagen bei diesem Lauf noch nicht vor.",
-          "impact": "Die Abflüsse halten an, haben sich am Dienstag gegenüber Montag aber mehr als halbiert. Heute ruht der ETF-Handel wegen Thanksgiving, neue Flussdaten gibt es erst wieder für Freitag.",
-          "source": "TheStreet via Yahoo Finance (17:24 Uhr MEZ), 25.11.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bell-bitcoins-thanksgiving-comes-tariff-162405309.html"
-        },
-        {
           "tag": "Termin",
-          "title": "Do 26.11.: Heute – Thanksgiving, Konsumklima, EZB-Protokoll, Berliner Plenum",
-          "text": "Die US-Börsen bleiben geschlossen; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Um 8 Uhr erscheinen das Konsumklima und der Reallohnindex, um 13:30 Uhr das Protokoll der EZB-Sitzung vom 28./29. Oktober. Der Bundestag berät ab 9 Uhr Einzeletats, in Brüssel tagt ein EU-Sondergipfel zu Haushalt und Ukraine-Hilfe. Das Berliner Abgeordnetenhaus tagt ab 10 Uhr.",
+          "title": "Do 26.11.: Heute – Thanksgiving, EZB-Protokoll, EU-Gipfel, Bundestag, Berliner Plenum",
+          "text": "Die US-Börsen bleiben geschlossen; Krypto wird durchgehend gehandelt, an Feiertagen meist bei dünneren Umsätzen. Um 13:30 Uhr erscheint das Protokoll der EZB-Sitzung vom 28./29. Oktober. Der Bundestag berät bis zum Abend Einzeletats, in Brüssel tagt der EU-Gipfel zu Haushalt und Ukraine-Hilfe. Das Berliner Abgeordnetenhaus tagt bis etwa 15:40 Uhr; Rheinmetall hält bis Freitag seinen Kapitalmarkttag ab.",
           "source": "",
           "url": ""
         },
@@ -196,7 +196,7 @@
         {
           "tag": "Termin",
           "title": "So 29.11.: Treffen der OPEC+",
-          "text": "Die Förderländer beraten über ihre Ölproduktion.",
+          "text": "Die Förderländer beraten über ihre Ölproduktion für 2027.",
           "source": "",
           "url": ""
         },
@@ -216,8 +216,8 @@
         },
         {
           "tag": "Termin",
-          "title": "Di 15.12.: Räumungstermin in der Rigaer Straße 94",
-          "text": "In Berlin-Friedrichshain sollen mehrere Wohnungen des früher besetzten Hauses geräumt werden.",
+          "title": "15.–17.12.: Räumungstermin in der Rigaer Straße 94, Zinsentscheid der EZB",
+          "text": "In Berlin-Friedrichshain sollen am 15. Dezember mehrere Wohnungen des früher besetzten Hauses geräumt werden. Die EZB entscheidet am 17. Dezember über die Zinsen.",
           "source": "",
           "url": ""
         }

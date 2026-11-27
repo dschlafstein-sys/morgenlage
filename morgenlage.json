@@ -1,19 +1,19 @@
 {
   "date": "Freitag, 27. November 2026",
-  "stand": "16:44",
+  "stand": "21:38",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "61.518 $",
-      "change": "+1,37 % in 24 h (Stand 27.11., ca. 14:00 MEZ · BTC-ECHO via aktiencheck; um 12:31 Uhr laut finanzen.at 61.690 $ (+2,07 % zum Vortag))",
-      "dir": "up"
+      "value": "59.750 $",
+      "change": "−1,5 % in 24 h (Stand 27.11., ca. 21:36 MEZ · CoinGecko; 24-h-Spanne 58.910–62.097 $, +2,4 % in 7 Tagen)",
+      "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.728 $",
-      "change": "+2,53 % zum Vortag (Stand 27.11., 12:31 MEZ · finanzen.at; Vortag 1.684,90 $)",
-      "dir": "up"
+      "value": "1.666 $",
+      "change": "−2,1 % in 24 h (Stand 27.11., ca. 21:36 MEZ · CoinGecko; 24-h-Spanne 1.638–1.749 $, +3,1 % in 7 Tagen)",
+      "dir": "down"
     },
     {
       "label": "US-Leitzins (Fed)",
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Bund und Wirtschaft: Der Bundestag hat den Haushalt 2027 mit 317 Ja- gegen 260 Nein-Stimmen beschlossen: rund 556 Mrd. Euro Ausgaben, knapp 123 Mrd. Euro neue Kredite im Kernhaushalt, dazu höhere Spirituosensteuern, eine Zuckersteuer ab 2028 und eine niedrigere Stromsteuer für 2027. Die Zahl der Arbeitslosen sank im November auf 2,936 Millionen (Quote 6,2 %); der Dax lag um 15:41 Uhr 0,33 % im Plus bei 25.300 Punkten.",
-    "Welt: Nach dem Drohnenangriff in Kuwait mit zwei getöteten Rheinmetall-Technikern machen Kuwait und Italien Iran verantwortlich, Teheran spricht von einer Operation unter falscher Flagge und bietet eine gemeinsame Untersuchung an. Der EU-Sondergipfel zum Finanzrahmen ist ohne Ergebnis abgebrochen, der nächste Anlauf folgt ab 17. Dezember. US-Präsident Trump kündigt nach dem Wahlsieg der Demokraten Zusammenarbeit an, verweist aber auf sein Vetorecht.",
-    "Krypto und Berlin: Bitcoin hielt sich nach dem Optionsverfall über 61.000 $ (61.518 $ um ca. 14:00 Uhr MEZ, +1,37 % in 24 h), Ether lag mittags bei 1.728 $; die ETF-Abflüsse im November stehen bei rekordhohen 5,39 Mrd. $, neue Flussdaten folgen erst nach dem verkürzten US-Handel (Schluss 19:00 Uhr MEZ). In Berlin leitete die Polizei nach Angriffen auf Einsatzkräfte in der Rigaer Straße Verfahren wegen Landfriedensbruchs ein; ab 20:00 Uhr fährt ein Fahrradkorso durch die Innenstadt, ab 21:45 Uhr bis Montagfrüh fahren ab Baumschulenweg Richtung Südosten keine S-Bahnen."
+    "Bund und Wirtschaft: Der Bundestag hat den Haushalt 2027 mit 317 zu 260 Stimmen beschlossen (rund 556 Mrd. Euro Ausgaben, knapp 123 Mrd. Euro neue Kredite im Kernhaushalt). Arbeitsminister Schweitzer legte seinen Rentenentwurf vor: Die abschlagsfreie Rente nach 45 Beitragsjahren bleibt, ab 2029 zählen dafür aber nur noch Arbeit, Kindererziehung und Pflege. Der Dax schloss 0,90 % höher bei 25.441 Punkten (Woche +2,6 %), die Arbeitslosenzahl sank auf 2,936 Millionen.",
+    "Welt: Im Streit um den Drohnenangriff in Kuwait mit zwei getöteten Rheinmetall-Technikern bleiben die Fronten verhärtet; das US-Militär machte im Golf von Oman einen Frachter manövrierunfähig, der die Blockade iranischer Häfen durchbrechen wollte. In der Nordukraine starben bei russischen Angriffen mindestens vier Menschen. In Israel stocken die Koalitionsgespräche von Gadi Eisenkot mit dem Likud.",
+    "Krypto und Berlin: Bitcoin drehte nach dem Anstieg auf rund 62.100 $ zur US-Eröffnung ins Minus und fiel bis auf etwa 58.700 $; um ca. 21:36 Uhr MEZ stand er bei 59.750 $ (−1,5 % in 24 h), Ether bei 1.666 $ (−2,1 %) – obwohl der Nasdaq 100 im verkürzten Handel 2,61 % zulegte. In Berlin fahren bis Montag, 01:30 Uhr, ab Baumschulenweg Richtung Südosten keine S-Bahnen, ab Montag ist die Strecke Zeuthen–Grünau bis 4. Dezember gesperrt; Uber hält nach eigenen Angaben mehr als 87 % an Delivery Hero."
   ],
   "sections": [
     {
@@ -41,30 +41,30 @@
         {
           "tag": "Haushalt · Bundestag",
           "title": "Bundestag beschließt Haushalt 2027 mit 317 zu 260 Stimmen – 556 Mrd. Euro Ausgaben, Zuckersteuer ab 2028",
-          "text": "Der Bundestag hat den Bundeshaushalt 2027 in namentlicher Abstimmung mit 317 Ja- gegen 260 Nein-Stimmen ohne Enthaltungen verabschiedet. Der Kernhaushalt umfasst 555,9 Mrd. Euro, 31,4 Mrd. mehr als im laufenden Jahr; die Nettokreditaufnahme steigt von 98 auf knapp 123 Mrd. Euro, hinzu kommen Kredite von 57,8 Mrd. Euro im Sondertopf für Infrastruktur und Klimaschutz und 29,6 Mrd. Euro für die Bundeswehr. Für Verteidigung sind fast 140 Mrd. Euro vorgesehen, für die Ukraine 12 Mrd. Euro. Mit dem ebenfalls beschlossenen Haushaltsbegleitgesetz steigen die Steuersätze auf Spirituosen um 20 %, die Alkopopsteuer wird auf Mischgetränke bis 15 Volumenprozent ausgeweitet, und ab Anfang 2028 gilt eine Steuer auf Erfrischungsgetränke mit mindestens 5 g Zucker je 100 ml. Die Stromsteuer sinkt ab Anfang 2027 auf das EU-Minimum, finanziert ist das mit 5 Mrd. Euro zunächst nur für ein Jahr; der Bundeszuschuss zur Rentenversicherung wird um 3 Mrd. Euro gekürzt. Finanzminister Lars Klingbeil kündigte für 2028 weitere Sparanstrengungen an, die Opposition kritisierte auch die vielen Änderungen in letzter Minute.",
+          "text": "Der Bundestag hat den Bundeshaushalt 2027 in namentlicher Abstimmung mit 317 Ja- gegen 260 Nein-Stimmen verabschiedet. Der Kernhaushalt umfasst 555,9 Mrd. Euro, die Nettokreditaufnahme steigt von 98 auf knapp 123 Mrd. Euro; für Verteidigung sind fast 140 Mrd. Euro vorgesehen. Mit dem Haushaltsbegleitgesetz steigen die Steuersätze auf Spirituosen um 20 %, ab Anfang 2028 gilt eine Steuer auf zuckerhaltige Erfrischungsgetränke, und die Stromsteuer sinkt 2027 zunächst für ein Jahr auf das EU-Minimum.",
           "source": "Berliner Zeitung (14:51 Uhr), 27.11.",
           "url": "https://www.berliner-zeitung.de/article/556-milliarden-euro-bundestag-stimmt-fuer-neuen-haushalt-10642982"
         },
         {
-          "tag": "Arbeitsmarkt",
-          "title": "Arbeitslosenzahl sinkt im November auf 2,936 Millionen – saisonbereinigt 9.000 mehr",
-          "text": "Die Bundesagentur für Arbeit zählte im November 2.936.000 Arbeitslose, 19.000 weniger als im Oktober und 51.000 mehr als vor einem Jahr; die Quote sank um 0,1 Punkte auf 6,2 %. Saisonbereinigt stieg die Zahl um 9.000. Die Behörde führt den Rückgang auf die auslaufende Herbstbelebung zurück; laut Vorstand Daniel Terzenbach bringt die leichte konjunkturelle Erholung dem Arbeitsmarkt bislang keine Belebung. Gemeldet waren 646.000 offene Stellen (+23.000 zum Vorjahr), vom 1. bis 23. November wurde für 23.000 Personen Kurzarbeit angezeigt.",
-          "source": "Bundesagentur für Arbeit via Presseportal (10:00 Uhr), 27.11.",
-          "url": "https://www.presseportal.de/pm/6776/6399040"
+          "tag": "Rente · Koalition",
+          "title": "Schweitzer legt Rentenentwurf vor: Rente nach 45 Beitragsjahren bleibt, Zugang wird ab 2029 enger",
+          "text": "Arbeitsminister Alexander Schweitzer (SPD) will die abschlagsfreie Rente nach 45 Beitragsjahren erhalten, aber ab 2029 nur noch Zeiten von Arbeit, Kindererziehung und Pflege von Angehörigen anrechnen. Zeiten mit Arbeitslosengeld, Krankengeld oder Übergangsgeld, ein alleiniger Minijob und freiwillige Beiträge sollen nicht mehr zählen; das soll Zahl der Berechtigten und Kosten um 25 % senken. Der Entwurf geht nun in die Abstimmung der Regierung und dann ins Kabinett. DGB-Chefin Yasmin Fahimi kritisierte vor allem höhere Abschläge beim vorzeitigen Renteneintritt mit mindestens 35 Versicherungsjahren, auch Verdi-Chef Frank Werneke verlangt Nachbesserungen.",
+          "source": "ZDFheute (Newsticker, 11:27 und 14:43 Uhr), 27.11.",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         },
         {
           "tag": "Börse",
-          "title": "Dax am Nachmittag 0,33 % im Plus bei 25.300 Punkten – Adidas und Puma nach JPMorgan-Urteil schwach",
-          "text": "Der Dax notierte um 15:41 Uhr im Xetra-Handel 0,33 % höher bei 25.299,63 Punkten, nach einem Tageshoch von 25.472,18 Punkten; am Donnerstag hatte er bei 25.215,52 Punkten geschlossen. Der MDax lag am frühen Nachmittag 1,1 % im Plus bei 29.594 Punkten, der europäische Technologiesektor gewann 2,2 %. Im Dax führte Infineon die Gewinner an; Adidas und Puma standen unter Druck, nachdem JPMorgan die Kaufempfehlung für Adidas gestrichen und Puma auf „Underweight“ gesenkt hatte. Rheinmetall legte auf seinem Kapitalmarkttag neue Ziele vor, die laut dpa-AFX etwa dem Marktkonsens entsprechen. Die US-Börsen handeln nach dem Feiertag nur verkürzt bis 19:00 Uhr MEZ; ein Schlussstand für Freitag liegt noch nicht vor.",
-          "source": "finanzen.net (15:57 Uhr), 27.11.",
-          "url": "https://www.finanzen.net/nachricht/aktien/boerse-frankfurt-dax-bewegt-sich-nachmittags-im-plus-16090500"
+          "title": "Dax schließt 0,90 % höher bei 25.441 Punkten – Wochenplus 2,6 %, Rheinmetall an der Spitze",
+          "text": "Der Dax beendete den Freitag bei 25.441,24 Punkten (+0,90 %) und gewann auf Wochensicht 2,6 %; der MDax stieg um 1,51 % auf 29.705,60 Punkte, der EuroStoxx 50 um 1,2 %. Rheinmetall war nach dem Kapitalmarkttag mit +3,3 % Dax-Spitzenreiter, Hensoldt legte 4,8 % zu, Renk 3,3 %; Infineon, Siemens Energy und Hochtief gewannen 1,7 bis 2,7 %. Die Commerzbank verlor 1,9 %, laut dpa-AFX wegen Unbehagen über die Übernahme durch UniCredit. In New York schloss der Dow Jones im verkürzten Handel 1,18 % höher bei 50.774,94 Punkten, der S&P 500 gewann 1,60 %, der Nasdaq 100 2,61 %.",
+          "source": "dpa-AFX via finanzen.net (18:02 Uhr), 27.11.",
+          "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-schluss-ki-erholung-zieht-auch-dax-weiter-nach-oben-16090914"
         },
         {
-          "tag": "Tarife · Metall",
-          "title": "Metall-Pilotabschluss: 4,3 % mehr Lohn in zwei Stufen, 25 Monate Laufzeit, mehr Spielraum für Betriebe",
-          "text": "IG Metall und Arbeitgeber haben sich nach rund 27 Stunden Verhandlung in Mannheim auf einen Pilotabschluss für Baden-Württemberg und Nordrhein-Westfalen geeinigt. Löhne und Ausbildungsvergütungen steigen zum 1. Mai 2027 um 2,0 % und zum 1. April 2028 um weitere 2,3 %; im März 2027 gibt es eine Einmalzahlung von 150 bis 450 Euro, gestaffelt nach der Umsatzrendite des Betriebs. Der Vertrag läuft bis Ende November 2028 und erlaubt Unternehmen in Schwierigkeiten befristete Abweichungen, etwa bei der 35-Stunden-Woche oder durch Lohnverzicht bis zu 8 % der Tarifentgelte. Er gilt zunächst für rund 1,7 Millionen Beschäftigte und soll auf die Branche mit 3,7 Millionen übertragen werden.",
-          "source": "Handelsblatt (aktualisiert 20:14 Uhr), 26.11.",
-          "url": "https://www.handelsblatt.com/politik/deutschland/tarifabschluss-mehr-geld-fuer-metaller-mehr-flexibilitaet-fuer-unternehmen/100272604.html"
+          "tag": "Arbeitsmarkt",
+          "title": "Arbeitslosenzahl sinkt im November auf 2,936 Millionen – saisonbereinigt 9.000 mehr",
+          "text": "Die Bundesagentur für Arbeit zählte im November 2.936.000 Arbeitslose, 19.000 weniger als im Oktober und 51.000 mehr als vor einem Jahr; die Quote sank um 0,1 Punkte auf 6,2 %. Saisonbereinigt stieg die Zahl um 9.000. Laut Vorstand Daniel Terzenbach bringt die leichte konjunkturelle Erholung dem Arbeitsmarkt bislang keine Belebung; gemeldet waren 646.000 offene Stellen.",
+          "source": "Bundesagentur für Arbeit via Presseportal (10:00 Uhr), 27.11.",
+          "url": "https://www.presseportal.de/pm/6776/6399040"
         }
       ]
     },
@@ -74,31 +74,31 @@
       "items": [
         {
           "tag": "Verkehr · S-Bahn",
-          "title": "Verkehr am Freitagabend und Wochenende: Fahrradkorso ab 20:00 Uhr, S-Bahn-Sperrung im Südosten ab 21:45 Uhr",
-          "text": "Um 19:00 Uhr beginnt ein Fußballspiel im Sportforum Hohenschönhausen, ab 20:00 Uhr fährt ein Fahrradkorso vom Mariannenplatz mit kurzen Einschränkungen in der Innenstadt bis etwa 23:00 Uhr. Ab 21:45 Uhr bis Montag, 01:30 Uhr, fahren zwischen Baumschulenweg und Altglienicke, Spindlersfeld sowie Zeuthen keine S-Bahnen (S46, S47, S8, S85, S9); es gibt Ersatzbusse und einen Pendelverkehr bis Treptower Park. Der Flughafen-Express entfällt von 22:00 bis 05:00 Uhr zwischen Hauptbahnhof und BER. Der Teltower Damm an der Bahnunterführung in Zehlendorf ist von Samstag, 0 Uhr, bis Sonntagabend für Autos voll gesperrt; auf der Seestraße Richtung A 100 gibt es rund eine Woche lang nur einen Fahrstreifen. Eine neuere Fassung der Verkehrsvorschau ließ sich bei diesem Lauf nicht abrufen.",
-          "source": "Verkehrsinformationszentrale Berlin (Stand 15:24 Uhr), 26.11.",
+          "title": "S-Bahn im Südosten bis Montagfrüh gesperrt – ab Montag keine Züge zwischen Zeuthen und Grünau, Charlottenstraße dicht",
+          "text": "Laut der Vorschau vom Donnerstag fahren bis Montag, 01:30 Uhr, zwischen Baumschulenweg und Altglienicke, Spindlersfeld sowie Zeuthen keine S-Bahnen; der Teltower Damm an der Bahnunterführung in Zehlendorf ist bis Sonntagabend für Autos gesperrt. Die neue Vorschau für Montag meldet: Ab 04:00 Uhr bis Freitag, 4. Dezember, fahren keine S-Bahnen zwischen Zeuthen und Grünau (S46, S8), es gibt Ersatzbusse. Die Charlottenstraße in Mitte ist ab 06:00 Uhr bis Freitag zwischen Behrenstraße und Französischer Straße für Autos und Fahrräder voll gesperrt. In der Nacht zu Dienstag sind von 22:00 bis etwa 04:00 Uhr die A 10 zwischen Erkner und Freienbrink in beiden Richtungen und die Bornholmer Straße Richtung Schönhauser Allee gesperrt; der Flughafen-Express entfällt von 21:00 bis 06:00 Uhr zwischen Hauptbahnhof und BER.",
+          "source": "Verkehrsinformationszentrale Berlin (Stand 15:24 Uhr), 27.11.",
           "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
         },
         {
+          "tag": "Wirtschaft · Delivery Hero",
+          "title": "Uber sichert sich mehr als 87 % am Berliner Lieferdienst Delivery Hero",
+          "text": "Das Angebot von 41,50 Euro je Aktie wurde nach Angaben von Uber für 55,2 % des Grundkapitals angenommen; 24,5 % hielt der US-Konzern bereits, hinzu kommen Derivate. Der Zukauf hat ein Volumen von bis zu 13 Mrd. Euro und soll Uber zum größten Essenslieferdienst außerhalb Chinas machen. Die Zustimmung der Wettbewerbsbehörden steht noch aus.",
+          "source": "ZDFheute (Newsticker, 13:19 Uhr), 27.11.",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+        },
+        {
           "tag": "Polizei · Friedrichshain",
+          "title": "Spezialkräfte befreien 23-Jährigen aus Auto in Marzahn – zwei Festnahmen nach mutmaßlicher Erpressung",
+          "text": "Ein 23-Jähriger stieg nach Polizeiangaben am Donnerstag gegen 23 Uhr nach einem Streit vor einem Restaurant an der Niederbarnimstraße zu zwei Männern ins Auto und versuchte während der Fahrt, bei Bekannten telefonisch Geld aufzutreiben. Einer der Angerufenen alarmierte die Polizei, die mit einem Hubschrauber fahndete und den Wagen auf dem Helene-Weigel-Platz fand. Spezialeinsatzkräfte des LKA befreiten den Mann und nahmen zwei 20 und 21 Jahre alte Verdächtige fest; beide kamen nach der erkennungsdienstlichen Behandlung wieder frei.",
+          "source": "Polizei Berlin (Meldung Nr. 1597, 15:15 Uhr), 27.11.",
+          "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744923.php"
+        },
+        {
+          "tag": "Polizei · Rigaer Straße",
           "title": "Rigaer Straße: Einsatzkräfte bei Konzert mit Pyrotechnik angegriffen – Verfahren wegen Landfriedensbruchs",
-          "text": "Am Donnerstagabend gegen 21:30 Uhr blockierten nach Polizeiangaben bis zu 50 überwiegend vermummte Personen Rigaer, Liebig-, Bänsch- und Zellestraße; Anlass war ein Konzert in einer Szenekneipe in einem Mehrfamilienhaus an der Rigaer Straße. Einsatzkräfte wurden mit Pyrotechnik beworfen und beschossen und später an der Haustür mit Schlägen, Tritten und einem Feuerlöscher angegriffen. Gegen 23 Personen gab es freiheitsbeschränkende Maßnahmen, ermittelt wird wegen Landfriedensbruchs, Widerstands und Beleidigung. Ein 20-jähriger Tatverdächtiger wurde im Gesicht verletzt, Polizisten blieben unverletzt; gegen 1 Uhr beruhigte sich die Lage.",
-          "source": "news.de nach Polizeimeldung (12:51 Uhr), 27.11.",
-          "url": "https://www.news.de/lokales/860224480/polizei-einsatz-berlin-friedrichshain-kreuzberg-kriminalitaet-heute-am-27-11-2026/1/"
-        },
-        {
-          "tag": "Polizei · Razzia",
-          "title": "Razzia in acht Wohnungen: Polizei stellt 15 Kilogramm Drogen sicher, zwei Festnahmen",
-          "text": "Bei Durchsuchungen von acht Wohnungen und Räumen in mehreren Stadtteilen hat die Polizei am Donnerstag zwei Männer im Alter von 27 und 29 Jahren festgenommen. Sichergestellt wurden 6 kg Kokain, 2 kg Amphetamin, 7 kg Cannabis, 250 g Ecstasy, mehr als 10.000 Euro Bargeld und drei Autos, außerdem zwei Macheten, ein Baseballschläger und zwei Reizstoffsprühgeräte. Die Ermittlungen richten sich gegen vier Männer und stehen im Zusammenhang mit Schüssen auf ein Haus in Lankwitz im Oktober.",
-          "source": "t-online/dpa (15:34 Uhr), 27.11.",
-          "url": "https://berlin.t-online.de/region/berlin/id_101550084/berlin-polizei-stellt-kiloweise-drogen-sicher-zwei-festnahmen.html"
-        },
-        {
-          "tag": "Senat · Expo",
-          "title": "Wegner kündigt Senatsbeschluss an: Berlin soll sich auch ohne Brandenburg um die Expo 2035 bewerben",
-          "text": "Der Regierende Bürgermeister Kai Wegner (CDU) hat am Donnerstagabend angekündigt, dass der Senat Anfang Dezember eine Bewerbung für die Weltausstellung 2035 beschließen will, auch ohne Beteiligung Brandenburgs; das sei mit Senatorin Franziska Giffey verabredet. Als Standort ist das Gewerbegebiet Buchholz Nord in Pankow vorgesehen. Brandenburgs Ministerpräsident Dietmar Woidke hatte seine Absage unter anderem mit der unklaren Finanzierung begründet; Kosten nennt der Bericht nicht.",
-          "source": "Tagesspiegel/dpa (19:59 Uhr), 26.11.",
-          "url": "https://www.tagesspiegel.de/berlin/dpa-weltausstellung-wegner-kundigt-beschluss-zu-expo-bewerbung-an-16332064.html"
+          "text": "Am Donnerstagabend gegen 21:30 Uhr blockierten nach Polizeiangaben bis zu 50 überwiegend vermummte Personen Rigaer, Liebig-, Bänsch- und Zellestraße; Anlass war ein Konzert in einer Szenekneipe. Einsatzkräfte wurden mit Pyrotechnik beworfen und an der Haustür mit Schlägen, Tritten und einem Feuerlöscher angegriffen. Gegen 23 Personen gab es freiheitsbeschränkende Maßnahmen, ermittelt wird wegen Landfriedensbruchs, Widerstands und Beleidigung; Polizisten blieben unverletzt.",
+          "source": "Polizei Berlin (11:49 Uhr), 27.11.",
+          "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744759.php"
         }
       ]
     },
@@ -108,38 +108,38 @@
       "items": [
         {
           "tag": "Nahost · Iran · Golf",
-          "title": "Kuwait und Italien machen Iran für tödlichen Drohnenangriff verantwortlich – Teheran spricht von falscher Flagge",
-          "text": "Bei dem Drohnenangriff auf militärische Anlagen in Kuwait am Donnerstag starben zwei Techniker von Rheinmetall Italia, 65 und 36 Jahre alt, durch herabfallende Splitter; ein Kuwaiter und ein Pakistaner wurden verletzt. Laut Al Jazeera sind es die ersten europäischen Zivilisten, die in diesem Krieg getötet wurden. Kuwait und Italien machen Iran verantwortlich, Italiens Außenminister Antonio Tajani sprach im Senat von Drohnen iranischen Ursprungs, Rom legte bei der iranischen Botschaft Beschwerde ein. Irans Außenminister Abbas Araghtschi nannte den Vorfall verdächtig und bot Kuwait eine gemeinsame Untersuchung an, das iranische Militär spricht von einer Operation unter falscher Flagge. Der Golf-Kooperationsrat verurteilte den Angriff, die EU-Kommissionspräsidentin forderte mehr Druck auf Teheran. Die Huthi griffen zudem den saudischen Ölkomplex Dschasan an, dabei starb ein Arbeiter; laut Revolutionsgarden gerieten zwei Tanker nach Minentreffern in der Straße von Hormus in Brand.",
-          "source": "Al Jazeera, 27.11.",
-          "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility"
-        },
-        {
-          "tag": "EU · Gipfel",
-          "title": "Nach abgebrochenem EU-Sondergipfel: Macron nennt Kürzung um 204 Mrd. Euro einen strategischen Fehler",
-          "text": "Die 27 Staats- und Regierungschefs haben ihr Treffen in Brüssel in der Nacht ohne Ergebnis beendet, der zweite Gipfeltag am Freitag entfiel. Kanzler Friedrich Merz lehnt den Entwurf von Ratspräsident António Costa über rund 1,781 Billionen Euro für 2028 bis 2034 als zu hoch ab und schließt neue EU-Schulden aus, hält eine Einigung in diesem Jahr aber für möglich. Frankreichs Präsident Emmanuel Macron bezeichnete die Kürzung um 204 Mrd. Euro gegenüber dem Kommissionsvorschlag dagegen als strategischen Fehler, will weitere Kürzungen blockieren und warnte vor Verzögerungen, falls bis Jahresende keine Einigung steht. Parlamentspräsidentin Roberta Metsola verwies darauf, dass im Europaparlament 361 Stimmen für die Zustimmung nötig sind. Der nächste Anlauf folgt beim Gipfel ab 17. Dezember.",
-          "source": "tagesschau (01:02 Uhr), 27.11.",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
-        },
-        {
-          "tag": "USA",
-          "title": "Trump kündigt nach Wahlsieg der Demokraten Zusammenarbeit an – und verweist auf sein Vetorecht",
-          "text": "US-Präsident Donald Trump hat nach dem Wahlsieg der Demokraten eine Zusammenarbeit in Aussicht gestellt. Er erinnerte laut ZDFheute an sein Vetorecht, erklärte aber, er wolle nicht zwei Jahre lang alles blockieren. An Thanksgiving waren in den USA zudem laut PowerOutage.us rund 770.000 Kunden ohne Strom.",
-          "source": "ZDFheute (Newsticker, 06:09 Uhr), 27.11.",
+          "title": "Nach Drohnenangriff in Kuwait: USA schießen Frachter im Golf von Oman manövrierunfähig – Teheran weist Schuld weiter zurück",
+          "text": "Kuwait und Italien machen Iran für den Drohnenangriff vom Donnerstag verantwortlich, bei dem zwei Techniker von Rheinmetall Italia starben; Teheran bestreitet das, spricht von einer Operation unter falscher Flagge und bietet eine gemeinsame Untersuchung an. Ein früherer Berater des iranischen Atom-Verhandlungsteams, Mohammad Marandi, behauptete laut einem Bericht der New York Post, die Ukraine habe den Angriff inszeniert; Belege nennt der Bericht nicht. Das US-Militär traf nach eigenen Angaben das Heck eines unter der Flagge Palaus fahrenden Massengutfrachters, der aus Bandar Abbas kam und die Seeblockade durchbrechen wollte; die Besatzung blieb unverletzt. Bei einem saudischen Luftangriff im Jemen starben nach Huthi-Angaben mindestens elf Menschen, die meisten davon Kinder.",
+          "source": "ZDFheute (Newsticker, 15:05 und 07:17 Uhr), 27.11.",
           "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         },
         {
           "tag": "Ukraine · Russland",
-          "title": "Ukraine und Russland tauschen Gefallene aus – Wadephul fordert Waffenruhe im Schwarzen Meer",
-          "text": "Die Ukraine hat nach einer Meldung der belarussischen Agentur Belta 250 Leichen von Russland erhalten und 22 übergeben. Außenminister Johann Wadephul warnte vor einer Ausweitung der Angriffe auf See und forderte Russland zu konkreten Schritten auf, darunter eine Waffenruhe im Schwarzen Meer; US-Präsident Donald Trump sagte, er habe Wladimir Putin in China gedrängt, alle militärischen Aggressionen in Europa zu beenden. Am Donnerstag hatte Russland nach ukrainischen Angaben Wasser- und Wärmeversorgung in Kiew und sieben weiteren Regionen angegriffen, in Charkiw starben zwei Menschen.",
-          "source": "ZDFheute (Newsticker, 23:03 Uhr), 26.11.",
+          "title": "Mindestens vier Tote bei russischen Angriffen in der Nordukraine – Trump offen für Putin beim G20-Gipfel",
+          "text": "Bei einem Angriff auf ein Unternehmen in Nischyn im Gebiet Tschernihiw starben nach Polizeiangaben drei Menschen, sieben wurden verletzt; in Malyn in der Region Schytomyr gab es einen Toten und zwölf Verletzte. Präsident Wolodymyr Selenskyj sagte der BBC, Angriffe auf russische Schiffe außerhalb der Kampfzone würden mit betroffenen Ländern abgestimmt, und kritisierte, dass Donald Trump Wladimir Putin einen Freund nennt. Trump erklärte, Putin könne zum G20-Gipfel am 14. und 15. Dezember in Florida kommen; Moskau hat nach eigenen Angaben noch nicht entschieden.",
+          "source": "ZDFheute (Newsticker, 15:22, 08:06 und 04:21 Uhr), 27.11.",
           "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         },
         {
-          "tag": "Neuseeland · Wahl",
-          "title": "Neuseeland: Regierungskoalition von Premier Luxon verliert ihre Mehrheit",
-          "text": "Nach der Parlamentswahl, bei der sich zunächst ein sehr knappes Rennen abgezeichnet hatte, steht laut tagesschau fest: Die rechtsgerichtete Koalition unter Premierminister Christopher Luxon hat ihre Mehrheit verloren. Eine klare Mehrheit für ein anderes Bündnis hat die Wahl dem Bericht zufolge nicht ergeben. Ein neuerer Stand ließ sich bei diesem Lauf nicht abrufen.",
-          "source": "tagesschau, abgerufen 27.11. (früh)",
-          "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html"
+          "tag": "EU · Gipfel",
+          "title": "Nach abgebrochenem EU-Sondergipfel: Macron nennt Kürzung um 204 Mrd. Euro einen strategischen Fehler",
+          "text": "Die 27 Staats- und Regierungschefs haben ihr Treffen in Brüssel in der Nacht zu Freitag ohne Ergebnis beendet. Kanzler Friedrich Merz lehnt den Entwurf von Ratspräsident António Costa über rund 1,781 Billionen Euro für 2028 bis 2034 als zu hoch ab und schließt neue EU-Schulden aus; Emmanuel Macron nennt die Kürzung um 204 Mrd. Euro gegenüber dem Kommissionsvorschlag einen strategischen Fehler. Der nächste Anlauf folgt beim Gipfel ab 17. Dezember.",
+          "source": "tagesschau (01:02 Uhr), 27.11.",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
+        },
+        {
+          "tag": "Israel",
+          "title": "Israel: Eisenkot beklagt stockende Koalitionsgespräche mit dem Likud",
+          "text": "Gadi Eisenkot, der die nächste Regierung bilden soll, wirft der Likud-Partei von Ministerpräsident Benjamin Netanjahu vor, bei wesentlichen Themen keine Kompromisse einzugehen und nicht auf Hardliner in der Regierung verzichten zu wollen. Als Alternative gilt laut ZDFheute ein Bündnis der bisherigen Oppositionsparteien mit den ultraorthodoxen Parteien.",
+          "source": "ZDFheute (Newsticker, 13:40 Uhr), 27.11.",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+        },
+        {
+          "tag": "USA",
+          "title": "Trump stellt Demokraten Zusammenarbeit in Aussicht – und stützt Bagdad im Streit um kurdische Ölfelder",
+          "text": "US-Präsident Donald Trump hat nach dem Wahlsieg der Demokraten eine Zusammenarbeit angekündigt, zugleich aber an sein Vetorecht erinnert. Am Freitag erklärte er auf Truth Social, er unterstütze Iraks Regierungschef Ali al-Saidi dabei, die Kontrolle über kurdisch verwaltete Ölfelder im Nordirak zu übernehmen und den Ölschmuggel zu stoppen.",
+          "source": "ZDFheute (Newsticker, 09:51 und 06:09 Uhr), 27.11.",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         }
       ]
     },
@@ -149,42 +149,35 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin hält sich nach dem Optionsverfall über 61.000 $ – Stimmung bleibt bei „extremer Angst“",
-          "text": "Bitcoin notierte gegen 14:00 Uhr MEZ laut BTC-ECHO bei 61.518 $ (+1,37 % in 24 Stunden, +4,63 % in sieben Tagen, −22,9 % in einem Monat); um 12:31 Uhr nannte finanzen.at 61.690,44 $ (+2,07 % zum Vortag) und für Ether 1.727,51 $ (+2,53 %). Der Verfall von Bitcoin-Optionen im Nennwert von rund 7 Mrd. $ auf Deribit um 09:00 Uhr MEZ blieb ohne größere Kursreaktion. Das Tief vom 21. November lag bei rund 55.100 $, dem niedrigsten Stand seit September 2024; Glassnode sieht Widerstand zwischen 62.000 und 66.000 $ und Unterstützung bei 58.500 $. Die Korrelation zwischen Bitcoin und Nasdaq 100 ist laut Glassnode so hoch wie seit September 2022 nicht mehr, der Fear-and-Greed-Index steht laut Tradingnews bei 14.",
-          "impact": "Der Verfall ist als kurzfristiger Unsicherheitsfaktor abgearbeitet, der Kurs bewegt sich weiter in der Spanne unterhalb der genannten Widerstände. Wegen der engen Kopplung an die Nasdaq dürfte der verkürzte, dünne US-Handel am Abend die Richtung mitbestimmen; der nächste große Verfallstermin ist der 25. Dezember.",
-          "source": "aktiencheck (Optionsverfall, 14:22 Uhr), 27.11.",
-          "url": "https://aktiencheck.de/artikel/bitcoin-kurs-7-milliarden-verfall-ohne-kursreaktion-bitcoin-haelt-sich-ueber"
+          "title": "Bitcoin dreht zur US-Eröffnung ins Minus: von 62.100 $ auf unter 59.000 $, 228 Mio. $ liquidiert",
+          "text": "Bitcoin stieg am Freitag zunächst bis auf rund 62.100 $, fiel nach Handelsbeginn an der Wall Street aber bis auf etwa 58.700 $. In der Stunde bis 16:00 Uhr MEZ wurden laut CoinGlass Krypto-Positionen im Wert von rund 228 Mio. $ zwangsweise aufgelöst. Um ca. 21:36 Uhr MEZ nannte CoinGecko 59.750 $ (−1,5 % in 24 Stunden, +2,4 % in sieben Tagen) und für Ether 1.666 $ (−2,1 %, +3,1 % in sieben Tagen). Der Verfall von Optionen über rund 7 Mrd. $ am Vormittag war zunächst ohne größere Reaktion geblieben.",
+          "source": "GNcrypto (18:49 Uhr MEZ), 27.11.",
+          "url": "https://www.gncrypto.news/news/bitcoin-drops-below-59000-after-rally-above-62000/",
+          "impact": "Der Kurs liegt wieder unter der Marke von 60.000 $ und innerhalb der Spanne, die Glassnode zuvor mit Unterstützung bei 58.500 $ und Widerstand ab 62.000 $ beschrieben hatte. Am Wochenende ist der Handel üblicherweise dünner, neue Impulse von den Aktienmärkten kommen erst am Montag."
+        },
+        {
+          "tag": "Nasdaq · Tech",
+          "title": "Wall Street schließt verkürzten Handel fest: Nasdaq 100 +2,61 %, Wochenplus 6,8 % – Bitcoin zieht nicht mit",
+          "text": "Der Nasdaq 100 schloss am Freitag 2,61 % höher bei 26.726,39 Punkten, der S&P 500 gewann 1,60 % auf 7.297,49 Punkte, der Dow Jones 1,18 % auf 50.774,94 Punkte. Auf Wochensicht legte der Nasdaq 100 um 6,8 % zu, der Dow um 5,5 %; laut dpa-AFX besteht die Skepsis gegenüber KI-Werten dennoch fort. Gold stieg laut FinScans um 2 % auf 3.635 $ je Unze.",
+          "source": "dpa-AFX via onvista (New York Schluss), 27.11.",
+          "url": "https://www.onvista.de/news/2026/11-27-aktien-new-york-schluss-ki-erholung-geht-weiter-am-verkuerzten-handelstag-0-10-26581617",
+          "impact": "Glassnode hatte die Korrelation zwischen Bitcoin und Nasdaq 100 zuletzt als so hoch wie seit September 2022 nicht mehr beschrieben; am Freitag liefen beide auseinander. Ob das ein Einzeltag im dünnen Feiertagshandel bleibt, zeigt sich frühestens mit dem regulären Handel am Montag."
         },
         {
           "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs: Rekordabfluss von 5,39 Mrd. $ im November – Ether-ETFs verlieren 1,30 Mrd. $",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch netto rund 453 Mio. $ ab, davon etwa 330 Mio. $ aus BlackRocks IBIT; es war der siebte Abflusstag in Folge. Der November summiert sich laut SoSoValue bis zum 25.11. auf 5,39 Mrd. $ und übertrifft den bisherigen Rekord von 4,51 Mrd. $ aus dem Juni 2026; aus Ether-ETFs flossen im November 1,30 Mrd. $ ab. Im Gesamtjahr 2026 stehen die Bitcoin-Fonds bei netto −5,02 Mrd. $, nach Zuflüssen von 35,24 Mrd. $ im Jahr 2024 und 21,37 Mrd. $ im Jahr 2025. Das Fondsvermögen liegt bei rund 72 Mrd. $. Für den 26. und 27. November gibt es noch keine Zahlen.",
-          "impact": "Die Kurserholung wird bislang nicht von ETF-Käufen begleitet. Wegen Thanksgiving fehlen seit Mittwoch neue Flussdaten; die nächsten folgen nach dem verkürzten Handel am Freitag (Schluss 19:00 Uhr MEZ) und zeigen, ob die Abflussserie anhält.",
+          "title": "Bitcoin-ETFs: Rekordabfluss von 5,39 Mrd. $ im November – Daten für Freitag stehen noch aus",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch netto rund 453 Mio. $ ab, davon etwa 330 Mio. $ aus BlackRocks IBIT; es war der siebte Abflusstag in Folge. Der November summiert sich laut SoSoValue bis zum 25.11. auf 5,39 Mrd. $ und übertrifft den bisherigen Rekord von 4,51 Mrd. $ aus dem Juni 2026; aus Ether-ETFs flossen im November 1,30 Mrd. $ ab. Am Donnerstag ruhte der Handel wegen Thanksgiving; Flussdaten für den verkürzten Freitagshandel ließen sich bei diesem Lauf noch nicht finden.",
           "source": "Forex Crunch (04:20 Uhr), 27.11.",
-          "url": "https://www.forexcrunch.com/blog/2026/11/27/bitcoin-etf-record-outflows-november-2026/"
+          "url": "https://www.forexcrunch.com/blog/2026/11/27/bitcoin-etf-record-outflows-november-2026/",
+          "impact": "Die Kurserholung der Woche wurde bislang nicht von ETF-Käufen begleitet. Die Freitagszahlen zeigen, ob die Abflussserie auf acht Handelstage wächst; am Montag endet zudem der Monat."
         },
         {
           "tag": "Notenbanken",
           "title": "Fed-Erhöhung am 9. Dezember zu 94 bis 97 % eingepreist – auch die EZB dürfte die Zinsen anheben",
-          "text": "Nach der Kern-PCE-Rate von 3,3 % im Oktober (erwartet 3,2 %) und dem auf 4,3 % revidierten US-Wachstum im dritten Quartal preist der Markt eine Fed-Erhöhung um 25 Basispunkte am 9. Dezember zu 94,4 % (CME FedWatch, Stand 25.11.) bis 97 % (MarketIntelLabs, 27.11.) ein; über drei Sitzungen sind rund 62 Basispunkte eingepreist. Im Euroraum wurde laut dem am Donnerstag veröffentlichten EZB-Protokoll schon im Oktober eine Zinserhöhung erwogen, der Terminmarkt erwartet für den 17. Dezember zu mehr als 90 % einen Schritt um 25 Basispunkte. Als Nachfolger von EZB-Präsidentin Christine Lagarde, die zum 7. Februar ausscheidet, haben sich die EU-Spitzen laut Medienberichten auf den Spanier Pablo Hernández de Cos geeinigt.",
-          "impact": "Steigende Leitzinsen in den USA und im Euroraum gelten als Gegenwind für zinslose Anlagen wie Bitcoin; ein Viertelpunkt der Fed ist weitgehend eingepreist. Die nächsten Wegmarken sind der US-Arbeitsmarktbericht am 4. Dezember, der Fed-Entscheid am 9. Dezember und die US-Verbraucherpreise am 10. Dezember.",
+          "text": "Nach der Kern-PCE-Rate von 3,3 % im Oktober (erwartet 3,2 %) preist der Markt eine Fed-Erhöhung um 25 Basispunkte am 9. Dezember zu 94,4 % (CME FedWatch, Stand 25.11.) bis 97 % (MarketIntelLabs, 27.11.) ein. Im Euroraum wurde laut dem am Donnerstag veröffentlichten EZB-Protokoll schon im Oktober eine Zinserhöhung erwogen; der Terminmarkt erwartet für den 17. Dezember zu mehr als 90 % einen Schritt um 25 Basispunkte.",
           "source": "aktiencheck (16:16 Uhr), 27.11.",
-          "url": "https://aktiencheck.de/artikel/bitcoin-kurs-core-pce-bei-33-prozent-fed-zinserhoehung-im-dezember-zu-ueber-90"
-        },
-        {
-          "tag": "Regulierung",
-          "title": "USA: Gesetz für strategische Bitcoin-Reserve passiert Finanzausschuss – EU-Bankenaufsicht will Regeln für DeFi-Kredite",
-          "text": "Der Strategic Bitcoin Reserve Act hat laut KuCoin-Tagesbericht den Finanzausschuss des US-Repräsentantenhauses passiert; der Entwurf wurde am 24. November auf die Tagesordnung der Kammer gesetzt. Die europäische Bankenaufsicht EBA fordert EU-Regeln für Krypto-Firmen, die Kredite über dezentrale Finanzprotokolle vergeben. Costas Vorschlag für neue EU-Eigenmittel nennt laut dpa unter anderem eine Krypto-Abgabe.",
-          "impact": "Der Ausschussbeschluss ist ein Zwischenschritt, eine Abstimmung im Plenum und im Senat steht noch aus. Die EU-Vorhaben sind Vorschläge; nach dem ergebnislosen Sondergipfel bleibt offen, ob und wie eine Krypto-Abgabe kommt.",
-          "source": "KuCoin (Tagesbericht), 26.11.",
-          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-26-2026"
-        },
-        {
-          "tag": "Termin",
-          "title": "Fr 27.11.: Verkürzter US-Handel, erste ETF-Daten seit Mittwoch",
-          "text": "Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ, danach folgen die ersten ETF-Flussdaten seit Mittwoch. Der Bundestag hat den Haushalt 2027 am Nachmittag beschlossen.",
-          "source": "",
-          "url": ""
+          "url": "https://aktiencheck.de/artikel/bitcoin-kurs-core-pce-bei-33-prozent-fed-zinserhoehung-im-dezember-zu-ueber-90",
+          "impact": "Steigende Leitzinsen in den USA und im Euroraum gelten als Gegenwind für zinslose Anlagen wie Bitcoin; ein Viertelpunkt der Fed ist weitgehend eingepreist. Die nächsten Wegmarken sind der US-Arbeitsmarktbericht am 4. Dezember, der Fed-Entscheid am 9. Dezember und die US-Verbraucherpreise am 10. Dezember."
         },
         {
           "tag": "Termin",
@@ -195,8 +188,8 @@
         },
         {
           "tag": "Termin",
-          "title": "Mo 30.11.: BGH-Urteil zu Impfschäden, Strategy verlässt die MSCI-Indizes",
-          "text": "Der Bundesgerichtshof entscheidet, ob Bund oder Länder für mögliche Fehler bei Corona-Impfungen haften. Der Index-Ausschluss von Strategy wird nach US-Börsenschluss wirksam; zugleich ist Monatsschluss an den Märkten.",
+          "title": "Mo 30.11.: BGH-Urteil zu Impfschäden, Strategy verlässt die MSCI-Indizes, S-Bahn-Sperrung Zeuthen–Grünau",
+          "text": "Der Bundesgerichtshof entscheidet, ob Bund oder Länder für mögliche Fehler bei Corona-Impfungen haften. Der Index-Ausschluss von Strategy wird nach US-Börsenschluss wirksam; zugleich ist Monatsschluss an den Märkten. In Berlin fahren ab 04:00 Uhr bis 4. Dezember keine S-Bahnen zwischen Zeuthen und Grünau.",
           "source": "",
           "url": ""
         },
@@ -210,14 +203,14 @@
         {
           "tag": "Termin",
           "title": "8.–10.12.: Zinsentscheid der Fed, US-Verbraucherpreise, Ministerpräsidentenwahl in Sachsen-Anhalt",
-          "text": "Die Fed entscheidet am 9. Dezember um 20 Uhr MEZ; der Markt erwartet eine Erhöhung um einen Viertelpunkt. Am 10. Dezember folgen die US-Verbraucherpreise für November. Am 8. Dezember will sich Ulrich Siegmund (AfD) im Magdeburger Landtag zur Wahl stellen.",
+          "text": "Die Fed entscheidet am 9. Dezember um 20 Uhr MEZ; der Markt erwartet eine Erhöhung um einen Viertelpunkt. Am 10. Dezember folgen die US-Verbraucherpreise für November. Am 8. Dezember will sich Ulrich Siegmund (AfD) im Magdeburger Landtag zur Wahl stellen, Gegenkandidatin ist Eva von Angern (Linke).",
           "source": "",
           "url": ""
         },
         {
           "tag": "Termin",
-          "title": "15.–17.12.: Räumungstermin in der Rigaer Straße 94, Glamsterdam-Test, Zinsentscheid der EZB, EU-Gipfel",
-          "text": "In Berlin-Friedrichshain sollen am 15. Dezember mehrere Wohnungen des früher besetzten Hauses geräumt werden; am selben Tag startet der Ethereum-Test „Glamsterdam“ im Testnetz Hoodi. Die EZB entscheidet am 17. Dezember über die Zinsen; erwartet wird eine Erhöhung um einen Viertelpunkt. Ebenfalls ab 17. Dezember verhandeln die EU-Staats- und Regierungschefs erneut über den Finanzrahmen.",
+          "title": "14.–17.12.: G20-Gipfel in Florida, Räumungstermin in der Rigaer Straße 94, Glamsterdam-Test, Zinsentscheid der EZB, EU-Gipfel",
+          "text": "Am 14. und 15. Dezember tagen die G20 in Florida. In Berlin-Friedrichshain sollen am 15. Dezember mehrere Wohnungen des früher besetzten Hauses geräumt werden; am selben Tag startet der Ethereum-Test „Glamsterdam“ im Testnetz Hoodi. Die EZB entscheidet am 17. Dezember über die Zinsen; erwartet wird eine Erhöhung um einen Viertelpunkt. Ebenfalls ab 17. Dezember verhandeln die EU-Staats- und Regierungschefs erneut über den Finanzrahmen.",
           "source": "",
           "url": ""
         }

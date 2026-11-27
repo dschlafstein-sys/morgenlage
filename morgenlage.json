@@ -1,18 +1,18 @@
 {
   "date": "Freitag, 27. November 2026",
-  "stand": "06:43",
+  "stand": "11:46",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "61.798 $",
-      "change": "+1,3 % in 24 h (Stand 27.11., 06:35 MEZ · CoinGecko; 24-h-Spanne 59.942–61.809 $)",
+      "value": "61.670 $",
+      "change": "+2,0 % zum Vortag (Stand 27.11., 09:41 MEZ · finanzen.net; 24-h-Spanne laut CoinGecko 59.942–61.883 $ (Stand 08:43 MEZ))",
       "dir": "up"
     },
     {
       "label": "Ether",
-      "value": "1.746 $",
-      "change": "+2,8 % in 24 h (Stand 27.11., 06:35 MEZ · CoinGecko; 24-h-Spanne 1.670–1.749 $)",
+      "value": "1.728 $",
+      "change": "+2,6 % zum Vortag (Stand 27.11., 09:41 MEZ · finanzen.net; Vortag 1.684,90 $)",
       "dir": "up"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "EU und Bund: Der EU-Sondergipfel zum Finanzrahmen 2028 bis 2034 ist in der Nacht ohne Ergebnis vorzeitig beendet worden, der zweite Gipfeltag entfällt; ein neuer Anlauf folgt beim Treffen ab 17. Dezember. Der Bundestag stimmt heute über den Haushalt 2027 mit 122,97 Mrd. Euro neuen Krediten ab, um 09:55 Uhr kommen die Arbeitsmarktzahlen.",
-    "Welt und Wirtschaft: In Neuseeland hat die Koalition von Premier Luxon ihre Mehrheit verloren; laut WDR, NDR und SZ erwarten westliche Geheimdienste, dass Russland noch dieses Jahr einen Satelliten mit Atomsprengkopf ins All bringt. Am Golf starben in Kuwait zwei italienische Techniker von Rheinmetall Italia bei einem Drohnenangriff, Iran weist die Verantwortung zurück. Der Metall-Pilotabschluss bringt 4,3 % mehr Lohn in zwei Stufen, der Dax schloss am Donnerstag 2,08 % höher bei 25.215,52 Punkten.",
-    "Krypto und Berlin: Bitcoin lag gegen 06:35 Uhr MEZ bei 61.798 $ (+1,3 % in 24 Stunden), Ether bei 1.746 $ (+2,8 %); um 09:00 Uhr MEZ verfallen Bitcoin-Optionen über knapp 6,7 Mrd. $, die US-Bitcoin-ETFs stehen mit 5,39 Mrd. $ vor dem bisher größten Monatsabfluss. In Berlin gibt es heute Fahrradkorsos von 07:20 bis 08:00 Uhr in Neukölln und Kreuzberg, eine Demo am Ku’damm von 15:15 bis 17:00 Uhr und ab 21:45 Uhr bis Montagfrüh eine S-Bahn-Sperrung ab Baumschulenweg Richtung Südosten."
+    "Bund und Arbeitsmarkt: Die Zahl der Arbeitslosen ist im November um 19.000 auf 2,936 Millionen gesunken, saisonbereinigt aber um 9.000 gestiegen; die Quote liegt bei 6,2 %. Der Bundestag stimmt heute abschließend über den Haushalt 2027 mit rund 556 Mrd. Euro Ausgaben und 122,97 Mrd. Euro neuen Krediten im Kernhaushalt ab, ein Ergebnis lag bis zum späten Vormittag nicht vor.",
+    "Welt und Wirtschaft: Nach dem ergebnislos abgebrochenen EU-Sondergipfel nennt Frankreichs Präsident Macron die Kürzung um 204 Mrd. Euro einen strategischen Fehler, der nächste Anlauf folgt ab 17. Dezember. Iran bietet Kuwait nach dem Drohnenangriff mit zwei getöteten Rheinmetall-Technikern eine gemeinsame Untersuchung an; Brent kostete am Morgen 97,28 $. Der Dax wurde vorbörslich 0,7 % höher bei 25.397 Punkten taxiert.",
+    "Krypto und Berlin: Bitcoin lag um 09:41 Uhr MEZ bei 61.670 $ (+2,0 % zum Vortag), Ether bei 1.728 $ (+2,6 %); der Optionsverfall über rund 6,8 Mrd. $ ist um 09:00 Uhr MEZ durchgelaufen, neue ETF-Flussdaten gibt es erst nach dem verkürzten US-Handel. In Berlin zieht von 15:15 bis 17:00 Uhr eine Demo über Tauentzienstraße und Ku’damm, ab 20:00 Uhr startet ein Fahrradkorso am Mariannenplatz, und ab 21:45 Uhr bis Montagfrüh fahren ab Baumschulenweg Richtung Südosten keine S-Bahnen."
   ],
   "sections": [
     {
@@ -39,11 +39,25 @@
       "title": "Deutschland",
       "items": [
         {
+          "tag": "Arbeitsmarkt",
+          "title": "Arbeitslosenzahl sinkt im November auf 2,936 Millionen – saisonbereinigt 9.000 mehr",
+          "text": "Die Bundesagentur für Arbeit zählte im November 2.936.000 Arbeitslose, 19.000 weniger als im Oktober und 51.000 mehr als vor einem Jahr; die Quote sank um 0,1 Punkte auf 6,2 %. Saisonbereinigt stieg die Zahl um 9.000. Die Behörde führt den Rückgang auf die auslaufende Herbstbelebung zurück; laut Vorstand Daniel Terzenbach bringt die leichte konjunkturelle Erholung dem Arbeitsmarkt bislang keine Belebung. Gemeldet waren 646.000 offene Stellen (+23.000 zum Vorjahr), vom 1. bis 23. November wurde für 23.000 Personen Kurzarbeit angezeigt.",
+          "source": "Bundesagentur für Arbeit via Presseportal (10:00 Uhr), 27.11.",
+          "url": "https://www.presseportal.de/pm/6776/6399040"
+        },
+        {
           "tag": "Haushalt · Bundestag",
-          "title": "Bundestag stimmt heute über den Haushalt 2027 ab – 122,97 Mrd. Euro neue Kredite, Stromsteuer sinkt für ein Jahr",
-          "text": "Nach einer 90-minütigen dritten Lesung soll der Bundestag den Haushalt 2027 am Freitag beschließen. Der Haushaltsausschuss hat eine Nettokreditaufnahme von 122,97 Mrd. Euro (2026: 97,96 Mrd.) und Investitionen von 61,85 Mrd. Euro festgelegt. Enthalten ist die Senkung der Stromsteuer auf das europäische Mindestniveau vom 1. Januar bis 31. Dezember 2027, die Versorger an ihre Kunden weitergeben müssen; bei 3.500 kWh Verbrauch sind das laut t-online rund 81 Euro im Jahr. Die Brandenburger CDU-Abgeordnete Saskia Ludwig hat laut rbb24 angekündigt, dem Haushalt nicht zuzustimmen.",
-          "source": "Deutscher Bundestag (Haushaltsgesetz 2027), Stand 16.11.",
-          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-dritte-lesung-1232350"
+          "title": "Bundestag stimmt heute abschließend über den Haushalt 2027 ab – 556 Mrd. Euro Ausgaben, dazu höhere Alkoholsteuern und Zuckersteuer",
+          "text": "Der Kernhaushalt 2027 umfasst rund 556 Mrd. Euro, davon 122,97 Mrd. Euro über neue Kredite; hinzu kommen Kredite von 57,8 Mrd. Euro im Sondertopf für Infrastruktur und Klima sowie 29,6 Mrd. Euro für die Bundeswehr. Für Verteidigung sind knapp 140 Mrd. Euro eingeplant. Mit dem Haushaltsbegleitgesetz stehen auch Steuererhöhungen zur Abstimmung: 20 % mehr auf Spirituosen, eine ausgeweitete Alkopopsteuer und eine Zuckersteuer auf Getränke von 25 bis 35 Cent je Liter, die ab 2028 erhoben wird. Die Stromsteuer sinkt für das Jahr 2027. Die Schlussdebatte war für den Mittag angekündigt; ein Abstimmungsergebnis lag bei diesem Lauf noch nicht vor.",
+          "source": "dpa-AFX via Ariva (07:35 Uhr), 27.11.",
+          "url": "https://www.ariva.de/news/roundup-bundestag-stimmt-ueber-haushalt-ab-aber-nicht-nur-12222214"
+        },
+        {
+          "tag": "Börse",
+          "title": "Dax vorbörslich bei 25.397 Punkten erwartet – Wochenplus von rund 2,4 % in Sicht",
+          "text": "Nach dem Schluss am Donnerstag bei 25.215,52 Punkten (+2,08 %) taxierte der Broker IG den Dax am Freitagmorgen 0,7 % höher auf 25.397 Punkte; damit steuert der Index laut dpa-AFX auf ein Wochenplus von rund 2,4 % zu. Der Euro kostete am Morgen 1,0979 $, ein Barrel Brent 97,28 $. Rheinmetall hält heute seinen Kapitalmarkttag ab. Die US-Börsen handeln nach dem Feiertag nur verkürzt bis 19:00 Uhr MEZ. Ein Schlussstand für Freitag liegt noch nicht vor.",
+          "source": "dpa-AFX via Ariva (Börsentag, 07:45 Uhr), 27.11.",
+          "url": "https://www.ariva.de/news/dpa-afx-boersentag-auf-einen-blick-erholung-setzt-sich-fort-12222225"
         },
         {
           "tag": "Tarife · Metall",
@@ -51,20 +65,6 @@
           "text": "IG Metall und Arbeitgeber haben sich nach rund 27 Stunden Verhandlung in Mannheim auf einen Pilotabschluss für Baden-Württemberg und Nordrhein-Westfalen geeinigt. Löhne und Ausbildungsvergütungen steigen zum 1. Mai 2027 um 2,0 % und zum 1. April 2028 um weitere 2,3 %; im März 2027 gibt es eine Einmalzahlung von 150 bis 450 Euro, gestaffelt nach der Umsatzrendite des Betriebs. Der Vertrag läuft bis Ende November 2028 und erlaubt Unternehmen in Schwierigkeiten befristete Abweichungen, etwa bei der 35-Stunden-Woche oder durch Lohnverzicht bis zu 8 % der Tarifentgelte. Er gilt zunächst für rund 1,7 Millionen Beschäftigte und soll auf die Branche mit 3,7 Millionen übertragen werden.",
           "source": "Handelsblatt (aktualisiert 20:14 Uhr), 26.11.",
           "url": "https://www.handelsblatt.com/politik/deutschland/tarifabschluss-mehr-geld-fuer-metaller-mehr-flexibilitaet-fuer-unternehmen/100272604.html"
-        },
-        {
-          "tag": "Börse · Commerzbank",
-          "title": "Dax schloss 2,08 % im Plus bei 25.215 Punkten – UniCredit will Commerzbank-Aufsichtsrat fast komplett austauschen",
-          "text": "Der Dax beendete den Donnerstagshandel bei 25.215,52 Punkten (+2,08 %), der MDax stieg um 2,34 % auf 29.263,97 Punkte. Schlusslicht war die Commerzbank, die am Nachmittag 3,13 % auf 33,10 Euro verlor: UniCredit verlangt eine außerordentliche Hauptversammlung, will neun der zehn Anteilseignervertreter im Aufsichtsrat abberufen und Konzernchef Andrea Orcel anstelle von Jens Weidmann an die Spitze setzen. Nach Vollzug ihres Angebots käme UniCredit auf rund 46,29 % des Kapitals. Die US-Börsen blieben wegen Thanksgiving geschlossen.",
-          "source": "dpa-AFX via finanzen.net (17:56 Uhr), 26.11.",
-          "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-schluss-erholung-deutsche-bank-2027-rekord-moeglich-16088965"
-        },
-        {
-          "tag": "Sicherheit",
-          "title": "Terrorverdacht: Bundesanwaltschaft lässt zwei Iraker in Köln und Heidelberg festnehmen",
-          "text": "Die Bundesanwaltschaft hat am Donnerstagmorgen zwei Männer im Alter von 31 und 34 Jahren festnehmen lassen; durchsucht wurde in Baden-Württemberg, Hessen und Nordrhein-Westfalen. Sie sollen dem deutschen Ableger der pro-iranischen Gruppe HAYI angehört haben, den Generalbundesanwalt Jens Rommel als eigenständige inländische Terrororganisation einstuft. Im Raum stehen Anschlagspläne gegen israelische Einrichtungen, möglicherweise auch ein Sprengstoffanschlag auf eine Kölner Synagoge im März 2026.",
-          "source": "tagesschau (10:39 Uhr), 26.11.",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html"
         }
       ]
     },
@@ -74,31 +74,31 @@
       "items": [
         {
           "tag": "Verkehr · S-Bahn",
-          "title": "Verkehr am Freitag: Kinder-Fahrradkorsos am Morgen, Demo am Ku’damm, S-Bahn-Sperrung im Südosten ab 21:45 Uhr",
-          "text": "Von 07:20 bis 08:00 Uhr fahren zwei Fahrradkorsos mit vielen Kindern vom Reuterplatz und von der Oberbaumbrücke zur Ritterstraße in Kreuzberg; von 15:15 bis 17:00 Uhr zieht eine Demonstration vom Wittenbergplatz über Tauentzienstraße und Kurfürstendamm bis zur Bleibtreustraße. Auf der Seestraße Richtung A 100 steht zwischen Dohnagestell und Saatwinkler Damm wegen Arbeiten an der nördlichen Seestraßenbrücke für rund eine Woche nur ein Fahrstreifen zur Verfügung. Ab 21:45 Uhr bis Montag, 01:30 Uhr, fahren zwischen Baumschulenweg und Altglienicke, Spindlersfeld sowie Zeuthen keine S-Bahnen (S46, S47, S8, S85, S9), es gibt Ersatzbusse und Pendelverkehr bis Treptower Park. Der Teltower Damm am S-Bahnhof Zehlendorf ist von Samstag, 0 Uhr, bis Sonntagabend für Autos voll gesperrt.",
+          "title": "Verkehr am Freitag: Demo am Ku’damm ab 15:15 Uhr, Fahrradkorso am Abend, S-Bahn-Sperrung im Südosten ab 21:45 Uhr",
+          "text": "Von 15:15 bis 17:00 Uhr zieht eine Demonstration vom Wittenbergplatz über Tauentzienstraße, Nürnberger, Lietzenburger und Joachimsthaler Straße zum Kurfürstendamm bis zur Bleibtreustraße. Um 19:00 Uhr beginnt ein Fußballspiel im Sportforum Hohenschönhausen, ab 20:00 Uhr fährt ein Fahrradkorso vom Mariannenplatz mit kurzen Einschränkungen in der Innenstadt bis etwa 23:00 Uhr. Ab 21:45 Uhr bis Montag, 01:30 Uhr, fahren zwischen Baumschulenweg und Altglienicke, Spindlersfeld sowie Zeuthen keine S-Bahnen (S46, S47, S8, S85, S9); es gibt Ersatzbusse und einen Pendelverkehr bis Treptower Park. Der Flughafen-Express entfällt von 22:00 bis 05:00 Uhr zwischen Hauptbahnhof und BER. Der Teltower Damm an der Bahnunterführung in Zehlendorf ist von Samstag, 0 Uhr, bis Sonntagabend für Autos voll gesperrt; auf der Seestraße Richtung A 100 gibt es rund eine Woche lang nur einen Fahrstreifen.",
           "source": "Verkehrsinformationszentrale Berlin (Stand 15:24 Uhr), 26.11.",
           "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
         },
         {
+          "tag": "Senat · Expo",
+          "title": "Wegner kündigt Senatsbeschluss an: Berlin soll sich auch ohne Brandenburg um die Expo 2035 bewerben",
+          "text": "Der Regierende Bürgermeister Kai Wegner (CDU) hat am Donnerstagabend angekündigt, dass der Senat Anfang Dezember eine Bewerbung für die Weltausstellung 2035 beschließen will, auch ohne Beteiligung Brandenburgs; das sei mit Senatorin Franziska Giffey verabredet. Als Standort ist das Gewerbegebiet Buchholz Nord in Pankow vorgesehen. Brandenburgs Ministerpräsident Dietmar Woidke hatte seine Absage unter anderem mit der unklaren Finanzierung begründet; Kosten nennt der Bericht nicht.",
+          "source": "Tagesspiegel/dpa (19:59 Uhr), 26.11.",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-weltausstellung-wegner-kundigt-beschluss-zu-expo-bewerbung-an-16332064.html"
+        },
+        {
+          "tag": "BVG · Verkehrssicherheit",
+          "title": "Tödlicher Busunfall in der Potsdamer Straße: BVG-Gelenkbus hatte laut Bericht keinen Abbiegeassistenten",
+          "text": "Der Gelenkbus der Linie M85, unter dem am 14. November an der Ecke Lützowstraße ein achtjähriges Kind starb, war nach Informationen der Berliner Zeitung nicht mit einem Totwinkel-Assistenten ausgerüstet. Ein von der Zeitung befragter Busexperte hält es allerdings für wahrscheinlich, dass die Technik den Unfall nicht verhindert hätte, weil er sich hinter dem Gelenk und damit außerhalb des Erfassungsbereichs ereignete. Die Polizei ermittelt, die BVG äußert sich nicht zur Technik des Fahrzeugs.",
+          "source": "Berliner Zeitung (06:43 Uhr), 27.11.",
+          "url": "https://berliner-zeitung.de/article/bvg-ungluecksbus-ohne-abbiegeassistent-haette-die-technik-die-achtjaehrige-retten-koennen-10636046"
+        },
+        {
           "tag": "Verkehr · Unfall",
           "title": "Westend: Radfahrerin stirbt nach Unfall mit abbiegendem Lkw am Messedamm",
-          "text": "Eine 44-jährige Radfahrerin ist am Donnerstagabend auf dem Messedamm von einem Lkw erfasst worden, der auf die Stadtautobahn A 115 (Avus) abbiegen wollte. Sie wurde im Rettungswagen reanimiert und starb später im Krankenhaus. Laut Tagesspiegel war der Messedamm zwischen Halenseestraße und Jafféstraße am Abend zeitweise gesperrt.",
+          "text": "Eine 44-jährige Radfahrerin ist am Donnerstagabend auf dem Messedamm von einem Lkw erfasst worden, der auf die Stadtautobahn A 115 (Avus) abbiegen wollte. Sie wurde im Rettungswagen reanimiert und starb später im Krankenhaus. Laut Tagesspiegel war der Messedamm zwischen Halenseestraße und Jafféstraße am Abend zeitweise gesperrt. Ein neuerer Stand zu den Ermittlungen ließ sich bei diesem Lauf nicht abrufen.",
           "source": "rbb24 (21:26 Uhr), 26.11.",
           "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-charlottenburg-radfahrerin-stirbt-lkw-unfall-messedamm.html"
-        },
-        {
-          "tag": "Wirtschaft · Mitte",
-          "title": "Friedrichstraße: Neuer Versteigerungsversuch für das „Quartier 206“",
-          "text": "Für das frühere Luxus-Einkaufszentrum „Quartier 206“ in der Friedrichstraße, in dem seit Jahren ein Großteil der Läden leer steht, ist laut rbb24 ein neuer Versteigerungsversuch angesetzt. Eine erste Zwangsversteigerung im Frühjahr war gescheitert.",
-          "source": "rbb24, abgerufen 27.11.",
-          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/berlin-friedrichstrasse-quartier-206-versteigerung-geplant.html"
-        },
-        {
-          "tag": "Landespolitik",
-          "title": "Abgeordnetenhaus wählt 26 Delegierte für die Bundesversammlung – AfD stellt sechs statt fünf",
-          "text": "Das Abgeordnetenhaus hat in geheimer Wahl 26 Delegierte für die Bundesversammlung bestimmt, die am 30. Januar 2027 das Staatsoberhaupt wählt. Die AfD-Liste erhielt 30 Stimmen bei 29 Fraktionsmitgliedern und stellt damit sechs statt der geplanten fünf Delegierten, die CDU fünf statt der sechs Nominierten. Von 148 abgegebenen Stimmen waren zwölf ungültig, elf davon wegen zu vieler Kreuze. Die aus der Linksfraktion ausgeschlossene Abgeordnete Vanessa Emde fehlte in der Sitzung.",
-          "source": "Tagesspiegel/dpa (16:16 Uhr), 26.11.",
-          "url": "https://www.tagesspiegel.de/berlin/dpa-parlamentssitzung-abgeordnetenhaus-bestimmt-delegierte-fur-bundesversammlung-16330430.html"
         }
       ]
     },
@@ -108,38 +108,38 @@
       "items": [
         {
           "tag": "EU · Gipfel",
-          "title": "EU-Sondergipfel vorzeitig beendet: Keine Einigung über den Haushalt, zweiter Gipfeltag entfällt",
-          "text": "Nach Verhandlungen bis gegen Mitternacht haben die 27 Staats- und Regierungschefs ihr Treffen in Brüssel ohne Ergebnis abgebrochen; der für Freitag angesetzte zweite Tag fällt aus. Kanzler Friedrich Merz sagte, die Vorstellungen lägen noch weit auseinander, er sehe aber Bewegung hin zu einem kleineren Volumen und halte eine Einigung in diesem Jahr für möglich. Der Entwurf von Ratspräsident António Costa sieht rund 1,781 Billionen Euro für 2028 bis 2034 vor, etwa 204 Mrd. weniger als die Kommission; Merz verlangt weitere Kürzungen und schließt neue EU-Schulden aus. Offen bleibt auch, ob alle Mitgliedstaaten die zusätzliche Ukraine-Hilfe von bis zu 45 Mrd. Euro für 2027 mittragen. Der nächste Anlauf folgt beim Gipfel ab 17. Dezember.",
+          "title": "Nach abgebrochenem EU-Sondergipfel: Macron nennt Kürzung um 204 Mrd. Euro einen strategischen Fehler",
+          "text": "Die 27 Staats- und Regierungschefs haben ihr Treffen in Brüssel in der Nacht ohne Ergebnis beendet, der zweite Gipfeltag am Freitag entfällt. Kanzler Friedrich Merz lehnt den Entwurf von Ratspräsident António Costa über rund 1,781 Billionen Euro für 2028 bis 2034 als zu hoch ab und schließt neue EU-Schulden aus, hält eine Einigung in diesem Jahr aber für möglich. Frankreichs Präsident Emmanuel Macron bezeichnete die Kürzung um 204 Mrd. Euro gegenüber dem Kommissionsvorschlag dagegen als strategischen Fehler, will weitere Kürzungen blockieren und warnte vor Verzögerungen, falls bis Jahresende keine Einigung steht. Parlamentspräsidentin Roberta Metsola verwies darauf, dass im Europaparlament 361 Stimmen für die Zustimmung nötig sind. Der nächste Anlauf folgt beim Gipfel ab 17. Dezember.",
           "source": "tagesschau (01:02 Uhr), 27.11.",
           "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
         },
         {
           "tag": "Nahost · Iran · Golf",
-          "title": "Golf: Zwei Rheinmetall-Techniker in Kuwait getötet, Iran dementiert – Raffinerie in Saudi-Arabien getroffen",
-          "text": "Bei einem Drohnenangriff auf eine laut Kuwait „lebenswichtige Einrichtung“ starben am Donnerstag zwei italienische Techniker von Rheinmetall Italia, ein Kuwaiter und ein Pakistaner wurden verletzt. Italien und Kuwait machen Iran verantwortlich; Armeesprecher Abolfasl Schekartschi wies das zurück und sprach von einem möglichen Einsatz unter falscher Flagge. In Dschasan im Südwesten Saudi-Arabiens traf laut Energieministerium ein feindliches Flugobjekt eine Raffinerie, ein Arbeiter starb. Die iranischen Revolutionsgarden erklärten zudem, zwei Öltanker seien in der Straße von Hormus auf Seeminen gelaufen. Brent kostete am Donnerstagnachmittag laut dpa-AFX 96,23 $ je Barrel (+1,73 %).",
-          "source": "dpa-AFX via Investing.com (Dementi, 18:30 Uhr), 26.11.",
-          "url": "https://de.investing.com/news/economy-news/iran-dementiert-angriff-auf-kuwait-3788001"
+          "title": "Golf: Iran bietet Kuwait gemeinsame Untersuchung des Drohnenangriffs an – Koalition meldet Angriffe auf 50 Huthi-Ziele",
+          "text": "Nach dem Tod zweier Techniker von Rheinmetall Italia in Kuwait hat Irans Außenminister Abbas Araghtschi seinem kuwaitischen Kollegen versichert, Teheran stecke nicht hinter dem Drohnenangriff, und eine gemeinsame Untersuchung angeboten; das iranische Militär spricht von einer Operation unter falscher Flagge. Die Techniker arbeiteten laut Euronews an Radarantennen der kuwaitischen Flugabwehr. Italien hatte den Abzug seiner Soldaten aus Kuwait bereits im Oktober angekündigt, rund zehn sind dem Bericht zufolge noch dort. Die von Saudi-Arabien geführte Koalition meldete die Zerstörung von 50 militärischen Zielen der Huthi im Jemen; in Dschasan starb beim Angriff auf eine Raffinerie ein Arbeiter. Laut Revolutionsgarden liefen zwei Tanker nördlich des omanischen Hafens Chasab auf Seeminen. Brent kostete am Freitagmorgen 97,28 $ je Barrel.",
+          "source": "Anadolu (Morning Briefing), 27.11.",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-27-2026/4139900"
+        },
+        {
+          "tag": "Ukraine · Russland",
+          "title": "Ukraine und Russland tauschen Gefallene aus – Wadephul fordert Waffenruhe im Schwarzen Meer",
+          "text": "Die Ukraine hat nach einer Meldung der belarussischen Agentur Belta 250 Leichen von Russland erhalten und 22 übergeben. Außenminister Johann Wadephul forderte Russland zu konkreten Schritten auf, darunter eine Waffenruhe im Schwarzen Meer; US-Präsident Donald Trump sagte, er habe Wladimir Putin in China gedrängt, alle militärischen Aggressionen in Europa zu beenden. Am Donnerstag hatte Russland nach ukrainischen Angaben Wasser- und Wärmeversorgung in Kiew und sieben weiteren Regionen angegriffen, in Charkiw starben zwei Menschen.",
+          "source": "ZDFheute (Newsticker, 23:03 Uhr), 26.11.",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         },
         {
           "tag": "Neuseeland · Wahl",
           "title": "Neuseeland: Regierungskoalition von Premier Luxon verliert ihre Mehrheit",
-          "text": "Nach der Parlamentswahl, bei der sich zunächst ein sehr knappes Rennen abgezeichnet hatte, steht laut tagesschau fest: Die rechtsgerichtete Koalition unter Premierminister Christopher Luxon hat ihre Mehrheit verloren. Eine klare Mehrheit für ein anderes Bündnis hat die Wahl dem Bericht zufolge nicht ergeben.",
-          "source": "tagesschau, abgerufen 27.11.",
+          "text": "Nach der Parlamentswahl, bei der sich zunächst ein sehr knappes Rennen abgezeichnet hatte, steht laut tagesschau fest: Die rechtsgerichtete Koalition unter Premierminister Christopher Luxon hat ihre Mehrheit verloren. Eine klare Mehrheit für ein anderes Bündnis hat die Wahl dem Bericht zufolge nicht ergeben. Ein neuerer Stand ließ sich bei diesem Lauf nicht abrufen.",
+          "source": "tagesschau, abgerufen 27.11. (früh)",
           "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html"
         },
         {
           "tag": "Russland · Weltraum",
           "title": "Bericht: Geheimdienste erwarten russischen Satelliten mit Atomsprengkopf noch in diesem Jahr",
           "text": "Westliche Geheimdienste gehen nach Recherchen von WDR, NDR und Süddeutscher Zeitung davon aus, dass Russland noch 2026 einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen will. Die Bundeswehr schlägt dem Bericht zufolge intern bereits Alarm.",
-          "source": "tagesschau (WDR/NDR/SZ), abgerufen 27.11.",
+          "source": "tagesschau (WDR/NDR/SZ), abgerufen 27.11. (früh)",
           "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html"
-        },
-        {
-          "tag": "Ukraine · Russland",
-          "title": "Russland greift Wasser- und Wärmeversorgung in Kiew und sieben Regionen an – Tote in Charkiw und Saporischschja",
-          "text": "Nach ukrainischen Angaben trafen die Angriffe vom Donnerstag Wasserversorgung, Fernwärme und Wohnhäuser in Kiew und sieben weiteren Regionen. In Charkiw starben zwei Menschen, in Kiew wurden sieben verletzt; Russland sprach von Angriffen auf militärisch-industrielle Anlagen. Im russisch besetzten Teil der Region Saporischschja wurden nach russischen Angaben bei einem ukrainischen Drohnenangriff auf einen Parkplatz in Wessjoloje mindestens fünf Menschen getötet. Ein neuerer Stand aus der Nacht ließ sich bei diesem Lauf nicht abrufen.",
-          "source": "tagesschau (10:54 Uhr), 26.11.",
-          "url": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html"
         }
       ]
     },
@@ -149,17 +149,17 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin steigt am Morgen auf rund 61.800 $ – Optionsverfall über knapp 6,7 Mrd. $ um 09:00 Uhr MEZ",
-          "text": "Bitcoin notierte gegen 06:35 Uhr MEZ laut CoinGecko bei 61.798 $ (+1,3 % in 24 Stunden, Spanne 59.942 bis 61.809 $), Ether bei 1.746 $ (+2,8 %). Um 09:00 Uhr MEZ verfallen auf Deribit Bitcoin-Optionen über rund 6,69 Mrd. $ (110.255 BTC); Calls über 61.804 BTC stehen Puts über 48.451 BTC gegenüber, der „Max Pain“-Preis liegt laut BlockchainReporter bei 70.000 $. Auf 30-Tage-Sicht lag Bitcoin laut CoinGecko in der Nacht 24,7 % im Minus.",
-          "impact": "Der Kurs steht am oberen Rand der Tagesspanne und in dem Bereich von 61.500 bis 62.000 $, den Berichte vom Donnerstag als Widerstand nannten. Nur 14,5 % des offenen Optionsvolumens liegen innerhalb von 5 % um den Kurs; rund um den Verfall und im verkürzten US-Handel sind stärkere Ausschläge möglich.",
-          "source": "CoinGecko (Kurse, 06:35 Uhr MEZ), 27.11.",
-          "url": "https://www.coingecko.com/en/coins/bitcoin"
+          "title": "Bitcoin nach dem Optionsverfall bei rund 61.700 $ – Kontrakte über 6,8 Mrd. $ ausgelaufen",
+          "text": "Bitcoin notierte um 09:41 Uhr MEZ laut finanzen.net bei 61.669,64 $ (+2,04 % zum Vortag), Ether bei 1.727,81 $ (+2,55 %). Um 09:00 Uhr MEZ sind auf Deribit Bitcoin-Optionen über rund 110.800 BTC mit einem Nennwert von etwa 6,8 Mrd. $ verfallen; laut CryptoTicker standen Calls über 61.963 BTC Puts über 48.827 BTC gegenüber (Put/Call-Verhältnis 0,79), abgerechnet wurde bei rund 61.600 $, der „Max Pain“-Preis lag bei 70.000 $. Die 24-Stunden-Spanne reichte laut CoinGecko von 59.942 bis 61.883 $, der Fear-and-Greed-Index steht bei 12 („extreme Angst“). Für den 25. Dezember sind Optionen über rund 164.800 BTC (etwa 10 Mrd. $) offen.",
+          "impact": "Mit dem Verfall ist ein kurzfristiger Unsicherheitsfaktor abgearbeitet; der Kurs blieb dabei deutlich unter dem Max-Pain-Niveau. Im verkürzten und dünnen US-Handel können Ausschläge größer ausfallen als üblich, der nächste große Verfallstermin ist der 25. Dezember.",
+          "source": "finanzen.net (Kurse, 09:41 Uhr MEZ), 27.11.",
+          "url": "https://www.finanzen.net/nachricht/devisen/das-sind-die-aktuellen-kurse-von-bitcoin-dogecoin-co-16089830"
         },
         {
           "tag": "ETF-Flüsse",
           "title": "Bitcoin-ETFs: Rekordabfluss von 5,39 Mrd. $ im November – erstes Jahr mit Nettoabflüssen möglich",
           "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch netto 453,12 Mio. $ ab, es war der siebte Abflusstag in Folge. Der November summiert sich laut SoSoValue bis zum 25.11. auf 5,39 Mrd. $ und übertrifft den bisherigen Rekord von 4,51 Mrd. $ aus dem Juni 2026. Im Gesamtjahr 2026 stehen die Fonds laut CoinDesk bei netto −5,02 Mrd. $; bliebe es dabei, wäre es das erste Kalenderjahr mit Nettoabflüssen seit dem Start im Januar 2024. Das Nettovermögen der Fonds ist laut Farside-Daten auf 72,03 Mrd. $ gesunken (29.10.: 104,27 Mrd. $).",
-          "impact": "Die Kursstabilisierung wird bislang nicht von ETF-Käufen begleitet. Am Donnerstag ruhte der ETF-Handel wegen Thanksgiving; neue Flussdaten gibt es erst für den verkürzten Handel am Freitag und den Monatsschluss am Montag.",
+          "impact": "Die Kurserholung wird bislang nicht von ETF-Käufen begleitet; laut einem Bericht vom Donnerstag trieben vor allem Eindeckungen von Leerverkäufen den Anstieg. Wegen Thanksgiving gibt es seit Mittwoch keine neuen Flussdaten, die nächsten folgen nach dem verkürzten Handel am Freitag (Schluss 19:00 Uhr MEZ).",
           "source": "CoinDesk (Daybook), 26.11.",
           "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help"
         },
@@ -181,8 +181,8 @@
         },
         {
           "tag": "Termin",
-          "title": "Fr 27.11.: Bundestag stimmt über den Haushalt 2027 ab, Arbeitsmarktzahlen, Optionsverfall",
-          "text": "Die Schlussabstimmung über das Haushaltsgesetz 2027 folgt heute auf die dritte Lesung. Um 09:55 Uhr veröffentlicht die Bundesagentur für Arbeit die Arbeitslosenzahlen. Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ. Um 09:00 Uhr MEZ verfallen auf Deribit Bitcoin-Optionen über rund 6,7 Mrd. $; Verdi bestreikt am Black Friday elf Amazon-Standorte.",
+          "title": "Fr 27.11.: Schlussabstimmung über den Haushalt 2027, verkürzter US-Handel",
+          "text": "Der Bundestag stimmt nach der Schlussdebatte ab Mittag über Haushaltsgesetz und Haushaltsbegleitgesetz ab. Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ, danach folgen die ersten ETF-Flussdaten seit Mittwoch. Rheinmetall hält seinen Kapitalmarkttag ab; Verdi bestreikt am Black Friday elf Amazon-Standorte.",
           "source": "",
           "url": ""
         },

@@ -1,19 +1,19 @@
 {
   "date": "Freitag, 27. November 2026",
-  "stand": "01:38",
+  "stand": "06:43",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "60.592 $",
-      "change": "−0,2 % in 24 h (Stand 27.11., 01:35 MEZ · CoinGecko; BTC-Echo zeigte um 01:19 Uhr 60.498 $)",
-      "dir": "down"
+      "value": "61.798 $",
+      "change": "+1,3 % in 24 h (Stand 27.11., 06:35 MEZ · CoinGecko; 24-h-Spanne 59.942–61.809 $)",
+      "dir": "up"
     },
     {
       "label": "Ether",
-      "value": "1.692 $",
-      "change": "−0,5 % in 24 h (Stand 27.11., 01:35 MEZ · CoinGecko)",
-      "dir": "down"
+      "value": "1.746 $",
+      "change": "+2,8 % in 24 h (Stand 27.11., 06:35 MEZ · CoinGecko; 24-h-Spanne 1.670–1.749 $)",
+      "dir": "up"
     },
     {
       "label": "US-Leitzins (Fed)",
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "EU und Bund: Der EU-Sondergipfel zum Finanzrahmen 2028 bis 2034 ist in der Nacht ohne Ergebnis vorzeitig beendet worden, der zweite Gipfeltag am Freitag entfällt; ein neuer Anlauf folgt beim Treffen ab 17. Dezember. Der Bundestag stimmt heute über den Haushalt 2027 mit 122,97 Mrd. Euro neuen Krediten ab.",
-    "Wirtschaft und Welt: Der Metall-Pilotabschluss bringt 4,3 % mehr Lohn in zwei Stufen bei 25 Monaten Laufzeit, der Dax schloss am Donnerstag 2,08 % höher bei 25.215,52 Punkten. Am Golf starben in Kuwait zwei italienische Techniker von Rheinmetall Italia bei einem Drohnenangriff, Iran weist die Verantwortung zurück; laut Medienberichten soll der Spanier Pablo Hernández de Cos im Februar auf EZB-Chefin Lagarde folgen.",
-    "Krypto und Berlin: Bitcoin lag um 01:35 Uhr MEZ bei 60.592 $ (−0,2 % in 24 Stunden), Ether bei 1.692 $ (−0,5 %); die US-Bitcoin-ETFs stehen mit 5,39 Mrd. $ vor dem bisher größten Monatsabfluss, heute verfallen Optionen über rund 7 Mrd. $. In Berlin starb am Donnerstagabend eine 44-jährige Radfahrerin nach einem Unfall mit einem abbiegenden Lkw am Messedamm."
+    "EU und Bund: Der EU-Sondergipfel zum Finanzrahmen 2028 bis 2034 ist in der Nacht ohne Ergebnis vorzeitig beendet worden, der zweite Gipfeltag entfällt; ein neuer Anlauf folgt beim Treffen ab 17. Dezember. Der Bundestag stimmt heute über den Haushalt 2027 mit 122,97 Mrd. Euro neuen Krediten ab, um 09:55 Uhr kommen die Arbeitsmarktzahlen.",
+    "Welt und Wirtschaft: In Neuseeland hat die Koalition von Premier Luxon ihre Mehrheit verloren; laut WDR, NDR und SZ erwarten westliche Geheimdienste, dass Russland noch dieses Jahr einen Satelliten mit Atomsprengkopf ins All bringt. Am Golf starben in Kuwait zwei italienische Techniker von Rheinmetall Italia bei einem Drohnenangriff, Iran weist die Verantwortung zurück. Der Metall-Pilotabschluss bringt 4,3 % mehr Lohn in zwei Stufen, der Dax schloss am Donnerstag 2,08 % höher bei 25.215,52 Punkten.",
+    "Krypto und Berlin: Bitcoin lag gegen 06:35 Uhr MEZ bei 61.798 $ (+1,3 % in 24 Stunden), Ether bei 1.746 $ (+2,8 %); um 09:00 Uhr MEZ verfallen Bitcoin-Optionen über knapp 6,7 Mrd. $, die US-Bitcoin-ETFs stehen mit 5,39 Mrd. $ vor dem bisher größten Monatsabfluss. In Berlin gibt es heute Fahrradkorsos von 07:20 bis 08:00 Uhr in Neukölln und Kreuzberg, eine Demo am Ku’damm von 15:15 bis 17:00 Uhr und ab 21:45 Uhr bis Montagfrüh eine S-Bahn-Sperrung ab Baumschulenweg Richtung Südosten."
   ],
   "sections": [
     {
@@ -41,7 +41,7 @@
         {
           "tag": "Haushalt · Bundestag",
           "title": "Bundestag stimmt heute über den Haushalt 2027 ab – 122,97 Mrd. Euro neue Kredite, Stromsteuer sinkt für ein Jahr",
-          "text": "Nach einer 90-minütigen dritten Lesung soll der Bundestag den Haushalt 2027 am Freitag beschließen. Der Haushaltsausschuss hat eine Nettokreditaufnahme von 122,97 Mrd. Euro (2026: 97,96 Mrd.) und Investitionen von 61,85 Mrd. Euro festgelegt. Enthalten ist die Senkung der Stromsteuer auf das europäische Mindestniveau vom 1. Januar bis 31. Dezember 2027, die Versorger an ihre Kunden weitergeben müssen; bei 3.500 kWh Verbrauch sind das laut t-online rund 81 Euro im Jahr.",
+          "text": "Nach einer 90-minütigen dritten Lesung soll der Bundestag den Haushalt 2027 am Freitag beschließen. Der Haushaltsausschuss hat eine Nettokreditaufnahme von 122,97 Mrd. Euro (2026: 97,96 Mrd.) und Investitionen von 61,85 Mrd. Euro festgelegt. Enthalten ist die Senkung der Stromsteuer auf das europäische Mindestniveau vom 1. Januar bis 31. Dezember 2027, die Versorger an ihre Kunden weitergeben müssen; bei 3.500 kWh Verbrauch sind das laut t-online rund 81 Euro im Jahr. Die Brandenburger CDU-Abgeordnete Saskia Ludwig hat laut rbb24 angekündigt, dem Haushalt nicht zuzustimmen.",
           "source": "Deutscher Bundestag (Haushaltsgesetz 2027), Stand 16.11.",
           "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-dritte-lesung-1232350"
         },
@@ -73,6 +73,13 @@
       "title": "Berlin",
       "items": [
         {
+          "tag": "Verkehr · S-Bahn",
+          "title": "Verkehr am Freitag: Kinder-Fahrradkorsos am Morgen, Demo am Ku’damm, S-Bahn-Sperrung im Südosten ab 21:45 Uhr",
+          "text": "Von 07:20 bis 08:00 Uhr fahren zwei Fahrradkorsos mit vielen Kindern vom Reuterplatz und von der Oberbaumbrücke zur Ritterstraße in Kreuzberg; von 15:15 bis 17:00 Uhr zieht eine Demonstration vom Wittenbergplatz über Tauentzienstraße und Kurfürstendamm bis zur Bleibtreustraße. Auf der Seestraße Richtung A 100 steht zwischen Dohnagestell und Saatwinkler Damm wegen Arbeiten an der nördlichen Seestraßenbrücke für rund eine Woche nur ein Fahrstreifen zur Verfügung. Ab 21:45 Uhr bis Montag, 01:30 Uhr, fahren zwischen Baumschulenweg und Altglienicke, Spindlersfeld sowie Zeuthen keine S-Bahnen (S46, S47, S8, S85, S9), es gibt Ersatzbusse und Pendelverkehr bis Treptower Park. Der Teltower Damm am S-Bahnhof Zehlendorf ist von Samstag, 0 Uhr, bis Sonntagabend für Autos voll gesperrt.",
+          "source": "Verkehrsinformationszentrale Berlin (Stand 15:24 Uhr), 26.11.",
+          "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
+        },
+        {
           "tag": "Verkehr · Unfall",
           "title": "Westend: Radfahrerin stirbt nach Unfall mit abbiegendem Lkw am Messedamm",
           "text": "Eine 44-jährige Radfahrerin ist am Donnerstagabend auf dem Messedamm von einem Lkw erfasst worden, der auf die Stadtautobahn A 115 (Avus) abbiegen wollte. Sie wurde im Rettungswagen reanimiert und starb später im Krankenhaus. Laut Tagesspiegel war der Messedamm zwischen Halenseestraße und Jafféstraße am Abend zeitweise gesperrt.",
@@ -80,11 +87,11 @@
           "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-charlottenburg-radfahrerin-stirbt-lkw-unfall-messedamm.html"
         },
         {
-          "tag": "Hochschulen · Protest",
-          "title": "TU Berlin: Studierende besetzen gesperrte Cafeteria im Mathematikgebäude",
-          "text": "Nach einer Vollversammlung haben Studierende am Donnerstagabend die geschlossene Cafeteria im Mathematikgebäude der Technischen Universität besetzt. Sie verlangen vom Senat mehr Geld für die Hochschule statt der geplanten Kürzungen und vom Präsidium ein Bekenntnis zu einer Zivilklausel, die militärische Forschung ausschließt. Laut Tagesspiegel wollen die Besetzer den Raum selbst renovieren.",
-          "source": "rbb24 (20:22 Uhr), 26.11.",
-          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-technische-universitaet-raum-besetzt-protest-kuerzungen.html"
+          "tag": "Wirtschaft · Mitte",
+          "title": "Friedrichstraße: Neuer Versteigerungsversuch für das „Quartier 206“",
+          "text": "Für das frühere Luxus-Einkaufszentrum „Quartier 206“ in der Friedrichstraße, in dem seit Jahren ein Großteil der Läden leer steht, ist laut rbb24 ein neuer Versteigerungsversuch angesetzt. Eine erste Zwangsversteigerung im Frühjahr war gescheitert.",
+          "source": "rbb24, abgerufen 27.11.",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/berlin-friedrichstrasse-quartier-206-versteigerung-geplant.html"
         },
         {
           "tag": "Landespolitik",
@@ -92,13 +99,6 @@
           "text": "Das Abgeordnetenhaus hat in geheimer Wahl 26 Delegierte für die Bundesversammlung bestimmt, die am 30. Januar 2027 das Staatsoberhaupt wählt. Die AfD-Liste erhielt 30 Stimmen bei 29 Fraktionsmitgliedern und stellt damit sechs statt der geplanten fünf Delegierten, die CDU fünf statt der sechs Nominierten. Von 148 abgegebenen Stimmen waren zwölf ungültig, elf davon wegen zu vieler Kreuze. Die aus der Linksfraktion ausgeschlossene Abgeordnete Vanessa Emde fehlte in der Sitzung.",
           "source": "Tagesspiegel/dpa (16:16 Uhr), 26.11.",
           "url": "https://www.tagesspiegel.de/berlin/dpa-parlamentssitzung-abgeordnetenhaus-bestimmt-delegierte-fur-bundesversammlung-16330430.html"
-        },
-        {
-          "tag": "Polizei",
-          "title": "Hermannplatz: Zwei Männer nach Messerstichen notoperiert",
-          "text": "Zwei Männer im Alter von 26 und 29 Jahren sind am frühen Donnerstagmorgen mit schweren Stichverletzungen gefunden worden, einer vor einem Lokal in der Urbanstraße, der andere vor einer Bank am Kottbusser Damm. Nach bisherigem Stand sollen sie sich gegenseitig verletzt haben, vermutlich mit einem Messer. Beide wurden notoperiert und sind laut Polizei nicht in Lebensgefahr; die Kriminalpolizei ermittelt wegen gefährlicher Körperverletzung.",
-          "source": "rbb24 (17:22 Uhr), 26.11.",
-          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/stiche-am-hermannplatz.html"
         }
       ]
     },
@@ -121,18 +121,25 @@
           "url": "https://de.investing.com/news/economy-news/iran-dementiert-angriff-auf-kuwait-3788001"
         },
         {
+          "tag": "Neuseeland · Wahl",
+          "title": "Neuseeland: Regierungskoalition von Premier Luxon verliert ihre Mehrheit",
+          "text": "Nach der Parlamentswahl, bei der sich zunächst ein sehr knappes Rennen abgezeichnet hatte, steht laut tagesschau fest: Die rechtsgerichtete Koalition unter Premierminister Christopher Luxon hat ihre Mehrheit verloren. Eine klare Mehrheit für ein anderes Bündnis hat die Wahl dem Bericht zufolge nicht ergeben.",
+          "source": "tagesschau, abgerufen 27.11.",
+          "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html"
+        },
+        {
+          "tag": "Russland · Weltraum",
+          "title": "Bericht: Geheimdienste erwarten russischen Satelliten mit Atomsprengkopf noch in diesem Jahr",
+          "text": "Westliche Geheimdienste gehen nach Recherchen von WDR, NDR und Süddeutscher Zeitung davon aus, dass Russland noch 2026 einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen will. Die Bundeswehr schlägt dem Bericht zufolge intern bereits Alarm.",
+          "source": "tagesschau (WDR/NDR/SZ), abgerufen 27.11.",
+          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html"
+        },
+        {
           "tag": "Ukraine · Russland",
           "title": "Russland greift Wasser- und Wärmeversorgung in Kiew und sieben Regionen an – Tote in Charkiw und Saporischschja",
           "text": "Nach ukrainischen Angaben trafen die Angriffe vom Donnerstag Wasserversorgung, Fernwärme und Wohnhäuser in Kiew und sieben weiteren Regionen. In Charkiw starben zwei Menschen, in Kiew wurden sieben verletzt; Russland sprach von Angriffen auf militärisch-industrielle Anlagen. Im russisch besetzten Teil der Region Saporischschja wurden nach russischen Angaben bei einem ukrainischen Drohnenangriff auf einen Parkplatz in Wessjoloje mindestens fünf Menschen getötet. Ein neuerer Stand aus der Nacht ließ sich bei diesem Lauf nicht abrufen.",
           "source": "tagesschau (10:54 Uhr), 26.11.",
           "url": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html"
-        },
-        {
-          "tag": "Südkorea · Zinsen",
-          "title": "Bank of Korea erhöht den Leitzins auf 3,25 % – höchster Stand seit zwei Jahren",
-          "text": "Südkoreas Notenbank hat ihren Leitzins am Donnerstag auf 3,25 % angehoben. Nikkei Asia verweist auf die starke Konjunktur, laut CNBC ist es der höchste Stand seit zwei Jahren; zugleich hob die Regierung ihre Wachstumsprognose an.",
-          "source": "Nikkei Asia, 26.11.",
-          "url": "https://asia.nikkei.com/economy/central-banks/bank-of-korea-hikes-rate-to-3.25-against-backdrop-of-strong-economy"
         }
       ]
     },
@@ -142,16 +149,16 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin hält sich in der Nacht knapp über 60.000 $ – Monatsminus von rund 22 %",
-          "text": "Bitcoin notierte um 01:35 Uhr MEZ laut CoinGecko bei 60.592 $ (−0,2 % in 24 Stunden), Ether bei 1.692,17 $ (−0,5 %); BTC-Echo zeigte um 01:19 Uhr 60.498 $. Die Erholung vom Mittwochstief bei rund 57.200 $ ist damit zum Stillstand gekommen. Im November hat Bitcoin laut CoinDesk rund 22 % verloren; der Fear-&-Greed-Index stand am Donnerstag bei 11.",
-          "impact": "Der Kurs bewegt sich bei dünnem Feiertagshandel seitwärts. Als Widerstand nennen die Berichte 61.500 bis 62.000 $, als Unterstützung rund 57.200 $; am Freitag verfallen Bitcoin-Optionen über rund 7 Mrd. $, was kurzfristig für Ausschläge sorgen kann.",
-          "source": "CoinGecko (Kurse, 01:35 Uhr MEZ), 27.11.",
+          "title": "Bitcoin steigt am Morgen auf rund 61.800 $ – Optionsverfall über knapp 6,7 Mrd. $ um 09:00 Uhr MEZ",
+          "text": "Bitcoin notierte gegen 06:35 Uhr MEZ laut CoinGecko bei 61.798 $ (+1,3 % in 24 Stunden, Spanne 59.942 bis 61.809 $), Ether bei 1.746 $ (+2,8 %). Um 09:00 Uhr MEZ verfallen auf Deribit Bitcoin-Optionen über rund 6,69 Mrd. $ (110.255 BTC); Calls über 61.804 BTC stehen Puts über 48.451 BTC gegenüber, der „Max Pain“-Preis liegt laut BlockchainReporter bei 70.000 $. Auf 30-Tage-Sicht lag Bitcoin laut CoinGecko in der Nacht 24,7 % im Minus.",
+          "impact": "Der Kurs steht am oberen Rand der Tagesspanne und in dem Bereich von 61.500 bis 62.000 $, den Berichte vom Donnerstag als Widerstand nannten. Nur 14,5 % des offenen Optionsvolumens liegen innerhalb von 5 % um den Kurs; rund um den Verfall und im verkürzten US-Handel sind stärkere Ausschläge möglich.",
+          "source": "CoinGecko (Kurse, 06:35 Uhr MEZ), 27.11.",
           "url": "https://www.coingecko.com/en/coins/bitcoin"
         },
         {
           "tag": "ETF-Flüsse",
           "title": "Bitcoin-ETFs: Rekordabfluss von 5,39 Mrd. $ im November – erstes Jahr mit Nettoabflüssen möglich",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch netto 453,12 Mio. $ ab, es war der siebte Abflusstag in Folge. Der November summiert sich laut SoSoValue bis zum 25.11. auf 5,39 Mrd. $ und übertrifft den bisherigen Rekord von 4,51 Mrd. $ aus dem Juni 2026. Im Gesamtjahr 2026 stehen die Fonds laut CoinDesk bei netto −5,02 Mrd. $; bliebe es dabei, wäre es das erste Kalenderjahr mit Nettoabflüssen seit dem Start im Januar 2024.",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch netto 453,12 Mio. $ ab, es war der siebte Abflusstag in Folge. Der November summiert sich laut SoSoValue bis zum 25.11. auf 5,39 Mrd. $ und übertrifft den bisherigen Rekord von 4,51 Mrd. $ aus dem Juni 2026. Im Gesamtjahr 2026 stehen die Fonds laut CoinDesk bei netto −5,02 Mrd. $; bliebe es dabei, wäre es das erste Kalenderjahr mit Nettoabflüssen seit dem Start im Januar 2024. Das Nettovermögen der Fonds ist laut Farside-Daten auf 72,03 Mrd. $ gesunken (29.10.: 104,27 Mrd. $).",
           "impact": "Die Kursstabilisierung wird bislang nicht von ETF-Käufen begleitet. Am Donnerstag ruhte der ETF-Handel wegen Thanksgiving; neue Flussdaten gibt es erst für den verkürzten Handel am Freitag und den Monatsschluss am Montag.",
           "source": "CoinDesk (Daybook), 26.11.",
           "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help"
@@ -175,7 +182,7 @@
         {
           "tag": "Termin",
           "title": "Fr 27.11.: Bundestag stimmt über den Haushalt 2027 ab, Arbeitsmarktzahlen, Optionsverfall",
-          "text": "Die Schlussabstimmung über das Haushaltsgesetz 2027 folgt heute auf die dritte Lesung. Um 09:55 Uhr veröffentlicht die Bundesagentur für Arbeit die Arbeitslosenzahlen. Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ. Am Kryptomarkt verfallen Bitcoin-Optionen über rund 7 Mrd. $; Verdi bestreikt am Black Friday elf Amazon-Standorte.",
+          "text": "Die Schlussabstimmung über das Haushaltsgesetz 2027 folgt heute auf die dritte Lesung. Um 09:55 Uhr veröffentlicht die Bundesagentur für Arbeit die Arbeitslosenzahlen. Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ. Um 09:00 Uhr MEZ verfallen auf Deribit Bitcoin-Optionen über rund 6,7 Mrd. $; Verdi bestreikt am Black Friday elf Amazon-Standorte.",
           "source": "",
           "url": ""
         },

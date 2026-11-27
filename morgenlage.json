@@ -1,19 +1,19 @@
 {
-  "date": "Donnerstag, 26. November 2026",
-  "stand": "21:43",
+  "date": "Freitag, 27. November 2026",
+  "stand": "01:38",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "60.423 $",
-      "change": "+2,8 % in 24 h (Stand 26.11., 17:25 MEZ · CoinGecko laut aktiencheck; BTC-Echo zeigte am Abend 60.633 $)",
-      "dir": "up"
+      "value": "60.592 $",
+      "change": "−0,2 % in 24 h (Stand 27.11., 01:35 MEZ · CoinGecko; BTC-Echo zeigte um 01:19 Uhr 60.498 $)",
+      "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.685 $",
-      "change": "+2,0 % in 24 h (Stand 26.11., 17:25 MEZ · CoinGecko laut aktiencheck; auf Wochensicht −4,0 %)",
-      "dir": "up"
+      "value": "1.692 $",
+      "change": "−0,5 % in 24 h (Stand 27.11., 01:35 MEZ · CoinGecko)",
+      "dir": "down"
     },
     {
       "label": "US-Leitzins (Fed)",
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Bund und Wirtschaft: Der Metall-Pilotabschluss von Mannheim steht: 4,3 % mehr Lohn in zwei Stufen (2,0 % ab Mai 2027, 2,3 % ab April 2028) bei 25 Monaten Laufzeit, dazu Einmalzahlungen von 150 bis 450 Euro und befristete Abweichungen für Betriebe in Schwierigkeiten. Der Dax schloss 2,08 % höher bei 25.215,52 Punkten; UniCredit will neun von zehn Commerzbank-Aufsichtsräten abberufen. Der Bundestag stimmt am Freitag über den Haushalt 2027 ab.",
-    "Welt: Der EU-Sondergipfel brachte bis zum frühen Abend keine Einigung über den Finanzrahmen von rund 1,781 Billionen Euro und den 45-Milliarden-Kredit für die Ukraine. Am Golf weitet sich der Konflikt aus: In Kuwait starben zwei italienische Techniker von Rheinmetall Italia bei einem Drohnenangriff, in Dschasan traf ein Flugobjekt eine saudische Raffinerie (ein Toter); Brent stieg am Nachmittag auf 96,23 $.",
-    "Krypto und Berlin: Bitcoin lag um 17:25 Uhr MEZ bei 60.423 $ (+2,8 % in 24 Stunden), Ether bei 1.685 $ (+2,0 %); die US-Bitcoin-ETFs verzeichnen mit 5,39 Mrd. $ den bisher größten Monatsabfluss, am Freitag verfallen Optionen über rund 7 Mrd. $. In Berlin ist die Ringbahn zwischen Greifswalder Straße und Landsberger Allee heute von 20:30 bis 1:30 Uhr unterbrochen."
+    "EU und Bund: Der EU-Sondergipfel zum Finanzrahmen 2028 bis 2034 ist in der Nacht ohne Ergebnis vorzeitig beendet worden, der zweite Gipfeltag am Freitag entfällt; ein neuer Anlauf folgt beim Treffen ab 17. Dezember. Der Bundestag stimmt heute über den Haushalt 2027 mit 122,97 Mrd. Euro neuen Krediten ab.",
+    "Wirtschaft und Welt: Der Metall-Pilotabschluss bringt 4,3 % mehr Lohn in zwei Stufen bei 25 Monaten Laufzeit, der Dax schloss am Donnerstag 2,08 % höher bei 25.215,52 Punkten. Am Golf starben in Kuwait zwei italienische Techniker von Rheinmetall Italia bei einem Drohnenangriff, Iran weist die Verantwortung zurück; laut Medienberichten soll der Spanier Pablo Hernández de Cos im Februar auf EZB-Chefin Lagarde folgen.",
+    "Krypto und Berlin: Bitcoin lag um 01:35 Uhr MEZ bei 60.592 $ (−0,2 % in 24 Stunden), Ether bei 1.692 $ (−0,5 %); die US-Bitcoin-ETFs stehen mit 5,39 Mrd. $ vor dem bisher größten Monatsabfluss, heute verfallen Optionen über rund 7 Mrd. $. In Berlin starb am Donnerstagabend eine 44-jährige Radfahrerin nach einem Unfall mit einem abbiegenden Lkw am Messedamm."
   ],
   "sections": [
     {
@@ -39,32 +39,32 @@
       "title": "Deutschland",
       "items": [
         {
+          "tag": "Haushalt · Bundestag",
+          "title": "Bundestag stimmt heute über den Haushalt 2027 ab – 122,97 Mrd. Euro neue Kredite, Stromsteuer sinkt für ein Jahr",
+          "text": "Nach einer 90-minütigen dritten Lesung soll der Bundestag den Haushalt 2027 am Freitag beschließen. Der Haushaltsausschuss hat eine Nettokreditaufnahme von 122,97 Mrd. Euro (2026: 97,96 Mrd.) und Investitionen von 61,85 Mrd. Euro festgelegt. Enthalten ist die Senkung der Stromsteuer auf das europäische Mindestniveau vom 1. Januar bis 31. Dezember 2027, die Versorger an ihre Kunden weitergeben müssen; bei 3.500 kWh Verbrauch sind das laut t-online rund 81 Euro im Jahr.",
+          "source": "Deutscher Bundestag (Haushaltsgesetz 2027), Stand 16.11.",
+          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-dritte-lesung-1232350"
+        },
+        {
           "tag": "Tarife · Metall",
           "title": "Metall-Pilotabschluss: 4,3 % mehr Lohn in zwei Stufen, 25 Monate Laufzeit, mehr Spielraum für Betriebe",
-          "text": "Nach rund 27 Stunden Verhandlung in Mannheim haben sich IG Metall und Arbeitgeber auf einen Pilotabschluss für Baden-Württemberg und Nordrhein-Westfalen geeinigt. Löhne und Ausbildungsvergütungen steigen zum 1. Mai 2027 um 2,0 % und zum 1. April 2028 um weitere 2,3 %; im März 2027 gibt es eine Einmalzahlung von 150 bis 450 Euro, gestaffelt nach der Umsatzrendite des Betriebs. Der Vertrag läuft bis Ende November 2028. Ein neuer Tarifvertrag erlaubt Unternehmen in Schwierigkeiten befristete Abweichungen, etwa bei der 35-Stunden-Woche oder durch Lohnverzicht bis zu 8 % der Tarifentgelte. Der Abschluss gilt zunächst für rund 1,7 Millionen Beschäftigte und soll auf die Branche mit 3,7 Millionen übertragen werden; gefordert waren 5 % für zwölf Monate.",
+          "text": "IG Metall und Arbeitgeber haben sich nach rund 27 Stunden Verhandlung in Mannheim auf einen Pilotabschluss für Baden-Württemberg und Nordrhein-Westfalen geeinigt. Löhne und Ausbildungsvergütungen steigen zum 1. Mai 2027 um 2,0 % und zum 1. April 2028 um weitere 2,3 %; im März 2027 gibt es eine Einmalzahlung von 150 bis 450 Euro, gestaffelt nach der Umsatzrendite des Betriebs. Der Vertrag läuft bis Ende November 2028 und erlaubt Unternehmen in Schwierigkeiten befristete Abweichungen, etwa bei der 35-Stunden-Woche oder durch Lohnverzicht bis zu 8 % der Tarifentgelte. Er gilt zunächst für rund 1,7 Millionen Beschäftigte und soll auf die Branche mit 3,7 Millionen übertragen werden.",
           "source": "Handelsblatt (aktualisiert 20:14 Uhr), 26.11.",
           "url": "https://www.handelsblatt.com/politik/deutschland/tarifabschluss-mehr-geld-fuer-metaller-mehr-flexibilitaet-fuer-unternehmen/100272604.html"
         },
         {
           "tag": "Börse · Commerzbank",
-          "title": "Dax schließt 2,08 % im Plus bei 25.215 Punkten – UniCredit will Commerzbank-Aufsichtsrat fast komplett austauschen",
-          "text": "Der Dax beendete den Handel bei 25.215,52 Punkten (+2,08 %), der MDax stieg um 2,34 % auf 29.263,97 Punkte. Gestützt wurde die Erholung laut dpa-AFX von der Kehrtwende der US-Techwerte am Vortag sowie von Rohstoff- und Autoaktien; SAP legte trotz eines Berichts über den Abbau von mindestens 10.000 Stellen gut 2 % zu. Schlusslicht war die Commerzbank, die am Nachmittag 3,13 % auf 33,10 Euro verlor: UniCredit verlangt eine außerordentliche Hauptversammlung, will neun der zehn Anteilseignervertreter im Aufsichtsrat abberufen und Konzernchef Andrea Orcel anstelle von Jens Weidmann an die Spitze setzen. Nach Vollzug ihres Angebots käme UniCredit auf rund 46,29 % des Kapitals.",
+          "title": "Dax schloss 2,08 % im Plus bei 25.215 Punkten – UniCredit will Commerzbank-Aufsichtsrat fast komplett austauschen",
+          "text": "Der Dax beendete den Donnerstagshandel bei 25.215,52 Punkten (+2,08 %), der MDax stieg um 2,34 % auf 29.263,97 Punkte. Schlusslicht war die Commerzbank, die am Nachmittag 3,13 % auf 33,10 Euro verlor: UniCredit verlangt eine außerordentliche Hauptversammlung, will neun der zehn Anteilseignervertreter im Aufsichtsrat abberufen und Konzernchef Andrea Orcel anstelle von Jens Weidmann an die Spitze setzen. Nach Vollzug ihres Angebots käme UniCredit auf rund 46,29 % des Kapitals. Die US-Börsen blieben wegen Thanksgiving geschlossen.",
           "source": "dpa-AFX via finanzen.net (17:56 Uhr), 26.11.",
           "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-schluss-erholung-deutsche-bank-2027-rekord-moeglich-16088965"
         },
         {
-          "tag": "EZB · Zinsen",
-          "title": "EZB-Protokoll: Viele Ratsmitglieder hätten schon im Oktober eine Zinserhöhung mitgetragen",
-          "text": "Laut dem am Donnerstag veröffentlichten Protokoll der Sitzung vom 28./29. Oktober wurde eine Zinserhöhung bereits erwogen, aber aufgeschoben, um mehr Hinweise auf Inflationsrisiken zu sammeln. Für den 17. Dezember signalisieren die meisten Währungshüter laut Reuters einen Schritt um einen Viertelpunkt auf 2,75 %, es wäre die dritte Erhöhung in diesem Jahr. Die Inflation im Euroraum lag im Oktober bei 4,0 %, nach 3,8 % im September.",
-          "source": "Reuters via onvista (13:16 Uhr), 26.11.",
-          "url": "https://www.onvista.de/news/2026/11-26-ezb-viele-ratsmitglieder-waren-schon-im-oktober-fuer-zinserhoehung-0-20-26580878"
-        },
-        {
-          "tag": "Haushalt · Energie",
-          "title": "Haushalt 2027: Schlussabstimmung am Freitag – 122,97 Mrd. Euro neue Kredite, Stromsteuer sinkt für ein Jahr",
-          "text": "Der Bundestag soll den Haushalt 2027 am Freitag nach einer 90-minütigen dritten Lesung beschließen. Der Haushaltsausschuss hat eine Nettokreditaufnahme von 122,97 Mrd. Euro (2026: 97,96 Mrd.) und Investitionen von 61,85 Mrd. Euro festgelegt. Enthalten ist die Senkung der Stromsteuer auf das europäische Mindestniveau vom 1. Januar bis 31. Dezember 2027, die Versorger an ihre Kunden weitergeben müssen; bei 3.500 kWh Verbrauch sind das laut t-online rund 81 Euro im Jahr.",
-          "source": "Deutscher Bundestag (Haushaltsgesetz 2027), Stand 16.11.",
-          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-dritte-lesung-1232350"
+          "tag": "Sicherheit",
+          "title": "Terrorverdacht: Bundesanwaltschaft lässt zwei Iraker in Köln und Heidelberg festnehmen",
+          "text": "Die Bundesanwaltschaft hat am Donnerstagmorgen zwei Männer im Alter von 31 und 34 Jahren festnehmen lassen; durchsucht wurde in Baden-Württemberg, Hessen und Nordrhein-Westfalen. Sie sollen dem deutschen Ableger der pro-iranischen Gruppe HAYI angehört haben, den Generalbundesanwalt Jens Rommel als eigenständige inländische Terrororganisation einstuft. Im Raum stehen Anschlagspläne gegen israelische Einrichtungen, möglicherweise auch ein Sprengstoffanschlag auf eine Kölner Synagoge im März 2026.",
+          "source": "tagesschau (10:39 Uhr), 26.11.",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html"
         }
       ]
     },
@@ -73,25 +73,32 @@
       "title": "Berlin",
       "items": [
         {
-          "tag": "S-Bahn · Verkehr",
-          "title": "Ringbahn heute Nacht unterbrochen: Kein Zugverkehr zwischen Greifswalder Straße und Landsberger Allee",
-          "text": "Wegen einer kurzfristigen Baumaßnahme fahren die Linien S41, S42, S8 und S85 von Donnerstag, 20:30 Uhr, bis Freitag, 1:30 Uhr, nicht zwischen Greifswalder Straße und Landsberger Allee. Für die Ringbahn fahren Ersatzbusse; die S8 entfällt zwischen Treptower Park und Greifswalder Straße, die S85 zwischen Schöneweide und Frohnau, jeweils ohne angekündigten Ersatz. Die Einschränkung ist laut S-Bahn nicht in der digitalen Fahrplanauskunft hinterlegt. Die Chemnitzer Straße in Kaulsdorf bleibt laut Verkehrsinformationszentrale (Stand 25.11.) noch bis Freitag voll gesperrt.",
-          "source": "t-online Berlin (17:30 Uhr), 26.11.",
-          "url": "https://berlin.t-online.de/region/berlin/id_101547916/s-bahn-berlin-ringbahn-heute-nacht-unterbrochen-das-ist-die-strecke.html"
+          "tag": "Verkehr · Unfall",
+          "title": "Westend: Radfahrerin stirbt nach Unfall mit abbiegendem Lkw am Messedamm",
+          "text": "Eine 44-jährige Radfahrerin ist am Donnerstagabend auf dem Messedamm von einem Lkw erfasst worden, der auf die Stadtautobahn A 115 (Avus) abbiegen wollte. Sie wurde im Rettungswagen reanimiert und starb später im Krankenhaus. Laut Tagesspiegel war der Messedamm zwischen Halenseestraße und Jafféstraße am Abend zeitweise gesperrt.",
+          "source": "rbb24 (21:26 Uhr), 26.11.",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-charlottenburg-radfahrerin-stirbt-lkw-unfall-messedamm.html"
+        },
+        {
+          "tag": "Hochschulen · Protest",
+          "title": "TU Berlin: Studierende besetzen gesperrte Cafeteria im Mathematikgebäude",
+          "text": "Nach einer Vollversammlung haben Studierende am Donnerstagabend die geschlossene Cafeteria im Mathematikgebäude der Technischen Universität besetzt. Sie verlangen vom Senat mehr Geld für die Hochschule statt der geplanten Kürzungen und vom Präsidium ein Bekenntnis zu einer Zivilklausel, die militärische Forschung ausschließt. Laut Tagesspiegel wollen die Besetzer den Raum selbst renovieren.",
+          "source": "rbb24 (20:22 Uhr), 26.11.",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-technische-universitaet-raum-besetzt-protest-kuerzungen.html"
         },
         {
           "tag": "Landespolitik",
           "title": "Abgeordnetenhaus wählt 26 Delegierte für die Bundesversammlung – AfD stellt sechs statt fünf",
-          "text": "Das Abgeordnetenhaus hat in geheimer Wahl 26 Delegierte für die Bundesversammlung bestimmt, die am 30. Januar 2027 das Staatsoberhaupt wählt. Die AfD-Liste erhielt 30 Stimmen bei 29 Fraktionsmitgliedern und stellt damit sechs statt der geplanten fünf Delegierten, die CDU fünf statt der sechs Nominierten. Von 148 abgegebenen Stimmen waren zwölf ungültig, elf davon wegen zu vieler Kreuze. Die aus der Linksfraktion ausgeschlossene Abgeordnete Vanessa Emde fehlte laut Berliner Zeitung in der Sitzung.",
+          "text": "Das Abgeordnetenhaus hat in geheimer Wahl 26 Delegierte für die Bundesversammlung bestimmt, die am 30. Januar 2027 das Staatsoberhaupt wählt. Die AfD-Liste erhielt 30 Stimmen bei 29 Fraktionsmitgliedern und stellt damit sechs statt der geplanten fünf Delegierten, die CDU fünf statt der sechs Nominierten. Von 148 abgegebenen Stimmen waren zwölf ungültig, elf davon wegen zu vieler Kreuze. Die aus der Linksfraktion ausgeschlossene Abgeordnete Vanessa Emde fehlte in der Sitzung.",
           "source": "Tagesspiegel/dpa (16:16 Uhr), 26.11.",
           "url": "https://www.tagesspiegel.de/berlin/dpa-parlamentssitzung-abgeordnetenhaus-bestimmt-delegierte-fur-bundesversammlung-16330430.html"
         },
         {
           "tag": "Polizei",
-          "title": "Lichterfelde: Zivilfahnder beobachten Einbruch – Festnahme nach Flucht über Brandenburg",
-          "text": "Zivile Fahnder beobachteten am Mittwoch gegen 18:45 Uhr einen Einbruch in ein Einfamilienhaus an der Straße Am Fischtal. Vier Männer flohen in einem VW, der Fahrer verursachte in Brandenburg zwei Unfälle ohne Verletzte und prallte zurück in Berlin in der Mörchinger Straße gegen einen Poller. Gegen 19:45 Uhr wurde ein 24-Jähriger festgenommen, nach dem bereits wegen Wohnungseinbruchs gefahndet wurde; die Suche nach den übrigen Verdächtigen läuft.",
-          "source": "news.de (Polizeimeldung, 14:51 Uhr), 26.11.",
-          "url": "https://www.news.de/lokales/860221882/polizei-einsatz-berlin-diebstahl-heute-am-26-11-2026/1/"
+          "title": "Hermannplatz: Zwei Männer nach Messerstichen notoperiert",
+          "text": "Zwei Männer im Alter von 26 und 29 Jahren sind am frühen Donnerstagmorgen mit schweren Stichverletzungen gefunden worden, einer vor einem Lokal in der Urbanstraße, der andere vor einer Bank am Kottbusser Damm. Nach bisherigem Stand sollen sie sich gegenseitig verletzt haben, vermutlich mit einem Messer. Beide wurden notoperiert und sind laut Polizei nicht in Lebensgefahr; die Kriminalpolizei ermittelt wegen gefährlicher Körperverletzung.",
+          "source": "rbb24 (17:22 Uhr), 26.11.",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/stiche-am-hermannplatz.html"
         }
       ]
     },
@@ -100,25 +107,25 @@
       "title": "Welt",
       "items": [
         {
-          "tag": "Nahost · Iran · Golf",
-          "title": "Golf: Zwei Rheinmetall-Techniker in Kuwait getötet, Raffinerie in Saudi-Arabien getroffen – Brent bei 96 $",
-          "text": "Bei einem Drohnenangriff auf eine Flugabwehr-Station in Kuwait starben am Donnerstag zwei italienische Techniker von Rheinmetall Italia, zwei weitere Menschen wurden verletzt. Italiens Außenminister Antonio Tajani sprach von Drohnen iranischer Herkunft, ein iranischer Armeesprecher wies die Verantwortung zurück. In Dschasan im Südwesten Saudi-Arabiens traf laut Energieministerium ein feindliches Flugobjekt eine Raffinerie; ein Arbeiter starb, mehrere wurden verletzt, ein Urheber wurde nicht genannt. Brent kostete am Nachmittag laut dpa-AFX 96,23 $ je Barrel (+1,73 %); die OPEC+ berät am Sonntag online und erwägt laut Bloomberg, die Förderquoten bis Januar beizubehalten.",
-          "source": "t-online (Kuwait, aktualisiert 17:56 Uhr), 26.11.",
-          "url": "https://www.t-online.de/nachrichten/ausland/id_101548162/iranischer-drohnenangriff-in-kuwait-zwei-rheinmetall-techniker-sterben.html"
+          "tag": "EU · Gipfel",
+          "title": "EU-Sondergipfel vorzeitig beendet: Keine Einigung über den Haushalt, zweiter Gipfeltag entfällt",
+          "text": "Nach Verhandlungen bis gegen Mitternacht haben die 27 Staats- und Regierungschefs ihr Treffen in Brüssel ohne Ergebnis abgebrochen; der für Freitag angesetzte zweite Tag fällt aus. Kanzler Friedrich Merz sagte, die Vorstellungen lägen noch weit auseinander, er sehe aber Bewegung hin zu einem kleineren Volumen und halte eine Einigung in diesem Jahr für möglich. Der Entwurf von Ratspräsident António Costa sieht rund 1,781 Billionen Euro für 2028 bis 2034 vor, etwa 204 Mrd. weniger als die Kommission; Merz verlangt weitere Kürzungen und schließt neue EU-Schulden aus. Offen bleibt auch, ob alle Mitgliedstaaten die zusätzliche Ukraine-Hilfe von bis zu 45 Mrd. Euro für 2027 mittragen. Der nächste Anlauf folgt beim Gipfel ab 17. Dezember.",
+          "source": "tagesschau (01:02 Uhr), 27.11.",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
         },
         {
-          "tag": "EU · Gipfel",
-          "title": "EU-Sondergipfel: Keine Einigung über Haushalt und Ukraine-Kredit – Fronten bleiben verhärtet",
-          "text": "Die Staats- und Regierungschefs kamen in Brüssel beim Finanzrahmen 2028 bis 2034 und beim Kredit von bis zu 45 Mrd. Euro für die Ukraine laut dpa (Stand 17:38 Uhr) nicht voran. Ratspräsident António Costa schlägt rund 1,781 Billionen Euro vor, etwa 204 Mrd. weniger als die Kommission; sieben Nettozahler um Deutschland halten das Volumen für zu hoch, 17 Staaten lehnen die Kürzungen bei der Kohäsion ab, Frankreich nennt den Kompromiss enttäuschend. Kanzler Friedrich Merz verlangt, dass alle Mitgliedstaaten die Ukraine-Hilfe mittragen; Ungarn, die Slowakei und Tschechien wollen sich nicht beteiligen, Bulgarien nur humanitär. Angestrebt wird eine Einigung beim Dezember-Gipfel.",
-          "source": "ad-hoc-news/dpa (17:38 Uhr), 26.11.",
-          "url": "https://www.ad-hoc-news.de/ausland/eu-haushalt-merz-bremst-1-78-billionen-euro-plan/70559118"
+          "tag": "Nahost · Iran · Golf",
+          "title": "Golf: Zwei Rheinmetall-Techniker in Kuwait getötet, Iran dementiert – Raffinerie in Saudi-Arabien getroffen",
+          "text": "Bei einem Drohnenangriff auf eine laut Kuwait „lebenswichtige Einrichtung“ starben am Donnerstag zwei italienische Techniker von Rheinmetall Italia, ein Kuwaiter und ein Pakistaner wurden verletzt. Italien und Kuwait machen Iran verantwortlich; Armeesprecher Abolfasl Schekartschi wies das zurück und sprach von einem möglichen Einsatz unter falscher Flagge. In Dschasan im Südwesten Saudi-Arabiens traf laut Energieministerium ein feindliches Flugobjekt eine Raffinerie, ein Arbeiter starb. Die iranischen Revolutionsgarden erklärten zudem, zwei Öltanker seien in der Straße von Hormus auf Seeminen gelaufen. Brent kostete am Donnerstagnachmittag laut dpa-AFX 96,23 $ je Barrel (+1,73 %).",
+          "source": "dpa-AFX via Investing.com (Dementi, 18:30 Uhr), 26.11.",
+          "url": "https://de.investing.com/news/economy-news/iran-dementiert-angriff-auf-kuwait-3788001"
         },
         {
           "tag": "Ukraine · Russland",
-          "title": "Russland greift Wasser- und Wärmeversorgung in Kiew und sieben Regionen an – zwei Tote in Charkiw",
-          "text": "Nach ukrainischen Angaben trafen die Angriffe vom Donnerstag Wasserversorgung, Fernwärme und Wohnhäuser in Kiew und sieben weiteren Regionen; mehr als zehn Menschen wurden verletzt. In Charkiw starben zwei Menschen, als eine Drohne ein Mehrfamilienhaus traf, in Kiew wurden laut Bürgermeister Vitali Klitschko sieben Menschen verletzt, zwei davon schwer. In Dnipro wurde die Wasserinfrastruktur schwer beschädigt. Ein neuerer Stand ließ sich bei diesem Lauf nicht abrufen.",
-          "source": "112.ua (Infrastruktur, Nachmittag), 26.11.",
-          "url": "https://112.ua/de/rosia-atakuvala-vodopostacanna-teplomerezi-ta-zitlo-v-kievi-j-semi-oblastah-ponad-desat-postrazdalih-200746"
+          "title": "Russland greift Wasser- und Wärmeversorgung in Kiew und sieben Regionen an – Tote in Charkiw und Saporischschja",
+          "text": "Nach ukrainischen Angaben trafen die Angriffe vom Donnerstag Wasserversorgung, Fernwärme und Wohnhäuser in Kiew und sieben weiteren Regionen. In Charkiw starben zwei Menschen, in Kiew wurden sieben verletzt; Russland sprach von Angriffen auf militärisch-industrielle Anlagen. Im russisch besetzten Teil der Region Saporischschja wurden nach russischen Angaben bei einem ukrainischen Drohnenangriff auf einen Parkplatz in Wessjoloje mindestens fünf Menschen getötet. Ein neuerer Stand aus der Nacht ließ sich bei diesem Lauf nicht abrufen.",
+          "source": "tagesschau (10:54 Uhr), 26.11.",
+          "url": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html"
         },
         {
           "tag": "Südkorea · Zinsen",
@@ -126,13 +133,6 @@
           "text": "Südkoreas Notenbank hat ihren Leitzins am Donnerstag auf 3,25 % angehoben. Nikkei Asia verweist auf die starke Konjunktur, laut CNBC ist es der höchste Stand seit zwei Jahren; zugleich hob die Regierung ihre Wachstumsprognose an.",
           "source": "Nikkei Asia, 26.11.",
           "url": "https://asia.nikkei.com/economy/central-banks/bank-of-korea-hikes-rate-to-3.25-against-backdrop-of-strong-economy"
-        },
-        {
-          "tag": "USA · Handel",
-          "title": "US-Zollpläne gegen 14 Handelspartner: EU, China und die Schweiz weisen den Vorwurf der Überkapazitäten zurück",
-          "text": "Der US-Handelsbeauftragte hat Zölle gegen China, die EU, Japan, Südkorea, Indien, die Schweiz, Taiwan, Vietnam und sechs weitere Volkswirtschaften vorgeschlagen; für China sind 20 % zusätzlich vorgesehen, für die EU gilt die vereinbarte Obergrenze von 15 %. Die EU-Kommission will die Ergebnisse prüfen und weist den Vorwurf struktureller Überkapazitäten zurück, auch China und die Schweiz widersprachen. Die Abgaben könnten laut einem US-Regierungsvertreter frühestens im Januar greifen.",
-          "source": "Al Jazeera (Reaktionen), 25.11.",
-          "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble"
         }
       ]
     },
@@ -142,40 +142,40 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin hält sich über 60.000 $ – Erholung verliert am Abend an Tempo, Stimmungsindex bei 11",
-          "text": "Bitcoin notierte um 17:25 Uhr MEZ laut CoinGecko bei 60.423 $ (+2,8 % in 24 Stunden), Ether bei 1.684,52 $ (+2,0 %); am frühen Nachmittag hatten die Tagesgewinne noch bei 4,7 und 4,5 % gelegen. Laut CoinGlass wurden binnen 24 Stunden Positionen über rund 692 Mio. $ liquidiert, bei Bitcoin 264 Mio. $, davon 143 Mio. $ Short-Positionen. Der Fear-&-Greed-Index steht bei 11 (Vortag 13), das Mittwochstief lag bei rund 57.200 $.",
-          "impact": "Die Erholung stützt sich nach diesen Daten vor allem auf Eindeckungen am Terminmarkt. Als Widerstand nennen die Berichte 61.500 bis 62.000 $, als Unterstützung rund 57.200 $; wegen Thanksgiving ist der Handel dünner, am Freitag verfallen Bitcoin-Optionen über rund 7 Mrd. $.",
-          "source": "aktiencheck (Bitcoin, 20:21 Uhr), 26.11.",
-          "url": "https://aktiencheck.de/artikel/bitcoin-kurs-sieben-termine-bis-zum-9-dezember-von-der-optionsverfall-ueber-den"
+          "title": "Bitcoin hält sich in der Nacht knapp über 60.000 $ – Monatsminus von rund 22 %",
+          "text": "Bitcoin notierte um 01:35 Uhr MEZ laut CoinGecko bei 60.592 $ (−0,2 % in 24 Stunden), Ether bei 1.692,17 $ (−0,5 %); BTC-Echo zeigte um 01:19 Uhr 60.498 $. Die Erholung vom Mittwochstief bei rund 57.200 $ ist damit zum Stillstand gekommen. Im November hat Bitcoin laut CoinDesk rund 22 % verloren; der Fear-&-Greed-Index stand am Donnerstag bei 11.",
+          "impact": "Der Kurs bewegt sich bei dünnem Feiertagshandel seitwärts. Als Widerstand nennen die Berichte 61.500 bis 62.000 $, als Unterstützung rund 57.200 $; am Freitag verfallen Bitcoin-Optionen über rund 7 Mrd. $, was kurzfristig für Ausschläge sorgen kann.",
+          "source": "CoinGecko (Kurse, 01:35 Uhr MEZ), 27.11.",
+          "url": "https://www.coingecko.com/en/coins/bitcoin"
         },
         {
           "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs: Rekordabfluss von 5,39 Mrd. $ im November – sieben Abflusstage in Folge",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch netto 453,12 Mio. $ ab, davon 329,71 Mio. $ aus BlackRocks IBIT; am Dienstag waren es 231,56 Mio. $. Die Serie von sieben Abflusstagen summiert sich auf 3,05 Mrd. $, der November mit 5,39 Mrd. $ auf den bisher größten Monatsabfluss, bei noch zwei Handelstagen. Die Ether-ETFs verloren 68,51 Mio. $; das Vermögen der Bitcoin-ETFs liegt bei 72,03 Mrd. $.",
-          "impact": "Die Kurserholung wird bislang nicht von ETF-Käufen begleitet. Heute ruht der ETF-Handel wegen Thanksgiving, neue Flussdaten gibt es erst für den verkürzten Handel am Freitag und den Monatsschluss am Montag.",
-          "source": "Bitcoin.com News (17:30 Uhr MEZ), 26.11.",
-          "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-lose-3-05b-in-7-days-as-november-outflows-hit-5-39b/"
+          "title": "Bitcoin-ETFs: Rekordabfluss von 5,39 Mrd. $ im November – erstes Jahr mit Nettoabflüssen möglich",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch netto 453,12 Mio. $ ab, es war der siebte Abflusstag in Folge. Der November summiert sich laut SoSoValue bis zum 25.11. auf 5,39 Mrd. $ und übertrifft den bisherigen Rekord von 4,51 Mrd. $ aus dem Juni 2026. Im Gesamtjahr 2026 stehen die Fonds laut CoinDesk bei netto −5,02 Mrd. $; bliebe es dabei, wäre es das erste Kalenderjahr mit Nettoabflüssen seit dem Start im Januar 2024.",
+          "impact": "Die Kursstabilisierung wird bislang nicht von ETF-Käufen begleitet. Am Donnerstag ruhte der ETF-Handel wegen Thanksgiving; neue Flussdaten gibt es erst für den verkürzten Handel am Freitag und den Monatsschluss am Montag.",
+          "source": "CoinDesk (Daybook), 26.11.",
+          "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help"
         },
         {
           "tag": "Regulierung",
           "title": "USA: Gesetz für strategische Bitcoin-Reserve passiert Finanzausschuss – EU-Bankenaufsicht will Regeln für DeFi-Kredite",
           "text": "Der Strategic Bitcoin Reserve Act hat laut KuCoin-Tagesbericht den Finanzausschuss des US-Repräsentantenhauses passiert; der Entwurf wurde am 24. November auf die Tagesordnung der Kammer gesetzt. Die europäische Bankenaufsicht EBA fordert EU-Regeln für Krypto-Firmen, die Kredite über dezentrale Finanzprotokolle vergeben. Costas Vorschlag für neue EU-Eigenmittel nennt laut dpa unter anderem eine Krypto-Abgabe.",
-          "impact": "Der Ausschussbeschluss ist ein Zwischenschritt, eine Abstimmung im Plenum und im Senat steht noch aus. Die EU-Vorhaben sind Vorschläge; ob und wie eine Krypto-Abgabe kommt, hängt an den offenen Haushaltsverhandlungen.",
+          "impact": "Der Ausschussbeschluss ist ein Zwischenschritt, eine Abstimmung im Plenum und im Senat steht noch aus. Die EU-Vorhaben sind Vorschläge; nach dem ergebnislosen Sondergipfel bleibt offen, ob und wie eine Krypto-Abgabe kommt.",
           "source": "KuCoin (Tagesbericht), 26.11.",
           "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-26-2026"
         },
         {
           "tag": "Notenbanken",
-          "title": "Zinsdruck auf beiden Seiten des Atlantiks: EZB-Protokoll deutet auf Erhöhung im Dezember, Fed-Schritt am 9.12. erwartet",
-          "text": "Der Terminmarkt preist laut Dow Jones zu mehr als 90 % eine EZB-Zinserhöhung um 25 Basispunkte am 17. Dezember ein. In den USA lag die PCE-Inflation im Oktober bei 3,8 %, die Kernrate bei 3,3 % (erwartet 3,2 %); das Beige Book der Fed meldet anhaltenden Kostendruck. Für den 9. Dezember liegt die Marktwahrscheinlichkeit einer Fed-Erhöhung auf 4,00 bis 4,25 % laut aktiencheck bei 94 bis 98 % (Stand 25.11.).",
-          "impact": "Steigende Leitzinsen in den USA und im Euroraum gelten als Gegenwind für zinslose Anlagen wie Bitcoin. Die nächsten Wegmarken sind der Fed-Entscheid am 9. Dezember und die US-Verbraucherpreise am 10. Dezember.",
-          "source": "Dow Jones via finanzen.at (13:55 Uhr), 26.11.",
-          "url": "https://www.finanzen.at/nachrichten/aktien/ezb-protokoll-deutet-auf-zinserhoehung-im-dezember-hin-1036802955"
+          "title": "EZB: Hernández de Cos soll laut Medien auf Lagarde folgen – Zinserhöhungen im Dezember erwartet",
+          "text": "Die EU-Spitzen haben sich laut Medienberichten unter Berufung auf Diplomaten auf den Spanier Pablo Hernández de Cos als Nachfolger von EZB-Präsidentin Christine Lagarde geeinigt, die zum 7. Februar vorzeitig ausscheidet; der deutsche Ökonom Markus Brunnermeier ist als Chefvolkswirt vorgesehen. Die offizielle Ernennung ist für den Dezember-Gipfel geplant, zuvor werden Europaparlament und EZB-Rat angehört. Laut dem am Donnerstag veröffentlichten EZB-Protokoll wurde schon im Oktober eine Zinserhöhung erwogen; der Terminmarkt preist für den 17. Dezember zu mehr als 90 % einen Schritt um 25 Basispunkte ein. Für die Fed liegt die Marktwahrscheinlichkeit einer Erhöhung am 9. Dezember laut aktiencheck bei 94 bis 98 % (Stand 25.11.).",
+          "impact": "Steigende Leitzinsen in den USA und im Euroraum gelten als Gegenwind für zinslose Anlagen wie Bitcoin. Die Personalie an der EZB-Spitze ändert am erwarteten Zinsschritt im Dezember nach bisherigem Stand nichts; die nächsten Wegmarken sind der Fed-Entscheid am 9. Dezember und die US-Verbraucherpreise am 10. Dezember.",
+          "source": "tagesschau (EZB-Nachfolge, 16:00 Uhr), 26.11.",
+          "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html"
         },
         {
           "tag": "Termin",
           "title": "Fr 27.11.: Bundestag stimmt über den Haushalt 2027 ab, Arbeitsmarktzahlen, Optionsverfall",
-          "text": "Die Schlussabstimmung über das Haushaltsgesetz 2027 folgt auf die dritte Lesung am Freitag. Um 09:55 Uhr veröffentlicht die Bundesagentur für Arbeit die Arbeitslosenzahlen. Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ. Am Kryptomarkt verfallen Bitcoin-Optionen über rund 7 Mrd. $; Verdi bestreikt am Black Friday elf Amazon-Standorte.",
+          "text": "Die Schlussabstimmung über das Haushaltsgesetz 2027 folgt heute auf die dritte Lesung. Um 09:55 Uhr veröffentlicht die Bundesagentur für Arbeit die Arbeitslosenzahlen. Der US-Aktienhandel endet verkürzt um 19 Uhr MEZ. Am Kryptomarkt verfallen Bitcoin-Optionen über rund 7 Mrd. $; Verdi bestreikt am Black Friday elf Amazon-Standorte.",
           "source": "",
           "url": ""
         },
@@ -202,8 +202,8 @@
         },
         {
           "tag": "Termin",
-          "title": "15.–17.12.: Räumungstermin in der Rigaer Straße 94, Zinsentscheid der EZB",
-          "text": "In Berlin-Friedrichshain sollen am 15. Dezember mehrere Wohnungen des früher besetzten Hauses geräumt werden. Die EZB entscheidet am 17. Dezember über die Zinsen; erwartet wird eine Erhöhung um einen Viertelpunkt.",
+          "title": "15.–17.12.: Räumungstermin in der Rigaer Straße 94, Zinsentscheid der EZB, EU-Gipfel",
+          "text": "In Berlin-Friedrichshain sollen am 15. Dezember mehrere Wohnungen des früher besetzten Hauses geräumt werden. Die EZB entscheidet am 17. Dezember über die Zinsen; erwartet wird eine Erhöhung um einen Viertelpunkt. Ebenfalls ab 17. Dezember verhandeln die EU-Staats- und Regierungschefs erneut über den Finanzrahmen.",
           "source": "",
           "url": ""
         }

@@ -1,18 +1,18 @@
 {
   "date": "Samstag, 28. November 2026",
-  "stand": "01:43",
+  "stand": "06:42",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
       "value": "59.939 $",
-      "change": "−1,1 % in 24 h (Stand 28.11., ca. 01:35 MEZ · CoinGecko; 24-h-Spanne 58.910–62.097 $, +1,4 % in 7 Tagen)",
+      "change": "−1,1 % in 24 h (Stand 28.11., ca. 01:35 MEZ · CoinGecko, letzter belegter Wert, um 06:42 Uhr kein neuerer Kurs abrufbar; 24-h-Spanne 58.910–62.097 $, +1,4 % in 7 Tagen)",
       "dir": "down"
     },
     {
       "label": "Ether",
       "value": "1.664 $",
-      "change": "−1,7 % in 24 h (Stand 28.11., ca. 01:35 MEZ · CoinGecko; 24-h-Spanne 1.638–1.749 $, +2,6 % in 7 Tagen)",
+      "change": "−1,7 % in 24 h (Stand 28.11., ca. 01:35 MEZ · CoinGecko, letzter belegter Wert, um 06:42 Uhr kein neuerer Kurs abrufbar; 24-h-Spanne 1.638–1.749 $, +2,6 % in 7 Tagen)",
       "dir": "down"
     },
     {
@@ -29,15 +29,22 @@
     }
   ],
   "brief": [
-    "Bund und Wirtschaft: Der Bundestag hat den Haushalt 2027 mit 317 zu 260 Stimmen beschlossen (rund 556 Mrd. Euro Ausgaben, knapp 123 Mrd. Euro neue Kredite im Kernhaushalt). Der Rentenentwurf von Arbeitsminister Schweitzer stößt laut tagesschau auf deutlichen Widerstand aus der Union und auf Kritik der Gewerkschaften an höheren Abschlägen. Ein Entwurf für einen Spritpreisdeckel ab Januar ist in der Regierungsabstimmung; das Kabinett könnte am Mittwoch entscheiden. Der Dax schloss am Freitag 0,90 % höher bei 25.441 Punkten.",
-    "Welt: Kuwait hat nach dem Drohnenangriff mit zwei getöteten Rheinmetall-Technikern den iranischen Botschafter einbestellt und eine Protestnote übergeben; Teheran bestreitet die Verantwortung. Das US-Militär machte im Golf von Oman einen Frachter manövrierunfähig, der die Blockade iranischer Häfen durchbrechen wollte. In der Nordukraine starben bei russischen Angriffen mindestens vier Menschen; in Israel stocken die Koalitionsgespräche von Gadi Eisenkot mit dem Likud.",
-    "Krypto und Berlin: Bitcoin stand um ca. 01:35 Uhr MEZ bei 59.939 $ (−1,1 % in 24 h) und damit weiter knapp unter 60.000 $, Ether bei 1.664 $ (−1,7 %); der Nasdaq 100 hatte am Freitag 2,61 % zugelegt. In Berlin hat der Senat laut rbb24 den Hackerangriff auf zwei Senatsverwaltungen noch nicht aufgearbeitet; bis Montag, 01:30 Uhr, fahren ab Baumschulenweg Richtung Südosten keine S-Bahnen, ab Montag ist die Strecke Zeuthen–Grünau bis 4. Dezember gesperrt."
+    "Bund und Wirtschaft: In einer ifo-Umfrage für die Stiftung Familienunternehmen halten 90 % der Firmen die Bundesregierung bei der Umsetzung ihrer Wirtschaftspolitik für zu langsam; die Note fiel von 3,0 nach 100 Tagen auf 4,5. Der Bundestag hat am Freitag den Haushalt 2027 mit 317 zu 260 Stimmen beschlossen (rund 556 Mrd. Euro Ausgaben, knapp 123 Mrd. Euro neue Kredite im Kernhaushalt), der Rentenentwurf von Arbeitsminister Schweitzer stößt laut tagesschau auf Widerstand aus der Union. Der Dax schloss am Freitag 0,90 % höher bei 25.441 Punkten.",
+    "Welt: Kuwait hat nach dem Drohnenangriff mit zwei getöteten Rheinmetall-Technikern den iranischen Botschafter einbestellt; Teheran bestreitet die Verantwortung. Irans Revolutionsgarden melden laut Al Jazeera einen getroffenen Tanker in der Straße von Hormus und den Abschuss einer „feindlichen Drohne“, das US-Militär machte im Golf von Oman einen Frachter manövrierunfähig. In der Nordukraine starben bei russischen Angriffen mindestens vier Menschen; in den USA fiel nach Stürmen zu Thanksgiving bei fast einer Million Abnehmern der Strom aus.",
+    "Krypto und Berlin: Bitcoin stand beim letzten belegten Abruf um ca. 01:35 Uhr MEZ bei 59.939 $ (−1,1 % in 24 h), Ether bei 1.664 $ (−1,7 %); ein neuerer Kurs ließ sich um 06:42 Uhr nicht abrufen. Am Freitag verfielen Bitcoin-Optionen im Wert von rund 7 Mrd. $, der Nasdaq 100 legte 2,61 % zu. In Berlin fahren bis Montag, 01:30 Uhr, ab Baumschulenweg Richtung Südosten keine S-Bahnen, ab Montag ist die Strecke Zeuthen–Grünau bis 4. Dezember gesperrt."
   ],
   "sections": [
     {
       "id": "deutschland",
       "title": "Deutschland",
       "items": [
+        {
+          "tag": "Wirtschaft · Umfrage",
+          "title": "ifo-Umfrage: 90 % der Unternehmen halten die Bundesregierung für zu langsam – Note fällt von 3,0 auf 4,5",
+          "text": "In einer repräsentativen Umfrage des ifo-Instituts im Auftrag der Stiftung Familienunternehmen sagen 90 % der Firmen, die Regierung setze ihre wirtschaftspolitischen Ankündigungen zu langsam um; drei Viertel erwarten bis zum Ende der Wahlperiode keinen spürbaren Bürokratieabbau. Nach 100 Tagen hatten die Unternehmen der Regierung die Note 3,0 gegeben, jetzt 4,5. Positiv bewertet wird die beschlossene Senkung der Stromsteuer für alle; Stiftungsvorstand Rainer Kirchdörfer fordert bessere Bedingungen für private Investitionen.",
+          "source": "dpa-AFX via onvista (03:30 Uhr), 28.11.",
+          "url": "https://www.onvista.de/news/2026/11-28-grosse-enttaeuschung-in-der-wirtschaft-ueber-bundesregierung-0-10-26581928"
+        },
         {
           "tag": "Haushalt · Bundestag",
           "title": "Bundestag beschließt Haushalt 2027 mit 317 zu 260 Stimmen – 556 Mrd. Euro Ausgaben, Zuckersteuer ab 2028",
@@ -51,13 +58,6 @@
           "text": "Arbeitsminister Alexander Schweitzer (SPD) will die abschlagsfreie Rente nach 45 Beitragsjahren erhalten, dafür aber keine Zeiten mit Arbeitslosengeld, Krankengeld oder Minijobs mehr anrechnen. Laut tagesschau kommt aus der Union deutlicher Widerstand; DGB-Chefin Yasmin Fahimi kritisiert höhere Abschläge für Frührentner, begrüßt aber den Erhalt der Regelung, auch Verdi-Chef Frank Werneke verlangt Nachbesserungen. Schweitzer nannte den Entwurf in den tagesthemen eine Grundlage für einen Konsens; er geht nun in die Abstimmung der Regierung und dann ins Kabinett.",
           "source": "tagesschau (Reaktionen), 27.11.",
           "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html"
-        },
-        {
-          "tag": "Energie · Spritpreise",
-          "title": "Spritpreisdeckel: Entwurf in der Regierungsabstimmung – Start im Januar geplant",
-          "text": "Der Entwurf sieht laut tagesschau einen werktags berechneten Höchstpreis, Bußgelder bei Verstößen und Ausnahmen für Tankstellen an Autobahnen vor. Die Regelung soll ab Januar gelten; das Kabinett könnte am Mittwoch darüber entscheiden.",
-          "source": "tagesschau, 27.11.",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html"
         },
         {
           "tag": "Börse",
@@ -109,7 +109,7 @@
         {
           "tag": "Nahost · Iran · Golf",
           "title": "Kuwait bestellt iranischen Botschafter ein – USA schießen Frachter im Golf von Oman manövrierunfähig",
-          "text": "Kuwaits Außenministerium hat am Freitag den iranischen Botschafter Mohammad Totonji einbestellt und eine Protestnote wegen anhaltender Angriffe übergeben; Vizeaußenminister Hamad Al-Mashaan machte Iran voll verantwortlich. Bei dem Drohnenangriff vom Donnerstag starben zwei Techniker von Rheinmetall Italia, nach Ministeriumsangaben wurden zudem ein Kuwaiter und ein Pakistaner verletzt. Teheran bestreitet die Verantwortung. Das US-Militär traf nach eigenen Angaben das Heck eines unter der Flagge Palaus fahrenden Massengutfrachters, der aus Bandar Abbas kam und die Seeblockade durchbrechen wollte; die Besatzung blieb unverletzt.",
+          "text": "Kuwaits Außenministerium hat am Freitag den iranischen Botschafter Mohammad Totonji einbestellt und eine Protestnote wegen anhaltender Angriffe übergeben; Vizeaußenminister Hamad Al-Mashaan machte Iran voll verantwortlich. Bei dem Drohnenangriff vom Donnerstag starben zwei Techniker von Rheinmetall Italia, nach Ministeriumsangaben wurden zudem ein Kuwaiter und ein Pakistaner verletzt. Teheran bestreitet die Verantwortung. Das US-Militär traf nach eigenen Angaben das Heck eines unter der Flagge Palaus fahrenden Massengutfrachters, der aus Bandar Abbas kam und die Seeblockade durchbrechen wollte; die Besatzung blieb unverletzt. Irans Revolutionsgarden meldeten laut Al Jazeera, in der Straße von Hormus sei ein Tanker getroffen und im Südosten des Landes eine „feindliche Drohne“ abgeschossen worden.",
           "source": "GSM Global News nach Kuwaits Außenministerium (01:12 Uhr MEZ), 28.11.",
           "url": "https://gsmglobalnews.com/article/d20261127-kuwaitsummon1.html"
         },
@@ -135,11 +135,11 @@
           "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         },
         {
-          "tag": "Nordkorea",
-          "title": "Nordkorea: Kim besucht laut Staatsmedien zwei Fabriken für Nuklearmaterial",
-          "text": "Die staatliche Agentur KCNA meldete, Machthaber Kim Jong Un habe zwei Fabriken für Nuklearmaterial besichtigt und eine breitere Stationierung taktischer Atomwaffen gefordert. Südkorea erklärte, man nehme das ernst.",
-          "source": "The Boston Report (Abendüberblick), 27.11.",
-          "url": "https://thebostonreport.com/2026/11/27/evening-briefing-november-27-2026"
+          "tag": "USA · Unwetter",
+          "title": "USA: Stürme zu Thanksgiving – fast eine Million ohne Strom",
+          "text": "Unwetter rund um den Feiertag Thanksgiving haben in den USA nach einem Bericht von Al Jazeera bei fast einer Million Abnehmern den Strom ausfallen lassen.",
+          "source": "Al Jazeera, 27.11.",
+          "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us"
         }
       ]
     },
@@ -149,11 +149,11 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin bleibt in der Nacht knapp unter 60.000 $ – nach Rücksetzer von 62.100 $ zur US-Eröffnung",
-          "text": "Bitcoin stieg am Freitag zunächst bis auf rund 62.100 $, fiel nach Handelsbeginn an der Wall Street aber bis auf etwa 58.700 $; in der Stunde bis 16:00 Uhr MEZ wurden laut CoinGlass Krypto-Positionen im Wert von rund 228 Mio. $ zwangsweise aufgelöst. Um ca. 01:35 Uhr MEZ am Samstag nannte CoinGecko 59.939 $ (−1,1 % in 24 Stunden, +1,4 % in sieben Tagen) und für Ether 1.664 $ (−1,7 %, +2,6 % in sieben Tagen).",
-          "source": "CoinGecko (Bitcoin, abgerufen ca. 01:35 Uhr), 28.11.",
-          "url": "https://www.coingecko.com/en/coins/bitcoin",
-          "impact": "Der Kurs hat sich seit dem Abend kaum bewegt und liegt innerhalb der Spanne, die Glassnode zuvor mit Unterstützung bei 58.500 $ und Widerstand ab 62.000 $ beschrieben hatte. Am Wochenende ist der Handel üblicherweise dünner, neue Impulse von den Aktienmärkten kommen erst am Montag."
+          "title": "Bitcoin beendet den Freitag knapp unter 60.000 $ – Optionsverfall über rund 7 Mrd. $ im dünnen Feiertagshandel",
+          "text": "Bitcoin stieg am Freitag bis auf rund 62.100 $ und fiel nach US-Handelsbeginn bis auf etwa 58.700 $. An der Börse Deribit liefen laut Bitcoin.com rund 112.000 Bitcoin-Optionen im Wert von etwa 7 Mrd. $ aus; CoinGlass zählte binnen 24 Stunden Zwangsauflösungen von 478 Mio. $ über alle Kryptowerte. Am Freitagabend US-Ostküstenzeit nannte Motley Fool 59.781 $ (−1,18 %) für Bitcoin und 1.666 $ (−1,29 %) für Ether, CoinGecko zeigte um ca. 01:35 Uhr MEZ 59.939 $ und 1.664 $. Ein neuerer Kurs ließ sich bei diesem Lauf nicht abrufen.",
+          "source": "Motley Fool (23:13 Uhr MEZ), 27.11.",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/crypto-market-today-nov-27-bitcoin-falls-below-usd60-000-as-crypto-markets-struggle-despite-wall-street-s-biggest-rally-in-over-a-year/",
+          "impact": "Der Kurs lag zuletzt innerhalb der Spanne, die Glassnode mit Unterstützung bei 58.500 $ und Widerstand ab 62.000 $ beschrieben hatte. BIT Research erwartet laut Bitcoin.com nach dem Verfall vorübergehende Entlastung, sieht aber neue Absicherungsnachfrage zum Dezember-Verfall; am Wochenende ist der Handel üblicherweise dünner."
         },
         {
           "tag": "Nasdaq · Tech",

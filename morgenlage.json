@@ -1,18 +1,18 @@
 {
-  "date": "Freitag, 27. November 2026",
-  "stand": "21:38",
+  "date": "Samstag, 28. November 2026",
+  "stand": "01:43",
   "dashboard": "https://claude.ai/artifact/AXSKnJB1sKyv11rMR2LuF1",
   "tiles": [
     {
       "label": "Bitcoin",
-      "value": "59.750 $",
-      "change": "−1,5 % in 24 h (Stand 27.11., ca. 21:36 MEZ · CoinGecko; 24-h-Spanne 58.910–62.097 $, +2,4 % in 7 Tagen)",
+      "value": "59.939 $",
+      "change": "−1,1 % in 24 h (Stand 28.11., ca. 01:35 MEZ · CoinGecko; 24-h-Spanne 58.910–62.097 $, +1,4 % in 7 Tagen)",
       "dir": "down"
     },
     {
       "label": "Ether",
-      "value": "1.666 $",
-      "change": "−2,1 % in 24 h (Stand 27.11., ca. 21:36 MEZ · CoinGecko; 24-h-Spanne 1.638–1.749 $, +3,1 % in 7 Tagen)",
+      "value": "1.664 $",
+      "change": "−1,7 % in 24 h (Stand 28.11., ca. 01:35 MEZ · CoinGecko; 24-h-Spanne 1.638–1.749 $, +2,6 % in 7 Tagen)",
       "dir": "down"
     },
     {
@@ -29,9 +29,9 @@
     }
   ],
   "brief": [
-    "Bund und Wirtschaft: Der Bundestag hat den Haushalt 2027 mit 317 zu 260 Stimmen beschlossen (rund 556 Mrd. Euro Ausgaben, knapp 123 Mrd. Euro neue Kredite im Kernhaushalt). Arbeitsminister Schweitzer legte seinen Rentenentwurf vor: Die abschlagsfreie Rente nach 45 Beitragsjahren bleibt, ab 2029 zählen dafür aber nur noch Arbeit, Kindererziehung und Pflege. Der Dax schloss 0,90 % höher bei 25.441 Punkten (Woche +2,6 %), die Arbeitslosenzahl sank auf 2,936 Millionen.",
-    "Welt: Im Streit um den Drohnenangriff in Kuwait mit zwei getöteten Rheinmetall-Technikern bleiben die Fronten verhärtet; das US-Militär machte im Golf von Oman einen Frachter manövrierunfähig, der die Blockade iranischer Häfen durchbrechen wollte. In der Nordukraine starben bei russischen Angriffen mindestens vier Menschen. In Israel stocken die Koalitionsgespräche von Gadi Eisenkot mit dem Likud.",
-    "Krypto und Berlin: Bitcoin drehte nach dem Anstieg auf rund 62.100 $ zur US-Eröffnung ins Minus und fiel bis auf etwa 58.700 $; um ca. 21:36 Uhr MEZ stand er bei 59.750 $ (−1,5 % in 24 h), Ether bei 1.666 $ (−2,1 %) – obwohl der Nasdaq 100 im verkürzten Handel 2,61 % zulegte. In Berlin fahren bis Montag, 01:30 Uhr, ab Baumschulenweg Richtung Südosten keine S-Bahnen, ab Montag ist die Strecke Zeuthen–Grünau bis 4. Dezember gesperrt; Uber hält nach eigenen Angaben mehr als 87 % an Delivery Hero."
+    "Bund und Wirtschaft: Der Bundestag hat den Haushalt 2027 mit 317 zu 260 Stimmen beschlossen (rund 556 Mrd. Euro Ausgaben, knapp 123 Mrd. Euro neue Kredite im Kernhaushalt). Der Rentenentwurf von Arbeitsminister Schweitzer stößt laut tagesschau auf deutlichen Widerstand aus der Union und auf Kritik der Gewerkschaften an höheren Abschlägen. Ein Entwurf für einen Spritpreisdeckel ab Januar ist in der Regierungsabstimmung; das Kabinett könnte am Mittwoch entscheiden. Der Dax schloss am Freitag 0,90 % höher bei 25.441 Punkten.",
+    "Welt: Kuwait hat nach dem Drohnenangriff mit zwei getöteten Rheinmetall-Technikern den iranischen Botschafter einbestellt und eine Protestnote übergeben; Teheran bestreitet die Verantwortung. Das US-Militär machte im Golf von Oman einen Frachter manövrierunfähig, der die Blockade iranischer Häfen durchbrechen wollte. In der Nordukraine starben bei russischen Angriffen mindestens vier Menschen; in Israel stocken die Koalitionsgespräche von Gadi Eisenkot mit dem Likud.",
+    "Krypto und Berlin: Bitcoin stand um ca. 01:35 Uhr MEZ bei 59.939 $ (−1,1 % in 24 h) und damit weiter knapp unter 60.000 $, Ether bei 1.664 $ (−1,7 %); der Nasdaq 100 hatte am Freitag 2,61 % zugelegt. In Berlin hat der Senat laut rbb24 den Hackerangriff auf zwei Senatsverwaltungen noch nicht aufgearbeitet; bis Montag, 01:30 Uhr, fahren ab Baumschulenweg Richtung Südosten keine S-Bahnen, ab Montag ist die Strecke Zeuthen–Grünau bis 4. Dezember gesperrt."
   ],
   "sections": [
     {
@@ -47,24 +47,24 @@
         },
         {
           "tag": "Rente · Koalition",
-          "title": "Schweitzer legt Rentenentwurf vor: Rente nach 45 Beitragsjahren bleibt, Zugang wird ab 2029 enger",
-          "text": "Arbeitsminister Alexander Schweitzer (SPD) will die abschlagsfreie Rente nach 45 Beitragsjahren erhalten, aber ab 2029 nur noch Zeiten von Arbeit, Kindererziehung und Pflege von Angehörigen anrechnen. Zeiten mit Arbeitslosengeld, Krankengeld oder Übergangsgeld, ein alleiniger Minijob und freiwillige Beiträge sollen nicht mehr zählen; das soll Zahl der Berechtigten und Kosten um 25 % senken. Der Entwurf geht nun in die Abstimmung der Regierung und dann ins Kabinett. DGB-Chefin Yasmin Fahimi kritisierte vor allem höhere Abschläge beim vorzeitigen Renteneintritt mit mindestens 35 Versicherungsjahren, auch Verdi-Chef Frank Werneke verlangt Nachbesserungen.",
-          "source": "ZDFheute (Newsticker, 11:27 und 14:43 Uhr), 27.11.",
-          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+          "title": "Rentenentwurf: Widerstand aus der Union, Kritik der Gewerkschaften – Schweitzer sieht Grundlage für Konsens",
+          "text": "Arbeitsminister Alexander Schweitzer (SPD) will die abschlagsfreie Rente nach 45 Beitragsjahren erhalten, dafür aber keine Zeiten mit Arbeitslosengeld, Krankengeld oder Minijobs mehr anrechnen. Laut tagesschau kommt aus der Union deutlicher Widerstand; DGB-Chefin Yasmin Fahimi kritisiert höhere Abschläge für Frührentner, begrüßt aber den Erhalt der Regelung, auch Verdi-Chef Frank Werneke verlangt Nachbesserungen. Schweitzer nannte den Entwurf in den tagesthemen eine Grundlage für einen Konsens; er geht nun in die Abstimmung der Regierung und dann ins Kabinett.",
+          "source": "tagesschau (Reaktionen), 27.11.",
+          "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html"
+        },
+        {
+          "tag": "Energie · Spritpreise",
+          "title": "Spritpreisdeckel: Entwurf in der Regierungsabstimmung – Start im Januar geplant",
+          "text": "Der Entwurf sieht laut tagesschau einen werktags berechneten Höchstpreis, Bußgelder bei Verstößen und Ausnahmen für Tankstellen an Autobahnen vor. Die Regelung soll ab Januar gelten; das Kabinett könnte am Mittwoch darüber entscheiden.",
+          "source": "tagesschau, 27.11.",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html"
         },
         {
           "tag": "Börse",
           "title": "Dax schließt 0,90 % höher bei 25.441 Punkten – Wochenplus 2,6 %, Rheinmetall an der Spitze",
-          "text": "Der Dax beendete den Freitag bei 25.441,24 Punkten (+0,90 %) und gewann auf Wochensicht 2,6 %; der MDax stieg um 1,51 % auf 29.705,60 Punkte, der EuroStoxx 50 um 1,2 %. Rheinmetall war nach dem Kapitalmarkttag mit +3,3 % Dax-Spitzenreiter, Hensoldt legte 4,8 % zu, Renk 3,3 %; Infineon, Siemens Energy und Hochtief gewannen 1,7 bis 2,7 %. Die Commerzbank verlor 1,9 %, laut dpa-AFX wegen Unbehagen über die Übernahme durch UniCredit. In New York schloss der Dow Jones im verkürzten Handel 1,18 % höher bei 50.774,94 Punkten, der S&P 500 gewann 1,60 %, der Nasdaq 100 2,61 %.",
+          "text": "Der Dax beendete den Freitag bei 25.441,24 Punkten (+0,90 %) und gewann auf Wochensicht 2,6 %; der MDax stieg um 1,51 % auf 29.705,60 Punkte, der EuroStoxx 50 um 1,2 %. Rheinmetall war nach dem Kapitalmarkttag mit +3,3 % Dax-Spitzenreiter, die Commerzbank verlor 1,9 %. In New York schloss der Dow Jones im verkürzten Handel 1,18 % höher bei 50.774,94 Punkten, der S&P 500 gewann 1,60 %, der Nasdaq 100 2,61 %. Die Arbeitslosenzahl sank im November laut Bundesagentur auf 2,936 Millionen (Quote 6,2 %), saisonbereinigt stieg sie um 9.000.",
           "source": "dpa-AFX via finanzen.net (18:02 Uhr), 27.11.",
           "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-frankfurt-schluss-ki-erholung-zieht-auch-dax-weiter-nach-oben-16090914"
-        },
-        {
-          "tag": "Arbeitsmarkt",
-          "title": "Arbeitslosenzahl sinkt im November auf 2,936 Millionen – saisonbereinigt 9.000 mehr",
-          "text": "Die Bundesagentur für Arbeit zählte im November 2.936.000 Arbeitslose, 19.000 weniger als im Oktober und 51.000 mehr als vor einem Jahr; die Quote sank um 0,1 Punkte auf 6,2 %. Saisonbereinigt stieg die Zahl um 9.000. Laut Vorstand Daniel Terzenbach bringt die leichte konjunkturelle Erholung dem Arbeitsmarkt bislang keine Belebung; gemeldet waren 646.000 offene Stellen.",
-          "source": "Bundesagentur für Arbeit via Presseportal (10:00 Uhr), 27.11.",
-          "url": "https://www.presseportal.de/pm/6776/6399040"
         }
       ]
     },
@@ -75,9 +75,16 @@
         {
           "tag": "Verkehr · S-Bahn",
           "title": "S-Bahn im Südosten bis Montagfrüh gesperrt – ab Montag keine Züge zwischen Zeuthen und Grünau, Charlottenstraße dicht",
-          "text": "Laut der Vorschau vom Donnerstag fahren bis Montag, 01:30 Uhr, zwischen Baumschulenweg und Altglienicke, Spindlersfeld sowie Zeuthen keine S-Bahnen; der Teltower Damm an der Bahnunterführung in Zehlendorf ist bis Sonntagabend für Autos gesperrt. Die neue Vorschau für Montag meldet: Ab 04:00 Uhr bis Freitag, 4. Dezember, fahren keine S-Bahnen zwischen Zeuthen und Grünau (S46, S8), es gibt Ersatzbusse. Die Charlottenstraße in Mitte ist ab 06:00 Uhr bis Freitag zwischen Behrenstraße und Französischer Straße für Autos und Fahrräder voll gesperrt. In der Nacht zu Dienstag sind von 22:00 bis etwa 04:00 Uhr die A 10 zwischen Erkner und Freienbrink in beiden Richtungen und die Bornholmer Straße Richtung Schönhauser Allee gesperrt; der Flughafen-Express entfällt von 21:00 bis 06:00 Uhr zwischen Hauptbahnhof und BER.",
+          "text": "Bis Montag, 01:30 Uhr, fahren zwischen Baumschulenweg und Altglienicke, Spindlersfeld sowie Zeuthen keine S-Bahnen; der Teltower Damm an der Bahnunterführung in Zehlendorf ist bis Sonntagabend für Autos gesperrt. Ab Montag, 04:00 Uhr, bis Freitag, 4. Dezember, fahren keine S-Bahnen zwischen Zeuthen und Grünau (S46, S8), es gibt Ersatzbusse. Die Charlottenstraße in Mitte ist ab Montag, 06:00 Uhr, bis Freitag zwischen Behrenstraße und Französischer Straße für Autos und Fahrräder voll gesperrt.",
           "source": "Verkehrsinformationszentrale Berlin (Stand 15:24 Uhr), 27.11.",
           "url": "https://viz.berlin.de/aktuelle-meldungen/viz-verkehrsvorschau/"
+        },
+        {
+          "tag": "Senat · Verwaltung",
+          "title": "Hackerangriff auf zwei Senatsverwaltungen: Senat hat Folgen laut rbb24 noch nicht aufgearbeitet",
+          "text": "Bei dem Angriff wurden Millionen Dateien aus zwei Senatsverwaltungen erbeutet und im September veröffentlicht. Wie viele Menschen betroffen sind und welche Schäden entstanden, hat der Senat nach einem Bericht von rbb24 bislang nicht aufgearbeitet.",
+          "source": "rbb24, 27.11.",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/11/berlin-senat-hacker-angriff-aufarbeitung-schadenersatz.html"
         },
         {
           "tag": "Wirtschaft · Delivery Hero",
@@ -92,13 +99,6 @@
           "text": "Ein 23-Jähriger stieg nach Polizeiangaben am Donnerstag gegen 23 Uhr nach einem Streit vor einem Restaurant an der Niederbarnimstraße zu zwei Männern ins Auto und versuchte während der Fahrt, bei Bekannten telefonisch Geld aufzutreiben. Einer der Angerufenen alarmierte die Polizei, die mit einem Hubschrauber fahndete und den Wagen auf dem Helene-Weigel-Platz fand. Spezialeinsatzkräfte des LKA befreiten den Mann und nahmen zwei 20 und 21 Jahre alte Verdächtige fest; beide kamen nach der erkennungsdienstlichen Behandlung wieder frei.",
           "source": "Polizei Berlin (Meldung Nr. 1597, 15:15 Uhr), 27.11.",
           "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744923.php"
-        },
-        {
-          "tag": "Polizei · Rigaer Straße",
-          "title": "Rigaer Straße: Einsatzkräfte bei Konzert mit Pyrotechnik angegriffen – Verfahren wegen Landfriedensbruchs",
-          "text": "Am Donnerstagabend gegen 21:30 Uhr blockierten nach Polizeiangaben bis zu 50 überwiegend vermummte Personen Rigaer, Liebig-, Bänsch- und Zellestraße; Anlass war ein Konzert in einer Szenekneipe. Einsatzkräfte wurden mit Pyrotechnik beworfen und an der Haustür mit Schlägen, Tritten und einem Feuerlöscher angegriffen. Gegen 23 Personen gab es freiheitsbeschränkende Maßnahmen, ermittelt wird wegen Landfriedensbruchs, Widerstands und Beleidigung; Polizisten blieben unverletzt.",
-          "source": "Polizei Berlin (11:49 Uhr), 27.11.",
-          "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744759.php"
         }
       ]
     },
@@ -108,16 +108,16 @@
       "items": [
         {
           "tag": "Nahost · Iran · Golf",
-          "title": "Nach Drohnenangriff in Kuwait: USA schießen Frachter im Golf von Oman manövrierunfähig – Teheran weist Schuld weiter zurück",
-          "text": "Kuwait und Italien machen Iran für den Drohnenangriff vom Donnerstag verantwortlich, bei dem zwei Techniker von Rheinmetall Italia starben; Teheran bestreitet das, spricht von einer Operation unter falscher Flagge und bietet eine gemeinsame Untersuchung an. Ein früherer Berater des iranischen Atom-Verhandlungsteams, Mohammad Marandi, behauptete laut einem Bericht der New York Post, die Ukraine habe den Angriff inszeniert; Belege nennt der Bericht nicht. Das US-Militär traf nach eigenen Angaben das Heck eines unter der Flagge Palaus fahrenden Massengutfrachters, der aus Bandar Abbas kam und die Seeblockade durchbrechen wollte; die Besatzung blieb unverletzt. Bei einem saudischen Luftangriff im Jemen starben nach Huthi-Angaben mindestens elf Menschen, die meisten davon Kinder.",
-          "source": "ZDFheute (Newsticker, 15:05 und 07:17 Uhr), 27.11.",
-          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+          "title": "Kuwait bestellt iranischen Botschafter ein – USA schießen Frachter im Golf von Oman manövrierunfähig",
+          "text": "Kuwaits Außenministerium hat am Freitag den iranischen Botschafter Mohammad Totonji einbestellt und eine Protestnote wegen anhaltender Angriffe übergeben; Vizeaußenminister Hamad Al-Mashaan machte Iran voll verantwortlich. Bei dem Drohnenangriff vom Donnerstag starben zwei Techniker von Rheinmetall Italia, nach Ministeriumsangaben wurden zudem ein Kuwaiter und ein Pakistaner verletzt. Teheran bestreitet die Verantwortung. Das US-Militär traf nach eigenen Angaben das Heck eines unter der Flagge Palaus fahrenden Massengutfrachters, der aus Bandar Abbas kam und die Seeblockade durchbrechen wollte; die Besatzung blieb unverletzt.",
+          "source": "GSM Global News nach Kuwaits Außenministerium (01:12 Uhr MEZ), 28.11.",
+          "url": "https://gsmglobalnews.com/article/d20261127-kuwaitsummon1.html"
         },
         {
           "tag": "Ukraine · Russland",
-          "title": "Mindestens vier Tote bei russischen Angriffen in der Nordukraine – Trump offen für Putin beim G20-Gipfel",
-          "text": "Bei einem Angriff auf ein Unternehmen in Nischyn im Gebiet Tschernihiw starben nach Polizeiangaben drei Menschen, sieben wurden verletzt; in Malyn in der Region Schytomyr gab es einen Toten und zwölf Verletzte. Präsident Wolodymyr Selenskyj sagte der BBC, Angriffe auf russische Schiffe außerhalb der Kampfzone würden mit betroffenen Ländern abgestimmt, und kritisierte, dass Donald Trump Wladimir Putin einen Freund nennt. Trump erklärte, Putin könne zum G20-Gipfel am 14. und 15. Dezember in Florida kommen; Moskau hat nach eigenen Angaben noch nicht entschieden.",
-          "source": "ZDFheute (Newsticker, 15:22, 08:06 und 04:21 Uhr), 27.11.",
+          "title": "Mindestens vier Tote bei russischen Angriffen in der Nordukraine – Selenskyj beklagt Verzögerung bei Patriot-Raketen",
+          "text": "Bei einem Angriff auf ein Unternehmen in Nischyn im Gebiet Tschernihiw starben nach Polizeiangaben drei Menschen, sieben wurden verletzt; in Malyn in der Region Schytomyr gab es einen Toten und zwölf Verletzte. Präsident Wolodymyr Selenskyj sagte der BBC, Wladimir Putin könne kein Freund sein, und erklärte laut The Boston Report, US-Verzögerungen bei Patriot-Abfangraketen kosteten ukrainische Leben. Donald Trump hatte erklärt, Putin könne zum G20-Gipfel am 14. und 15. Dezember in Florida kommen.",
+          "source": "ZDFheute (Newsticker, 15:22 Uhr), 27.11.",
           "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         },
         {
@@ -135,11 +135,11 @@
           "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
         },
         {
-          "tag": "USA",
-          "title": "Trump stellt Demokraten Zusammenarbeit in Aussicht – und stützt Bagdad im Streit um kurdische Ölfelder",
-          "text": "US-Präsident Donald Trump hat nach dem Wahlsieg der Demokraten eine Zusammenarbeit angekündigt, zugleich aber an sein Vetorecht erinnert. Am Freitag erklärte er auf Truth Social, er unterstütze Iraks Regierungschef Ali al-Saidi dabei, die Kontrolle über kurdisch verwaltete Ölfelder im Nordirak zu übernehmen und den Ölschmuggel zu stoppen.",
-          "source": "ZDFheute (Newsticker, 09:51 und 06:09 Uhr), 27.11.",
-          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+          "tag": "Nordkorea",
+          "title": "Nordkorea: Kim besucht laut Staatsmedien zwei Fabriken für Nuklearmaterial",
+          "text": "Die staatliche Agentur KCNA meldete, Machthaber Kim Jong Un habe zwei Fabriken für Nuklearmaterial besichtigt und eine breitere Stationierung taktischer Atomwaffen gefordert. Südkorea erklärte, man nehme das ernst.",
+          "source": "The Boston Report (Abendüberblick), 27.11.",
+          "url": "https://thebostonreport.com/2026/11/27/evening-briefing-november-27-2026"
         }
       ]
     },
@@ -149,11 +149,11 @@
       "items": [
         {
           "tag": "Markt",
-          "title": "Bitcoin dreht zur US-Eröffnung ins Minus: von 62.100 $ auf unter 59.000 $, 228 Mio. $ liquidiert",
-          "text": "Bitcoin stieg am Freitag zunächst bis auf rund 62.100 $, fiel nach Handelsbeginn an der Wall Street aber bis auf etwa 58.700 $. In der Stunde bis 16:00 Uhr MEZ wurden laut CoinGlass Krypto-Positionen im Wert von rund 228 Mio. $ zwangsweise aufgelöst. Um ca. 21:36 Uhr MEZ nannte CoinGecko 59.750 $ (−1,5 % in 24 Stunden, +2,4 % in sieben Tagen) und für Ether 1.666 $ (−2,1 %, +3,1 % in sieben Tagen). Der Verfall von Optionen über rund 7 Mrd. $ am Vormittag war zunächst ohne größere Reaktion geblieben.",
-          "source": "GNcrypto (18:49 Uhr MEZ), 27.11.",
-          "url": "https://www.gncrypto.news/news/bitcoin-drops-below-59000-after-rally-above-62000/",
-          "impact": "Der Kurs liegt wieder unter der Marke von 60.000 $ und innerhalb der Spanne, die Glassnode zuvor mit Unterstützung bei 58.500 $ und Widerstand ab 62.000 $ beschrieben hatte. Am Wochenende ist der Handel üblicherweise dünner, neue Impulse von den Aktienmärkten kommen erst am Montag."
+          "title": "Bitcoin bleibt in der Nacht knapp unter 60.000 $ – nach Rücksetzer von 62.100 $ zur US-Eröffnung",
+          "text": "Bitcoin stieg am Freitag zunächst bis auf rund 62.100 $, fiel nach Handelsbeginn an der Wall Street aber bis auf etwa 58.700 $; in der Stunde bis 16:00 Uhr MEZ wurden laut CoinGlass Krypto-Positionen im Wert von rund 228 Mio. $ zwangsweise aufgelöst. Um ca. 01:35 Uhr MEZ am Samstag nannte CoinGecko 59.939 $ (−1,1 % in 24 Stunden, +1,4 % in sieben Tagen) und für Ether 1.664 $ (−1,7 %, +2,6 % in sieben Tagen).",
+          "source": "CoinGecko (Bitcoin, abgerufen ca. 01:35 Uhr), 28.11.",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "impact": "Der Kurs hat sich seit dem Abend kaum bewegt und liegt innerhalb der Spanne, die Glassnode zuvor mit Unterstützung bei 58.500 $ und Widerstand ab 62.000 $ beschrieben hatte. Am Wochenende ist der Handel üblicherweise dünner, neue Impulse von den Aktienmärkten kommen erst am Montag."
         },
         {
           "tag": "Nasdaq · Tech",
@@ -165,16 +165,16 @@
         },
         {
           "tag": "ETF-Flüsse",
-          "title": "Bitcoin-ETFs: Rekordabfluss von 5,39 Mrd. $ im November – Daten für Freitag stehen noch aus",
-          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch netto rund 453 Mio. $ ab, davon etwa 330 Mio. $ aus BlackRocks IBIT; es war der siebte Abflusstag in Folge. Der November summiert sich laut SoSoValue bis zum 25.11. auf 5,39 Mrd. $ und übertrifft den bisherigen Rekord von 4,51 Mrd. $ aus dem Juni 2026; aus Ether-ETFs flossen im November 1,30 Mrd. $ ab. Am Donnerstag ruhte der Handel wegen Thanksgiving; Flussdaten für den verkürzten Freitagshandel ließen sich bei diesem Lauf noch nicht finden.",
-          "source": "Forex Crunch (04:20 Uhr), 27.11.",
-          "url": "https://www.forexcrunch.com/blog/2026/11/27/bitcoin-etf-record-outflows-november-2026/",
+          "title": "Bitcoin-ETFs: Rekordabfluss von 5,39 Mrd. $ im November – nur zwei Fonds im Plus, Freitagsdaten stehen aus",
+          "text": "Aus den US-Spot-Bitcoin-ETFs flossen am Mittwoch netto rund 453 Mio. $ ab; der November summiert sich bis zum 25.11. auf 5,39 Mrd. $ und übertrifft den bisherigen Rekord von 4,51 Mrd. $ aus dem Juni. Nur zwei Fonds verzeichneten im November Zuflüsse: der Morgan Stanley Bitcoin Trust mit 114,1 Mio. $ und der WisdomTree Bitcoin Fund mit 0,3 Mio. $. Am Donnerstag ruhte der Handel wegen Thanksgiving; Flussdaten für den verkürzten Freitagshandel ließen sich auch bei diesem Lauf noch nicht finden.",
+          "source": "FinScans nach Cointelegraph, 26.11.",
+          "url": "https://finscans.com/news/2026/11/27/us-bitcoin-etfs-record-539b-november-outflows-as-morgan",
           "impact": "Die Kurserholung der Woche wurde bislang nicht von ETF-Käufen begleitet. Die Freitagszahlen zeigen, ob die Abflussserie auf acht Handelstage wächst; am Montag endet zudem der Monat."
         },
         {
           "tag": "Notenbanken",
-          "title": "Fed-Erhöhung am 9. Dezember zu 94 bis 97 % eingepreist – auch die EZB dürfte die Zinsen anheben",
-          "text": "Nach der Kern-PCE-Rate von 3,3 % im Oktober (erwartet 3,2 %) preist der Markt eine Fed-Erhöhung um 25 Basispunkte am 9. Dezember zu 94,4 % (CME FedWatch, Stand 25.11.) bis 97 % (MarketIntelLabs, 27.11.) ein. Im Euroraum wurde laut dem am Donnerstag veröffentlichten EZB-Protokoll schon im Oktober eine Zinserhöhung erwogen; der Terminmarkt erwartet für den 17. Dezember zu mehr als 90 % einen Schritt um 25 Basispunkte.",
+          "title": "Fed-Erhöhung am 9. Dezember zu 94 bis 97 % eingepreist – Euro-Länder stützen de Cos als Lagarde-Nachfolger",
+          "text": "Nach der Kern-PCE-Rate von 3,3 % im Oktober (erwartet 3,2 %) preist der Markt eine Fed-Erhöhung um 25 Basispunkte am 9. Dezember zu 94,4 % (CME FedWatch, Stand 25.11.) bis 97 % (MarketIntelLabs, 27.11.) ein; für die EZB erwartet der Terminmarkt am 17. Dezember zu mehr als 90 % ebenfalls einen Viertelpunkt. Die Staats- und Regierungschefs der Euro-Länder unterstützen laut The Boston Report den früheren spanischen Notenbankchef Pablo Hernández de Cos als Nachfolger von EZB-Präsidentin Christine Lagarde, die am 7. Februar 2027 ausscheidet.",
           "source": "aktiencheck (16:16 Uhr), 27.11.",
           "url": "https://aktiencheck.de/artikel/bitcoin-kurs-core-pce-bei-33-prozent-fed-zinserhoehung-im-dezember-zu-ueber-90",
           "impact": "Steigende Leitzinsen in den USA und im Euroraum gelten als Gegenwind für zinslose Anlagen wie Bitcoin; ein Viertelpunkt der Fed ist weitgehend eingepreist. Die nächsten Wegmarken sind der US-Arbeitsmarktbericht am 4. Dezember, der Fed-Entscheid am 9. Dezember und die US-Verbraucherpreise am 10. Dezember."
@@ -190,6 +190,13 @@
           "tag": "Termin",
           "title": "Mo 30.11.: BGH-Urteil zu Impfschäden, Strategy verlässt die MSCI-Indizes, S-Bahn-Sperrung Zeuthen–Grünau",
           "text": "Der Bundesgerichtshof entscheidet, ob Bund oder Länder für mögliche Fehler bei Corona-Impfungen haften. Der Index-Ausschluss von Strategy wird nach US-Börsenschluss wirksam; zugleich ist Monatsschluss an den Märkten. In Berlin fahren ab 04:00 Uhr bis 4. Dezember keine S-Bahnen zwischen Zeuthen und Grünau.",
+          "source": "",
+          "url": ""
+        },
+        {
+          "tag": "Termin",
+          "title": "Mi 2.12.: Kabinett könnte über Spritpreisdeckel entscheiden",
+          "text": "Der Entwurf ist in der Regierungsabstimmung; die Regelung soll laut tagesschau ab Januar gelten.",
           "source": "",
           "url": ""
         },
